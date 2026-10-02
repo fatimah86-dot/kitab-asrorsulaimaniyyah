@@ -1,0 +1,11 @@
+# lingkungan Python lokal yang dibuat otomatis oleh mulai_malam.sh
+.venv-kitab/
+__pycache__/
+*.pyc
+
+# log tiap sesi (hasil/ lainnya sengaja ikut di-commit agar bisa dibaca di GitHub)
+hasil/log/
+
+# jangan pernah men-commit kunci API
+.env
+*.key
