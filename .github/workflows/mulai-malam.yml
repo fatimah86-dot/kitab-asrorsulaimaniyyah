@@ -17,7 +17,7 @@ on:
       model:
         description: Nama model
         required: true
-        default: gemini-2.0-flash
+        default: gemini-3.8-flash
       pekerja:
         description: Permintaan paralel
         default: '8'
