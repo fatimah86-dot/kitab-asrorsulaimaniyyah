@@ -3,7 +3,7 @@
 | Butir | Nilai |
 |---|---|
 | Berkas | `kitab/asrorul-sulaimaniyah.pdf` (103 halaman) |
-| Model | `gemini-2.5-pro` |
+| Model | `gemini-2.0-flash` |
 | Pengaturan | 8 pekerja · 1 halaman/permintaan · timeout 600.0 dtk · aturan edisi: kajian |
 | Selesai | **0/103** |
 | Gagal | 0 |
@@ -11,7 +11,7 @@
 | Belum diproses | 103 |
 | Token masuk / keluar | 0 / 0 |
 | Berhenti karena | Tes koneksi GAGAL — pekerjaan dibatalkan sebelum memakai kuota. |
-| Terakhir diperbarui | 2026-10-02T18:46:58Z |
+| Terakhir diperbarui | 2026-10-02T18:52:18Z |
 
 ## Belum diproses
 

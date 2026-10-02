@@ -3,12 +3,12 @@
 
 > **TATA CARA EDISI INI**
 > 1. Setiap halaman diberi nomor ganda: **Halaman PDF N (= cetak M)** — nomor cetak adalah nomor yang tercantum pada kitab aslinya.
-> 2. Teks Arab disalin dari pindaian (OCR oleh model `gemini-2.5-pro`), dilatinkan dengan **Latin Pesantren** (kh, sy, ts, gh, dz, q, ' ; vokal panjang digandakan: aa, ii, uu), lalu diterjemahkan ke bahasa Indonesia.
+> 2. Teks Arab disalin dari pindaian (OCR oleh model `gemini-2.0-flash`), dilatinkan dengan **Latin Pesantren** (kh, sy, ts, gh, dz, q, ' ; vokal panjang digandakan: aa, ii, uu), lalu diterjemahkan ke bahasa Indonesia.
 > 3. Terjemah disajikan sebagai **kajian filologi**: menguraikan apa yang tertulis, apa maksudnya, dan untuk apa menurut pengarangnya — tanpa merinci langkah praktik yang memudaratkan.
 > 4. Rajah/wafaq/tilsam atau tulisan yang tidak terbaca ditandai *(rajah — tidak terbaca)* atau [tidak terbaca] dan tidak ditebak; gambar halaman asli disertakan di bawah setiap halaman.
 > 5. **Hasil mesin**: OCR dan terjemah dapat keliru. Mohon ditelaah ulang oleh ahlinya sebelum dijadikan rujukan.
 >
-> Dihasilkan otomatis oleh `mulai_malam.sh` · 2026-10-02T18:46:58Z · 0/103 halaman selesai
+> Dihasilkan otomatis oleh `mulai_malam.sh` · 2026-10-02T18:52:18Z · 0/103 halaman selesai
 
 ## Halaman PDF 1 — *(BELUM DIPROSES)*
 
