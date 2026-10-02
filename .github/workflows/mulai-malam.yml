@@ -1,0 +1,138 @@
+name: Mulai Malam — OCR + Latin + Terjemah Kitab
+
+# Dijalankan manual dari tab Actions → "Mulai Malam" → Run workflow.
+# Butuh satu rahasia repo bernama KITAB_API_KEY (Settings → Secrets and variables → Actions).
+# Urutan aman: (1) tes_saja = true  →  (2) halaman_akhir = 3  →  (3) kosongkan halaman_akhir (seluruh kitab).
+on:
+  workflow_dispatch:
+    inputs:
+      pdf:
+        description: Berkas PDF di repo
+        required: true
+        default: kitab/asrorul-sulaimaniyah.pdf
+      base_url:
+        description: Endpoint kompatibel-OpenAI
+        required: true
+        default: https://generativelanguage.googleapis.com/v1beta/openai/
+      model:
+        description: Nama model
+        required: true
+        default: gemini-2.5-pro
+      pekerja:
+        description: Permintaan paralel
+        default: '8'
+      halaman_per_permintaan:
+        description: Jumlah halaman per permintaan
+        default: '1'
+      timeout:
+        description: Batas tunggu satu permintaan (detik)
+        default: '600'
+      halaman_mulai:
+        description: Halaman PDF pertama
+        default: '1'
+      halaman_akhir:
+        description: Halaman PDF terakhir (kosong = sampai habis; isi 3 untuk uji coba murah)
+        default: ''
+      aturan:
+        description: Aturan edisi terjemah (kajian = tanpa merinci langkah yang memudaratkan; penuh = lengkap)
+        type: choice
+        options:
+          - kajian
+          - penuh
+        default: kajian
+      tes_saja:
+        description: Hanya uji kunci/model/endpoint (hampir tanpa biaya), tanpa memproses halaman
+        type: boolean
+        default: false
+      simpan_ke_repo:
+        description: Commit folder hasil/ ke repo setelah selesai
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+
+concurrency:
+  group: mulai-malam
+  cancel-in-progress: false
+
+jobs:
+  malam:
+    runs-on: ubuntu-latest
+    timeout-minutes: 355
+    env:
+      KITAB_API_KEY: ${{ secrets.KITAB_API_KEY }}
+      # input dilewatkan lewat env (bukan disisipkan ke skrip) agar aman dari injeksi perintah
+      IN_PDF: ${{ inputs.pdf }}
+      IN_BASE_URL: ${{ inputs.base_url }}
+      IN_MODEL: ${{ inputs.model }}
+      IN_PEKERJA: ${{ inputs.pekerja }}
+      IN_HALAMAN: ${{ inputs.halaman_per_permintaan }}
+      IN_TIMEOUT: ${{ inputs.timeout }}
+      KITAB_MULAI: ${{ inputs.halaman_mulai }}
+      KITAB_AKHIR: ${{ inputs.halaman_akhir }}
+      KITAB_ATURAN: ${{ inputs.aturan }}
+      KITAB_TES_SAJA: ${{ inputs.tes_saja && '1' || '0' }}
+      KITAB_JUDUL: "Al-Asrar as-Sulaimaniyyah fi al-'Ulum ar-Ruhaniyyah — Dr. 'Abdullah al-Jundi"
+      # berhenti rapi 15 menit sebelum job dipotong GitHub (355 mnt), supaya hasil sempat digabung & disimpan
+      KITAB_BATAS_WAKTU: '20400'
+    steps:
+      - name: Ambil kode
+        uses: actions/checkout@v7
+
+      - name: Siapkan Python
+        uses: actions/setup-python@v7
+        with:
+          python-version: '3.12'
+          cache: pip
+
+      - name: Pasang paket
+        run: pip install -r requirements.txt
+
+      - name: Periksa rahasia KITAB_API_KEY
+        run: |
+          if [ -z "$KITAB_API_KEY" ]; then
+            echo "::error title=Rahasia KITAB_API_KEY belum dibuat::Buka Settings > Secrets and variables > Actions > New repository secret, beri nama KITAB_API_KEY, isi dengan kunci API Gemini Anda, lalu jalankan ulang workflow ini."
+            exit 1
+          fi
+
+      - name: Jalankan mulai_malam.sh
+        run: ./mulai_malam.sh "$IN_PDF" "$IN_BASE_URL" "$IN_MODEL" "$IN_PEKERJA" "$IN_HALAMAN" "$IN_TIMEOUT"
+
+      - name: Gabungkan hasil (jaga-jaga bila langkah di atas terpotong)
+        if: always() && env.KITAB_TES_SAJA != '1'
+        continue-on-error: true
+        run: python tools/kitab_pipeline.py gabung
+
+      - name: Tampilkan ringkasan di halaman job
+        if: always() && env.KITAB_TES_SAJA != '1'
+        run: |
+          if [ -f hasil/STATUS.md ]; then cat hasil/STATUS.md >> "$GITHUB_STEP_SUMMARY"; fi
+
+      - name: Simpan hasil ke repo
+        if: always() && inputs.simpan_ke_repo && env.KITAB_TES_SAJA != '1'
+        run: |
+          if [ ! -d hasil ]; then echo "Tidak ada folder hasil/ — dilewati."; exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add hasil
+          if git diff --cached --quiet; then echo "Tidak ada perubahan hasil."; exit 0; fi
+          progres="$(sed -n 's/^| Selesai | \*\*\([0-9]*\/[0-9]*\)\*\* |$/\1/p' hasil/STATUS.md | head -n1)"
+          git commit -m "Hasil malam: ${progres:-?} halaman selesai [skip ci]"
+          for i in 1 2 3; do
+            if git pull --rebase --autostash origin "$GITHUB_REF_NAME" && git push origin "HEAD:$GITHUB_REF_NAME"; then
+              exit 0
+            fi
+            sleep $((i * 5))
+          done
+          echo "::warning::Gagal mendorong hasil ke repo. Ambil dari artifact 'hasil-malam' di bawah."
+          exit 1
+
+      - name: Unggah hasil sebagai artifact
+        if: always() && env.KITAB_TES_SAJA != '1'
+        uses: actions/upload-artifact@v7
+        with:
+          name: hasil-malam
+          path: hasil/
+          if-no-files-found: ignore
+          retention-days: 30
