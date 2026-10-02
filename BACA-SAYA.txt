@@ -1,0 +1,11 @@
+Font Amiri (Regular, Bold, Italic, Bold Italic) untuk Edisi Panel.
+
+Sumber : paket npm @fontsource/amiri 5.3.0 (turunan dari proyek Amiri,
+         https://github.com/aliftype/amiri).
+Lisensi: SIL Open Font License 1.1 (lihat OFL.txt). Tidak ada "Reserved Font Name".
+Perubahan: subset "arabic" dan "latin" dari tiap gaya digabung (fontTools.merge)
+         menjadi satu berkas TTF supaya mesin PDF (MuPDF/HarfBuzz) bisa memakai satu
+         font untuk huruf Arab berharakat, spasi, angka, dan huruf Latin.
+         Fitur OpenType Arab (GSUB/GPOS: sambungan huruf & penempatan harakat) utuh.
+Catatan: glyph tanda dagger, ʿ dan ʾ tidak ada di font ini; teks batch memakai
+         tanda baca ASCII (') sebagai gantinya.
