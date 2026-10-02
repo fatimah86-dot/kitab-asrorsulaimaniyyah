@@ -9,11 +9,11 @@
   "pekerja": 8,
   "halaman_per_permintaan": 1,
   "timeout": 600.0,
-  "diperbarui": "2026-10-02T18:41:46Z",
-  "mulai": "2026-10-02T18:41:46Z",
+  "diperbarui": "2026-10-02T18:46:58Z",
+  "mulai": "2026-10-02T18:46:57Z",
   "awal": 1,
   "akhir": 103,
   "kode": 2,
   "berhenti": "Tes koneksi GAGAL — pekerjaan dibatalkan sebelum memakai kuota.",
-  "selesai": "2026-10-02T18:41:46Z"
+  "selesai": "2026-10-02T18:46:58Z"
 }
