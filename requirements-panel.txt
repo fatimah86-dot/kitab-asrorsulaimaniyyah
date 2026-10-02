@@ -1,0 +1,5 @@
+pymupdf>=1.24.3
+fonttools>=4.40
+# hanya untuk menjalankan tools/test_panel.py:
+numpy>=1.24
+pillow>=10

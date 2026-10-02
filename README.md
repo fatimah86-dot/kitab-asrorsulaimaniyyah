@@ -95,6 +95,46 @@ Itu **bawaan di sini** (`kajian`). Untuk terjemah lengkap dan setia apa adanya, 
 | `diblokir filter model` | Gemini menolak halaman itu; sisanya tetap jalan. Coba `KITAB_ATURAN=kajian` atau kerjakan manual |
 | `format tak baku — cek manual` | jawaban model tidak mengikuti format; halaman tetap disimpan, mohon dicek |
 
+## Edisi Panel: terjemahan per batch, preview web, dan PDF
+
+Selain jalur otomatis di atas, repo ini punya jalur **per batch** (5 halaman PDF per batch, 21 batch untuk 103 halaman):
+
+| Berkas | Isi |
+|---|---|
+| `BATCH_NN.md` | sumber kebenaran: Arab berharakat, Latin washal, terjemah Indonesia, syarah, faedah, gambar rajah |
+| `rajah/` | potongan gambar rajah/wafaq dari pindaian (latar putih bersih) |
+| `preview.html` | pratinjau web: satu kartu per halaman PDF, tombol emas **📥 Unduh PDF Master Panel** |
+| `MASTER_PANEL_Batch_NN.pdf` | PDF A4 margin 2 cm; menjadi `KHATAM_TERJEMAHAN_Kitab_Asraru_Sulaimaniyyah.pdf` bila 21 batch lengkap |
+| `TERJEMAHAN.md`, `TERJEMAHAN_MATAN_MURNI.md` | gabungan semua batch (yang kedua tanpa syarah/faedah) |
+| `fonts/` | font Amiri (SIL OFL) |
+
+```bash
+pip install -r requirements-panel.txt
+python tools/bangun_panel.py --cek     # periksa mutu BATCH_*.md (harakat, pola Latin, jumlah paragraf, gambar)
+python tools/bangun_panel.py           # bangun preview.html, PDF, dan TERJEMAHAN*.md
+python tools/server_preview.py         # pratinjau di http://localhost:3000 (tombol unduh PDF di bagian atas)
+python -m unittest tools/test_panel.py # uji otomatis
+```
+
+Format satu bagian di `BATCH_NN.md` (urutan blok tetap; syarah, faedah, dan gambar boleh tidak ada):
+
+```
+## Halaman PDF 3 (= cetak 2)
+### Bagian 1 — Judul bagian
+**[Teks Arab Asli]**      -> dalam <div dir="rtl">, harakat lengkap
+**[Transliterasi Latin Fonetik]**   -> washal; tiap paragraf diapit *…*
+**[Terjemahan Indonesia]**
+**[Syarah]** / **[Faedah]**  -> diawali "> "
+![Rajah Hal. 5 (cetak 4) — keterangan](rajah/rajah_p05_khatam_01.png)
+```
+
+Catatan teknis:
+
+- PDF dibuat dengan **PyMuPDF Story (MuPDF + HarfBuzz)** dan font Amiri tertanam, sehingga huruf Arab berharakat tersambung utuh di semua pembaca PDF. Pembangun menulis ulang peta *ToUnicode* dari font supaya teks Arab di PDF **bisa disalin dan dicari** (bawaan MuPDF mengacak huruf Arab kontekstual).
+- MuPDF tidak mendukung `page-break-inside` dan membalik `text-align: right` pada blok RTL, jadi tata letak halaman dilakukan oleh `bangun_panel.py` sendiri (blok tidak terbelah, tanpa serpihan di puncak halaman). Ada uji regresi untuk keduanya.
+- Resolusi pindaian hanya sekitar 850×1100 px per halaman penuh. Potongan rajah dibuat rapi berlatar putih dan diperbesar halus, tetapi **bukan 300 DPI asli**; rajah yang tidak terbaca ditandai, tidak ditebak.
+- Harakat, transliterasi, dan terjemahan dibuat dengan bantuan AI dan **perlu dikoreksi** nahwu/sharaf. Salah cetak di pindaian tidak diperbaiki diam-diam: ditandai `[المطبوع: …]` atau `[كذا]`.
+
 ## Menguji skrip tanpa internet
 
 Server Gemini tiruan (`tools/mock_gemini.py`) meniru endpoint kompatibel-OpenAI dan native, termasuk kegagalan
