@@ -3,19 +3,19 @@
 | Butir | Nilai |
 |---|---|
 | Berkas | `kitab/asrorul-sulaimaniyah.pdf` (103 halaman) |
-| Model | `gemini-2.0-flash` |
+| Model | `gemini-3.8-flash` |
 | Pengaturan | 8 pekerja · 1 halaman/permintaan · timeout 600.0 dtk · aturan edisi: kajian |
-| Selesai | **0/103** |
+| Selesai | **1/103** |
 | Gagal | 0 |
 | Diblokir filter | 0 |
-| Belum diproses | 103 |
-| Token masuk / keluar | 0 / 0 |
-| Berhenti karena | Tes koneksi GAGAL — pekerjaan dibatalkan sebelum memakai kuota. |
-| Terakhir diperbarui | 2026-10-02T18:52:18Z |
+| Belum diproses | 102 |
+| Token masuk / keluar | 1,978 / 1,269 |
+| Berhenti karena | Kuota habis (HTTP 429: RESOURCE_EXHAUSTED: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/do |
+| Terakhir diperbarui | 2026-10-02T18:59:32Z |
 
 ## Belum diproses
 
-Halaman 1–103 (103 halaman).
+Halaman 1, 3–103 (102 halaman).
 
 ## Cara melanjutkan
 

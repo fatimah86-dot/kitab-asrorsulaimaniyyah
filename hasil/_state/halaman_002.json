@@ -1,0 +1,15 @@
+{
+  "halaman": 2,
+  "status": "ok",
+  "model": "gemini-3.8-flash",
+  "percobaan": 2,
+  "durasi_dtk": 29.5,
+  "token_masuk": 1978,
+  "token_keluar": 1269,
+  "selesai_karena": "stop",
+  "baku": true,
+  "halaman_per_permintaan": 1,
+  "mode_auth": "bearer",
+  "gambar_sha256": "177aac890f7adc3dd5004b4879798b5093823dccbd9ff0256276551bc7df1001",
+  "waktu": "2026-10-02T18:57:28Z"
+}
