@@ -9,11 +9,11 @@
   "pekerja": 8,
   "halaman_per_permintaan": 1,
   "timeout": 600.0,
-  "diperbarui": "2026-10-03T01:02:50Z",
-  "mulai": "2026-10-03T01:02:44Z",
+  "diperbarui": "2026-10-03T10:57:08Z",
+  "mulai": "2026-10-03T10:53:45Z",
   "awal": 1,
   "akhir": 103,
   "kode": 3,
-  "berhenti": "Tes koneksi GAGAL — pekerjaan dibatalkan sebelum memakai kuota.",
-  "selesai": "2026-10-03T01:02:50Z"
+  "berhenti": "Kuota habis (HTTP 429: RESOURCE_EXHAUSTED: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/do",
+  "selesai": "2026-10-03T10:57:08Z"
 }
