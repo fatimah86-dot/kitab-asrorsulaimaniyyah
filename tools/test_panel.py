@@ -223,7 +223,14 @@ class PdfTest(unittest.TestCase):
                 nama.setdefault(f[3], set()).add(f[0])
         self.assertTrue({"Amiri Regular", "Amiri Bold", "Amiri Italic"} <= set(nama), nama)
         self.assertTrue(all(len(v) == 1 for v in nama.values()), nama)  # tidak berganda -> berkas kecil
-        self.assertLess(self.berkas.stat().st_size, 3 * 1024 * 1024)
+        # berkas font tertanam sekali per gaya: satu FontFile2 per font ternama
+        n_ff = sum(
+            1 for x in range(1, self.doc.xref_length())
+            if self.doc.xref_get_key(x, "FontFile2")[0] != "null"
+        )
+        self.assertLessEqual(n_ff, len(nama), "font tertanam lebih dari sekali")
+        # anggaran ukuran sebanding jumlah halaman (font ±1,2 MB + isi per halaman)
+        self.assertLess(self.berkas.stat().st_size, int((1.2 + 0.12 * len(self.doc)) * 1024 * 1024))
 
     def test_teks_arab_bisa_disalin_dan_dicari(self) -> None:
         """Regresi: ToUnicode bawaan MuPDF mengacak huruf Arab kontekstual; kita menulis ulang dari font."""

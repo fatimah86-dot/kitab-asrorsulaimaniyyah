@@ -531,6 +531,7 @@ def _peta_gid_unicode(ttf: bytes) -> dict[int, str]:
             ch = unicodedata.normalize("NFKC", ch)
         uni[g] = ch
     balik: dict[int, list[list[int]]] = {}  # keluaran -> daftar kemungkinan urutan masukan
+    potongan: set[int] = set()  # glyph pecahan (GSUB tipe 2) yang tak membawa teks sendiri
 
     def catat(keluar: str, masuk: list[str]) -> None:
         balik.setdefault(gid[keluar], []).append([gid[x] for x in masuk])
@@ -551,6 +552,10 @@ def _peta_gid_unicode(ttf: bytes) -> dict[int, str]:
                     for a, b in st.mapping.items():
                         if isinstance(b, str):
                             catat(b, [a])
+                        elif b:  # GSUB tipe 2: satu glyph dipecah jadi beberapa potongan
+                            catat(b[0], [a])
+                            for x in b[1:]:
+                                potongan.add(gid[x])
                 elif hasattr(st, "Substitute") and hasattr(st, "Coverage"):  # GSUB tipe 8 (reverse chaining)
                     for a, b in zip(st.Coverage.glyphs, st.Substitute):
                         catat(b, [a])
@@ -575,6 +580,8 @@ def _peta_gid_unicode(ttf: bytes) -> dict[int, str]:
         t = selesai(g)
         if t:
             peta[g] = t
+    for g in potongan:  # pecahan glyph tanpa teks: ZWSP (entri nol-panjang ditolak MuPDF,
+        peta.setdefault(g, "\u200b")  # CID tanpa pemetaan dibaca balik sebagai unicode acak)
     return peta
 
 
