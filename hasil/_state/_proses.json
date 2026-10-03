@@ -6,14 +6,14 @@
   "total": 103,
   "judul": "Al-Asrar as-Sulaimaniyyah fi al-'Ulum ar-Ruhaniyyah — Dr. 'Abdullah al-Jundi",
   "aturan": "kajian",
-  "pekerja": 8,
+  "pekerja": 2,
   "halaman_per_permintaan": 1,
   "timeout": 600.0,
-  "diperbarui": "2026-10-03T10:57:08Z",
-  "mulai": "2026-10-03T10:53:45Z",
+  "diperbarui": "2026-10-03T11:06:26Z",
+  "mulai": "2026-10-03T11:06:25Z",
   "awal": 1,
   "akhir": 103,
   "kode": 3,
-  "berhenti": "Kuota habis (HTTP 429: RESOURCE_EXHAUSTED: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/do",
-  "selesai": "2026-10-03T10:57:08Z"
+  "berhenti": "Tes koneksi GAGAL — pekerjaan dibatalkan sebelum memakai kuota.",
+  "selesai": "2026-10-03T11:06:26Z"
 }
