@@ -8,7 +8,7 @@
 > 4. Rajah/wafaq/tilsam atau tulisan yang tidak terbaca ditandai *(rajah — tidak terbaca)* atau [tidak terbaca] dan tidak ditebak; gambar halaman asli disertakan di bawah setiap halaman.
 > 5. **Hasil mesin**: OCR dan terjemah dapat keliru. Mohon ditelaah ulang oleh ahlinya sebelum dijadikan rujukan.
 >
-> Dihasilkan otomatis oleh `mulai_malam.sh` · 2026-10-02T18:59:32Z · 1/103 halaman selesai
+> Dihasilkan otomatis oleh `mulai_malam.sh` · 2026-10-03T01:02:50Z · 1/103 halaman selesai
 
 ## Halaman PDF 1 — *(BELUM DIPROSES)*
 

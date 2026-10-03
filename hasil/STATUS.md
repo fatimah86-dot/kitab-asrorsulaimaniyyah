@@ -10,8 +10,8 @@
 | Diblokir filter | 0 |
 | Belum diproses | 102 |
 | Token masuk / keluar | 1,978 / 1,269 |
-| Berhenti karena | Kuota habis (HTTP 429: RESOURCE_EXHAUSTED: You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/do |
-| Terakhir diperbarui | 2026-10-02T18:59:32Z |
+| Berhenti karena | Tes koneksi GAGAL — pekerjaan dibatalkan sebelum memakai kuota. |
+| Terakhir diperbarui | 2026-10-03T01:02:50Z |
 
 ## Belum diproses
 
