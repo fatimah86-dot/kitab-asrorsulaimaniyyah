@@ -148,7 +148,8 @@ class BatchAsliTest(unittest.TestCase):
         self.addCleanup(shutil.rmtree, tmp, True)
         (tmp / "BATCH_01.md").write_text(bp.ke_markdown(self.batches, murni=False), encoding="utf-8")
         ulang = bp.parse_batch(tmp / "BATCH_01.md")  # judul gabungan tidak memengaruhi isi
-        asli = self.batches[0]
+        # gabungan memuat semua batch: bandingkan dengan seluruh halaman, urut
+        asli = {"halaman": [h for b in self.batches for h in b["halaman"]]}
 
         def bentuk(b):
             return [(h["pdf"], [(bg["no"], [(it["kind"], len(it.get("paras", []))) for it in bg["items"]]) for bg in h["bagian"]]) for h in b["halaman"]]
