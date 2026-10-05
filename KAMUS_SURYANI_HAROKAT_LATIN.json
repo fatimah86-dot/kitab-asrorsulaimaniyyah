@@ -27,8 +27,8 @@
       "Hiya Syuraa": 0,
       "هيا شورا": 0,
       "wa Yaah": 0,
-      "Adunaay": 1,
-      "Iil Syaddaay": 1,
+      "Adunaay": 0,
+      "Iil Syaddaay": 0,
       "ادوناي": 0
     },
     "jumlah_pola_baru_35_batch": {
@@ -39,11 +39,98 @@
       "Syadayya": 4,
       "Yahin": 4
     },
-    "kesimpulan": "0 sisa bentuk lama 'Hiya Syuraa' dan 'هيا شورا' (0 kemunculan di BATCH_01–35). Dua pola lama sengaja DIPERTAHANKAN sebagai varian cetak yang dirujuk kamus §1.2, bukan sisa lama: (1) 'Iil Syaddaay' pada BATCH_04.md:234 — pelafalan cetak halaman PDF 18 = cetak 17 yang berbunyi demikian; (2) 'Adunaay' pada BATCH_05.md:272 — varian Latin cetak halaman PDF 24 = cetak 23 yang didokumentasikan kamus §1.2 entri Adonai. Keduanya berada di dalam rantai nama panjang yang menurut kaidah repo dipertahankan apa adanya (konsonan cetak dipertahankan, pelafalan tentatif).",
+    "kesimpulan": "0 sisa bentuk lama di BATCH_01–35: 'Hiya Syuraa', 'هيا شورا', 'wa Yaah', 'Adunaay', 'Adunai', 'Aaduunaay', 'Aduunaay', 'Iil Syaddaay', 'Il Syaddai', 'ادوناي' semuanya 0. Dua varian cetak yang pada PR #5 masih dipertahankan (Iil Syaddaay pada BATCH_04.md:234 dan Adunaay pada BATCH_05.md:272) kini dinormalisasi ke bentuk baku PR #3 (Ali Syadayya dan Adunayya) pada fase final — rincian di 'normalisasi_final_2026_10_05'. Bentuk cetak tetap tercatat apa adanya di KAMUS_SURYANI_ASROR_35_BATCH.md §1.2 (entri Adonai / Shaddai) sesuai kaidah kamus: kamus mencatat varian, teks wirid memakai bentuk baku.",
     "temuan_lain": [
       "Bentuk baku PR #3 (Yaa Hiyan Syaraa Hiyan Adunayya Ashba-uuti Ali Syadayya … wa Yahin) hadir di BATCH_02.md:102,108,112 dan tersalin ke TERJEMAHAN.md serta TERJEMAHAN_MATAN_MURNI.md.",
       "Pemeriksaan panel: python tools/bangun_panel.py --cek → BERSIH (exit 0), semua batch ≥99% harakat, BATCH_35 lampiran non-nazham."
-    ]
+    ],
+    "normalisasi_final_2026_10_05": {
+      "perintah_periksa": "grep -R -n \"Hiya Syuraa\\|Adunaay\\|Adunai\\|Aaduunaay\\|Aduunaay\\|Iil Syaddaay\\|Il Syaddai\" BATCH_*.md  # harus 0",
+      "jumlah_penggantian": 12,
+      "penggantian": [
+        {
+          "dari": "Adunaay",
+          "ke": "Adunayya",
+          "jumlah": 1,
+          "berkas": "BATCH_05.md:272"
+        },
+        {
+          "dari": "Adunai",
+          "ke": "Adunayya",
+          "jumlah": 1,
+          "berkas": "BATCH_05.md:280"
+        },
+        {
+          "dari": "Adunai",
+          "ke": "Adunayya",
+          "jumlah": 2,
+          "berkas": "BATCH_06.md:98,244"
+        },
+        {
+          "dari": "Aaduunaay",
+          "ke": "Adunayya",
+          "jumlah": 1,
+          "berkas": "BATCH_06.md:92"
+        },
+        {
+          "dari": "Aduunaay",
+          "ke": "Adunayya",
+          "jumlah": 1,
+          "berkas": "BATCH_06.md:240"
+        },
+        {
+          "dari": "Aduunaay",
+          "ke": "Adunayya",
+          "jumlah": 1,
+          "berkas": "BATCH_07.md:336"
+        },
+        {
+          "dari": "Adunai",
+          "ke": "Adunayya",
+          "jumlah": 1,
+          "berkas": "BATCH_07.md:340"
+        },
+        {
+          "dari": "Aduunaay",
+          "ke": "Adunayya",
+          "jumlah": 1,
+          "berkas": "BATCH_08.md:278"
+        },
+        {
+          "dari": "Adunai",
+          "ke": "Adunayya",
+          "jumlah": 1,
+          "berkas": "BATCH_08.md:282"
+        },
+        {
+          "dari": "Iil Syaddaay",
+          "ke": "Ali Syadayya",
+          "jumlah": 1,
+          "berkas": "BATCH_04.md:234"
+        },
+        {
+          "dari": "Il Syaddai",
+          "ke": "Ali Syadayya",
+          "jumlah": 1,
+          "berkas": "BATCH_04.md:238"
+        }
+      ],
+      "hitungan_akhir_35_batch": {
+        "Adunayya": 14,
+        "Ali Syadayya": 6,
+        "Syadayya": 6,
+        "Adunaay": 0,
+        "Adunai": 0,
+        "Aaduunaay": 0,
+        "Aduunaay": 0,
+        "Iil Syaddaay": 0,
+        "Il Syaddai": 0,
+        "Hiya Syuraa": 0,
+        "wa Yaah": 0
+      },
+      "catatan": "Blok 'jumlah_pola_baru_35_batch' di atas adalah hitungan basis PR #3 (sebelum normalisasi final); hitungan akhir ada di 'hitungan_akhir_35_batch'. Hanya berkas BATCH_*.md (kolom Latin dan turunannya) yang diubah. KAMUS_SURYANI_ASROR_35_BATCH.md dan entri kamus JSON ini TIDAK diubah pada bagian yang memang mencatat varian cetak. TERJEMAHAN*.md dan PDF master dibangun ulang dari BATCH_*.md sehingga ikut memakai bentuk baku.",
+      "rujukan_bentuk_baku": "PR #3: BATCH_02.md:102/108/112 — 'Yaa Hiyan Syaraa Hiyan Adunayya Ashba-uuti Ali Syadayya'"
+    }
   },
   "entri": [
     {
