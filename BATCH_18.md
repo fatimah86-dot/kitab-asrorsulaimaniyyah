@@ -77,7 +77,7 @@ Demi Nama-Mu, lautan yang melingkupi ini beserta segala isinya.
 
 Dan para malaikat, wahai Pemilik Keagungan, telah ditundukkan.
 
-Serta Tigris di Baghdad, sungai Nil, dan Efratnya. [Susunan lafaz pada cetakan kurang jelas.]
+Serta Tigris Baghdad dan Nil Furatnya. [Dua rangkaian idafa: «دِجْلَةُ بَغْدَادَ» dan «نِيلُ فُرَاتِهَا»; harakat Arab edisi ini marfu‘ («دِجْلَةُ، نِيلُ»), sedangkan transliterasi Latin cetakan menulis fatah/mansub — selisih i‘rab dicatat pada (514); teks cetakan tidak diubah.]
 
 Dan Subhan Jahjan [nama non-Arab ini belum pasti pelafalannya], dengan Nama-Mu aku telah menundukkannya.
 
@@ -101,7 +101,7 @@ Aku memohon kepada-Mu, wahai Yang Maha Perkasa, dengan Nama itu: segerakanlah.
 
 > (513) «يا ذا الجلال» adalah seruan pengagungan kepada Tuhan; para malaikat disebut sebagai makhluk yang ditundukkan dalam klaim teks.
 
-> (514) Bacaan tampak menyebut Tigris, Baghdad, Nil, dan Efrat, tetapi hubungan kata-katanya tidak terang pada cetakan; frasa dipertahankan menurut grafi sumber tanpa dinormalkan.
+> (514) Larik memuat dua rangkaian idafa: «دِجْلَةُ بَغْدَادَ» (Tigris Baghdad) dan «نِيلُ فُرَاتِهَا» (Nil Furatnya); keduanya menyambung rangkaian marfu‘ sebelumnya («وَأَمْلَاكُ … تَسَخَّرَتْ»). Dengan begitu «دِجْلَةُ» dan «نِيلُ» adalah mudaf marfu‘, sedangkan «بَغْدَادَ» dan «فُرَاتِهَا» mudaf ilaih majrur («بغداد» mamnu‘ min ash-sharf, sehingga berharakat fatah tanpa tanwin). Terdapat selisih i‘rab pada cetakan: transliterasi Latin menulis «Wa-Dijlata Baghdada wa-nila furatiha» (berharakat fatah, terbaca mansub), sedangkan grafi Arab marfu‘. Selisih itu dicatat apa adanya; teks Arab dan Latin cetakan dipertahankan tanpa dinormalkan.
 
 > (515) «جحجان» tampak sebagai nama seruan yang tidak dikenal; vokalisasi «Jahjan» tentatif, sehingga nama dan konsonan cetaknya dipertahankan tanpa diterjemahkan.
 

@@ -6694,7 +6694,7 @@ Demi Nama-Mu, lautan yang melingkupi ini beserta segala isinya.
 
 Dan para malaikat, wahai Pemilik Keagungan, telah ditundukkan.
 
-Serta Tigris di Baghdad, sungai Nil, dan Efratnya. [Susunan lafaz pada cetakan kurang jelas.]
+Serta Tigris Baghdad dan Nil Furatnya. [Dua rangkaian idafa: «دِجْلَةُ بَغْدَادَ» dan «نِيلُ فُرَاتِهَا»; harakat Arab edisi ini marfu‘ («دِجْلَةُ، نِيلُ»), sedangkan transliterasi Latin cetakan menulis fatah/mansub — selisih i‘rab dicatat pada (514); teks cetakan tidak diubah.]
 
 Dan Subhan Jahjan [nama non-Arab ini belum pasti pelafalannya], dengan Nama-Mu aku telah menundukkannya.
 
