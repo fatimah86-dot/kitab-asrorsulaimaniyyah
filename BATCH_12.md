@@ -98,7 +98,7 @@
 
 *Mumiitun fa 'ajjil mauta khashmii idza i'tadaa*
 
-*Wa 'ajjil li-a'daa-ii halaakan na'ajjiluka [unusual printed sequence retained without emendation]*
+*Wa 'ajjil li-a'daa-ii halaakan na'ajjiluka [ترتيب مطبوع غير مألوف، محفوظ بلا تصحيح]*
 
 **[Terjemahan Indonesia]**
 

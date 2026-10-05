@@ -112,6 +112,7 @@ Selain jalur otomatis di atas, repo ini punya jalur **per batch** (5 halaman PDF
 pip install -r requirements-panel.txt
 python tools/bangun_panel.py --cek     # periksa mutu BATCH_*.md (harakat, pola Latin, jumlah paragraf, gambar)
 python tools/bangun_panel.py           # bangun preview.html, PDF, dan TERJEMAHAN*.md
+python tools/normalisasi_nahwu_falak.py --cek  # catatan editorial Inggris (harus 0 / BERSIH)
 python tools/server_preview.py         # pratinjau di http://localhost:3000 (tombol unduh PDF di bagian atas)
 python -m unittest tools/test_panel.py # uji otomatis
 ```
@@ -134,6 +135,7 @@ Catatan teknis:
 - MuPDF tidak mendukung `page-break-inside` dan membalik `text-align: right` pada blok RTL, jadi tata letak halaman dilakukan oleh `bangun_panel.py` sendiri (blok tidak terbelah, tanpa serpihan di puncak halaman). Ada uji regresi untuk keduanya.
 - Resolusi pindaian hanya sekitar 850×1100 px per halaman penuh. Potongan rajah dibuat rapi berlatar putih dan diperbesar halus, tetapi **bukan 300 DPI asli**; rajah yang tidak terbaca ditandai, tidak ditebak.
 - Harakat, transliterasi, dan terjemahan dibuat dengan bantuan AI dan **perlu dikoreksi** nahwu/sharaf. Salah cetak di pindaian tidak diperbaiki diam-diam: ditandai `[المطبوع: …]` atau `[كذا]`.
+- Catatan editorial untuk bacaan yang belum pasti ditulis dalam bahasa Arab dengan kaidah baku **«القراءة محتملة، والحروف محفوظة على رسم المطبوع - qiraatuhu muhtamalah»**; emendasi nahwu/falak — mis. hal. cetak 4: «أي ما درى» → **«وَأَيْنَمَا دَارَ»** (dimanapun beredar) — selalu disertai catatan bentuk cetak. Periksa dengan `python tools/normalisasi_nahwu_falak.py --cek` (harus BERSIH / 0 catatan Inggris).
 
 ## Menguji skrip tanpa internet
 

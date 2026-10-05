@@ -24,11 +24,11 @@
 
 **[Transliterasi Latin Fonetik]**
 
-*Bi-Nahrashin [following word unclear] bil-jinni [short printed fragment obscured] lam tusakhkhar [ending unclear]*
+*Bi-Nahrashin [الكلمة التالية غير واضحة] bil-jinni [شظية مطبوعة قصيرة مطموسة] lam tusakhkhar [آخر الكلمة غير واضح]*
 
-*Bi-nuri jalalin [the next form resembles barikh] wa-sharnatin [proper name, approximate] [line continuation unreadable]*
+*Bi-nuri jalalin [الصيغة التالية تشبه «برخ»] wa-sharnatin [اسم علم، تقريبي] [تتمة السطر غير مقروءة]*
 
-*Bi-Quddusin bi-rahubin bihi adh-dhulmatu injalat [a short ending is obscured.]*
+*Bi-Quddusin bi-rahubin bihi adh-dhulmatu injalat [آخر قصير مطموس]*
 
 **[Terjemahan Indonesia]**
 
@@ -96,35 +96,35 @@ Dengan Yang Mahakudus, dengan «Rahub», kegelapan tersingkap dengannya. [Ada pe
 
 *Alā wa-qdi ya rabbi bin-nuri hajati*
 
-*Wa-ya ankh jaliyyan sari'an qad inqadat [Ankh is a proper-name reading; the ending is unclear.]*
+*Wa-ya ankh jaliyyan sari'an qad inqadat [«أنخ» قراءة اسم علم، وآخره غير واضح]*
 
 *Wa-yassir umuri ya Muyassiru wa-a'tini*
 
 *Minal-'izzi wal-'ala'i 'izzan tasamaytu*
 
-*Wa-arsil li [the word after li resembles «الذنب»] bi-tabibin [short fragment unclear] ma'atibi [tentative reading]*
+*Wa-arsil li [the word after li resembles «الذنب»] bi-tabibin [شظية قصيرة غير واضحة] ma'atibi [قراءة محتملة]*
 
-*Wa-bil-ismi arsilha bi-kasbin tashallat [the final verb is tentative.]*
+*Wa-bil-ismi arsilha bi-kasbin tashallat [الفعل الأخير محتمل]*
 
-*Aslim bi-sahrin wa-a'tini khayra [word after khayr unclear]*
+*Aslim bi-sahrin wa-a'tini khayra [الكلمة بعد «خير» غير واضحة]*
 
-*Wa-asbil 'alayya as-sitra bil-hujubi [the ending resembles asbalt]*
+*Wa-asbil 'alayya as-sitra bil-hujubi [الآخر يشبه «أسبلت»]*
 
 *Wa-yablugh bihi qasdi wa-kulla ma'aribi*
 
-*Bi-haqqi hurufin ya ilahi najahhtu [short ending unclear]*
+*Bi-haqqi hurufin ya ilahi najahhtu [آخر قصير غير واضح]*
 
-*Bi-sirri hurufin udi'at fi 'azmati [ending unclear]*
+*Bi-sirri hurufin udi'at fi 'azmati [آخر الكلمة غير واضح]*
 
-*Tablughnal-a'malu jam'an bima hawat [the opening word is a tentative reading.]*
+*Tablughnal-a'malu jam'an bima hawat [أول الكلمة قراءة محتملة]*
 
-*Bi-ba'in [following name fragments unreadable] asali [ending unclear]*
+*Bi-ba'in [شظايا الاسم التالية غير مقروءة] asali [آخر الكلمة غير واضح]*
 
-*Naja [fragment after the verb unclear] bi-sirri amri [ending unreadable]*
+*Naja [الشظية بعد الفعل غير واضحة] bi-sirri amri [آخر الكلمة غير مقروء]*
 
 *Ala wa-akfini ya dha al-jalali bi-kafi kun*
 
-*Bi-nassi hukmin qati'in [short fragment unclear] as-sirri [ending unreadable]*
+*Bi-nassi hukmin qati'in [شظية قصيرة غير واضحة] as-sirri [آخر الكلمة غير مقروء]*
 
 *Wa-khallisni min kulli hawlin wa-shiddatin*
 

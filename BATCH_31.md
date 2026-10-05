@@ -46,15 +46,15 @@
 
 *Bi-Kafiha ya 'Aynu wa-Sadiha*
 
-*[the word begins “kafana/kafayna”] biha min kulli su'in [ending resembles “bishamilat”]*
+*[الكلمة تبدأ بـ«كفنا/كفينا»] biha min kulli su'in [الآخر يشبه «بشملت»]*
 
-*Bihim [the fragments “'ayn” and “mim” are visible; the rest is unclear]*
+*Bihim [تظهر شظيتا «عين» و«ميم»، والباقي غير واضح]*
 
-*[word begins “hayatina”] wa-n-nunu [faint ending]*
+*[الكلمة تبدأ بـ«حياتنا»] wa-n-nunu [آخر باهت]*
 
 *Bi-alifin wa-lamin thumma mimin wa-sadiha*
 
-*Jadhabat quluba al-'alamina [ending resembles “na'bat”]*
+*Jadhabat quluba al-'alamina [الآخر يشبه «نعبت»]*
 
 *Bi-alifin wa-lamin thumma mimin wa-ra'iha*
 
@@ -154,7 +154,7 @@ Dengan Alif dan Lām, kemudian Mīm dan bagian belakang/kelanjutannya. [Lafaz «
 
 *Bi-asma'ika al-'ulya bi-ayatin fussilat*
 
-*Da'awtuka ya Rabbahu haqqan [the final word resembles “wa-anti”]*
+*Da'awtuka ya Rabbahu haqqan [الكلمة الأخيرة تشبه «وأنتِ»]*
 
 **[Terjemahan Indonesia]**
 

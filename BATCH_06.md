@@ -57,7 +57,7 @@
 
 **Asmaa-uth-Thahaathiilits-Tsamaaniyah**
 
-*Wa hiya asmaa-u muluukin 'izhaamin lahaa katsiirun minal-khawaashi wat-tashaariifisy-syariifati wal-asraaril-lathiifah, nadzkuru ba'dhaha 'inda haajatihaa bi-idznillaahi ta'aala wa haadzihi hiyal-asmaa-us-sab'atu [unusual printed sequence retained without emendation]:*
+*Wa hiya asmaa-u muluukin 'izhaamin lahaa katsiirun minal-khawaashi wat-tashaariifisy-syariifati wal-asraaril-lathiifah, nadzkuru ba'dhaha 'inda haajatihaa bi-idznillaahi ta'aala wa haadzihi hiyal-asmaa-us-sab'atu [ترتيب مطبوع غير مألوف، محفوظ بلا تصحيح]:*
 
 *Lith-thahthiil, Muhaththathiil, Quhthithiil, Fahthithiil, Nuhahthathiil, Jahloththiil, Lakhahthathiil, Lamqanjal.*
 

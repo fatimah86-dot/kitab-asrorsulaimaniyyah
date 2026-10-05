@@ -28,15 +28,15 @@
 
 **[Transliterasi Latin Fonetik]**
 
-*Wa-bi-l-hawra'i al-batuli [following word resembles “rasluha”] tashaffa'at*
+*Wa-bi-l-hawra'i al-batuli [الكلمة التالية تشبه «راسلها»] tashaffa'at*
 
 *Wa-astawdi'u Allaha al-'azhima sa'adati*
 
-*Bi-janibiha wa-al-ukhra [short phrase unclear] asbahat*
+*Bi-janibiha wa-al-ukhra [عبارة قصيرة غير واضحة] asbahat*
 
 *Wa-'afwan 'ani al-athami wa-r-rijsi kullihi*
 
-*Wa-min kulli dhanbin fi as-sahifati [ending resembles “tabat”]*
+*Wa-min kulli dhanbin fi as-sahifati [الآخر يشبه «تبت»]*
 
 **[Terjemahan Indonesia]**
 
@@ -112,9 +112,9 @@ Dan dari setiap dosa dalam catatan [kata terakhir menyerupai «تبت»; makna b
 
 *Wa-astawdi'u Allaha al-hafizha ijabati*
 
-*Wa-qahru mulukin bi-t-tilawati [ending resembles “sukhkhirat”]*
+*Wa-qahru mulukin bi-t-tilawati [الآخر يشبه «سخرت»]*
 
-*Wa-qahru muluki al-jinni turra [following word unclear]*
+*Wa-qahru muluki al-jinni turra [الكلمة التالية غير واضحة]*
 
 *Wa-ihraqu a'wanin 'alayya tajabbarat*
 
@@ -122,13 +122,13 @@ Dan dari setiap dosa dalam catatan [kata terakhir menyerupai «تبت»; makna b
 
 *Wa-qahru al-mafaridi al-'utati wa-man taghat*
 
-*Wa-ihraqu [word resembles “arbat”] tukhalifu dini*
+*Wa-ihraqu [الكلمة تشبه «أربت»] tukhalifu dini*
 
 *Bi-asma'i ihraqin biha al-jinnu uhriqat*
 
-*Ala wa-uhsur li [following fragment unclear] [ending obscured]*
+*Ala wa-uhsur li [الشظية التالية غير واضحة] [آخر الكلمة مطموس]*
 
-*[talismanic name begins “tahtabiyal”] [description/ending unclear; final fragment resembles “injalat”]*
+*[اسم طلسمي يبدأ بـ«تهتبيال»] [الوصف/الآخر غير واضح، والشظية الأخيرة تشبه «انجلت»]*
 
 *Fa-ya qari'a al-ismi al-muntazama qadruhu*
 

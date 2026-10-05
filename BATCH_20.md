@@ -31,11 +31,11 @@
 
 *Wa-in yastaghithu lan yughathu wa-yuhraqu*
 
-*Bi-ma'in kal-muhli bil-hamimi nahimina [al-matbu': nahimin; dabt ihtimali nahimina, without claiming a definite emendation; wasl: context is 'adhab al-hamim; nahw: probable hal mansub referring to the plural pronoun; tajwid: ha' is a hams consonant; no sakin qaf or doubled nun here.]*
+*Bi-ma'in kal-muhli bil-hamimi nahimina [المطبوع: «ناحمين»؛ ضبط احتمالي «نَاحِمِينَ» بلا جزم بتصحيح؛ وصل: السياق عذاب الحميم؛ نحو: حال منصوب محتمل يرجع إلى ضمير الجمع؛ تجويد: الحاء حرف همس، ولا قاف ساكنة ولا نون مشددة هنا]*
 
 *Fa-la tahsabanna Allaha mukhlifa wa'dihi*
 
-*Ilahun 'azizun dhu intiqamin tasara'at [al-matbu': tasara'at unvowelled; tentative dabt: tasara'at; wasl: divine might and retribution followed by the sinners; nahw: feminine perfect verb with no explicit subject; tajwid: no sakin qaf or doubled nun in this word.]*
+*Ilahun 'azizun dhu intiqamin tasara'at [المطبوع: «تسرعت» بلا حركات؛ ضبط احتمالي «تسارعت»؛ وصل: قدرة إلهية وانتقام تليه المجرمون؛ نحو: فعل ماضٍ مؤنث بلا فاعل ظاهر؛ تجويد: لا قاف ساكنة ولا نون مشددة في هذه الكلمة]*
 
 *Tara al-mujrimina al-jahidina kitabahu*
 
@@ -111,15 +111,15 @@ Engkau akan melihat para pendosa yang mengingkari Kitab-Nya.
 
 *Bi-narin wa-taghsha an-naru minhum wujuhahum*
 
-*'Adhaban tajzi kullu nafsin bima kasabat [al-matbu': banat; al-qira'ah al-muqtarahah: kasabat, per parallel Qur'anic al-Muddaththir 74:38; kullu nafsin fa'il tajzi, feminine pronoun in kasabat refers to nafs; tajwid: tanwin nafsin before ba is iqlab with ghunnah.]*
+*'Adhaban tajzi kullu nafsin bima kasabat [المطبوع: «بنت»؛ القراءة المقترحة: «كسبت» نظير قوله تعالى في المدثر ٧٤:٣٨؛ و«كل نفس» فاعل «تجزي»، والضمير المؤنث في «كسبت» يعود إلى «نفس»؛ تجويد: تنوين «نفسٍ» قبل الباء إقلاب مع غنة]*
 
 *Wa-yu'ta bi-nirani as-sa'iri wa-bil-lazha*
 
 *Wa-ghullun wa-asfadun biha al-kullu suffidat*
 
-*Fa-hadha balaghun lil-fasahati liyundharu [al-matbu': lil-fasahati; kept without emendation absent decisive witness; wasl: balagh and warning after punishment; nahw: hadha mubtada', balagh khabar, li-yundharu passive subjunctive, waw na'ib fa'il; tajwid: nun sakinah before dhal is ikhfa haqiqi with ghunnah.]*
+*Fa-hadha balaghun lil-fasahati liyundharu [المطبوع: «للفصاحة»؛ محفوظ بلا تصحيح لعدم وجود شاهد قاطع؛ وصل: بلاغ وتحذير بعد العقاب؛ نحو: «هذا» مبتدأ و«بلاغ» خبر، و«لينذر» منصوب مبني للمجهول، والواو نائب فاعل؛ تجويد: النون الساكنة قبل الذال إخفاء حقيقي مع غنة]*
 
-*Wa-zajrun wa-ihraqun bihi al-jinna ahraqtu [al-matbu': ahrqt without vowels; read ahraqtu (active first-person); al-jinna is fronted object; tajwid: qalqalah sughra on sakin qaf, ghunnah on mushaddad nun in al-jinn.]*
+*Wa-zajrun wa-ihraqun bihi al-jinna ahraqtu [المطبوع: «أحرقت» بلا حركات؛ تُقرأ «أحرقتُ» (مبني للمعلوم للمتكلم)، و«الجنّ» مفعول مقدم؛ تجويد: قلقلة صغرى في القاف الساكنة، وغنة في النون المشددة من «الجنّ»]*
 
 *Sahat jahimu an-nari fil-kawni sayhatan*
 
@@ -131,11 +131,11 @@ Engkau akan melihat para pendosa yang mengingkari Kitab-Nya.
 
 *Wa-majat jami'ul-jinni sharqan wa-maghriban*
 
-*Wa-bith-tha'ati al-'uzhma li-amri tamahhadat [al-matbu': tamahhadat without vowels; tentative active feminine past, explicit subject absent; wasl: after jinn's movement and before request for their subjugation; nahw: feminine past verb, subject not explicit; tajwid: hā' is hams, ṭā' is a solar letter.]*
+*Wa-bith-tha'ati al-'uzhma li-amri tamahhadat [المطبوع: «تمهدت» بلا حركات؛ ماضٍ مؤنث مبني للمعلوم باحتمال، وفاعله غير مذكور؛ وصل: بعد حركة الجن وقبل طلب تسخيرهم؛ نحو: فعل ماضٍ مؤنث وفاعله غير ظاهر؛ تجويد: الهاء حرف همس، والطاء حرف شمسي]*
 
 *Wa-ya rabbi ya jabbaru asri' bi-qahrihim*
 
-*Wa-zalazila 'ushati al-jinni qahran anzaltu [al-matbu': anzalt without vowels; preferred active anzaltu with zalazila as fronted object; passive unzilat would require nominative zalazilu; tajwid: ikhfa before zay, izhar of tanwin before hamza, ghunnah on mushaddad nun in al-jinn.]*
+*Wa-zalazila 'ushati al-jinni qahran anzaltu [المطبوع: «أنزلت» بلا حركات؛ الأرجح «أنزلتُ» مبنيًا للمعلوم و«زلزلة» مفعول مقدم؛ ولو كان «أُنزلت» مبنيًا للمجهول لوجب رفع «زلازل»؛ تجويد: إخفاء قبل الزاي، وإظهار للتنوين قبل الهمزة، وغنة في النون المشددة من «الجنّ»]*
 
 **[Terjemahan Indonesia]**
 

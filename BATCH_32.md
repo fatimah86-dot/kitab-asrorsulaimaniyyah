@@ -40,9 +40,9 @@
 
 *'Ala ra'siha mithla as-sihami taqawwasat*
 
-*Wa-bi-ismi [name/word resembles “tambas”] [word resembles “abrasham”] thumma sallim*
+*Wa-bi-ismi [الاسم/الكلمة يشبه «طمبس»] [الكلمة تشبه «أبرشم»] thumma sallim*
 
-*Wa-fi wasatiha bi-l-hijratayni [verb resembles “nafarat”]*
+*Wa-fi wasatiha bi-l-hijratayni [الفعل يشبه «نفرت»]*
 
 *Wa-arba'atun mithla al-anamili suffifat*
 
@@ -124,7 +124,7 @@ Hā’, Shīn, kemudian Wāw yang melengkung. [Nama huruf dan deskripsi bentuk d
 
 **[Transliterasi Latin Fonetik]**
 
-*Ka-unbubi hijamin mina as-sirri [final word resembles “an-nut”]*
+*Ka-unbubi hijamin mina as-sirri [الكلمة الأخيرة تشبه «النوت»]*
 
 *Wa-akhiruha mithla al-awa'ili khatimun*
 
@@ -132,7 +132,7 @@ Hā’, Shīn, kemudian Wāw yang melengkung. [Nama huruf dan deskripsi bentuk d
 
 *Biha al-'ahdu wa-al-mithaqu wa-al-wa'du wa-al-wafa'*
 
-*Wa-bi-l-miski wa-al-kafuri [the following word is unclear; its letters resemble “an-nafih/an-nafij”] khutimat*
+*Wa-bi-l-miski wa-al-kafuri [الكلمة التالية غير واضحة، وحروفها تشبه «النفخ/النفج»] khutimat*
 
 *Tawajjahtu ya Rabbi ilayka bi-haqqiha*
 

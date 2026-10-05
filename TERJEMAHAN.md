@@ -183,7 +183,7 @@ Beliau adalah ahli ilmu ruhani yang agung, Dr. Abdullah al-Jundi, berkebangsaan 
 
 **Asraarul-asmaa'il-maktuubati 'alaa jabiini Jibraa'iila 'alaihis-salaam**
 
-*Fil-asmaa'il-maktuubaati 'alaa jabiini Jibraa'iila 'alaihis-salaam, al-waaqifi 'alaa syimaalil-qudrati muntazhiran maa yu'maru bihi minal-wahyil-ilaahiyy. Wa hiya 'alal-malaa'ikatil-mukhtashshiina bil-lauhil-muhiithi bikulli 'ilmin wal-'ilmir-rafii', mataa da'autahum bihaa ajaabuu sam'an wa thaa'atallaahi 'azza wa jalla, wa bi-asmaa'ihi wa bihaa khalaqahum, wa hiya maktuubatun 'alaa jabiini Jibriila 'alaihis-salaam, wa hiyallatii kaana yatakallamu bihaa 'Iisabnu Maryama 'alaihis-salaam 'inda muhimmaatil-amr, wa hiya haadzihi: Thasy thasy thasyth thasyah yuuhaniith huumiyaath huutsaawuth [phonetic reading of the non-Arabic name is tentative; printed consonants are retained], jallallaahu 'azza wa jalla, wa huwa 'alaa kulli syai'in qadiir.*
+*Fil-asmaa'il-maktuubaati 'alaa jabiini Jibraa'iila 'alaihis-salaam, al-waaqifi 'alaa syimaalil-qudrati muntazhiran maa yu'maru bihi minal-wahyil-ilaahiyy. Wa hiya 'alal-malaa'ikatil-mukhtashshiina bil-lauhil-muhiithi bikulli 'ilmin wal-'ilmir-rafii', mataa da'autahum bihaa ajaabuu sam'an wa thaa'atallaahi 'azza wa jalla, wa bi-asmaa'ihi wa bihaa khalaqahum, wa hiya maktuubatun 'alaa jabiini Jibriila 'alaihis-salaam, wa hiyallatii kaana yatakallamu bihaa 'Iisabnu Maryama 'alaihis-salaam 'inda muhimmaatil-amr, wa hiya haadzihi: Thasy thasy thasyth thasyah yuuhaniith huumiyaath huutsaawuth [القراءة محتملة، والحروف محفوظة على رسم المطبوع - qiraatuhu muhtamalah], jallallaahu 'azza wa jalla, wa huwa 'alaa kulli syai'in qadiir.*
 
 **[Terjemahan Indonesia]**
 
@@ -263,7 +263,7 @@ Ia terdiri dari tujuh nama yang diajarkan Allah Ta'ala kepada Mikail 'alaihis-sa
 
 *… syai'in min a'maalil-birri wat-taqwaa, wastinzaalisy-Syaaquufaatillatii bi-aqthaaril-ardh. Wa hiya haadzihil-asmaa'uth-thaahiratusy-syariifah, al-muthahharatul-maktuubatu 'alaa jabhati Miikaa'iila 'alaihis-salaam:*
 
-*Syahaa Syuwiin Kunuufisy Luuniim Kiiliim Ya'thiisy Baalah [phonetic reading of the non-Arabic name is tentative; printed consonants are retained].*
+*Syahaa Syuwiin Kunuufisy Luuniim Kiiliim Ya'thiisy Baalah [القراءة محتملة، والحروف محفوظة على رسم المطبوع - qiraatuhu muhtamalah].*
 
 **[Terjemahan Indonesia]**
 
@@ -335,7 +335,7 @@ Ketahuilah — semoga Allah memberimu taufik — bahwa apabila engkau mengucapka
 
 **Asraaru asmaa'i ash-haabil-bathsy**
 
-*Bakhthaa Shiithaa 'Ajaa 'Alyuun Haaniith Sam'aa Sya'iitaa [phonetic reading of the non-Arabic name is tentative; printed consonants are retained].*
+*Bakhthaa Shiithaa 'Ajaa 'Alyuun Haaniith Sam'aa Sya'iitaa [القراءة محتملة، والحروف محفوظة على رسم المطبوع - qiraatuhu muhtamalah].*
 
 **[Terjemahan Indonesia]**
 
@@ -379,7 +379,7 @@ Tafsirnya dalam bahasa Arab: Mahasuci Engkau, wahai Pembebas leher-leher (para h
 
 **صِنَاعَةُ خَاتَمٍ لِمِيطَرُونَ**
 
-إِذَا أَرَدْتَ اسْتِخْدَامَ هَذَا المَلَكِ، فَاصْنَعْ خَاتَمًا مِنْ ذَهَبٍ فَصُّهُ مِنْ عَقِيقٍ أَحْمَرَ، يَكُونُ صِيَاغَتُهُ وَنَقْشُهُ فِي يَوْمِ الجُمُعَةِ، وَالزُّهَرَةُ فِي شَرَفِهَا وَهُوَ الحُوتُ فِي شَرَفِهِ، أَوْ يَوْمِ السَّبْتِ وَزُحَلُ فِي المِيزَانِ، أَوْ يَوْمِ الأَحَدِ وَالشَّمْسُ فِي الحَمَلِ، أَوْ يَوْمِ الِاثْنَيْنِ وَالقَمَرُ فِي الثَّوْرِ، أَوْ يَوْمِ الخَمِيسِ وَالمُشْتَرِي فِي السَّرَطَانِ خَالٍ مِنَ الجَوْزَهَرِ. وأيما دار ما درى [الصيغة كما في المطبوع مع غرابة تركيبها؛ لا تُصحح بلا شاهد أوضح] صَنَعْتَ ذَلِكَ فِي وَقْتِهِ يَكُونُ خَالِيًا مِنَ النُّحُوسِ، وَيَكُونُ ذَلِكَ فِي أَشْهُرِ العَرَبِ خَالِيًا مِنْ أَشْهُرِ الحُرُمِ، ثُمَّ تَنْقُشُهُ نَقْشًا حَسَنًا، وَتَغْسِلُهُ بَعْدَ ذَلِكَ بِمَاءٍ جَارٍ وَمِلْحٍ، ثُمَّ بِمَاءِ وَرْدٍ وَمِسْكٍ، ثُمَّ تَصْنَعُ لَهُ مَحْفَظَةً مِنْ حَرِيرٍ أَخْضَرَ. وَتَأَهَّبْ بِإِذْنِ اللَّهِ فِي الوُقُوفِ إِلَيْهِ.
+إِذَا أَرَدْتَ اسْتِخْدَامَ هَذَا المَلَكِ، فَاصْنَعْ خَاتَمًا مِنْ ذَهَبٍ فَصُّهُ مِنْ عَقِيقٍ أَحْمَرَ، يَكُونُ صِيَاغَتُهُ وَنَقْشُهُ فِي يَوْمِ الجُمُعَةِ، وَالزُّهَرَةُ فِي شَرَفِهَا وَهُوَ الحُوتُ فِي شَرَفِهِ، أَوْ يَوْمِ السَّبْتِ وَزُحَلُ فِي المِيزَانِ، أَوْ يَوْمِ الأَحَدِ وَالشَّمْسُ فِي الحَمَلِ، أَوْ يَوْمِ الِاثْنَيْنِ وَالقَمَرُ فِي الثَّوْرِ، أَوْ يَوْمِ الخَمِيسِ وَالمُشْتَرِي فِي السَّرَطَانِ خَالٍ مِنَ الجَوْزَهَرِ. وَأَيْنَمَا دَارَ [في المطبوع «أيما دار ما درى» وهو محرَّف؛ وصوابه على مقتضى النحو والفلك «وَأَيْنَمَا دَارَ» أي حيثما دار الفلك في برجه] صَنَعْتَ ذَلِكَ فِي وَقْتِهِ يَكُونُ خَالِيًا مِنَ النُّحُوسِ، وَيَكُونُ ذَلِكَ فِي أَشْهُرِ العَرَبِ خَالِيًا مِنْ أَشْهُرِ الحُرُمِ، ثُمَّ تَنْقُشُهُ نَقْشًا حَسَنًا، وَتَغْسِلُهُ بَعْدَ ذَلِكَ بِمَاءٍ جَارٍ وَمِلْحٍ، ثُمَّ بِمَاءِ وَرْدٍ وَمِسْكٍ، ثُمَّ تَصْنَعُ لَهُ مَحْفَظَةً مِنْ حَرِيرٍ أَخْضَرَ. وَتَأَهَّبْ بِإِذْنِ اللَّهِ فِي الوُقُوفِ إِلَيْهِ.
 
 </div>
 
@@ -397,7 +397,7 @@ Apabila engkau hendak memanfaatkan malaikat ini, buatlah sebuah cincin dari emas
 
 **[Syarah]**
 
-> Istilah falak: «الشرف» (*syaraf*) = kedudukan puncak planet pada buruj tertentu (Venus di Hut/Pisces, Saturnus di Mizan/Libra, Matahari di Hamal/Aries, Bulan di Tsaur/Taurus, Jupiter di Saratan/Cancer); «الجوزهر» (*al-Jawzahar*) = titik simpul orbit Bulan (kepala dan ekor naga); «النحوس» = saat atau pengaruh yang dianggap sial; «أشهر الحرم» = Muharram, Rajab, Dzulqa'dah, dan Dzulhijjah. «ميطرون» kemungkinan padanan «Metatron» (nama malaikat dalam tradisi mistik Yahudi); teks tidak menjelaskan. Kalimat «وأيما دار ما درى» tampak rusak dalam cetakan sehingga dibiarkan tanpa harakat dan ditandai [الصيغة كما في المطبوع مع غرابة تركيبها؛ لا تُصحح بلا شاهد أوضح]; arti umum kalimat sesudahnya: bila dibuat pada waktu yang tepat, cincin bebas dari kesialan.
+> Istilah falak: «الشرف» (*syaraf*) = kedudukan puncak planet pada buruj tertentu (Venus di Hut/Pisces, Saturnus di Mizan/Libra, Matahari di Hamal/Aries, Bulan di Tsaur/Taurus, Jupiter di Saratan/Cancer); «الجوزهر» (*al-Jawzahar*) = titik simpul orbit Bulan (kepala dan ekor naga); «النحوس» = saat atau pengaruh yang dianggap sial; «أشهر الحرم» = Muharram, Rajab, Dzulqa'dah, dan Dzulhijjah. «ميطرون» kemungkinan padanan «Metatron» (nama malaikat dalam tradisi mistik Yahudi); teks tidak menjelaskan. Kalimat «أيما دار ما درى» pada cetakan tampak salah tulis (محرَّف); atas pertimbangan nahwu dan falak dibaca «وَأَيْنَمَا دَارَ» — «dimanapun beredar» (yakni di manapun benda langit itu beredar pada burujnya), dan bentuk cetaknya tetap dicatat; arti umum kalimat sesudahnya: bila dibuat pada waktu yang tepat, cincin bebas dari kesialan.
 
 **[Faedah]**
 
@@ -547,7 +547,7 @@ Wahai Hiyan Syara Hiyan Adunayya Ashba'uuti Ali Syadayya, cahaya di atas cahaya,
 
 **[Transliterasi Latin Fonetik]**
 
-*… Ghasyyaal Hadriyaal Lahfayaal Barqiyaal Nuuriyaal 'Asyyaal Ghasyyaal Falaayaal 'an Tiriyaal Sarhiyaal [phonetic reading is tentative; printed consonants are retained]. Tabaaraka rabbunaa, maa a'azza 'izzah, alladzii aljamal-jaana bikalimaatih, laa ilaaha illaa huw. 'Ajjiluu bikaafin min kaaf, wa bishaadin min shaad, au Uuhii Syuushah, Syaramah bisyuthuurin syuthuur, ham'asat Alif-Laam-Mim Alif-Laam-Shaad [irregular printed letter sequence retained without emendation] Rabbi yaa Jaliilal-ajal, ajibnii yaa Maithathruunu anta wa jamii'u a'waanik, ath-thaa'ata lillaahi wa li-asmaa-ih.*
+*… Ghasyyaal Hadriyaal Lahfayaal Barqiyaal Nuuriyaal 'Asyyaal Ghasyyaal Falaayaal 'an Tiriyaal Sarhiyaal [القراءة محتملة، والحروف محفوظة على رسم المطبوع - qiraatuhu muhtamalah]. Tabaaraka rabbunaa, maa a'azza 'izzah, alladzii aljamal-jaana bikalimaatih, laa ilaaha illaa huw. 'Ajjiluu bikaafin min kaaf, wa bishaadin min shaad, au Uuhii Syuushah, Syaramah bisyuthuurin syuthuur, ham'asat Alif-Laam-Mim Alif-Laam-Shaad [تسلسل حروف مطبوع غير منتظم، محفوظ بلا تصحيح] Rabbi yaa Jaliilal-ajal, ajibnii yaa Maithathruunu anta wa jamii'u a'waanik, ath-thaa'ata lillaahi wa li-asmaa-ih.*
 
 **[Terjemahan Indonesia]**
 
@@ -799,7 +799,7 @@ Dan apabila jin membangkang kepadamu, dan engkau hendak ia tidak beranjak dari a
 
 **Asmaa-un taqtulu jamii'al-muluuk**
 
-*Idzaa 'ashaa 'alaika malikun minal-muluuki au 'aaridhun minal-'awaaridhi wa aradta qatlah, uktub haadzihil-asmaa'a fii waraqatin in amkanaka [al-mathbu': amkatka], au fil-ardh, wa ta'malu 'alaiha harabata Yamuuna [irregular printed sequence retained without emendation], fakullu maa tashna'u fiihaa yushna'u bih. Wa tad'uu bi-ayyi malikin syi'ta fayumtatsalu [al-mathbu': fayumatsilu] amruk, wa hiya haadzihi: Thamthamluusy [phonetic reading is tentative; printed consonants are retained].*
+*Idzaa 'ashaa 'alaika malikun minal-muluuki au 'aaridhun minal-'awaaridhi wa aradta qatlah, uktub haadzihil-asmaa'a fii waraqatin in amkanaka [al-mathbu': amkatka], au fil-ardh, wa ta'malu 'alaiha harabata Yamuuna [تسلسل مطبوع غير منتظم، محفوظ بلا تصحيح], fakullu maa tashna'u fiihaa yushna'u bih. Wa tad'uu bi-ayyi malikin syi'ta fayumtatsalu [al-mathbu': fayumatsilu] amruk, wa hiya haadzihi: Thamthamluusy [القراءة محتملة، والحروف محفوظة على رسم المطبوع - qiraatuhu muhtamalah].*
 
 **[Terjemahan Indonesia]**
 
@@ -831,7 +831,7 @@ Apabila seorang raja dari para raja atau seorang penghalang dari para penghalang
 
 **Fashlun fii taktiifil-jaanni wa shalbihi wastinthaaqih**
 
-*Idzaa ataaka mushaabun wa bihi riihun minal-jaann, faktub lahu wa shaari'hu. Fa-idzanshara'a ta'muru bitaktiifihi fataquulu: Lanaa Lanaa Hii Hafyah Aay Hii Birahi, ikhdha' bihaqqil-ghaalibi 'alaik, wa bihaqqi 'Asyirin Zhaharasy Kaffahu yaa Maimuun [phonetic reading is tentative; printed consonants are retained].*
+*Idzaa ataaka mushaabun wa bihi riihun minal-jaann, faktub lahu wa shaari'hu. Fa-idzanshara'a ta'muru bitaktiifihi fataquulu: Lanaa Lanaa Hii Hafyah Aay Hii Birahi, ikhdha' bihaqqil-ghaalibi 'alaik, wa bihaqqi 'Asyirin Zhaharasy Kaffahu yaa Maimuun [القراءة محتملة، والحروف محفوظة على رسم المطبوع - qiraatuhu muhtamalah].*
 
 **[Terjemahan Indonesia]**
 
@@ -859,7 +859,7 @@ Apabila datang kepadamu orang yang terkena (musibah) dan padanya ada «angin» (
 
 **Istinthaaq**
 
-*Idzaa aradta an yatakallama [al-mathbu': takallama] al-jinnu fasjunhu fil-jubbah, taquulu: Habastuka bi-Hanthasy bi-Kahyash wa Hammi 'Asyaq [phonetic reading is tentative; printed consonants are retained].*
+*Idzaa aradta an yatakallama [al-mathbu': takallama] al-jinnu fasjunhu fil-jubbah, taquulu: Habastuka bi-Hanthasy bi-Kahyash wa Hammi 'Asyaq [القراءة محتملة، والحروف محفوظة على رسم المطبوع - qiraatuhu muhtamalah].*
 
 **[Terjemahan Indonesia]**
 
@@ -1009,7 +1009,7 @@ Apabila engkau hendak membuatnya, engkau letakkan ia pada kain sutra merah atau 
 
 **[Transliterasi Latin Fonetik]**
 
-*… az-ziyaadah. Wa in aradta an ta'lamal-akhbaara minal-masyriqi ilal-maghrib, fathlubil-mukhtariqiina fii aqthaaril-ardhi yu'allimuuka bidzaalik. Wa in aradta an yasiiruu bika masiirata sanatin fii lahzhatin waahidah, fashna'haa bisaathan tahtak, wa takallam bi-asmaa'ir-ruhaaniyyah. Wa in aradta an tansyura ahla iqliimika 'alaa khashmin laa yuthiiquunah, fastadi' bihi wa sallith 'alaihi man syi't. Wa in aradta an tatahaalafa ma'a ahadin min mulukil-jinn, fatuhdhiruhu wa taquulu: Syaah Syaah Asy Liyaal Liyaal Haalif Haalif [phonetic reading is tentative; printed consonants are retained], wa idz akhadza rabbuka min banii aadama min zhuhuurihim dzurriyyaatihim, wa asyhadahum 'alaa anfusihim a-lastu birabbikum qaaluu balaa, syahidnaa syahidnaa. Fa-in ajaabul-'ahd, wa illaa fatakallem bil-asmaa'il-latii fii qalbil-balaathah, wanfakh 'alaihim yahtariquun. Wa qad aradtal-ikhtishaara khiifatath-tathwiil, fa-innahaa tatasyarrafu fii alfi baabin minal-manaafi', wa hiyath-thaa'atul-kubrallatii kaana Sulaimaanu bnu Daawuda ya'malu bihaa, wa kaana yanzilu bihaa min iqliimin ilaa iqliim, wa hiyal-qahru 'alaa jamii'i ahlil-ardh. Fahfazh maa qad shaara ilaika ayyuhal-'aalim, wa laa tubdihi lijaahilin fayashrafahu fiimaa laa yardhaahullaahu ta'aalaa, fahfazhhaa kamaa dzakartu lak.*
+*… az-ziyaadah. Wa in aradta an ta'lamal-akhbaara minal-masyriqi ilal-maghrib, fathlubil-mukhtariqiina fii aqthaaril-ardhi yu'allimuuka bidzaalik. Wa in aradta an yasiiruu bika masiirata sanatin fii lahzhatin waahidah, fashna'haa bisaathan tahtak, wa takallam bi-asmaa'ir-ruhaaniyyah. Wa in aradta an tansyura ahla iqliimika 'alaa khashmin laa yuthiiquunah, fastadi' bihi wa sallith 'alaihi man syi't. Wa in aradta an tatahaalafa ma'a ahadin min mulukil-jinn, fatuhdhiruhu wa taquulu: Syaah Syaah Asy Liyaal Liyaal Haalif Haalif [القراءة محتملة، والحروف محفوظة على رسم المطبوع - qiraatuhu muhtamalah], wa idz akhadza rabbuka min banii aadama min zhuhuurihim dzurriyyaatihim, wa asyhadahum 'alaa anfusihim a-lastu birabbikum qaaluu balaa, syahidnaa syahidnaa. Fa-in ajaabul-'ahd, wa illaa fatakallem bil-asmaa'il-latii fii qalbil-balaathah, wanfakh 'alaihim yahtariquun. Wa qad aradtal-ikhtishaara khiifatath-tathwiil, fa-innahaa tatasyarrafu fii alfi baabin minal-manaafi', wa hiyath-thaa'atul-kubrallatii kaana Sulaimaanu bnu Daawuda ya'malu bihaa, wa kaana yanzilu bihaa min iqliimin ilaa iqliim, wa hiyal-qahru 'alaa jamii'i ahlil-ardh. Fahfazh maa qad shaara ilaika ayyuhal-'aalim, wa laa tubdihi lijaahilin fayashrafahu fiimaa laa yardhaahullaahu ta'aalaa, fahfazhhaa kamaa dzakartu lak.*
 
 **[Terjemahan Indonesia]**
 
@@ -1025,7 +1025,7 @@ Apabila engkau hendak membuatnya, engkau letakkan ia pada kain sutra merah atau 
 
 ![Rajah Hal. 15 (cetak 14) — daira balathah: lingkaran berlapis dengan nama-nama](rajah/rajah_p15_balatah_01.png)
 
-*Keterangan rajah: daira (lingkaran) berlapis empat. Cincin terluar memuat tulisan Arab mengikuti keliling (sebagian terbaca: «…سوماس هاموش ييمون خارش واهنش اذا هو…» pada busur bawah, dan seruan berawal «بسم الله…» pada busur kanan); cincin ke-2 berupa deret garis-garis pendek rapat; cincin ke-3 memuat pengulangan «سا» berselang-seling dengan goresan huruf; lingkaran pusat memuat lima baris nama (bacaan dugaan, tidak dipastikan): (1) Hamsaltam Syanihurasy, (2) Kazhakh Kazhakh Labuurasy Dadaal, (3) Buthiitsy Syaa'idah Aflat Yaah, (4) Yaaw Rabb Syuthuthasynaah, (5) Ashth Yaah Uuqaahiriyaad [phonetic reading is tentative; printed consonants are retained]. Di antara cincin terdapat serpihan nama lain («مشقد عبدالله» [phonetic reading is tentative; printed consonants are retained] pada busur kiri-dalam, «كهم ق[حرف أخير غير واضح]» pada busur bawah-dalam). Kitab hanya menyatakan «sebagaimana engkau lihat»; bacaan tidak ditebak selain dugaan disertai catatan bahwa pelafalannya tentatif. Gambar dipotong dari pindaian, latar dibersihkan menjadi putih, diperbesar halus ke 300 DPI (metadata), dibingkai emas #c59b27; ketajaman mengikuti pindaian (bukan 300 DPI asli).*
+*Keterangan rajah: daira (lingkaran) berlapis empat. Cincin terluar memuat tulisan Arab mengikuti keliling (sebagian terbaca: «…سوماس هاموش ييمون خارش واهنش اذا هو…» pada busur bawah, dan seruan berawal «بسم الله…» pada busur kanan); cincin ke-2 berupa deret garis-garis pendek rapat; cincin ke-3 memuat pengulangan «سا» berselang-seling dengan goresan huruf; lingkaran pusat memuat lima baris nama (bacaan dugaan, tidak dipastikan): (1) Hamsaltam Syanihurasy, (2) Kazhakh Kazhakh Labuurasy Dadaal, (3) Buthiitsy Syaa'idah Aflat Yaah, (4) Yaaw Rabb Syuthuthasynaah, (5) Ashth Yaah Uuqaahiriyaad [القراءة محتملة، والحروف محفوظة على رسم المطبوع - qiraatuhu muhtamalah]. Di antara cincin terdapat serpihan nama lain («مشقد عبدالله» [القراءة محتملة، والحروف محفوظة على رسم المطبوع - qiraatuhu muhtamalah] pada busur kiri-dalam, «كهم ق[حرف أخير غير واضح]» pada busur bawah-dalam). Kitab hanya menyatakan «sebagaimana engkau lihat»; bacaan tidak ditebak selain dugaan disertai catatan bahwa pelafalannya tentatif. Gambar dipotong dari pindaian, latar dibersihkan menjadi putih, diperbesar halus ke 300 DPI (metadata), dibingkai emas #c59b27; ketajaman mengikuti pindaian (bukan 300 DPI asli).*
 
 **[Teks Arab Asli]**
 
@@ -1161,7 +1161,7 @@ Adam pada jam-jam tertentu di siang hari. Ia terdiri atas delapan puluh kata, da
 
 **[Transliterasi Latin Fonetik]**
 
-*Lahuu tsalatsmaaniyatun [irregular printed form retained without emendation] shinfun fit-ta'aariif, fa-inna fiihil-asmaa-al-maktuubata fii qalbisy-syams, wal-asmaa-ats-tsalaatsatal-maktuubata fii qalbil-qamar, wal-asmaa-al-maktuubata fii qalbil-marriikh, wal-asmaa-al-maktuubata fii qalbi 'uthaarid, wal-asmaa-al-maktuubata fii qalbil-musytari, wal-asmaa-al-maktuubata fii qalbi zuhal, as-sab'ata asmaa-inil-latii khalaqallahu bihal-aadamiyyiin, was-sab'ata asmaa-inil-latii khalaqallahu bihal-malaa-ikatal-muwakkaliina bil-asyjaari wan-nabataat, wa fiihi khamsatu asmaa-inil-latii kaanuu ya'maluuna bihaa saharatul-jinni wa saharatu ardhi baabil, wa fiihis-sab'atul-asmaa-il-maktuubatu fii qalbit-thilasm, wa fiihil-ismus-sarii'ul-ladzii yuktabu 'alaa waraqil-utrujj wa yughsalu bimaa-i wardin wa 'asalisy-syuhdil-ladzii ghairi mudakhkhan, wa tasqiihi liman syi'ta yahiiju min hubbik. Wa idzaa kutiba fii riqqin naqiyyin bidami khuththaafin wa masahta bihi 'alaa ra'sil-bahiimati tabi'ak, kadzaalika yuf'alu fii banii aadam. Wa lahuu minal-manaafi'i maa laa yuhshaa 'indah.*
+*Lahuu tsalatsmaaniyatun [صيغة مطبوعة غير منتظمة، محفوظة بلا تصحيح] shinfun fit-ta'aariif, fa-inna fiihil-asmaa-al-maktuubata fii qalbisy-syams, wal-asmaa-ats-tsalaatsatal-maktuubata fii qalbil-qamar, wal-asmaa-al-maktuubata fii qalbil-marriikh, wal-asmaa-al-maktuubata fii qalbi 'uthaarid, wal-asmaa-al-maktuubata fii qalbil-musytari, wal-asmaa-al-maktuubata fii qalbi zuhal, as-sab'ata asmaa-inil-latii khalaqallahu bihal-aadamiyyiin, was-sab'ata asmaa-inil-latii khalaqallahu bihal-malaa-ikatal-muwakkaliina bil-asyjaari wan-nabataat, wa fiihi khamsatu asmaa-inil-latii kaanuu ya'maluuna bihaa saharatul-jinni wa saharatu ardhi baabil, wa fiihis-sab'atul-asmaa-il-maktuubatu fii qalbit-thilasm, wa fiihil-ismus-sarii'ul-ladzii yuktabu 'alaa waraqil-utrujj wa yughsalu bimaa-i wardin wa 'asalisy-syuhdil-ladzii ghairi mudakhkhan, wa tasqiihi liman syi'ta yahiiju min hubbik. Wa idzaa kutiba fii riqqin naqiyyin bidami khuththaafin wa masahta bihi 'alaa ra'sil-bahiimati tabi'ak, kadzaalika yuf'alu fii banii aadam. Wa lahuu minal-manaafi'i maa laa yuhshaa 'indah.*
 
 **[Terjemahan Indonesia]**
 
@@ -1183,7 +1183,7 @@ Ia mempunyai «thalatsmaniyah» [bacaan mengikuti ejaan cetak meskipun bentuk ka
 
 **Wa haadza huwal-jalbus-suryaaniyy**
 
-**Taquulu ba'dat-tanziihil-awwalir-ruuhaaniyy: Araa araa kafiitaa kafiitaa syalsyiisy syalsyiisy malsyiisy malsyiisy ahiliil ahiliil haibuul haibuul maltiin maltiin kalkiyaam kalkiyaam ahiil ahiil kalkatsum kalkatsum ariiri ariiri ajbini ajbini akyaahuum akyaa-huum kalkiaa-iil kalkiaa-iil bidamlaakh baraakh baraakh haithaa-iil haithaa-iil arbaab biyaarab bahaitanaakh haitanaakh multiyaahuukh multiyaahuukh baaqithah 'aithalah ajriyaa-iil thailahuub thailahuub thaithuub thail'uub haibaa-uuth [phonetic reading is tentative; printed consonants are retained]* …*
+**Taquulu ba'dat-tanziihil-awwalir-ruuhaaniyy: Araa araa kafiitaa kafiitaa syalsyiisy syalsyiisy malsyiisy malsyiisy ahiliil ahiliil haibuul haibuul maltiin maltiin kalkiyaam kalkiyaam ahiil ahiil kalkatsum kalkatsum ariiri ariiri ajbini ajbini akyaahuum akyaa-huum kalkiaa-iil kalkiaa-iil bidamlaakh baraakh baraakh haithaa-iil haithaa-iil arbaab biyaarab bahaitanaakh haitanaakh multiyaahuukh multiyaahuukh baaqithah 'aithalah ajriyaa-iil thailahuub thailahuub thaithuub thail'uub haibaa-uuth [القراءة محتملة، والحروف محفوظة على رسم المطبوع - qiraatuhu muhtamalah]* …*
 
 **[Terjemahan Indonesia]**
 
@@ -1261,7 +1261,7 @@ Dan inilah akhir nama yang tersimpan itu: «Aqsyamaqasy, 'aqasy, thahsyiz, Ahya 
 
 **[Transliterasi Latin Fonetik]**
 
-*'Alyaaham 'alyaaham bihajbaaut buuruwaib bisyriyaa 'uulina 'uulina kalkalhuuj kalkalhuuj jar-khiyaal jar-khiyaal yikthasyah kasythamah bi'anjahaf 'anjahaf shinah shinah 'amhakaan fuukh ka'iidakh 'asmiilaah aah aah aah Allaahu Qudduus Qudduus rabbul-malaa-ikati war-ruuh bilathsyamah hah Allaahu Qudduus Qadiirun 'alaa maa yasyaa-u shiilyaakhuut arbaahuuth yaa bathrahaitaa yaa lamhaita ahbaaisyaa bihaitaalmeta matuuba bi'alkamasya falmalh-ya biithiikh ya'lam bathiina bihmahamiitsa hatsiitsa Ali Syadayya baal khuusy bisyandaluun syandluun yaa hinduwaan yaa maliikha azriyaa azriyaa Subbuuh Subbuuh Qudduus Qudduus rabbul-malaa-ikati war-ruuh bildaakh dansylaakh wanaasyakh mar'aawii mishraabiim shabaawuut 'abduyaa al-hiiba iilah ilahul-malaa-ikati war-ruuh biyaah yah yah bihi bihi Qudduus Qudduus islibu thawwaasyah bikhiya bilya qilya bimasydiid filbaawum dahut akhuwa akhuwa lamiyah laa harraaj ruud ziid adiim dayuusy qalnashuudam yasyaathuur yasyaathuur falqahshuudam arfaaf armiyaaruusy kasyriyaaub damartiitsa wamartiya artiyaad yaaliin miyaarah damarkuusy bidyaathuur bilahtatar baamiin daad madaad yuwiyah qaliithaibuuh yuutsar fuutsar adaad admaad [phonetic reading is tentative; printed consonants are retained]*
+*'Alyaaham 'alyaaham bihajbaaut buuruwaib bisyriyaa 'uulina 'uulina kalkalhuuj kalkalhuuj jar-khiyaal jar-khiyaal yikthasyah kasythamah bi'anjahaf 'anjahaf shinah shinah 'amhakaan fuukh ka'iidakh 'asmiilaah aah aah aah Allaahu Qudduus Qudduus rabbul-malaa-ikati war-ruuh bilathsyamah hah Allaahu Qudduus Qadiirun 'alaa maa yasyaa-u shiilyaakhuut arbaahuuth yaa bathrahaitaa yaa lamhaita ahbaaisyaa bihaitaalmeta matuuba bi'alkamasya falmalh-ya biithiikh ya'lam bathiina bihmahamiitsa hatsiitsa Ali Syadayya baal khuusy bisyandaluun syandluun yaa hinduwaan yaa maliikha azriyaa azriyaa Subbuuh Subbuuh Qudduus Qudduus rabbul-malaa-ikati war-ruuh bildaakh dansylaakh wanaasyakh mar'aawii mishraabiim shabaawuut 'abduyaa al-hiiba iilah ilahul-malaa-ikati war-ruuh biyaah yah yah bihi bihi Qudduus Qudduus islibu thawwaasyah bikhiya bilya qilya bimasydiid filbaawum dahut akhuwa akhuwa lamiyah laa harraaj ruud ziid adiim dayuusy qalnashuudam yasyaathuur yasyaathuur falqahshuudam arfaaf armiyaaruusy kasyriyaaub damartiitsa wamartiya artiyaad yaaliin miyaarah damarkuusy bidyaathuur bilahtatar baamiin daad madaad yuwiyah qaliithaibuuh yuutsar fuutsar adaad admaad [القراءة محتملة، والحروف محفوظة على رسم المطبوع - qiraatuhu muhtamalah]*
 
 **[Terjemahan Indonesia]**
 
@@ -1483,7 +1483,7 @@ Jika engkau melamar seorang perempuan lalu pernikahannya terasa sulit bagimu, ma
 
 **Hijaabu Sulaimaana bni Daawuuda**
 
-*Bismillaahir-Rahmaanir-Rahiim, bismillaahi wabillaahi wa minallaahi wa ilallaahi wa laa ilaaha illallaahu wa laa ghaaliba illallaahu wa laa haula wa laa quwwata illaa billaahil-'aliyyil-'azhiim, aqsamtu 'alaikum yaa ma'syaral-arwaahil-ma'luumaati wa ash-haabis-silaahi war-rimaahil-mahduudaat, wa rukkaabir-riyaahi wal-mustariqiinas-sam'a minas-samaa-i ilal-ardh, wa ash-haabul-bunuud, aqsamtu 'alaikum bil-asmaa-il-'izhaam, wal-kalimaatil-kiraam, wa bihaqqil-asmaa-il-muqalladati fii a'naaqikum wa thaa'atihaa bikum, Ta'thir Yaayil Ta'thir Yaayil, Tharthaa-iil Tharthaa-iil, Zanqiith Zanqiith, Muthaahusy Muthaahusy, Jaljamiisy Jaljamiisy, Raahim Raahim, Jirjaa-iil Jirjaa-iil, ayyatuhal-arwaarhur-ruuhaaniyyatu ash-haabus-samaa-i wa ash-haabusy-syaamaaliyyati wal-jihatin-naariyyah, anziluu bishighaarikum wa kibaarikum ilal-ardh, laa ardhun tuzhillukum wa laa samaa-un tuqillukum bihaqqi arkaadhi Ashbaawta Aala Syaddaay, hashshantuka yaa shaahiba haadzal-kitaab, bismillaahil-ladzii wadha'a 'alal-malaa-ikati wa hum ya'rujuuna wa laa ya'kuluuna wa laa yasyrabuuna wa 'an dzikrillaahi laa yafturuun, wa bikhaatami Rasuulillaahi ﷺ (shallallaahu 'alaihi wa sallama) alladzii 'alaa aatsaarihim, ﴿wa ja'alnaa min baini aidiihim saddan wa min khalfihim saddan fa-aghsyainaahum fahum laa yubshiruun﴾ [Yasin: 9], wa maa syaa-a Rabbuka minat-tamaa-ili [unusual printed sequence retained without emendation], ﴿wa idzaa qara-tal-Qur-aana ja'alnaa bainaka wa bainal-ladziina laa yu'minuuna bil-aakhirati hijaabam-mastuuran wa ja'alnaa 'alaa quluubihim akinnatan an yafqahuuhu wa fii aadzaanihim waqran wa idzaa dzakarta Rabbaka fil-Qur-aani wahdahu wallau 'alaa adbaarihim nufuuran﴾ [al-Israa': 45-46], ﴿wa nunazzilu minal-Qur-aani maa huwa syifaa-un wa rahmatun lil-mu'miniin﴾ [al-Israa': 82], ar-Ra'su, Thartharu, Barquusu, Fayuusu, Mahruusu, 'Athruusu, Haruusu, Ba'duusu, Sarnaluusu, Dabuusa, Mal'uunatu, Ummush-Shibyaan,*
+*Bismillaahir-Rahmaanir-Rahiim, bismillaahi wabillaahi wa minallaahi wa ilallaahi wa laa ilaaha illallaahu wa laa ghaaliba illallaahu wa laa haula wa laa quwwata illaa billaahil-'aliyyil-'azhiim, aqsamtu 'alaikum yaa ma'syaral-arwaahil-ma'luumaati wa ash-haabis-silaahi war-rimaahil-mahduudaat, wa rukkaabir-riyaahi wal-mustariqiinas-sam'a minas-samaa-i ilal-ardh, wa ash-haabul-bunuud, aqsamtu 'alaikum bil-asmaa-il-'izhaam, wal-kalimaatil-kiraam, wa bihaqqil-asmaa-il-muqalladati fii a'naaqikum wa thaa'atihaa bikum, Ta'thir Yaayil Ta'thir Yaayil, Tharthaa-iil Tharthaa-iil, Zanqiith Zanqiith, Muthaahusy Muthaahusy, Jaljamiisy Jaljamiisy, Raahim Raahim, Jirjaa-iil Jirjaa-iil, ayyatuhal-arwaarhur-ruuhaaniyyatu ash-haabus-samaa-i wa ash-haabusy-syaamaaliyyati wal-jihatin-naariyyah, anziluu bishighaarikum wa kibaarikum ilal-ardh, laa ardhun tuzhillukum wa laa samaa-un tuqillukum bihaqqi arkaadhi Ashbaawta Aala Syaddaay, hashshantuka yaa shaahiba haadzal-kitaab, bismillaahil-ladzii wadha'a 'alal-malaa-ikati wa hum ya'rujuuna wa laa ya'kuluuna wa laa yasyrabuuna wa 'an dzikrillaahi laa yafturuun, wa bikhaatami Rasuulillaahi ﷺ (shallallaahu 'alaihi wa sallama) alladzii 'alaa aatsaarihim, ﴿wa ja'alnaa min baini aidiihim saddan wa min khalfihim saddan fa-aghsyainaahum fahum laa yubshiruun﴾ [Yasin: 9], wa maa syaa-a Rabbuka minat-tamaa-ili [ترتيب مطبوع غير مألوف، محفوظ بلا تصحيح], ﴿wa idzaa qara-tal-Qur-aana ja'alnaa bainaka wa bainal-ladziina laa yu'minuuna bil-aakhirati hijaabam-mastuuran wa ja'alnaa 'alaa quluubihim akinnatan an yafqahuuhu wa fii aadzaanihim waqran wa idzaa dzakarta Rabbaka fil-Qur-aani wahdahu wallau 'alaa adbaarihim nufuuran﴾ [al-Israa': 45-46], ﴿wa nunazzilu minal-Qur-aani maa huwa syifaa-un wa rahmatun lil-mu'miniin﴾ [al-Israa': 82], ar-Ra'su, Thartharu, Barquusu, Fayuusu, Mahruusu, 'Athruusu, Haruusu, Ba'duusu, Sarnaluusu, Dabuusa, Mal'uunatu, Ummush-Shibyaan,*
 
 **[Terjemahan Indonesia]**
 
@@ -1585,7 +1585,7 @@ Ditulis dan digantungkan; dengan nama Allah Yang Maha Pengasih lagi Maha Penyaya
 
 **Tahshiinul-Ihaathah**
 
-*Yuqra-u shabaahan wa masaa-an tsalaatsa marraatin wa huwa: bismillaahir-Rahmaanir-Rahiim laa ilaaha illallaahu bainii wa baina a'daa-ii, laa ilaaha illallaahu bainii wa baina khashmaanii jabalan haa-ilan wa saddan maani'an wa sitran mahjuuban wa saifan qaathi'an wa naaran muhriqatan wa bahran 'amiiqan laa yashiluuna ilayya laa biqaulin wa laa bi-fi'lin wa laa bisuu-in min haadzal-yawmi ilaa ghad, wa ilal-abad, ﴿fa nabdzukuhum [unusual printed sequence retained without emendation] Allaahu wa huwas-Samii'ul-'Aliim﴾*
+*Yuqra-u shabaahan wa masaa-an tsalaatsa marraatin wa huwa: bismillaahir-Rahmaanir-Rahiim laa ilaaha illallaahu bainii wa baina a'daa-ii, laa ilaaha illallaahu bainii wa baina khashmaanii jabalan haa-ilan wa saddan maani'an wa sitran mahjuuban wa saifan qaathi'an wa naaran muhriqatan wa bahran 'amiiqan laa yashiluuna ilayya laa biqaulin wa laa bi-fi'lin wa laa bisuu-in min haadzal-yawmi ilaa ghad, wa ilal-abad, ﴿fa nabdzukuhum [ترتيب مطبوع غير مألوف، محفوظ بلا تصحيح] Allaahu wa huwas-Samii'ul-'Aliim﴾*
 
 **[Terjemahan Indonesia]**
 
@@ -1739,7 +1739,7 @@ Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang; dengan nama Allah, Dia
 
 **Asmaa-uth-Thahaathiilits-Tsamaaniyah**
 
-*Wa hiya asmaa-u muluukin 'izhaamin lahaa katsiirun minal-khawaashi wat-tashaariifisy-syariifati wal-asraaril-lathiifah, nadzkuru ba'dhaha 'inda haajatihaa bi-idznillaahi ta'aala wa haadzihi hiyal-asmaa-us-sab'atu [unusual printed sequence retained without emendation]:*
+*Wa hiya asmaa-u muluukin 'izhaamin lahaa katsiirun minal-khawaashi wat-tashaariifisy-syariifati wal-asraaril-lathiifah, nadzkuru ba'dhaha 'inda haajatihaa bi-idznillaahi ta'aala wa haadzihi hiyal-asmaa-us-sab'atu [ترتيب مطبوع غير مألوف، محفوظ بلا تصحيح]:*
 
 *Lith-thahthiil, Muhaththathiil, Quhthithiil, Fahthithiil, Nuhahthathiil, Jahloththiil, Lakhahthathiil, Lamqanjal.*
 
@@ -2117,7 +2117,7 @@ Nama keenam: Bizjil, setimbangan «kaukab»; ia mempunyai huruf waw dan, dari ma
 
 *Al-Ismur-raabi'u 'asyar: Numuusyalakhu biwazni banuu qamar, lahuu minal-huruufi harfun-nuuni wa minal-manaazilis-simaaku wa ma'naahu bil-lughatil-'arabiyyati (Yaa Allaahu yaa Huu) wa fii nuskhatin (Al-Wakiil).*
 
-*Al-Ismul-khaamisu 'asyar: Birhyuulaa biwazni an tazuulaa, lahuu minal-huruufi harfus-siini wa minal-manaazilil-ghafru wa ma'naahu bil-'arabiyyati (Yaa Kaafi) wa fii nuskhatin (Yaa Kaafi) [unusual printed sequence retained without emendation] wa qiila (Yaa Samii').*
+*Al-Ismul-khaamisu 'asyar: Birhyuulaa biwazni an tazuulaa, lahuu minal-huruufi harfus-siini wa minal-manaazilil-ghafru wa ma'naahu bil-'arabiyyati (Yaa Kaafi) wa fii nuskhatin (Yaa Kaafi) [ترتيب مطبوع غير مألوف، محفوظ بلا تصحيح] wa qiila (Yaa Samii').*
 
 *Al-Ismus-saadisu 'asyar: Basykiilakhu biwazni maf'iil, lahuu minal-huruufi harful-'aini wa minal-manaaziliz-zabaanaa, wa ma'naahu bil-lughatil-'arabiyyati (Yaa Mu'min) wa qiila (Yaa Lathiif).*
 
@@ -2521,7 +2521,7 @@ Telah disebutkan perihal cara riyadhah dan pengamalan ini beberapa jalan; kami s
 
 *Da'watus-Sabaasibish-Shughraa*
 
-**Bismillaahir-Rahmaanir-Rahiim, alhamdu lillaahil-ladziihtaajaba 'anil-abshaari fa laa yura, Rabbis-samaawaatis-sab'i wal-araadhiinas-sab'i wa man fiihinna minal-waraa, alladzii khadha'a kullu syai-in lahu wa tawaadha'a liqudratih, wa kullu washfin 'an washfi shifaatih, al-Munfaridu bil-mulki wal-malakuti al-Mutamazzizu bil-jabarutilladzii lahuu maa fii bisaathil-ardhi wal-arkaani wa bisaathul-'ibaadi wal-anwaari Rabbizh-zhulumaati wal-anwaarid-Daa-imu fii mulkihiish-Shamad, alhamdu lillaahil-ladzii laa ilaaha illaa huwal-Malikul-Ma'buudu fii ardhihii wa samaa-ihi mukhrijul-asy-yaa-i minal-'adami ilal-wujuudi wa minal-wujuudi ilal-'adam, subhaanallaahi walhamdu lillaahi wa laa ilaaha illallaahu wallaahu akbar, Sibaasibu Sibaasibu Sabuukatun Sabuukah Kathahthamu Kathahtham Tazalzaltu Tazalzalt Taza'za'tu Taza'za't Muthaa'u Muthaa' Muthaaghu Muthaagh Ibnur-ru-usil-arba'ati ibnut-Turaabiyyati ibnul-Hawaa-iyyati ibnu Banii Ghailaana ibnu Shaahibi Jabalid-Dukhaani ibnur-Raakibi 'alal-fiilil-Muta'ammimi bisy-Syabaani ibnu Kardami ibnu Dardami ibnu Khamiisi ibnu Qaashuuri ibnu Qimaarisyi ibnu Qathaariisyi ibnu Abur-Rawaisyi ibnu Zamzami ibnu Dardam, ajiiibuu ayyuhal-khuddaamu bimaa amartukum bih antum wa jamii'u akhbaarikumul-'ulwiyyatu was-sufliyyatu was-sahaabiyyatu wath-Thamaathim [unusual printed sequence retained without emendation] wash-Shamaashim, waf'aluu kadzaa wa kadzaa bihaqqi Shamaashimu Shamaashim Hadaamu Hadaam Humuumu Humuum Syaarakhu Syaarakh ahib yaa Maazira Shaahiba Qalamil-Yaaquutil-Ahmar ahib yaa Ka'tsama Shaahiba Qalamidz-Dzahabi wa Mihbarati* …*
+**Bismillaahir-Rahmaanir-Rahiim, alhamdu lillaahil-ladziihtaajaba 'anil-abshaari fa laa yura, Rabbis-samaawaatis-sab'i wal-araadhiinas-sab'i wa man fiihinna minal-waraa, alladzii khadha'a kullu syai-in lahu wa tawaadha'a liqudratih, wa kullu washfin 'an washfi shifaatih, al-Munfaridu bil-mulki wal-malakuti al-Mutamazzizu bil-jabarutilladzii lahuu maa fii bisaathil-ardhi wal-arkaani wa bisaathul-'ibaadi wal-anwaari Rabbizh-zhulumaati wal-anwaarid-Daa-imu fii mulkihiish-Shamad, alhamdu lillaahil-ladzii laa ilaaha illaa huwal-Malikul-Ma'buudu fii ardhihii wa samaa-ihi mukhrijul-asy-yaa-i minal-'adami ilal-wujuudi wa minal-wujuudi ilal-'adam, subhaanallaahi walhamdu lillaahi wa laa ilaaha illallaahu wallaahu akbar, Sibaasibu Sibaasibu Sabuukatun Sabuukah Kathahthamu Kathahtham Tazalzaltu Tazalzalt Taza'za'tu Taza'za't Muthaa'u Muthaa' Muthaaghu Muthaagh Ibnur-ru-usil-arba'ati ibnut-Turaabiyyati ibnul-Hawaa-iyyati ibnu Banii Ghailaana ibnu Shaahibi Jabalid-Dukhaani ibnur-Raakibi 'alal-fiilil-Muta'ammimi bisy-Syabaani ibnu Kardami ibnu Dardami ibnu Khamiisi ibnu Qaashuuri ibnu Qimaarisyi ibnu Qathaariisyi ibnu Abur-Rawaisyi ibnu Zamzami ibnu Dardam, ajiiibuu ayyuhal-khuddaamu bimaa amartukum bih antum wa jamii'u akhbaarikumul-'ulwiyyatu was-sufliyyatu was-sahaabiyyatu wath-Thamaathim [ترتيب مطبوع غير مألوف، محفوظ بلا تصحيح] wash-Shamaashim, waf'aluu kadzaa wa kadzaa bihaqqi Shamaashimu Shamaashim Hadaamu Hadaam Humuumu Humuum Syaarakhu Syaarakh ahib yaa Maazira Shaahiba Qalamil-Yaaquutil-Ahmar ahib yaa Ka'tsama Shaahiba Qalamidz-Dzahabi wa Mihbarati* …*
 
 **[Terjemahan Indonesia]**
 
@@ -4623,7 +4623,7 @@ dan penundukan para durhaka yang angkuh serta siapa yang mendurhakai.
 
 *Mumiitun fa 'ajjil mauta khashmii idza i'tadaa*
 
-*Wa 'ajjil li-a'daa-ii halaakan na'ajjiluka [unusual printed sequence retained without emendation]*
+*Wa 'ajjil li-a'daa-ii halaakan na'ajjiluka [ترتيب مطبوع غير مألوف، محفوظ بلا تصحيح]*
 
 **[Terjemahan Indonesia]**
 
@@ -6897,7 +6897,7 @@ dengan hardikan dan pembakaran; telah kuutus mereka kepada golongan jin.
 
 *Wa-arsil lil-arhata taw'an bi-dhillatin*
 
-*Kadha kullu zhabyin wa-ghulin tafawwalat [the printed verb is read tentatively; its contextual meaning is unclear].*
+*Kadha kullu zhabyin wa-ghulin tafawwalat [الفعل المطبوع مقروء باحتمال، ومعناه السياقي غير واضح].*
 
 *Wa-wakkil bihifzhi ya Hafiz mulukaha*
 
@@ -6981,9 +6981,9 @@ agar terlindung dari keburukan dan musuh; aku pun diberi amanah penjagaan.
 
 *Wa-amlaku ya dza al-jalali tasakhkharat*
 
-*Wa-Dijlata Baghdada wa-nila furatiha [the printed phrase is retained; its grammatical connection is unclear].*
+*Wa-Dijlata Baghdada wa-nila furatiha [العبارة المطبوعة محفوظة، وصلها النحوي غير واضح].*
 
-*Wa-subhana Jahjan [the non-Arabic name is tentative; printed consonants retained] bismika sakhkhartu*
+*Wa-subhana Jahjan [القراءة محتملة، والحروف محفوظة على رسم المطبوع - qiraatuhu muhtamalah] bismika sakhkhartu*
 
 *Wa bil-ismi fajlib lil-khala'iqa kullaha*
 
@@ -7085,7 +7085,7 @@ Aku memohon kepada-Mu, wahai Yang Maha Perkasa, dengan Nama itu: segerakanlah.
 
 *Tasallata mulukul-intiqami bijam'ihim*
 
-*'Ala man 'asa min khasmi da'in bil-asma'i tazallamtu [the printed verb is retained; syntax is uncertain]*
+*'Ala man 'asa min khasmi da'in bil-asma'i tazallamtu [الفعل المطبوع محفوظ، وإعرابه غير محقق]*
 
 **[Terjemahan Indonesia]**
 
@@ -7161,11 +7161,11 @@ atas siapa pun yang durhaka di antara para penentangku; aku mengadukan perkara i
 
 *Wa-ya malika an-nirani arsil mulukaha*
 
-*Bi-waylin wa-sijillin sari'an tasara'at [the printed verb is retained; its attachment is unclear]*
+*Bi-waylin wa-sijillin sari'an tasara'at [الفعل المطبوع محفوظ، ووصله غير واضح]*
 
 *Wa-arsil jami'an bis-sa'iri wa-bil-lazha*
 
-*Li-ihraqi ahwalin li-ismika qad 'asat [the printed syntax and verb are retained; the referent is unclear]*
+*Li-ihraqi ahwalin li-ismika qad 'asat [التركيب والفعل المطبوعان محفوظان، والمرجع غير واضح]*
 
 *Wa-'adzdzib jami'al-jinni in lam yusari'u*
 
@@ -7173,7 +7173,7 @@ atas siapa pun yang durhaka di antara para penentangku; aku mengadukan perkara i
 
 *Wa-arsil 'afarit al-jahimi wa-naraha*
 
-*Bi-aghlali sijillin 'adhaban tawashalat [the printed verb is retained; its relation to the phrase is uncertain]*
+*Bi-aghlali sijillin 'adhaban tawashalat [الفعل المطبوع محفوظ، وعلاقته بالعبارة غير محققة]*
 
 **[Terjemahan Indonesia]**
 
@@ -7249,7 +7249,7 @@ dengan belenggu dari sijil; azab itu pun terus berlanjut. [Lafaz “sijil” dan
 
 *Salasila aghlalin bi-a'naqi man 'asa*
 
-*Ijabata asma'i al-ilahi tasalsalat [the printed form is retained; its syntax is uncertain]*
+*Ijabata asma'i al-ilahi tasalsalat [الصيغة المطبوعة محفوظة، وإعرابها غير محقق]*
 
 *Zabaniyata at-ta'dhibi billahi asri'u*
 
@@ -7269,7 +7269,7 @@ dengan belenggu dari sijil; azab itu pun terus berlanjut. [Lafaz “sijil” dan
 
 *Ahatat bihim narul-jahimi biharriha*
 
-*Wa-amlakuha bil-harqi jami'an tawakkaltu [the printed form is retained; the sentence structure is unclear]*
+*Wa-amlakuha bil-harqi jami'an tawakkaltu [الصيغة المطبوعة محفوظة، وتركيب الجملة غير واضح]*
 
 **[Terjemahan Indonesia]**
 
@@ -7351,11 +7351,11 @@ Dan para malaikatnya, dengan pembakaran secara bersama—aku bertawakal. [Susuna
 
 *Wa-in yastaghithu lan yughathu wa-yuhraqu*
 
-*Bi-ma'in kal-muhli bil-hamimi nahimina [al-matbu': nahimin; dabt ihtimali nahimina, without claiming a definite emendation; wasl: context is 'adhab al-hamim; nahw: probable hal mansub referring to the plural pronoun; tajwid: ha' is a hams consonant; no sakin qaf or doubled nun here.]*
+*Bi-ma'in kal-muhli bil-hamimi nahimina [المطبوع: «ناحمين»؛ ضبط احتمالي «نَاحِمِينَ» بلا جزم بتصحيح؛ وصل: السياق عذاب الحميم؛ نحو: حال منصوب محتمل يرجع إلى ضمير الجمع؛ تجويد: الحاء حرف همس، ولا قاف ساكنة ولا نون مشددة هنا]*
 
 *Fa-la tahsabanna Allaha mukhlifa wa'dihi*
 
-*Ilahun 'azizun dhu intiqamin tasara'at [al-matbu': tasara'at unvowelled; tentative dabt: tasara'at; wasl: divine might and retribution followed by the sinners; nahw: feminine perfect verb with no explicit subject; tajwid: no sakin qaf or doubled nun in this word.]*
+*Ilahun 'azizun dhu intiqamin tasara'at [المطبوع: «تسرعت» بلا حركات؛ ضبط احتمالي «تسارعت»؛ وصل: قدرة إلهية وانتقام تليه المجرمون؛ نحو: فعل ماضٍ مؤنث بلا فاعل ظاهر؛ تجويد: لا قاف ساكنة ولا نون مشددة في هذه الكلمة]*
 
 *Tara al-mujrimina al-jahidina kitabahu*
 
@@ -7429,15 +7429,15 @@ Engkau akan melihat para pendosa yang mengingkari Kitab-Nya.
 
 *Bi-narin wa-taghsha an-naru minhum wujuhahum*
 
-*'Adhaban tajzi kullu nafsin bima kasabat [al-matbu': banat; al-qira'ah al-muqtarahah: kasabat, per parallel Qur'anic al-Muddaththir 74:38; kullu nafsin fa'il tajzi, feminine pronoun in kasabat refers to nafs; tajwid: tanwin nafsin before ba is iqlab with ghunnah.]*
+*'Adhaban tajzi kullu nafsin bima kasabat [المطبوع: «بنت»؛ القراءة المقترحة: «كسبت» نظير قوله تعالى في المدثر ٧٤:٣٨؛ و«كل نفس» فاعل «تجزي»، والضمير المؤنث في «كسبت» يعود إلى «نفس»؛ تجويد: تنوين «نفسٍ» قبل الباء إقلاب مع غنة]*
 
 *Wa-yu'ta bi-nirani as-sa'iri wa-bil-lazha*
 
 *Wa-ghullun wa-asfadun biha al-kullu suffidat*
 
-*Fa-hadha balaghun lil-fasahati liyundharu [al-matbu': lil-fasahati; kept without emendation absent decisive witness; wasl: balagh and warning after punishment; nahw: hadha mubtada', balagh khabar, li-yundharu passive subjunctive, waw na'ib fa'il; tajwid: nun sakinah before dhal is ikhfa haqiqi with ghunnah.]*
+*Fa-hadha balaghun lil-fasahati liyundharu [المطبوع: «للفصاحة»؛ محفوظ بلا تصحيح لعدم وجود شاهد قاطع؛ وصل: بلاغ وتحذير بعد العقاب؛ نحو: «هذا» مبتدأ و«بلاغ» خبر، و«لينذر» منصوب مبني للمجهول، والواو نائب فاعل؛ تجويد: النون الساكنة قبل الذال إخفاء حقيقي مع غنة]*
 
-*Wa-zajrun wa-ihraqun bihi al-jinna ahraqtu [al-matbu': ahrqt without vowels; read ahraqtu (active first-person); al-jinna is fronted object; tajwid: qalqalah sughra on sakin qaf, ghunnah on mushaddad nun in al-jinn.]*
+*Wa-zajrun wa-ihraqun bihi al-jinna ahraqtu [المطبوع: «أحرقت» بلا حركات؛ تُقرأ «أحرقتُ» (مبني للمعلوم للمتكلم)، و«الجنّ» مفعول مقدم؛ تجويد: قلقلة صغرى في القاف الساكنة، وغنة في النون المشددة من «الجنّ»]*
 
 *Sahat jahimu an-nari fil-kawni sayhatan*
 
@@ -7449,11 +7449,11 @@ Engkau akan melihat para pendosa yang mengingkari Kitab-Nya.
 
 *Wa-majat jami'ul-jinni sharqan wa-maghriban*
 
-*Wa-bith-tha'ati al-'uzhma li-amri tamahhadat [al-matbu': tamahhadat without vowels; tentative active feminine past, explicit subject absent; wasl: after jinn's movement and before request for their subjugation; nahw: feminine past verb, subject not explicit; tajwid: hā' is hams, ṭā' is a solar letter.]*
+*Wa-bith-tha'ati al-'uzhma li-amri tamahhadat [المطبوع: «تمهدت» بلا حركات؛ ماضٍ مؤنث مبني للمعلوم باحتمال، وفاعله غير مذكور؛ وصل: بعد حركة الجن وقبل طلب تسخيرهم؛ نحو: فعل ماضٍ مؤنث وفاعله غير ظاهر؛ تجويد: الهاء حرف همس، والطاء حرف شمسي]*
 
 *Wa-ya rabbi ya jabbaru asri' bi-qahrihim*
 
-*Wa-zalazila 'ushati al-jinni qahran anzaltu [al-matbu': anzalt without vowels; preferred active anzaltu with zalazila as fronted object; passive unzilat would require nominative zalazilu; tajwid: ikhfa before zay, izhar of tanwin before hamza, ghunnah on mushaddad nun in al-jinn.]*
+*Wa-zalazila 'ushati al-jinni qahran anzaltu [المطبوع: «أنزلت» بلا حركات؛ الأرجح «أنزلتُ» مبنيًا للمعلوم و«زلزلة» مفعول مقدم؛ ولو كان «أُنزلت» مبنيًا للمجهول لوجب رفع «زلازل»؛ تجويد: إخفاء قبل الزاي، وإظهار للتنوين قبل الهمزة، وغنة في النون المشددة من «الجنّ»]*
 
 **[Terjemahan Indonesia]**
 
@@ -7541,7 +7541,7 @@ Dan gempa-gempa untuk para jin durhaka kuturunkan dengan paksa. [Cetakan «أن�
 
 *Wa-ya rabbi bis-saffati saffan bisirriha*
 
-*Wa-biz-zajirati as-saharat liman 'asat [the printed noun “as-saharat” is retained; its sense is uncertain]*
+*Wa-biz-zajirati as-saharat liman 'asat [الاسم المطبوع «السحرة» محفوظ، ومعناه غير محقق]*
 
 **[Terjemahan Indonesia]**
 
@@ -7601,17 +7601,17 @@ Demi para penghalau dan para «saharat», bagi siapa pun yang durhaka. [Bentuk �
 
 **[Transliterasi Latin Fonetik]**
 
-*Wa-bil-ghayati adh-dhikri rabbi bijahiha [the printed word order is retained; the grammatical relation is unclear]*
+*Wa-bil-ghayati adh-dhikri rabbi bijahiha [ترتيب الكلمات المطبوع محفوظ، والعلاقة النحوية غير واضحة]*
 
 *Wa-bil-mursalati al-'asifati wa-ma hawat*
 
 *Wa-bin-nashirati al-fariqati bijanbiha*
 
-*Wa-bir-rusuli wal-ahzabi hizbi taharrarat [the printed verb is retained; its subject and relation to “hizbi” are uncertain]*
+*Wa-bir-rusuli wal-ahzabi hizbi taharrarat [الفعل المطبوع محفوظ، وفاعله وعلاقته بـ«حزبي» غير محققين]*
 
-*Wa-bin-nuri wal-anwari ahriq ma'ani [the printed phrase is retained; the intended object is unclear]*
+*Wa-bin-nuri wal-anwari ahriq ma'ani [العبارة المطبوعة محفوظة، والمفعول المقصود غير واضح]*
 
-*Wa-bil-maliki wal-furqani mulki takawwanat [the printed phrase is retained; agreement is unusual]*
+*Wa-bil-maliki wal-furqani mulki takawwanat [العبارة المطبوعة محفوظة، والمطابقة غير مألوفة]*
 
 *Wa-bil-amlaki azhir man 'asa*
 
@@ -7619,21 +7619,21 @@ Demi para penghalau dan para «saharat», bagi siapa pun yang durhaka. [Bentuk �
 
 *Sa'altuka ya Qahharu liman tagha*
 
-*Wa-batshan bi-a'da'i sari'an idha i'tadat [the printed verb is retained; its subject is unstated]*
+*Wa-batshan bi-a'da'i sari'an idha i'tadat [الفعل المطبوع محفوظ، وفاعله غير مذكور]*
 
-*Wa-khayla qulubil-mu'anidina bijam'ihim [the printed construction is retained; its attachment is unclear]*
+*Wa-khayla qulubil-mu'anidina bijam'ihim [التركيب المطبوع محفوظ، ووصله غير واضح]*
 
-*Wa-asri' bi-nasril-baghidhina wa-man baghat [the printed wording is retained; the referent of “man” is unclear]*
+*Wa-asri' bi-nasril-baghidhina wa-man baghat [اللفظ المطبوع محفوظ، ومرجع «من» غير واضح]*
 
 *Sami'un sari'u al-ijabati sayyidi*
 
-*Bi-haqqi li-ya'khudhahum bihi azh-zhulmatu injalat [the printed syntax is retained; the clause relation is unclear]*
+*Bi-haqqi li-ya'khudhahum bihi azh-zhulmatu injalat [التركيب المطبوع محفوظ، وعلاقة الجملة غير واضحة]*
 
 *Bi-jahi al-lawhi jalabtu maqasidi*
 
-*Bi-haqqi ya nuru 'ala al-fawri 'ajjalta [the printed verb is retained; its vocalization is uncertain]*
+*Bi-haqqi ya nuru 'ala al-fawri 'ajjalta [الفعل المطبوع محفوظ، وضبطه غير محقق]*
 
-*Bi-ismi Liyarushi bisatwati qahrihi [the name and phrase follow the print; the full sense is uncertain]*
+*Bi-ismi Liyarushi bisatwati qahrihi [الاسم والعبارة تبعان للمطبوع، والمعنى الكامل غير محقق]*
 
 **[Terjemahan Indonesia]**
 
@@ -7721,7 +7721,7 @@ Dengan nama Liyārūsh, dengan kekuatan penaklukan-Nya. [Nama ini dipertahankan 
 
 **[Transliterasi Latin Fonetik]**
 
-*Bi-suri Liyarushi bi-shiddati batshihi [the printed word “sur” is retained; its sense in context is uncertain]*
+*Bi-suri Liyarushi bi-shiddati batshihi [الكلمة المطبوعة «سور» محفوظة، ومعناها في السياق غير محقق]*
 
 **[Terjemahan Indonesia]**
 
@@ -7779,37 +7779,37 @@ Dengan Sūr Liyārūsh, dengan kerasnya daya gempurnya. [Lafaz «سور» dipert
 
 **[Transliterasi Latin Fonetik]**
 
-*Liyashishu bil-ismi sa'di aqbalat [the name “Liyashishu” is tentative; printed consonants are retained]*
+*Liyashishu bil-ismi sa'di aqbalat [اسم «ليشيشو» محتمل، والحروف محفوظة على رسم المطبوع]*
 
-*Bi-rawa [following word unclear] bi-zahrihi bisirrihi [the printed fragments are retained; the connector is illegible]*
+*Bi-rawa [الكلمة التالية غير واضحة] bi-zahrihi bisirrihi [الشظايا المطبوعة محفوظة، والرابط غير مقروء]*
 
-*Bi-ma'in kathirin [short middle word unclear] 'izzatun 'alat [the visible wording is retained; the middle reading is uncertain]*
+*Bi-ma'in kathirin [كلمة وسطى قصيرة غير واضحة] 'izzatun 'alat [اللفظ الظاهر محفوظ، والقراءة الوسطى غير محققة]*
 
-*[opening word unreadable] 'azhimun mu'azzamun [the two visible epithets are retained; the line opening is obscured]*
+*[أول الكلمة غير مقروء] 'azhimun mu'azzamun [النعتان الظاهران محفوظان، وأول السطر مطموس]*
 
-*Ilahi bi-Thuran bil-ismi sa'di qad nabat [“Thuran” and the final phrase are tentative readings of the print]*
+*Ilahi bi-Thuran bil-ismi sa'di qad nabat [«ثوران» والعبارة الأخيرة قراءتان محتملتان للمطبوع]*
 
-*Sa'altuka ya Allah sirran [short ending unclear] [the visible phrase is retained; final reading remains uncertain]*
+*Sa'altuka ya Allah sirran [آخر قصير غير واضح] [العبارة الظاهرة محفوظة، والقراءة الأخيرة غير محققة]*
 
-*Wa-ya [vocative name unreadable] bil-ismi 'awni taskharat [the visible phrase is retained; the opening name is obscured]*
+*Wa-ya [اسم النداء غير مقروء] bil-ismi 'awni taskharat [العبارة الظاهرة محفوظة، واسم الافتتاح مطموس]*
 
-*Wa-ya [vocative name faint] 'azmi qawiyyun [short ending unclear] [“azmi qawiyyun” is visible; the surrounding words are uncertain]*
+*Wa-ya [اسم النداء باهت] 'azmi qawiyyun [آخر قصير غير واضح] [يظهر «عزم قوي»، والكلمات المحيطة غير محققة]*
 
-*Wa-ya [vocative name unreadable] [following word obscured] qadarat [the printed ending resembles “qadarat”; reading is tentative]*
+*Wa-ya [اسم النداء غير مقروء] [الكلمة التالية مطموسة] qadarat [الآخر المطبوع يشبه «قدرت»، والقراءة محتملة]*
 
-*Bi-'izzatin [short middle word unclear] lahu al-majdu was-sana [the final phrase is visible; the middle word is obscured]*
+*Bi-'izzatin [كلمة وسطى قصيرة غير واضحة] lahu al-majdu was-sana [العبارة الأخيرة ظاهرة، والكلمة الوسطى مطموسة]*
 
-*Wa-ya [vocative name unreadable] al-jinna idza 'asat [the latter phrase is retained; opening name is obscured]*
+*Wa-ya [اسم النداء غير مقروء] al-jinna idza 'asat [العبارة الأخيرة محفوظة، واسم الافتتاح مطموس]*
 
-*Bi-satwatin [name-like word unclear] qawiyyun [short ending obscured] [the visible words are retained; the name fragments are uncertain]*
+*Bi-satwatin [كلمة شبيهة باسم غير واضحة] qawiyyun [آخر قصير مطموس] [الكلمات الظاهرة محفوظة، وشظايا الاسم غير محققة]*
 
 *Lahu al-mulku wal-amlaku jam'an tawada'at*
 
-*Wa-ya [vocative name unclear] ya ilahi bijahihi [the visible invocation is retained; the opening name is unreadable]*
+*Wa-ya [اسم النداء غير واضح] ya ilahi bijahihi [الدعاء الظاهر محفوظ، واسم الافتتاح غير مقروء]*
 
-*Bi-'izzin [short word unclear] bin-nafkhi as-sa'du aqbalat [the final words are tentative readings of the print]*
+*Bi-'izzin [كلمة قصيرة غير واضحة] bin-nafkhi as-sa'du aqbalat [الكلمات الأخيرة قراءات محتملة للمطبوع]*
 
-*Bi-ismi Jalilin bi-zahwin la qahira [the printed wording is retained; the syntax is unusual]*
+*Bi-ismi Jalilin bi-zahwin la qahira [اللفظ المطبوع محفوظ، والإعراب غير مألوف]*
 
 **[Terjemahan Indonesia]**
 
@@ -7899,13 +7899,13 @@ Dengan nama Yang Agung, dengan kebesaran; tiada penakluk. [Susunan pada cetakan 
 
 **[Transliterasi Latin Fonetik]**
 
-*[opening word unreadable] narul-jinni tamarradat [the visible phrase is retained; the line opening is obscured]*
+*[أول الكلمة غير مقروء] narul-jinni tamarradat [العبارة الظاهرة محفوظة، وأول السطر مطموس]*
 
-*Wa-ya [vocative name unreadable] asri' binajhi maqasidi [the printed phrase is retained despite unusual wording]*
+*Wa-ya [اسم النداء غير مقروء] asri' binajhi maqasidi [العبارة المطبوعة محفوظة مع غرابة اللفظ]*
 
-*[opening word unclear] fal-muluku tasara'at [the visible phrase is retained; opening reading is uncertain]*
+*[أول الكلمة غير واضح] fal-muluku tasara'at [العبارة الظاهرة محفوظة، وقراءة الافتتاح غير محققة]*
 
-*[opening word unreadable] ya ilahi wal-maliki [the visible invocation is retained; opening is obscured]*
+*[أول الكلمة غير مقروء] ya ilahi wal-maliki [الدعاء الظاهر محفوظ، والافتتاح مطموس]*
 
 **[Terjemahan Indonesia]**
 
@@ -7969,31 +7969,31 @@ Wahai [lafaz tidak jelas], percepatlah keberhasilan tujuan-tujuanku. [Bacaan «�
 
 **[Transliterasi Latin Fonetik]**
 
-*Wa-ya [talismanic word read tentatively as “thabarat”; middle letters unclear] shamikhin qad tashakhkhasat [line ending uncertain]*
+*Wa-ya [كلمة طلسمية تُقرأ باحتمال «ثبرت»، وحروفها الوسطى غير واضحة] shamikhin qad tashakhkhasat [آخر السطر غير محقق]*
 
-*Bi-sirri [name-like word resembling “ghiyaha”] [short token resembling “kand”] [token resembling “mawla”] bi-sirrihi [ending unclear]*
+*Bi-sirri [كلمة شبيهة باسم، تشبه «غياهه»] [مقطع قصير يشبه «كند»] [مقطع يشبه «مولى»] bi-sirrihi [آخر الكلمة غير واضح]*
 
-*Bi-shankhin [name-like fragment unclear] lahu al-majdu [remainder obscured]*
+*Bi-shankhin [شظية شبيهة باسم غير واضحة] lahu al-majdu [البقية مطموسة]*
 
-*Ilahi laqad [the next printed word appears to be “anta”] bismika da'iyan [short ending unclear]*
+*Ilahi laqad [الكلمة المطبوعة التالية تبدو «أنت»] bismika da'iyan [آخر قصير غير واضح]*
 
-*Bi-sirri hurufin fi kitabika unzilat [line-ending mark unreadable]*
+*Bi-sirri hurufin fi kitabika unzilat [علامة آخر السطر غير مقروءة]*
 
-*Qaribun [middle word appears to be “qawiyy”] mujibun liman da'a [line edge unclear]*
+*Qaribun [الكلمة الوسطى تبدو «قويّ»] mujibun liman da'a [حرف السطر غير واضح]*
 
-*Ka-hayjin bahijin ka-hayjin bima hawat [talismanic words retained as printed]*
+*Ka-hayjin bahijin ka-hayjin bima hawat [كلمات طلسمية محفوظة وفق المطبوع]*
 
-*'Azizun [short separator or word between the epithets unclear] majidun qad amintu [ending unclear]*
+*'Azizun [فاصل أو كلمة قصيرة بين النعوت غير واضح] majidun qad amintu [آخر الكلمة غير واضح]*
 
-*Bi-khidmati al-amlaki li-amri tasara'at [line ending uncertain]*
+*Bi-khidmati al-amlaki li-amri tasara'at [آخر السطر غير محقق]*
 
-*Bi-ismi al-'arshi [short printed connector unclear] fal-kullu yakhda'u [verb form retained as printed]*
+*Bi-ismi al-'arshi [رابط مطبوع قصير غير واضح] fal-kullu yakhda'u [صيغة الفعل محفوظة وفق المطبوع]*
 
-*Li-ta'ati asma'in 'izhamin tasallatat [faint line ending]*
+*Li-ta'ati asma'in 'izhamin tasallatat [آخر سطر باهت]*
 
-*[A line of talismanic names; connected letters are too indistinct for a safe phonetic transcription.]*
+*[سطر من أسماء طلسمية، وحروفه المتصلة غير متمايزة بما لا يسمح بنقل صوتي موثوق]*
 
-*Bi-ismi [name resembling “shankh/shunukh”] ya 'azhimu [remaining strokes resemble “tashakhkhasat”; tentative]*
+*Bi-ismi [اسم يشبه «شنخ/شنوخ»] ya 'azhimu [الآثار الباقية تشبه «تشخصت» باحتمال]*
 
 **[Terjemahan Indonesia]**
 
@@ -8077,19 +8077,19 @@ Dengan nama [lafaz yang kira-kira terbaca «Shankh/Shunukh»], wahai Yang Mahaag
 
 **[Transliterasi Latin Fonetik]**
 
-*Bi-kafkhin [following name has letters resembling “tantanj”] [connected fragment unclear] bi-sharishin [vowels unknown]*
+*Bi-kafkhin [الاسم التالي حروفه تشبه «تنتنج»] [شظية متصلة غير واضحة] bi-sharishin [الحركات مجهولة]*
 
-*Bathushin bathushin thuwayshin [line ending appears to read “tasallatat”]*
+*Bathushin bathushin thuwayshin [يظهر آخر السطر مقروءًا «تسلطت»]*
 
-*Bi-'izzatin [short middle word uncertain] qawiyyun wa-qahirun [line edge faint]*
+*Bi-'izzatin [كلمة وسطى قصيرة غير محققة] qawiyyun wa-qahirun [حرف السطر باهت]*
 
 *Qahartu jami'a al-maridina wa-man 'asat*
 
-*Bi-than [following short tokens are indistinct through the line ending]*
+*Bi-than [المقاطع القصيرة التالية غير متمايزة حتى آخر السطر]*
 
-*Bi-shankhin [following name unclear] bil-qahri man 'asat [faint ending]*
+*Bi-shankhin [الاسم التالي غير واضح] bil-qahri man 'asat [آخر باهت]*
 
-*Bi-than [short name-like token obscured] ya ilahi [remainder unreadable]*
+*Bi-than [مقطع قصير شبيه باسم مطموس] ya ilahi [البقية غير مقروءة]*
 
 **[Terjemahan Indonesia]**
 
@@ -8163,23 +8163,23 @@ Dengan «Than» [lafaz nama sesudahnya tertutup], wahai Tuhanku. [Sisa larik tid
 
 *Bi-'izzati afla ghalawun tanattaqat*
 
-*Bi-'izzin Ghalawun lahu al-mulku wa-al-'ula [Ghalawun is retained as a proper name; its vowel pattern is editorial.]*
+*Bi-'izzin Ghalawun lahu al-mulku wa-al-'ula [«غلون» محفوظ اسم علم، وضبط حركاته اجتهادي]*
 
-*Bi-satwati Ṭarum bil-jinni taskharat [Ṭarum is a tentative reading of the non-Arabic name after “might”.]*
+*Bi-satwati Ṭarum bil-jinni taskharat [«طارم» قراءة محتملة للاسم غير العربي بعد «العزة»]*
 
-*Wa-ya Jahramish Jahramish bi-jahihi [The printed name is repeated; vowels are approximate.]*
+*Wa-ya Jahramish Jahramish bi-jahihi [الاسم المطبوع مكرر، وحركاته تقريبية]*
 
-*Wa-ya Ḍarmaghush bil-jinni ahraqtu [The name is tentatively read from the print; ahraqtu is first-person active.]*
+*Wa-ya Ḍarmaghush bil-jinni ahraqtu [الاسم مقروء من المطبوع باحتمال، و«أحرقتُ» مبني للمعلوم للمتكلم]*
 
-*Bi-dhamirin Zarafakhun bi-sirri Khulujah [Both names are tentative readings of the printed forms.]*
+*Bi-dhamirin Zarafakhun bi-sirri Khulujah [الاسمان قراءتان محتملتان للصيغتين المطبوعتين]*
 
-*Wa-ya Mankhalukh Mankhalukh tasabat [Names and final verb follow the visible consonants; no silent normalization.]*
+*Wa-ya Mankhalukh Mankhalukh tasabat [الأسماء والفعل الأخير تتبع الحروف الظاهرة، بلا تسوية صامتة]*
 
-*Wa-ya Ṭanṭalukh Maṭlukh bi-sirrihi [The two names are read tentatively from print.]*
+*Wa-ya Ṭanṭalukh Maṭlukh bi-sirrihi [الاسمان مقروءان من المطبوع باحتمال]*
 
-*Wa-ya Mandarish an-nufusu qad sallat [Mandarish is a proper name; the final phrase follows the printed letters.]*
+*Wa-ya Mandarish an-nufusu qad sallat [«مندرش» اسم علم، والعبارة الأخيرة تابعة لحروف المطبوع]*
 
-*Wa-ya Sifsanil bi-'izzati Hindaras [Both names are approximate readings of the printed forms.]*
+*Wa-ya Sifsanil bi-'izzati Hindaras [الاسمان قراءتان تقريبيتان للصيغتين المطبوعتين]*
 
 *Tawakkal bi-harqi al-maridina wa-man 'asat*
 
@@ -8261,15 +8261,15 @@ Serahkanlah pembakaran para pemberontak dan siapa pun yang durhaka. [«توكل�
 
 **[Transliterasi Latin Fonetik]**
 
-*Bi-qahrika ya naru fantahir sanaya [the final printed word appears to be sanaya; its vowel pattern is tentative.]*
+*Bi-qahrika ya naru fantahir sanaya [الكلمة المطبوعة الأخيرة تبدو «سنيا»، وضبط حركاتها محتمل]*
 
-*Bismika ya Jabbaru fal-jinna ahriq [ahriq is read as an imperative in this supplication; the print has no vowel marks.]*
+*Bismika ya Jabbaru fal-jinna ahriq [«أحرق» يُقرأ فعل أمر في هذا الدعاء، والمطبوع بلا حركات]*
 
 *Bi-batshika ya dha al-batshi fabtish biman 'asa*
 
-*Ijabata asma'in 'izhamin tanaṭṭaqat [tanaṭṭaqat follows the printed consonants; emphatic ṭā' is doubled.]*
+*Ijabata asma'in 'izhamin tanaṭṭaqat [«تنطّقت» تتبع حروف المطبوع، والطاء المهملة مشددة]*
 
-*Ya rabbi ma la yutaqu intiqami [the print reads ma; it is not silently changed to man.]*
+*Ya rabbi ma la yutaqu intiqami [المطبوع «ما»، ولم يُغيَّر صامتًا إلى «من»]*
 
 *Sa'altuka ihraqa al-'usati idha 'asat*
 
@@ -8353,23 +8353,23 @@ Demi tiupan Israfil pada hari tiupan.
 
 **[Transliterasi Latin Fonetik]**
 
-*Bi-tuhfati Marza'il fa-al-jinnu inbaharat [Marza'il is a proper name; its vowels are editorial.]*
+*Bi-tuhfati Marza'il fa-al-jinnu inbaharat [«مرزائيل» اسم علم، وحركاته اجتهادية]*
 
-*Bi-Tawrati Musa bil-Injili [a short printed fragment after al-Injil is unclear] katabat [katabat is a tentative reading of the final verb.]*
+*Bi-Tawrati Musa bil-Injili [شظية مطبوعة قصيرة بعد «الإنجيل» غير واضحة] katabat [«كتبت» قراءة محتملة للفعل الأخير]*
 
 *Bi-Injili 'Isa biz-Zaburi wa-ma hawat*
 
 *Sa'altuka bil-ismi al-mu'azzami qadruhu*
 
-*Bi-taji Amuj jalla [printed fragment unreadable] Jalilat [Amuj and Jalilat are tentative readings of proper names.]*
+*Bi-taji Amuj jalla [شظية مطبوعة غير مقروءة] Jalilat [«أموج» و«جليلات» قراءتان محتملتان لاسمين علمين]*
 
-*Bi-hubbi wa-Qayyumin Halimin wa-'Alimin [the sequence follows the visible letters; its syntax is not forced.]*
+*Bi-hubbi wa-Qayyumin Halimin wa-'Alimin [التسلسل تابع للحروف الظاهرة، وإعرابه غير متكلف]*
 
 *Bi-siyadatin fal-muluku tawada'at*
 
-*Bi-alin wa-bi-alin jalabtu maqsidi [the two forms after al are uncertain proper-name readings.]*
+*Bi-alin wa-bi-alin jalabtu maqsidi [الصيغتان بعد «ال» قراءتان غير محققتين لاسم علم]*
 
-*Ya [the words after the vocative are obscured] tanazarat [the final verb is a tentative reading.]*
+*Ya [الكلمات بعد النداء مطموسة] tanazarat [الفعل الأخير قراءة محتملة]*
 
 **[Terjemahan Indonesia]**
 
@@ -8445,25 +8445,25 @@ Wahai [lafaz seruan tidak terbaca jelas], mereka saling berhadapan/berpandangan.
 
 **[Transliterasi Latin Fonetik]**
 
-*Anwakh anwakh ya ilahi bisirrihi [Anwakh is a tentative reading of the printed proper name.]*
+*Anwakh anwakh ya ilahi bisirrihi [«أنوخ» قراءة محتملة للاسم العلم المطبوع]*
 
 *'Azhimun lahu al-amlaku haqqan tasara'at*
 
-*Badansuh [proper name, approximate] fa-[two printed fragments after fa are unclear] ba'daha*
+*Badansuh [اسم علم، تقريبي] fa-[شظيتان مطبوعتان بعد الفاء غير واضحتين] ba'daha*
 
-*Wa-tadliju [following word unreadable] biha as-sa'du aqbalat [the line ending is unclear.]*
+*Wa-tadliju [الكلمة التالية غير مقروءة] biha as-sa'du aqbalat [آخر السطر غير واضح]*
 
-*Bi-nak [short name unclear] bi-kanfal bisirri hurufiha [the line continuation is obscured.]*
+*Bi-nak [اسم قصير غير واضح] bi-kanfal bisirri hurufiha [تتمة السطر مطموسة]*
 
-*Bi-aflali [following name/word unreadable] li bihi an-nuru ashraqat [ending unclear.]*
+*Bi-aflali [الاسم/الكلمة التالية غير مقروءة] li bihi an-nuru ashraqat [آخر الكلمة غير واضح]*
 
 *Nakun ya ilahi kashifa adh-dhurri wal-bala'*
 
-*Bi-hammi [two fragments unclear] bi-qalbin biha [continuation unreadable]*
+*Bi-hammi [شظيتان غير واضحتين] bi-qalbin biha [التتمة غير مقروءة]*
 
 *Wa-ahyi ilahi al-qalba min ba'di mawtihi*
 
-*Bi-dhikrika ya Qayyumu haqqan tanaffasat [tanaffasat is a tentative reading of the visible ending.]*
+*Bi-dhikrika ya Qayyumu haqqan tanaffasat [«تنفست» قراءة محتملة للآخر الظاهر]*
 
 *Ajid ya ilahi fihi 'ilman wa-hikmatan*
 
@@ -8551,7 +8551,7 @@ Wahai Tuhanku, anugerahkanlah di dalamnya ilmu dan hikmah.
 
 *Adha'at 'ala qalbi bawariqu nurihi*
 
-*Wa-laha 'ala wajhi dhiya'un fansharaqat [the final verb is read tentatively from the print.]*
+*Wa-laha 'ala wajhi dhiya'un fansharaqat [الفعل الأخير مقروء من المطبوع باحتمال]*
 
 *Wa-subba 'ala qalbi sha'abiba rahmatin*
 
@@ -8631,9 +8631,9 @@ Curahkanlah hujan rahmat ke atas hatiku.
 
 *Fa-subhanaka Allahumma ya khayra bari'in*
 
-*Wa-ya khayra khallaqin lahu al-khalqu [short printed fragment unclear] amintu [tentative reading of the final word]*
+*Wa-ya khayra khallaqin lahu al-khalqu [شظية مطبوعة قصيرة غير واضحة] amintu [قراءة محتملة للكلمة الأخيرة]*
 
-*Afidh li minal-anwari faydatan mushriqatan [mushriqatan follows the visible print tentatively]*
+*Afidh li minal-anwari faydatan mushriqatan [«مشرقة» تتبع المطبوع الظاهر باحتمال]*
 
 *'Alayya wa-ahyi mayyita qalbi bi-lutfika*
 
@@ -8643,11 +8643,11 @@ Curahkanlah hujan rahmat ke atas hatiku.
 
 *Ala wa-ajnibni min 'aduwwin zalimin*
 
-*Bi-haqqi Shamakhin wa-Ashmakha saltanatin samat [proper names and the middle form are tentative readings]*
+*Bi-haqqi Shamakhin wa-Ashmakha saltanatin samat [الأسماء العلم والصيغة الوسطى قراءات محتملة]*
 
-*Bi-simsamin [short word unclear] bi-harfi [final word unreadable]*
+*Bi-simsamin [كلمة قصيرة غير واضحة] bi-harfi [الكلمة الأخيرة غير مقروءة]*
 
-*Bi-Nahrashin [word after the name unclear] biha an-naru akhmadat [short ending obscured]*
+*Bi-Nahrashin [الكلمة بعد الاسم غير واضحة] biha an-naru akhmadat [آخر قصير مطموس]*
 
 *Bi-dhamami nizhamin wa-bin-nuri wa-ad-dhiya'i*
 
@@ -8733,11 +8733,11 @@ Dengan «Ḍamām Niẓām», dengan cahaya dan sinar.
 
 **[Transliterasi Latin Fonetik]**
 
-*Bi-Nahrashin [following word unclear] bil-jinni [short printed fragment obscured] lam tusakhkhar [ending unclear]*
+*Bi-Nahrashin [الكلمة التالية غير واضحة] bil-jinni [شظية مطبوعة قصيرة مطموسة] lam tusakhkhar [آخر الكلمة غير واضح]*
 
-*Bi-nuri jalalin [the next form resembles barikh] wa-sharnatin [proper name, approximate] [line continuation unreadable]*
+*Bi-nuri jalalin [الصيغة التالية تشبه «برخ»] wa-sharnatin [اسم علم، تقريبي] [تتمة السطر غير مقروءة]*
 
-*Bi-Quddusin bi-rahubin bihi adh-dhulmatu injalat [a short ending is obscured.]*
+*Bi-Quddusin bi-rahubin bihi adh-dhulmatu injalat [آخر قصير مطموس]*
 
 **[Terjemahan Indonesia]**
 
@@ -8803,35 +8803,35 @@ Dengan Yang Mahakudus, dengan «Rahub», kegelapan tersingkap dengannya. [Ada pe
 
 *Alā wa-qdi ya rabbi bin-nuri hajati*
 
-*Wa-ya ankh jaliyyan sari'an qad inqadat [Ankh is a proper-name reading; the ending is unclear.]*
+*Wa-ya ankh jaliyyan sari'an qad inqadat [«أنخ» قراءة اسم علم، وآخره غير واضح]*
 
 *Wa-yassir umuri ya Muyassiru wa-a'tini*
 
 *Minal-'izzi wal-'ala'i 'izzan tasamaytu*
 
-*Wa-arsil li [the word after li resembles «الذنب»] bi-tabibin [short fragment unclear] ma'atibi [tentative reading]*
+*Wa-arsil li [the word after li resembles «الذنب»] bi-tabibin [شظية قصيرة غير واضحة] ma'atibi [قراءة محتملة]*
 
-*Wa-bil-ismi arsilha bi-kasbin tashallat [the final verb is tentative.]*
+*Wa-bil-ismi arsilha bi-kasbin tashallat [الفعل الأخير محتمل]*
 
-*Aslim bi-sahrin wa-a'tini khayra [word after khayr unclear]*
+*Aslim bi-sahrin wa-a'tini khayra [الكلمة بعد «خير» غير واضحة]*
 
-*Wa-asbil 'alayya as-sitra bil-hujubi [the ending resembles asbalt]*
+*Wa-asbil 'alayya as-sitra bil-hujubi [الآخر يشبه «أسبلت»]*
 
 *Wa-yablugh bihi qasdi wa-kulla ma'aribi*
 
-*Bi-haqqi hurufin ya ilahi najahhtu [short ending unclear]*
+*Bi-haqqi hurufin ya ilahi najahhtu [آخر قصير غير واضح]*
 
-*Bi-sirri hurufin udi'at fi 'azmati [ending unclear]*
+*Bi-sirri hurufin udi'at fi 'azmati [آخر الكلمة غير واضح]*
 
-*Tablughnal-a'malu jam'an bima hawat [the opening word is a tentative reading.]*
+*Tablughnal-a'malu jam'an bima hawat [أول الكلمة قراءة محتملة]*
 
-*Bi-ba'in [following name fragments unreadable] asali [ending unclear]*
+*Bi-ba'in [شظايا الاسم التالية غير مقروءة] asali [آخر الكلمة غير واضح]*
 
-*Naja [fragment after the verb unclear] bi-sirri amri [ending unreadable]*
+*Naja [الشظية بعد الفعل غير واضحة] bi-sirri amri [آخر الكلمة غير مقروء]*
 
 *Ala wa-akfini ya dha al-jalali bi-kafi kun*
 
-*Bi-nassi hukmin qati'in [short fragment unclear] as-sirri [ending unreadable]*
+*Bi-nassi hukmin qati'in [شظية قصيرة غير واضحة] as-sirri [آخر الكلمة غير مقروء]*
 
 *Wa-khallisni min kulli hawlin wa-shiddatin*
 
@@ -8925,7 +8925,7 @@ Bebaskanlah aku dari setiap ketakutan dan kesulitan.
 
 **[Transliterasi Latin Fonetik]**
 
-*Fa-anta raja'u al-'alamina wa-law [short word after wa-law unclear] thami'at [the ending is obscured; the verb is tentative]*
+*Fa-anta raja'u al-'alamina wa-law [كلمة قصيرة بعد «ولو» غير واضحة] thami'at [الآخر مطموس، والفعل محتمل]*
 
 **[Terjemahan Indonesia]**
 
@@ -8985,39 +8985,39 @@ Maka Engkaulah harapan seluruh alam, sekalipun [kata setelah «walau» tidak jel
 
 *Wa-subba 'alayya ar-rizqa sabban rahmatan*
 
-*Wa-arsil lil-arzaqa bil-khayri ursilat [the final verb is read tentatively]*
+*Wa-arsil lil-arzaqa bil-khayri ursilat [الفعل الأخير مقروء باحتمال]*
 
-*Wa-bil-ismi mani'in kulla man'in wa-mani'in [the repeated form follows the print; syntax is uncertain]*
+*Wa-bil-ismi mani'in kulla man'in wa-mani'in [الصيغة المكررة تابعة للمطبوع، وإعرابها غير محقق]*
 
-*Fa-anta raja'u as-sa'ilina idha da'at [the ending is tentative]*
+*Fa-anta raja'u as-sa'ilina idha da'at [الآخر محتمل]*
 
-*Wa-asimma [short word unclear] wa-abkim [short word unclear] thumma asimma [ending obscured]*
+*Wa-asimma [كلمة قصيرة غير واضحة] wa-abkim [كلمة قصيرة غير واضحة] thumma asimma [آخر الكلمة مطموس]*
 
-*Wa-akhrishum ya dha al-jalali [fragment unclear] bi-hujjati [ending unreadable]*
+*Wa-akhrishum ya dha al-jalali [الشظية غير واضحة] bi-hujjati [آخر الكلمة غير مقروء]*
 
-*Nafya khusumin [short fragments unclear] wa-bi-tarasima [line ending obscured]*
+*Nafya khusumin [شظايا قصيرة غير واضحة] wa-bi-tarasima [آخر السطر مطموس]*
 
-*Tahassantu bil-ismi al-'azhimi minal-falati [the last form is uncertain]*
+*Tahassantu bil-ismi al-'azhimi minal-falati [الصيغة الأخيرة غير محققة]*
 
-*Wa-ya [vocative word unclear] asri' bi-sirrin [following fragments unreadable]*
+*Wa-ya [كلمة النداء غير واضحة] asri' bi-sirrin [الشظايا التالية غير مقروءة]*
 
-*Bi-maq'adi [following word unclear] lisani as-sa'ilina fa-a'aqadat [tentative ending]*
+*Bi-maq'adi [الكلمة التالية غير واضحة] lisani as-sa'ilina fa-a'aqadat [آخر محتمل]*
 
 *Wa-a'mi 'uyuna an-nazhirina jami'ahum*
 
-*Wa-asimma wa-abkim kulla qawmin takallamat [ending unclear]*
+*Wa-asimma wa-abkim kulla qawmin takallamat [آخر الكلمة غير واضح]*
 
 *Wa-akhris bi-sirri al-ismi qawman takallamu*
 
-*Wa-asimma jami'a al-kulli bil-ismi ashmata [final form tentative]*
+*Wa-asimma jami'a al-kulli bil-ismi ashmata [الصيغة الأخيرة محتملة]*
 
-*Wa-awqif bi-asma'i al-jalali aydiyan [short ending unclear]*
+*Wa-awqif bi-asma'i al-jalali aydiyan [آخر قصير غير واضح]*
 
-*Tamuddu bi-batshin bil-jalali tawaqqafat [continuation obscured]*
+*Tamuddu bi-batshin bil-jalali tawaqqafat [التتمة مطموسة]*
 
 *Wa-'attif quluba al-'alamina jami'ahum*
 
-*'Alayya wa-albisni qabulan [short word unclear] bi-shamlin [ending unreadable]*
+*'Alayya wa-albisni qabulan [كلمة قصيرة غير واضحة] bi-shamlin [آخر الكلمة غير مقروء]*
 
 **[Terjemahan Indonesia]**
 
@@ -9109,7 +9109,7 @@ Kepadaku, kenakanlah penerimaan [lafaz pendek tidak jelas] secara menyeluruh [pe
 
 **[Transliterasi Latin Fonetik]**
 
-*Wa-barik lana Allahumma fi jam'i kasbina [a short closing fragment is obscured]*
+*Wa-barik lana Allahumma fi jam'i kasbina [شظية ختامية قصيرة مطموسة]*
 
 **[Terjemahan Indonesia]**
 
@@ -9167,37 +9167,37 @@ Berkahilah bagi kami, ya Allah, himpunan usaha dan penghasilan kami. [Ada fragme
 
 **[Transliterasi Latin Fonetik]**
 
-*Wa-hul 'uquda as-sihri ya [vocative name unclear; final letters resemble “arnakht”]*
+*Wa-hul 'uquda as-sihri ya [اسم النداء غير واضح، وحروفه الأخيرة تشبه «أرنخت»]*
 
-*[a line of connected talismanic names; the letter sequence is too indistinct for a reliable phonetic rendering]*
+*[سطر من أسماء طلسمية متصلة، وتسلسل حروفه غير متمايز بما لا يسمح بنقل صوتي موثوق]*
 
 *Wa-ya man lana al-arzaqu min judihi namat*
 
 *Naruddu bika al-a'da'a min kulli jihatin*
 
-*Wa-bil-ismi narmihim minal-bu'di [the final printed word is faint; it resembles “bishatat”]*
+*Wa-bil-ismi narmihim minal-bu'di [الكلمة المطبوعة الأخيرة باهتة وتشبه «بشطط»]*
 
 *Fa-anta raja'i ya ilahi wa-sayyidi*
 
-*Nufarriqu [unclear name-like sequence] [the ending resembles “admarat”]*
+*Nufarriqu [تسلسل شبيه باسم غير واضح] [الآخر يشبه «أضمرت»]*
 
-*[unreadable talismanic name] ya ilahi [remainder obscured]*
+*[اسم طلسمي غير مقروء] ya ilahi [البقية مطموسة]*
 
-*Bi-ismi [word resembles “'azhim”] [following name unclear] [ending unreadable]*
+*Bi-ismi [الكلمة تشبه «عظيم»] [الاسم التالي غير واضح] [آخر الكلمة غير مقروء]*
 
 *Fa-ya khayra mas'ulin wa-akrama man da'a*
 
-*Wa-ya khayra ma'mulin bihi al-khayru [the final verb is tentative]*
+*Wa-ya khayra ma'mulin bihi al-khayru [الفعل الأخير محتمل]*
 
-*[connected talismanic names; middle letters cannot be read confidently]*
+*[أسماء طلسمية متصلة، وحروفها الوسطى لا تُقرأ بثقة]*
 
-*[unclear name-like fragment] [short continuation faint]*
+*[شظية شبيهة باسم غير واضحة] [تتمة قصيرة باهتة]*
 
-*Siraju [following word unclear] [line ending unreadable]*
+*Siraju [الكلمة التالية غير واضحة] [آخر السطر غير مقروء]*
 
-*Bi-qadadi [following name-like fragment unclear] [remainder obscured]*
+*Bi-qadadi [الشظية التالية الشبيهة باسم غير واضحة] [البقية مطموسة]*
 
-*[line of talismanic names; the ending only tentatively resembles “ash-shadhikh” and “banukh”]*
+*[سطر من أسماء طلسمية، وآخره يشبه باحتمال «الشذيخ» و«بنوخ»]*
 
 **[Terjemahan Indonesia]**
 
@@ -9289,9 +9289,9 @@ Baris penutup memuat nama-nama talismanik; beberapa huruf menyerupai «al-shadhi
 
 *Bi-shankhin shumukhin shayikhin qad tashakhkhasat*
 
-*Abariju banukhin [following name resembles “wayishrah”] [ending tentatively “barakhu”]*
+*Abariju banukhin [الاسم التالي يشبه «ويشره»] [الآخر باحتمال «برخ»]*
 
-*Shamarikhu bisharahi shuruhin [the final verb resembles “tashalakhat”; tentative]*
+*Shamarikhu bisharahi shuruhin [الفعل الأخير يشبه «تشلخت» باحتمال]*
 
 *Banjalikhu shanana wa-banukhu ba'daha*
 
@@ -9357,25 +9357,25 @@ Dengan «Shankh, Shumukh, Shayikh»—nama-nama invokatif—ia sungguh tampak/me
 
 **[Transliterasi Latin Fonetik]**
 
-*Wa-damukhu [following word resembles “yanshukh”] biha al-kawnu [ending resembles “'athurat”]*
+*Wa-damukhu [الكلمة التالية تشبه «ينشخ»] biha al-kawnu [الآخر يشبه «عثرت»]*
 
 *Balikhu shalayu wa-qanulukhu ba'daha*
 
 *Wa-ramukhu anmukhu biha az-zulmatu injalat*
 
-*'Ala ma [short phrase after ma unclear] [remainder faint]*
+*'Ala ma [عبارة قصيرة بعد «ما» غير واضحة] [البقية باهتة]*
 
-*Bi-haqqi [unclear name/word] [the line ending resembles “zahamat”]*
+*Bi-haqqi [اسم/كلمة غير واضحة] [آخر السطر يشبه «زحمت»]*
 
-*Kama [unclear word] bi-babin [unclear fragment] jami'uha*
+*Kama [كلمة غير واضحة] bi-babin [شظية غير واضحة] jami'uha*
 
-*Bi-shakhkhin mashakhkhin [following word resembles “kawn”] [ending unclear]*
+*Bi-shakhkhin mashakhkhin [الكلمة التالية تشبه «كون»] [آخر الكلمة غير واضح]*
 
-*Bi-ali [two names appear as “ahil” and “shala'] [faint continuation]*
+*Bi-ali [يظهر الاسمان «أهل» و«شلع»] [تتمة باهتة]*
 
-*Tahṭi tahṭubu tafaṭubu [final word resembles “tasamat”]*
+*Tahṭi tahṭubu tafaṭubu [الكلمة الأخيرة تشبه «تسمت»]*
 
-*Hurufun [following fragment resembles “labahram”] [connected, unclear ending]*
+*Hurufun [الشظية التالية تشبه «لبهرم»] [آخر متصل غير واضح]*
 
 *Wa-asma'u 'asa Musa biha az-zulmatu injalat*
 
@@ -9467,15 +9467,15 @@ Aku memohon kepada Yang Maha Mulia; dengannya manusia mendapat petunjuk.
 
 *Naqdun kawkabiyyun bi-l-ismi nuran bahjatan*
 
-*Sada ad-dahri wa-al-ayyam ya nuru [ending resembles “jallalat”]*
+*Sada ad-dahri wa-al-ayyam ya nuru [الآخر يشبه «جللت»]*
 
-*Fa-ya [unclear talismanic words] ya [unclear name] anta [remainder unreadable]*
+*Fa-ya [كلمات طلسمية غير واضحة] ya [اسم غير واضح] anta [البقية غير مقروءة]*
 
-*Wa-ya [talismanic name] ghawtha ar-riyahi [unclear connected ending]*
+*Wa-ya [اسم طلسمي] ghawtha ar-riyahi [آخر متصل غير واضح]*
 
-*Bana [short word unclear] adrinani 'arana*
+*Bana [كلمة قصيرة غير واضحة] adrinani 'arana*
 
-*Bi-ali [unclear name/fragment] bi-s-sibali [following word unreadable] nasarat*
+*Bi-ali [اسم/شظية غير واضحة] bi-s-sibali [الكلمة التالية غير مقروءة] nasarat*
 
 *Fa-ya Hayyu ya Qayyumu asri' bi-hajati*
 
@@ -9555,15 +9555,15 @@ Wahai Yang Mahahidup, wahai Yang Maha Menegakkan, segerakanlah pemenuhan kebutuh
 
 *Bi-Kafiha ya 'Aynu wa-Sadiha*
 
-*[the word begins “kafana/kafayna”] biha min kulli su'in [ending resembles “bishamilat”]*
+*[الكلمة تبدأ بـ«كفنا/كفينا»] biha min kulli su'in [الآخر يشبه «بشملت»]*
 
-*Bihim [the fragments “'ayn” and “mim” are visible; the rest is unclear]*
+*Bihim [تظهر شظيتا «عين» و«ميم»، والباقي غير واضح]*
 
-*[word begins “hayatina”] wa-n-nunu [faint ending]*
+*[الكلمة تبدأ بـ«حياتنا»] wa-n-nunu [آخر باهت]*
 
 *Bi-alifin wa-lamin thumma mimin wa-sadiha*
 
-*Jadhabat quluba al-'alamina [ending resembles “na'bat”]*
+*Jadhabat quluba al-'alamina [الآخر يشبه «نعبت»]*
 
 *Bi-alifin wa-lamin thumma mimin wa-ra'iha*
 
@@ -9661,7 +9661,7 @@ Dengan Alif dan Lām, kemudian Mīm dan bagian belakang/kelanjutannya. [Lafaz «
 
 *Bi-asma'ika al-'ulya bi-ayatin fussilat*
 
-*Da'awtuka ya Rabbahu haqqan [the final word resembles “wa-anti”]*
+*Da'awtuka ya Rabbahu haqqan [الكلمة الأخيرة تشبه «وأنتِ»]*
 
 **[Terjemahan Indonesia]**
 
@@ -9745,9 +9745,9 @@ Aku menyeru-Mu, wahai Tuhanku, dengan sungguh-sungguh… [kata terakhir tampak s
 
 *'Ala ra'siha mithla as-sihami taqawwasat*
 
-*Wa-bi-ismi [name/word resembles “tambas”] [word resembles “abrasham”] thumma sallim*
+*Wa-bi-ismi [الاسم/الكلمة يشبه «طمبس»] [الكلمة تشبه «أبرشم»] thumma sallim*
 
-*Wa-fi wasatiha bi-l-hijratayni [verb resembles “nafarat”]*
+*Wa-fi wasatiha bi-l-hijratayni [الفعل يشبه «نفرت»]*
 
 *Wa-arba'atun mithla al-anamili suffifat*
 
@@ -9827,7 +9827,7 @@ Hā’, Shīn, kemudian Wāw yang melengkung. [Nama huruf dan deskripsi bentuk d
 
 **[Transliterasi Latin Fonetik]**
 
-*Ka-unbubi hijamin mina as-sirri [final word resembles “an-nut”]*
+*Ka-unbubi hijamin mina as-sirri [الكلمة الأخيرة تشبه «النوت»]*
 
 *Wa-akhiruha mithla al-awa'ili khatimun*
 
@@ -9835,7 +9835,7 @@ Hā’, Shīn, kemudian Wāw yang melengkung. [Nama huruf dan deskripsi bentuk d
 
 *Biha al-'ahdu wa-al-mithaqu wa-al-wa'du wa-al-wafa'*
 
-*Wa-bi-l-miski wa-al-kafuri [the following word is unclear; its letters resemble “an-nafih/an-nafij”] khutimat*
+*Wa-bi-l-miski wa-al-kafuri [الكلمة التالية غير واضحة، وحروفها تشبه «النفخ/النفج»] khutimat*
 
 *Tawajjahtu ya Rabbi ilayka bi-haqqiha*
 
@@ -9929,15 +9929,15 @@ Dan dengan seluruh keluarga yang mulia, wahai Tuhanku.
 
 **[Transliterasi Latin Fonetik]**
 
-*Wa-bi-l-hawra'i al-batuli [following word resembles “rasluha”] tashaffa'at*
+*Wa-bi-l-hawra'i al-batuli [الكلمة التالية تشبه «راسلها»] tashaffa'at*
 
 *Wa-astawdi'u Allaha al-'azhima sa'adati*
 
-*Bi-janibiha wa-al-ukhra [short phrase unclear] asbahat*
+*Bi-janibiha wa-al-ukhra [عبارة قصيرة غير واضحة] asbahat*
 
 *Wa-'afwan 'ani al-athami wa-r-rijsi kullihi*
 
-*Wa-min kulli dhanbin fi as-sahifati [ending resembles “tabat”]*
+*Wa-min kulli dhanbin fi as-sahifati [الآخر يشبه «تبت»]*
 
 **[Terjemahan Indonesia]**
 
@@ -10011,9 +10011,9 @@ Dan dari setiap dosa dalam catatan [kata terakhir menyerupai «تبت»; makna b
 
 *Wa-astawdi'u Allaha al-hafizha ijabati*
 
-*Wa-qahru mulukin bi-t-tilawati [ending resembles “sukhkhirat”]*
+*Wa-qahru mulukin bi-t-tilawati [الآخر يشبه «سخرت»]*
 
-*Wa-qahru muluki al-jinni turra [following word unclear]*
+*Wa-qahru muluki al-jinni turra [الكلمة التالية غير واضحة]*
 
 *Wa-ihraqu a'wanin 'alayya tajabbarat*
 
@@ -10021,13 +10021,13 @@ Dan dari setiap dosa dalam catatan [kata terakhir menyerupai «تبت»; makna b
 
 *Wa-qahru al-mafaridi al-'utati wa-man taghat*
 
-*Wa-ihraqu [word resembles “arbat”] tukhalifu dini*
+*Wa-ihraqu [الكلمة تشبه «أربت»] tukhalifu dini*
 
 *Bi-asma'i ihraqin biha al-jinnu uhriqat*
 
-*Ala wa-uhsur li [following fragment unclear] [ending obscured]*
+*Ala wa-uhsur li [الشظية التالية غير واضحة] [آخر الكلمة مطموس]*
 
-*[talismanic name begins “tahtabiyal”] [description/ending unclear; final fragment resembles “injalat”]*
+*[اسم طلسمي يبدأ بـ«تهتبيال»] [الوصف/الآخر غير واضح، والشظية الأخيرة تشبه «انجلت»]*
 
 *Fa-ya qari'a al-ismi al-muntazama qadruhu*
 
@@ -10119,9 +10119,9 @@ Dengan itu terdapat perjanjian, ikrar, janji, dan kesetiaan.
 
 **[Transliterasi Latin Fonetik]**
 
-*Wa-bi-l-miski wa-al-kafuri [following word resembles “an-nadhkh/an-nafih”] khutimat*
+*Wa-bi-l-miski wa-al-kafuri [الكلمة التالية تشبه «النذخ/النفخ»] khutimat*
 
-*Wa-bi-ayati [word resembles “shamsayn”] wa-sinin tashaffa'at*
+*Wa-bi-ayati [الكلمة تشبه «شمسين»] wa-sinin tashaffa'at*
 
 **[Terjemahan Indonesia]**
 
@@ -10177,7 +10177,7 @@ Dengan ayat-ayat [lafaz menyerupai «Shamsayn»] dan Sīn, ia memohon syafaat. [
 
 **[Transliterasi Latin Fonetik]**
 
-*Biha al-asraru [following word resembles “a'zham”] [ending resembles “tasajamat”]*
+*Biha al-asraru [الكلمة التالية تشبه «أعظم»] [الآخر يشبه «تسجمت»]*
 
 *Wa-ba'du salla Allahu Rabbi da'iman*
 
@@ -10189,13 +10189,13 @@ Dengan ayat-ayat [lafaz menyerupai «Shamsayn»] dan Sīn, ia memohon syafaat. [
 
 *Fa-hadha huwa ismu Allahi ya qari'u i'taqid*
 
-*Wa-hris wa-sun [following word resembles “sarabahu”] [ending tentatively “qad 'alat”]*
+*Wa-hris wa-sun [الكلمة التالية تشبه «سربه»] [الآخر باحتمال «قد علت»]*
 
 *Wa-kun 'arifa ismi Allahi alladhi jalla qadruhu*
 
-*Fa-rubba kana ma'a untha la-kanat bihi [short continuation unclear]*
+*Fa-rubba kana ma'a untha la-kanat bihi [تتمة قصيرة غير واضحة]*
 
-*Wa-in kana insanun [two following words unclear; resemble “yaskhan wa-'abduh”]*
+*Wa-in kana insanun [الكلمتان التاليتان غير واضحتين وتشبهان «يسخن وعبدُه»]*
 
 *Fa-la yakhsha min ba'si al-muluki wa-law taghat*
 
@@ -10205,7 +10205,7 @@ Dengan ayat-ayat [lafaz menyerupai «Shamsayn»] dan Sīn, ia memohon syafaat. [
 
 *Wa-in kana masru'an mina al-jinni waqi'an*
 
-*[after “nasaba hamim,” the phrase is unclear; “jannata al-'awn” and an ending resembling “tanṭamat” are visible]*
+*[بعد «نصب حميم» العبارة غير واضحة؛ ويظهر «جنة العون» وآخر يشبه «تنطمت»]*
 
 **[Terjemahan Indonesia]**
 

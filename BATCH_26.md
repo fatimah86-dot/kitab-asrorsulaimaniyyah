@@ -38,7 +38,7 @@
 
 *Adha'at 'ala qalbi bawariqu nurihi*
 
-*Wa-laha 'ala wajhi dhiya'un fansharaqat [the final verb is read tentatively from the print.]*
+*Wa-laha 'ala wajhi dhiya'un fansharaqat [الفعل الأخير مقروء من المطبوع باحتمال]*
 
 *Wa-subba 'ala qalbi sha'abiba rahmatin*
 
@@ -120,9 +120,9 @@ Curahkanlah hujan rahmat ke atas hatiku.
 
 *Fa-subhanaka Allahumma ya khayra bari'in*
 
-*Wa-ya khayra khallaqin lahu al-khalqu [short printed fragment unclear] amintu [tentative reading of the final word]*
+*Wa-ya khayra khallaqin lahu al-khalqu [شظية مطبوعة قصيرة غير واضحة] amintu [قراءة محتملة للكلمة الأخيرة]*
 
-*Afidh li minal-anwari faydatan mushriqatan [mushriqatan follows the visible print tentatively]*
+*Afidh li minal-anwari faydatan mushriqatan [«مشرقة» تتبع المطبوع الظاهر باحتمال]*
 
 *'Alayya wa-ahyi mayyita qalbi bi-lutfika*
 
@@ -132,11 +132,11 @@ Curahkanlah hujan rahmat ke atas hatiku.
 
 *Ala wa-ajnibni min 'aduwwin zalimin*
 
-*Bi-haqqi Shamakhin wa-Ashmakha saltanatin samat [proper names and the middle form are tentative readings]*
+*Bi-haqqi Shamakhin wa-Ashmakha saltanatin samat [الأسماء العلم والصيغة الوسطى قراءات محتملة]*
 
-*Bi-simsamin [short word unclear] bi-harfi [final word unreadable]*
+*Bi-simsamin [كلمة قصيرة غير واضحة] bi-harfi [الكلمة الأخيرة غير مقروءة]*
 
-*Bi-Nahrashin [word after the name unclear] biha an-naru akhmadat [short ending obscured]*
+*Bi-Nahrashin [الكلمة بعد الاسم غير واضحة] biha an-naru akhmadat [آخر قصير مطموس]*
 
 *Bi-dhamami nizhamin wa-bin-nuri wa-ad-dhiya'i*
 
