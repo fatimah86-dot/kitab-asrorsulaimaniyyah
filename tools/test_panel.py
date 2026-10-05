@@ -134,6 +134,17 @@ class BatchAsliTest(unittest.TestCase):
         self.assertEqual(temuan, [])
         self.assertTrue(ringkasan[0].startswith("BATCH_01.md"))
 
+    def test_batch35_mencakup_sampai_indeks_terakhir(self) -> None:
+        b = self.batches[-1]
+        self.assertEqual(b["nomor"], 35)
+        self.assertEqual([h["pdf"] for h in b["halaman"]], list(range(94, 104)))
+        tabel = [it for h in b["halaman"] for bg in h["bagian"] for it in bg["items"] if it["kind"] == "table"]
+        self.assertEqual(len(tabel), 1)
+        self.assertEqual(len(tabel[0]["rows"]), 43)  # header + separator + 41 entri indeks
+        gabungan = bp.ke_markdown([b], murni=False)
+        self.assertIn("## Halaman PDF 103", gabungan)
+        self.assertIn("تم بحمد الله", gabungan)
+
     def test_rajah_ada_dan_putih_bersih(self) -> None:
         from PIL import Image
 
@@ -238,10 +249,10 @@ class PdfTest(unittest.TestCase):
 
         semua = unicodedata.normalize("NFKC", " ".join(self.doc[i].get_text() for i in range(len(self.doc))))
         huruf = re.sub("[\u064B-\u0652\u0670]", "", semua)
-        for kata in ("السليمانية", "الروحانية", "ميكائيل", "جبرائيل", "بسم الله الرحمن الرحيم", "سبحانك يا حي"):
+        for kata in ("السليمانية", "الروحانية", "ميكائيل", "جبرائيل", "بسم الله الرحمن الرحيم", "سبحانك يا حي", "الفهرس", "تم بحمد الله"):
             self.assertIn(kata, huruf)
         arab = [c for c in semua if "\u0600" <= c <= "\u06ff"]
-        asing = [c for c in semua if "\u0700" <= c <= "\u1fff" or "\u2c00" <= c <= "\ufaff"]
+        asing = [c for c in semua if ("\u0700" <= c <= "\u1fff" or "\u2c00" <= c <= "\ufaff") and not unicodedata.name(c, "").startswith("LATIN ")]
         self.assertGreater(len(arab), 2000)
         self.assertEqual(asing, [], "karakter aksara lain (ToUnicode rusak): " + "".join(asing[:20]))
 
@@ -302,6 +313,11 @@ class PdfTest(unittest.TestCase):
     def test_gambar_rajah_ada_di_pdf(self) -> None:
         jumlah = sum(len(self.doc[i].get_images()) for i in range(len(self.doc)))
         self.assertGreaterEqual(jumlah, 1)
+
+    def test_lampiran_pindaian_berakhir_di_pdf_103(self) -> None:
+        terakhir = self.doc[-1]
+        self.assertIn("halaman PDF 103 / 103", terakhir.get_text())
+        self.assertGreaterEqual(len(terakhir.get_images()), 1)
 
 
 class ServerTest(unittest.TestCase):

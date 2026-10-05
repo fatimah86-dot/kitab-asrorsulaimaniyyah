@@ -59,19 +59,19 @@
 
 *Li-ta'ati asma'ihi biha al-ardu zulzilat*
 
-*Wa bil-ismi fajlib li al-mawali bi-mishrina*
+*Wa bil-ismi fajlib lil-mawali bi-mishrina*
 
 *Wa-atba'ahum wal-junuda jami'an sakhkhartu*
 
-*Wa-akhdhi' li as-sultana wal-kawna kullahu*
+*Wa-akhdhi' lis-sultana wal-kawna kullahu*
 
-*Wa-ahlik li al-a'da'a bil-ismi ahlaktu*
+*Wa-ahlik lil-a'da'a bil-ismi ahlaktu*
 
-*Wa bil-ismi fajma' li al-muluka jami'aha*
+*Wa bil-ismi fajma' lil-muluka jami'aha*
 
 *Wa-akhdhi'hum bil-ismi qahran fa-aqhartu*
 
-*Wa-arsil li al-amlaaka qahran liman 'asa*
+*Wa-arsil lil-amlaaka qahran liman 'asa*
 
 *Bi-zajrin wa-ihraqin ila al-jinni arsaltu*
 
@@ -161,11 +161,11 @@ dengan hardikan dan pembakaran; telah kuutus mereka kepada golongan jin.
 
 **[Transliterasi Latin Fonetik]**
 
-*Wa-sakhkhir li al-arwaha wal-jinna kullaha*
+*Wa-sakhkhir lil-arwaha wal-jinna kullaha*
 
 *Wa-kulla 'afaritin 'usatin tamarradat*
 
-*Wa-arsil li al-arhata taw'an bi-dhillatin*
+*Wa-arsil lil-arhata taw'an bi-dhillatin*
 
 *Kadha kullu zhabyin wa-ghulin tafawwalat [the printed verb is read tentatively; its contextual meaning is unclear].*
 

@@ -56,7 +56,7 @@ Dengan ayat-ayat [lafaz menyerupai «Shamsayn»] dan Sīn, ia memohon syafaat. [
 
 وَآلِهِ الطُّهْرِ كِرَامٍ أَئِمَّةٍ
 
-بِهِمْ زَالَتِ الْأَكْدَارُ عَنَّا وَنُزِحَتْ
+بِهِمْ زَالَتِ الْأَكْدَارُ عَنَّا وَزُحْزِحَتْ
 
 فَهَذَا هُوَ اسْمُ اللهِ يَا قَارِئُ اعْتَقِدْ
 
@@ -90,7 +90,7 @@ Dengan ayat-ayat [lafaz menyerupai «Shamsayn»] dan Sīn, ia memohon syafaat. [
 
 *Wa-alihi at-tuhri kiramin a'immatin*
 
-*Bihim zalati al-akdaru 'anna wa-nuzihat*
+*Bihim zalati al-akdaru 'anna wa-zuḥziḥat*
 
 *Fa-hadha huwa ismu Allahi ya qari'u i'taqid*
 
@@ -122,7 +122,7 @@ Kepada al-Muṣṭafā selama burung terbang dan mengepakkan sayap.
 
 Dan kepada keluarga beliau yang suci, para pemuka yang mulia.
 
-Melalui mereka, kesusahan telah lenyap dari kami dan tersingkir.
+Melalui mereka, kesusahan telah lenyap dari kami dan dijauhkan.
 
 Inilah Nama Allah; wahai pembaca, yakinilah.
 
@@ -154,7 +154,7 @@ Jika seseorang jatuh tak berdaya karena gangguan jin,
 
 > (833) «وآله الطهر كرام أئمة» menyebut keluarga Nabi yang suci dan mulia; susunan iḍafah/predikasi dipadatkan oleh nazham.
 
-> (834) «بهم زالت الأكدار عنا» terbaca jelas; «زالت» cocok dengan subjek feminin jamak tak berakal «الأكدار».
+> (834) «بهم زالت الأكدار عنا وزحزحت» terbaca; kedua verba feminin tunggal «زالت» dan «زحزحت» cocok dengan «الأكدار» sebagai jamak tak berakal. «زحزحت» adalah bentuk pasif dari «زحزح», bermakna “dijauhkan/diusir.”
 
 > (835) «فهذا هو اسم الله يا قارئ اعتقد» merupakan pernyataan dan seruan: «اعتقد» fi'il amr.
 

@@ -100,9 +100,9 @@ Dengan Yang Mahakudus, dengan «Rahub», kegelapan tersingkap dengannya. [Ada pe
 
 *Wa-yassir umuri ya Muyassiru wa-a'tini*
 
-*Min al-'izzi wal-'ala'i 'izzan tasamaytu*
+*Minal-'izzi wal-'ala'i 'izzan tasamaytu*
 
-*Wa-arsil li [the word after li resembles al-dhanb] bi-tabibin [short fragment unclear] ma'atibi [tentative reading]*
+*Wa-arsil li [the word after li resembles «الذنب»] bi-tabibin [short fragment unclear] ma'atibi [tentative reading]*
 
 *Wa-bil-ismi arsilha bi-kasbin tashallat [the final verb is tentative.]*
 

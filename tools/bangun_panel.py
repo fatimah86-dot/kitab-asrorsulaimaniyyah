@@ -22,6 +22,7 @@ import argparse
 import html
 import re
 import sys
+import unicodedata
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -62,9 +63,11 @@ LABEL_MD = {
 
 RE_BERKAS = re.compile(r"^BATCH_(\d+)\.md$")
 RE_HALAMAN = re.compile(r"^##\s+Halaman PDF\s+(\d+)\s*(?:\(=\s*([^)]*)\))?\s*$")
+RE_HALAMAN_LAMPIRAN = re.compile(r"^##\s+PDF\s+(\d+)\s*(?:\(=\s*([^)]*)\))?\s*(?:[—–-]\s*(.*))?$")
 RE_BAGIAN = re.compile(r"^###\s+Bagian\s+(\d+)\s*(?:[—–-]\s*(.*))?$")
 RE_LABEL = re.compile(r"^\*\*\[([^\]]+)\]\*\*\s*$")
 RE_GAMBAR = re.compile(r"^!\[([^\]]*)\]\(([^)\s]+)\)\s*$")
+RE_TABEL = re.compile(r"^\s*\|.*\|\s*$")
 
 
 # --------------------------------------------------------------------------- parser
@@ -105,14 +108,94 @@ def _paragraf(baris: list[str], kind: str) -> list[dict]:
     return hasil
 
 
+def _parse_batch_lampiran(path: Path, batch: dict) -> dict:
+    """BATCH_35 berisi prosa, rajah, doa, dan indeks; parse Markdown per halaman tanpa memaksakan skema nazham."""
+    halaman = bagian = None
+    jenis: str | None = None
+    buf: list[str] = []
+    nomor_bagian = 0
+    tabel_aktif = False
+
+    def selesai_blok() -> None:
+        nonlocal jenis, buf
+        if jenis is not None and bagian is not None:
+            paras = _paragraf(buf, jenis)
+            if paras:
+                bagian["items"].append({"kind": jenis, "paras": paras})
+        jenis, buf = None, []
+
+    for mentah in path.read_text(encoding="utf-8").splitlines():
+        baris = mentah.rstrip()
+        mh = RE_HALAMAN_LAMPIRAN.match(baris)
+        if mh:
+            selesai_blok()
+            halaman = {"pdf": int(mh.group(1)), "label": (mh.group(2) or "").strip(), "judul": (mh.group(3) or "").strip(), "bagian": []}
+            batch["halaman"].append(halaman)
+            bagian = None
+            nomor_bagian = 0
+            tabel_aktif = False
+            continue
+        if halaman is not None and baris.startswith("### "):
+            selesai_blok()
+            nomor_bagian += 1
+            bagian = {"no": nomor_bagian, "judul": baris[4:].strip(), "items": []}
+            halaman["bagian"].append(bagian)
+            tabel_aktif = False
+            continue
+        if halaman is None:
+            if baris.startswith("# "):
+                batch["judul"] = baris[2:].strip()
+            elif baris.startswith("> "):
+                batch["intro"].append(baris[2:].strip())
+            elif baris.startswith("- "):
+                batch["catatan"].append(baris[2:].strip())
+            continue
+        teks = baris.strip()
+        if bagian is None:
+            if not teks or teks == "---":
+                continue
+            nomor_bagian += 1
+            bagian = {"no": nomor_bagian, "judul": halaman.get("judul") or "Isi halaman", "items": []}
+            halaman["bagian"].append(bagian)
+        if teks == "<div dir=\"rtl\">":
+            selesai_blok()
+            jenis = "ar"
+            tabel_aktif = False
+            continue
+        if teks == "</div>":
+            selesai_blok()
+            tabel_aktif = False
+            continue
+        if RE_TABEL.match(baris):
+            selesai_blok()
+            if tabel_aktif and bagian["items"] and bagian["items"][-1]["kind"] == "table":
+                bagian["items"][-1]["rows"].append(teks)
+            else:
+                bagian["items"].append({"kind": "table", "rows": [teks]})
+            tabel_aktif = True
+            continue
+        tabel_aktif = False
+        if teks == "---":
+            selesai_blok()
+            continue
+        if jenis is None:
+            jenis = "id"
+        buf.append(baris)
+    selesai_blok()
+    return batch
+
+
 def parse_batch(path: Path) -> dict:
     path = Path(path)
     m = RE_BERKAS.match(path.name)
     if not m:
         raise ValueError(f"nama berkas bukan BATCH_NN.md: {path.name}")
     batch = {"berkas": path.name, "nomor": int(m.group(1)), "judul": "", "intro": [], "catatan": [], "halaman": []}
+    if batch["nomor"] == 35:
+        return _parse_batch_lampiran(path, batch)
     halaman = bagian = blok = None
     buf: list[str] = []
+    tabel_aktif = False
 
     def selesai_blok() -> None:
         nonlocal blok, buf
@@ -149,7 +232,17 @@ def parse_batch(path: Path) -> dict:
         if mg and bagian is not None:
             selesai_blok()
             bagian["items"].append({"kind": "img", "alt": mg.group(1), "src": mg.group(2), "caption": ""})
+            tabel_aktif = False
             continue
+        if RE_TABEL.match(baris) and bagian is not None:
+            selesai_blok()
+            if tabel_aktif and bagian["items"] and bagian["items"][-1]["kind"] == "table":
+                bagian["items"][-1]["rows"].append(baris.strip())
+            else:
+                bagian["items"].append({"kind": "table", "rows": [baris.strip()]})
+            tabel_aktif = True
+            continue
+        tabel_aktif = False
         if baris.strip() == "---":
             selesai_blok()
             continue
@@ -219,8 +312,27 @@ def rentang_pdf(batches: list[dict]) -> tuple[int, int]:
 
 
 # --------------------------------------------------------------------------- HTML (web & pdf)
+def _table_html(blok: dict) -> str:
+    rows = [[c.strip() for c in row.strip().strip("|").split("|")] for row in blok.get("rows", [])]
+    if not rows:
+        return ""
+    header, *sisa = rows
+    body = [r for r in sisa if not all(re.fullmatch(r":?-{3,}:?", c) for c in r)]
+    th = "".join(f"<th>{inline(c)}</th>" for c in header)
+    tr = []
+    for row in body:
+        cells = []
+        for i, cell in enumerate(row):
+            arah = ' dir="rtl" lang="ar"' if i == 1 else ""
+            cells.append(f"<td{arah}>{inline(cell)}</td>")
+        tr.append("<tr>" + "".join(cells) + "</tr>")
+    return '<div class="blok blok-tabel"><table><thead><tr>' + th + '</tr></thead><tbody>' + "".join(tr) + '</tbody></table></div>'
+
+
 def _blok_html(blok: dict) -> str:
     kind = blok["kind"]
+    if kind == "table":
+        return _table_html(blok)
     isi: list[str] = []
     daftar: list[str] = []
 
@@ -350,6 +462,11 @@ main{max-width:880px;margin:0 auto;padding:6px 12px 40px}
 .blok-syarah{background:#faf7ef;border:1px dashed var(--emas);font-size:17px;text-align:justify}
 .blok-faedah{background:#fff8f2;border:1px solid #fb923c;font-size:17px}
 .blok ul{margin:.3em 0 .3em 1.1em;padding:0}
+.blok-tabel{overflow-x:auto;padding:8px 0}
+.blok-tabel table{border-collapse:collapse;width:100%;font-size:14px;line-height:1.45}
+.blok-tabel th,.blok-tabel td{border:1px solid #cbd5d1;padding:5px 7px;vertical-align:top}
+.blok-tabel th{background:#f4eee2;color:#0d4a36;text-align:center}
+.blok-tabel td:nth-child(2){text-align:right}
 .gambar{margin:16px 0;text-align:center;border:2px dashed var(--emas);background:#fff;border-radius:10px;padding:14px}
 .gambar img{max-width:min(100%,460px);height:auto}
 .gambar-judul{font:700 14px/1.4 system-ui,-apple-system,'Segoe UI',Roboto,sans-serif;color:var(--hijau);margin:8px 0 2px}
@@ -378,6 +495,11 @@ p { margin: 0 0 3pt 0; }
 .blok-id { text-align: justify; padding: 0 10pt; line-height: 1.6; }
 .blok-syarah { background-color: #faf7ef; border: 1pt dashed #c59b27; padding: 0 10pt; font-size: 9.5pt; line-height: 1.6; text-align: justify; }
 .blok-faedah { background-color: #fff8f2; border: 1pt solid #fb923c; padding: 0 10pt; font-size: 9.5pt; line-height: 1.6; }
+.blok-tabel { padding: 2pt 0; }
+.blok-tabel table { border-collapse: collapse; width: 100%; font-size: 7.5pt; line-height: 1.3; }
+.blok-tabel th, .blok-tabel td { border: 0.5pt solid #b8c1bc; padding: 2pt 3pt; vertical-align: top; }
+.blok-tabel th { background-color: #f4eee2; color: #0d4a36; text-align: center; }
+.blok-tabel td:nth-child(2) { text-align: right; }
 .gambar { text-align: center; border: 2pt dashed #c59b27; background-color: #ffffff; padding: 8pt; margin: 8pt 36pt; page-break-inside: avoid; }
 .gambar-judul { font-weight: bold; color: #0d4a36; font-size: 9pt; margin: 4pt 0 1pt 0; }
 .gambar-ket { font-size: 8pt; color: #4b5563; text-align: left; }
@@ -432,7 +554,7 @@ def unit_pdf(batches: list[dict]) -> list[tuple[str, bool]]:
 
 
 # --------------------------------------------------------------------------- PDF
-def _header_footer(doc, batches: list[dict], pymupdf, arc) -> None:
+def _header_footer(doc, batches: list[dict], pymupdf, arc, awal_lampiran: int | None = None) -> None:
     css = FACE_PDF + "body { font-family: Amiri; color: #0d4a36; font-size: 9pt; } p { margin: 0; }"
     total = len(doc)
     nomor = [b["nomor"] for b in batches]
@@ -440,6 +562,7 @@ def _header_footer(doc, batches: list[dict], pymupdf, arc) -> None:
     for i, page in enumerate(doc):
         r = page.rect
         kiri, kanan = MARGIN, r.width - MARGIN
+        label_kiri = f"Pindaian sumber PDF {i - awal_lampiran + 1:03d}" if awal_lampiran is not None and i >= awal_lampiran else f"{rentang} · Kartu Panel"
         page.draw_line((kiri, 50), (kanan, 50), color=EMAS_RGB, width=0.9)
         page.draw_line((kiri, r.height - 50), (kanan, r.height - 50), color=EMAS_RGB, width=0.9)
         page.insert_htmlbox(
@@ -447,7 +570,7 @@ def _header_footer(doc, batches: list[dict], pymupdf, arc) -> None:
             f'<p dir="rtl" style="text-align:right;font-size:14pt">{esc(JUDUL_AR)}</p>', css=css, archive=arc)
         page.insert_htmlbox(
             pymupdf.Rect(kiri, 30, kiri + 240, 49),
-            f'<p style="font-size:8.5pt">{rentang} · Kartu Panel</p>', css=css, archive=arc)
+            f'<p style="font-size:8.5pt">{esc(label_kiri)}</p>', css=css, archive=arc)
         page.insert_htmlbox(
             pymupdf.Rect(r.width / 2 - 70, r.height - 47, r.width / 2 + 70, r.height - 14),
             f'<p style="text-align:center;font-size:14pt">﴿ {nomor_arab(i + 1)} ﴾</p>', css=css, archive=arc)
@@ -629,6 +752,37 @@ def _perbaiki_tounicode(doc) -> int:
     return diperbaiki
 
 
+def _tambahkan_pindaian_sumber(doc, batches: list[dict], pymupdf) -> int | None:
+    """Lampirkan 103 pindaian halaman penuh pada panel lengkap, satu scan per halaman A4."""
+    nomor = sorted(b["nomor"] for b in batches)
+    if nomor != list(range(1, 36)):
+        return None
+    berkas = [ROOT / "hasil" / "gambar" / f"halaman_{i:03d}.jpg" for i in range(1, 104)]
+    hilang = [str(p) for p in berkas if not p.is_file()]
+    if hilang:
+        raise FileNotFoundError("pindaian sumber penuh tidak lengkap: " + ", ".join(hilang[:5]))
+
+    a4 = pymupdf.paper_rect("a4")
+    mulai = len(doc)
+    for no, sumber in enumerate(berkas, 1):
+        page = doc.new_page(width=a4.width, height=a4.height)
+        page.insert_textbox(
+            pymupdf.Rect(MARGIN, 55, a4.width - MARGIN, 73),
+            f"Pindaian penuh sumber - halaman PDF {no:03d} / 103",
+            fontname="helv", fontsize=8, align=pymupdf.TEXT_ALIGN_CENTER, color=(0.2, 0.25, 0.2))
+        px = pymupdf.Pixmap(str(sumber))
+        area = pymupdf.Rect(22, 78, a4.width - 22, a4.height - 58)
+        skala = min(area.width / px.width, area.height / px.height)
+        lebar, tinggi = px.width * skala, px.height * skala
+        gambar = pymupdf.Rect(
+            area.x0 + (area.width - lebar) / 2,
+            area.y0 + (area.height - tinggi) / 2,
+            area.x0 + (area.width + lebar) / 2,
+            area.y0 + (area.height + tinggi) / 2)
+        page.insert_image(gambar, filename=str(sumber), keep_proportion=True, overlay=True)
+    return mulai
+
+
 def bangun_pdf(batches: list[dict], keluaran: Path) -> int:
     """Bangun PDF master. Mengembalikan jumlah halaman."""
     import pymupdf  # impor malas: --cek dan server tidak memerlukannya
@@ -641,7 +795,8 @@ def bangun_pdf(batches: list[dict], keluaran: Path) -> int:
     _susun_halaman(unit_pdf(batches), arc, pymupdf, penulis)
     penulis.close()
     doc = pymupdf.open(str(sementara))
-    _header_footer(doc, batches, pymupdf, arc)
+    awal_lampiran = _tambahkan_pindaian_sumber(doc, batches, pymupdf)
+    _header_footer(doc, batches, pymupdf, arc, awal_lampiran)
     try:
         _perbaiki_tounicode(doc)
     except Exception as exc:  # noqa: BLE001 - tampilan PDF tidak terpengaruh; hanya salin/cari teks
@@ -696,6 +851,9 @@ def ke_markdown(batches: list[dict], murni: bool) -> str:
                         k += [f"![{it['alt']}]({it['src']})", ""]
                         if it["caption"]:
                             k += [f"*{it['caption']}*", ""]
+                        continue
+                    if it["kind"] == "table":
+                        k += it.get("rows", []) + [""]
                         continue
                     if murni and it["kind"] in ("syarah", "faedah"):
                         continue
@@ -763,6 +921,9 @@ def periksa(batches: list[dict], root: Path = ROOT) -> tuple[list[str], list[str
     except Exception:  # noqa: BLE001 - fontTools opsional
         peta = None
     for b in batches:
+        if b["nomor"] == 35:  # prosa, rajah, doa, dan indeks; bukan bait berpasangan untuk uji 95% harakat
+            ringkasan.append(f"{b['berkas']}: {len(b['halaman'])} halaman lampiran non-nazham")
+            continue
         jml = ada = 0
         for h in b["halaman"]:
             for bg in h["bagian"]:
@@ -773,11 +934,13 @@ def periksa(batches: list[dict], root: Path = ROOT) -> tuple[list[str], list[str
                         if not (root / it["src"]).is_file():
                             temuan.append(f"{tag}: gambar tidak ada: {it['src']}")
                         continue
+                    if it["kind"] == "table":
+                        continue
                     if it["kind"] in hitung:
                         hitung[it["kind"]] = len([p for p in it["paras"] if p["t"] != "li"])
                     teks = " ".join(p["text"] for p in it["paras"])
                     if peta is not None:
-                        hilang = sorted({c for c in teks if c not in "\n\t" and ord(c) not in peta})
+                        hilang = sorted({c for c in teks if not unicodedata.name(c, "").startswith(("LATIN ", "MODIFIER LETTER ")) and ord(c) not in peta})
                         if hilang:
                             temuan.append(f"{tag} [{it['kind']}]: karakter tidak ada di font: " + " ".join(f"U+{ord(c):04X}" for c in hilang))
                     if it["kind"] == "ar":

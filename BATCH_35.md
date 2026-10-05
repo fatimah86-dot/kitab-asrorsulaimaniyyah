@@ -16,7 +16,7 @@
 
 مَنْدَلُ أَبِي دِيبَاجَةَ
 
-وهو من مزاج الأسرار التي قل من وقف عندها وجودت طريقها، يستخدم لكشف الأمور الخافية وجلب السحر وإبطاله وعلاج الأمراض المزمنة العاصية، فإذا أردت شيئاً من ذلك فارسم خاتم أبي ديباجة الآتي بيانه على إبهام صبي دون البلوغ، أو على كفه، ثم ضع فوقه دهناً من العود الطيب [لفظ قصير بعده غير واضح] بالند الهندي، واقرأ العزيمة سبع مرات، والناظر الصبي ينظر إلى الزيت الذي في كفه، وهذه هي العزيمة:
+وهو من ذخائر الأسرار التي قل من وقف عندها وجودت طريقها، يستخدم لكشف الأمور الخافية وجلب السحر وإبطاله وعلاج الأمراض المزمنة العاصية، فإذا أردت شيئاً من ذلك فارسم خاتم أبي ديباجة الآتي بيانه على إبهام صبي دون البلوغ، أو على كفه، ثم ضع فوقه دهناً من العود الطيب [لفظ قصير بعده غير واضح] بالند الهندي، واقرأ العزيمة سبع مرات، والناظر الصبي ينظر إلى الزيت الذي في كفه، وهذه هي العزيمة:
 
 يَعُوشُ يَعُوشُ يَعُوشُ بِعُرُوشٍ بِعُرُوشٍ [تليها ألفاظ متتابعة؛ من الظاهر منها «بطمش، تريش، هبش»، وبقية الحروف متصلة أو مطموسة.]
 
@@ -34,7 +34,7 @@
 
 ### Terjemahan Indonesia
 
-**Mandal Abu Dībājah.** Ini termasuk rangkaian rahasia yang sedikit orang menelitinya, sedangkan caranya telah disusun. Naskah menyebutnya untuk menyingkap perkara tersembunyi, mendatangkan atau membatalkan sihir, serta menangani penyakit kronis yang sulit diatasi. Jika menginginkan hal itu, gambarlah cincin/rajah Abu Dībājah yang akan dijelaskan pada ibu jari seorang anak laki-laki yang belum balig atau pada telapak tangannya. Kemudian oleskan minyak dari kayu gaharu yang baik [ada kata pendek sesudahnya yang tidak jelas] dengan minyak wangi India (nadd al-Hindī). Bacalah mantra tujuh kali sementara anak itu memandang minyak pada telapak tangannya. Inilah mantranya:
+**Mandal Abu Dībājah.** Ini termasuk khazanah rahasia yang hanya sedikit orang mendalaminya, dan caranya telah tersusun dengan baik. Naskah menyebutnya untuk menyingkap perkara tersembunyi, mendatangkan atau membatalkan sihir, serta menangani penyakit kronis yang sulit diatasi. Jika menginginkan hal itu, gambarlah cincin/rajah Abu Dībājah yang akan dijelaskan pada ibu jari seorang anak laki-laki yang belum balig atau pada telapak tangannya. Kemudian oleskan minyak dari kayu gaharu yang baik [ada kata pendek sesudahnya yang tidak jelas] dengan minyak wangi India (nadd al-Hindī). Bacalah mantra tujuh kali sementara anak itu memandang minyak pada telapak tangannya. Inilah mantranya:
 
 Mantra yang tercetak dimulai dengan pengulangan «يعوش» tiga kali dan dua kali «بعروش», lalu rangkaian yang beberapa hurufnya tampak sebagai «بطمش، تريش، هبش». Sisanya saling bertaut atau pudar, sehingga tidak ditransliterasikan sebagai bacaan pasti.
 
@@ -275,6 +275,16 @@ Setelah menggambarnya, letakkan kain itu di bawah matahari tanpa menunda sampai 
 Wahai, wahai, «Ahlīl, Ahmāsh, Ahmāsh» [rangkaian nama sebagaimana tercetak], aku melindungi diriku dengan hijab Allah dan penjagaan-Nya, dengan ayat-ayat Allah yang nyata dari segala keburukan. Demi Dia yang menghidupkan tatanan [satu lafaz tidak jelas] dan Maha Penyayang; Jibril berada di sebelah kananku, Isrāfīl di sebelah kiriku, Muḥammad ﷺ di hadapanku, dan tongkat Musa di tanganku. Siapa yang melihatku akan segan kepadaku; cincin Sulaiman berada di lisanku. Siapa pun yang kuajak bicara, kebutuhanku akan dipenuhi. Cahaya Yusuf berada di wajahku; siapa yang melihatku akan menyukaiku. Allah meliputi diriku, dan kepada-Nya dimohon pertolongan menghadapi para musuh. Tiada tuhan selain Allah Yang Mahabesar lagi Mahatinggi. Semoga Allah melimpahkan salawat kepada junjungan kami Muḥammad, Nabi pembawa rahmat dan penghapus kesusahan, serta kepada keluarga beliau yang suci.”
 
 Catatan: nama-nama invokatif pada awal paragraf dan satu kata sesudah «من يحيي النظام» tidak cukup jelas untuk dipastikan; bentuknya dipertahankan secara deskriptif.
+
+### Penutup halaman pada sumber
+
+<div dir="rtl">
+
+تَمَّ بِحَمْدِ اللهِ
+
+</div>
+
+“Selesai dengan puji syukur kepada Allah.”
 
 ---
 

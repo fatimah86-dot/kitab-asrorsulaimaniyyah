@@ -1,14 +1,14 @@
 # TERJEMAHAN — الأسرار السليمانية في العلوم الروحانية
 
-> Gabungan Batch 01–14, dibangun otomatis oleh `tools/bangun_panel.py`. Jangan disunting di sini; ubah `BATCH_NN.md` lalu bangun ulang.
+> Gabungan Batch 01–35, dibangun otomatis oleh `tools/bangun_panel.py`. Jangan disunting di sini; ubah `BATCH_NN.md` lalu bangun ulang.
 
 **Catatan penyunting:**
 
 - Penomoran: 1 halaman PDF = 1 halaman cetak. PDF hal. 1 = sampul; PDF hal. 2 = cetak 1; dan seterusnya (cetak = PDF − 1). Header berjalan dan footer (nomor telepon penulis) bukan isi kitab dan tidak diterjemahkan.
 - Teks cetak tidak berharakat. Harakat, tanda baca, dan transliterasi ditambahkan oleh AI, bukan dari naskah; mohon dikoreksi nahwu/sharaf.
-- Ejaan cetak yang tidak baku (ى/ه/ا) disesuaikan ke ejaan baku agar harakat bisa diberikan. Salah cetak tidak diperbaiki diam-diam: ditandai `[المطبوع: …]` (= yang tercetak) atau `[كذا]` (= demikian adanya).
+- Ejaan cetak yang tidak baku (ى/ه/ا) disesuaikan ke ejaan baku agar harakat bisa diberikan. Salah cetak atau susunan janggal tidak diperbaiki diam-diam: lafaz dipertahankan menurut cetakan dan disertai catatan deskriptif.
 - Transliterasi mengikuti bacaan washal (sambung): i'rab dibaca di tengah kalimat, waqf (tanpa i'rab/tanwin) di akhir kalimat atau koma. ث=ts, ذ=dz, ظ=zh, ض=dh, ص=sh, ط=th, ش=sy; tanda ' = hamzah/'ain.
-- Nama-nama non-Arab (nama malaikat/seruan) tidak diterjemahkan; harakat dan bacaannya dugaan, ditandai (؟) pada teks Arab dan (?) pada teks Latin.
+- Nama-nama non-Arab (nama malaikat/seruan) tidak diterjemahkan; harakat atau pelafalan yang belum pasti diberi keterangan, sementara konsonan cetak dipertahankan.
 - Edisi kajian: teks diterjemahkan sebagai dokumen; klaim kitab disampaikan sebagai klaim penulis, bukan anjuran praktik.
 
 ---
@@ -175,7 +175,7 @@ Beliau adalah ahli ilmu ruhani yang agung, Dr. Abdullah al-Jundi, berkebangsaan 
 
 **أَسْرَارُ الأَسْمَاءِ المَكْتُوبَةِ عَلَى جَبِينِ جِبْرَائِيلَ عَلَيْهِ السَّلَامُ**
 
-فِي الأَسْمَاءِ المَكْتُوبَاتِ عَلَى جَبِينِ جِبْرَائِيلَ عَلَيْهِ السَّلَامُ، الوَاقِفِ عَلَى شِمَالِ القُدْرَةِ مُنْتَظِرًا مَا يُؤْمَرُ بِهِ مِنَ الوَحْيِ الإِلَهِيِّ. وَهِيَ عَلَى المَلَائِكَةِ المُخْتَصِّينَ بِاللَّوْحِ المُحِيطِ بِكُلِّ عِلْمٍ وَالعِلْمِ الرَّفِيعِ، مَتَى دَعَوْتَهُمْ بِهَا أَجَابُوا سَمْعًا وَطَاعَةَ اللَّهِ عَزَّ وَجَلَّ، وَبِأَسْمَائِهِ وَبِهَا خَلَقَهُمْ، وَهِيَ مَكْتُوبَةٌ عَلَى جَبِينِ جِبْرِيلَ عَلَيْهِ السَّلَامُ، وَهِيَ الَّتِي كَانَ يَتَكَلَّمُ بِهَا عِيسَى بْنُ مَرْيَمَ عَلَيْهِ السَّلَامُ عِنْدَ مُهِمَّاتِ الأَمْرِ، وَهِيَ هَذِهِ: طَشْ طَشْ طَشْطْ طَشَهْ يُوهَنِيطْ هُومِيَاطْ هُوثَاوُطْ (؟)، جَلَّ اللَّهُ عَزَّ وَجَلَّ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ.
+فِي الأَسْمَاءِ المَكْتُوبَاتِ عَلَى جَبِينِ جِبْرَائِيلَ عَلَيْهِ السَّلَامُ، الوَاقِفِ عَلَى شِمَالِ القُدْرَةِ مُنْتَظِرًا مَا يُؤْمَرُ بِهِ مِنَ الوَحْيِ الإِلَهِيِّ. وَهِيَ عَلَى المَلَائِكَةِ المُخْتَصِّينَ بِاللَّوْحِ المُحِيطِ بِكُلِّ عِلْمٍ وَالعِلْمِ الرَّفِيعِ، مَتَى دَعَوْتَهُمْ بِهَا أَجَابُوا سَمْعًا وَطَاعَةَ اللَّهِ عَزَّ وَجَلَّ، وَبِأَسْمَائِهِ وَبِهَا خَلَقَهُمْ، وَهِيَ مَكْتُوبَةٌ عَلَى جَبِينِ جِبْرِيلَ عَلَيْهِ السَّلَامُ، وَهِيَ الَّتِي كَانَ يَتَكَلَّمُ بِهَا عِيسَى بْنُ مَرْيَمَ عَلَيْهِ السَّلَامُ عِنْدَ مُهِمَّاتِ الأَمْرِ، وَهِيَ هَذِهِ: طَشْ طَشْ طَشْطْ طَشَهْ يُوهَنِيطْ هُومِيَاطْ هُوثَاوُطْ [ضبط الاسم غير محسوم؛ حروفه محفوظة وفق الطباعة]، جَلَّ اللَّهُ عَزَّ وَجَلَّ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ.
 
 </div>
 
@@ -183,13 +183,13 @@ Beliau adalah ahli ilmu ruhani yang agung, Dr. Abdullah al-Jundi, berkebangsaan 
 
 **Asraarul-asmaa'il-maktuubati 'alaa jabiini Jibraa'iila 'alaihis-salaam**
 
-*Fil-asmaa'il-maktuubaati 'alaa jabiini Jibraa'iila 'alaihis-salaam, al-waaqifi 'alaa syimaalil-qudrati muntazhiran maa yu'maru bihi minal-wahyil-ilaahiyy. Wa hiya 'alal-malaa'ikatil-mukhtashshiina bil-lauhil-muhiithi bikulli 'ilmin wal-'ilmir-rafii', mataa da'autahum bihaa ajaabuu sam'an wa thaa'atallaahi 'azza wa jalla, wa bi-asmaa'ihi wa bihaa khalaqahum, wa hiya maktuubatun 'alaa jabiini Jibriila 'alaihis-salaam, wa hiyallatii kaana yatakallamu bihaa 'Iisabnu Maryama 'alaihis-salaam 'inda muhimmaatil-amr, wa hiya haadzihi: Thasy thasy thasyth thasyah yuuhaniith huumiyaath huutsaawuth (?), jallallaahu 'azza wa jalla, wa huwa 'alaa kulli syai'in qadiir.*
+*Fil-asmaa'il-maktuubaati 'alaa jabiini Jibraa'iila 'alaihis-salaam, al-waaqifi 'alaa syimaalil-qudrati muntazhiran maa yu'maru bihi minal-wahyil-ilaahiyy. Wa hiya 'alal-malaa'ikatil-mukhtashshiina bil-lauhil-muhiithi bikulli 'ilmin wal-'ilmir-rafii', mataa da'autahum bihaa ajaabuu sam'an wa thaa'atallaahi 'azza wa jalla, wa bi-asmaa'ihi wa bihaa khalaqahum, wa hiya maktuubatun 'alaa jabiini Jibriila 'alaihis-salaam, wa hiyallatii kaana yatakallamu bihaa 'Iisabnu Maryama 'alaihis-salaam 'inda muhimmaatil-amr, wa hiya haadzihi: Thasy thasy thasyth thasyah yuuhaniith huumiyaath huutsaawuth [phonetic reading of the non-Arabic name is tentative; printed consonants are retained], jallallaahu 'azza wa jalla, wa huwa 'alaa kulli syai'in qadiir.*
 
 **[Terjemahan Indonesia]**
 
 **Rahasia Nama-Nama yang Tertulis di Dahi Jibril 'alaihis-salam**
 
-Tentang nama-nama yang tertulis di dahi Jibril 'alaihis-salam, yang berdiri di sisi kiri Qudrah (Kekuasaan Ilahi) seraya menanti apa yang diperintahkan kepadanya dari wahyu Ilahi. Nama-nama itu berkaitan dengan para malaikat yang dikhususkan pada Lauh yang meliputi segala ilmu dan ilmu yang luhur: apabila engkau menyeru mereka dengan nama-nama itu, mereka menyahut dengan patuh dan taat kepada Allah 'Azza wa Jalla, dan dengan nama-nama-Nya pula; dan dengan nama-nama itulah Dia menciptakan mereka. Nama-nama itu tertulis di dahi Jibril 'alaihis-salam, dan itulah yang diucapkan 'Isa putra Maryam 'alaihis-salam ketika menghadapi urusan-urusan penting. Nama-nama itu ialah: Thasy thasy thasyth thasyah yuuhaniith huumiyaath huutsaawuth (?) (nama-nama non-Arab, tidak diterjemahkan). Mahaagung Allah 'Azza wa Jalla, dan Dia Mahakuasa atas segala sesuatu.
+Tentang nama-nama yang tertulis di dahi Jibril 'alaihis-salam, yang berdiri di sisi kiri Qudrah (Kekuasaan Ilahi) seraya menanti apa yang diperintahkan kepadanya dari wahyu Ilahi. Nama-nama itu berkaitan dengan para malaikat yang dikhususkan pada Lauh yang meliputi segala ilmu dan ilmu yang luhur: apabila engkau menyeru mereka dengan nama-nama itu, mereka menyahut dengan patuh dan taat kepada Allah 'Azza wa Jalla, dan dengan nama-nama-Nya pula; dan dengan nama-nama itulah Dia menciptakan mereka. Nama-nama itu tertulis di dahi Jibril 'alaihis-salam, dan itulah yang diucapkan 'Isa putra Maryam 'alaihis-salam ketika menghadapi urusan-urusan penting. Nama-nama itu ialah: Thasy thasy thasyth thasyah yuuhaniith huumiyaath huutsaawuth [pelafalan nama non-Arab bersifat tentatif; konsonan cetak dipertahankan] (nama-nama non-Arab, tidak diterjemahkan). Mahaagung Allah 'Azza wa Jalla, dan Dia Mahakuasa atas segala sesuatu.
 
 **[Syarah]**
 
@@ -255,7 +255,7 @@ Ia terdiri dari tujuh nama yang diajarkan Allah Ta'ala kepada Mikail 'alaihis-sa
 
 … شَيْءٍ مِنْ أَعْمَالِ البِرِّ وَالتَّقْوَى، وَاسْتِنْزَالِ الشَّاقُوفَاتِ الَّتِي بِأَقْطَارِ الأَرْضِ. وَهِيَ هَذِهِ الأَسْمَاءُ الطَّاهِرَةُ الشَّرِيفَةُ، المُطَهَّرَةُ المَكْتُوبَةُ عَلَى جَبْهَةِ مِيكَائِيلَ عَلَيْهِ السَّلَامُ:
 
-شَهَا شُوِينْ كُنُوفِشْ لُونِيمْ كِيلِيمْ يَعْطِيشْ بَالَهْ (؟).
+شَهَا شُوِينْ كُنُوفِشْ لُونِيمْ كِيلِيمْ يَعْطِيشْ بَالَهْ [ضبط الاسم غير محسوم؛ حروفه محفوظة وفق الطباعة].
 
 </div>
 
@@ -263,7 +263,7 @@ Ia terdiri dari tujuh nama yang diajarkan Allah Ta'ala kepada Mikail 'alaihis-sa
 
 *… syai'in min a'maalil-birri wat-taqwaa, wastinzaalisy-Syaaquufaatillatii bi-aqthaaril-ardh. Wa hiya haadzihil-asmaa'uth-thaahiratusy-syariifah, al-muthahharatul-maktuubatu 'alaa jabhati Miikaa'iila 'alaihis-salaam:*
 
-*Syahaa Syuwiin Kunuufisy Luuniim Kiiliim Ya'thiisy Baalah (?).*
+*Syahaa Syuwiin Kunuufisy Luuniim Kiiliim Ya'thiisy Baalah [phonetic reading of the non-Arabic name is tentative; printed consonants are retained].*
 
 **[Terjemahan Indonesia]**
 
@@ -327,7 +327,7 @@ Ketahuilah — semoga Allah memberimu taufik — bahwa apabila engkau mengucapka
 
 **أَسْرَارُ أَسْمَاءِ أَصْحَابِ البَطْشِ**
 
-بَخْطَا صِيطَا عَجَا عَلْيُونْ هَانِيطْ سَمْعَا شَعِيتَا (؟).
+بَخْطَا صِيطَا عَجَا عَلْيُونْ هَانِيطْ سَمْعَا شَعِيتَا [ضبط الاسم غير محسوم؛ حروفه محفوظة وفق الطباعة].
 
 </div>
 
@@ -335,7 +335,7 @@ Ketahuilah — semoga Allah memberimu taufik — bahwa apabila engkau mengucapka
 
 **Asraaru asmaa'i ash-haabil-bathsy**
 
-*Bakhthaa Shiithaa 'Ajaa 'Alyuun Haaniith Sam'aa Sya'iitaa (?).*
+*Bakhthaa Shiithaa 'Ajaa 'Alyuun Haaniith Sam'aa Sya'iitaa [phonetic reading of the non-Arabic name is tentative; printed consonants are retained].*
 
 **[Terjemahan Indonesia]**
 
@@ -379,7 +379,7 @@ Tafsirnya dalam bahasa Arab: Mahasuci Engkau, wahai Pembebas leher-leher (para h
 
 **صِنَاعَةُ خَاتَمٍ لِمِيطَرُونَ**
 
-إِذَا أَرَدْتَ اسْتِخْدَامَ هَذَا المَلَكِ، فَاصْنَعْ خَاتَمًا مِنْ ذَهَبٍ فَصُّهُ مِنْ عَقِيقٍ أَحْمَرَ، يَكُونُ صِيَاغَتُهُ وَنَقْشُهُ فِي يَوْمِ الجُمُعَةِ، وَالزُّهَرَةُ فِي شَرَفِهَا وَهُوَ الحُوتُ فِي شَرَفِهِ، أَوْ يَوْمِ السَّبْتِ وَزُحَلُ فِي المِيزَانِ، أَوْ يَوْمِ الأَحَدِ وَالشَّمْسُ فِي الحَمَلِ، أَوْ يَوْمِ الِاثْنَيْنِ وَالقَمَرُ فِي الثَّوْرِ، أَوْ يَوْمِ الخَمِيسِ وَالمُشْتَرِي فِي السَّرَطَانِ خَالٍ مِنَ الجَوْزَهَرِ. وأيما دار ما درى [كذا] صَنَعْتَ ذَلِكَ فِي وَقْتِهِ يَكُونُ خَالِيًا مِنَ النُّحُوسِ، وَيَكُونُ ذَلِكَ فِي أَشْهُرِ العَرَبِ خَالِيًا مِنْ أَشْهُرِ الحُرُمِ، ثُمَّ تَنْقُشُهُ نَقْشًا حَسَنًا، وَتَغْسِلُهُ بَعْدَ ذَلِكَ بِمَاءٍ جَارٍ وَمِلْحٍ، ثُمَّ بِمَاءِ وَرْدٍ وَمِسْكٍ، ثُمَّ تَصْنَعُ لَهُ مَحْفَظَةً مِنْ حَرِيرٍ أَخْضَرَ. وَتَأَهَّبْ بِإِذْنِ اللَّهِ فِي الوُقُوفِ إِلَيْهِ.
+إِذَا أَرَدْتَ اسْتِخْدَامَ هَذَا المَلَكِ، فَاصْنَعْ خَاتَمًا مِنْ ذَهَبٍ فَصُّهُ مِنْ عَقِيقٍ أَحْمَرَ، يَكُونُ صِيَاغَتُهُ وَنَقْشُهُ فِي يَوْمِ الجُمُعَةِ، وَالزُّهَرَةُ فِي شَرَفِهَا وَهُوَ الحُوتُ فِي شَرَفِهِ، أَوْ يَوْمِ السَّبْتِ وَزُحَلُ فِي المِيزَانِ، أَوْ يَوْمِ الأَحَدِ وَالشَّمْسُ فِي الحَمَلِ، أَوْ يَوْمِ الِاثْنَيْنِ وَالقَمَرُ فِي الثَّوْرِ، أَوْ يَوْمِ الخَمِيسِ وَالمُشْتَرِي فِي السَّرَطَانِ خَالٍ مِنَ الجَوْزَهَرِ. وأيما دار ما درى [الصيغة كما في المطبوع مع غرابة تركيبها؛ لا تُصحح بلا شاهد أوضح] صَنَعْتَ ذَلِكَ فِي وَقْتِهِ يَكُونُ خَالِيًا مِنَ النُّحُوسِ، وَيَكُونُ ذَلِكَ فِي أَشْهُرِ العَرَبِ خَالِيًا مِنْ أَشْهُرِ الحُرُمِ، ثُمَّ تَنْقُشُهُ نَقْشًا حَسَنًا، وَتَغْسِلُهُ بَعْدَ ذَلِكَ بِمَاءٍ جَارٍ وَمِلْحٍ، ثُمَّ بِمَاءِ وَرْدٍ وَمِسْكٍ، ثُمَّ تَصْنَعُ لَهُ مَحْفَظَةً مِنْ حَرِيرٍ أَخْضَرَ. وَتَأَهَّبْ بِإِذْنِ اللَّهِ فِي الوُقُوفِ إِلَيْهِ.
 
 </div>
 
@@ -387,7 +387,7 @@ Tafsirnya dalam bahasa Arab: Mahasuci Engkau, wahai Pembebas leher-leher (para h
 
 **Shinaa'atu khaatamin li-Miitharuun**
 
-*Idzaa aradtastikhdaama haadzal-malaki, fashna' khaatiman min dzahabin fashshuhu min 'aqiiqin ahmara, yakuunu shiyaaghatuhu wa naqsyuhu fii yaumil-jumu'ati, waz-Zuharatu fii syarafihaa wa huwal-huutu fii syarafihi, au yaumis-sabti wa Zuhalu fil-miizaani, au yaumil-ahadi wasy-Syamsu fil-hamali, au yaumil-itsnaini wal-Qamaru fits-Tsauri, au yaumil-khamiisi wal-Musytarii fis-saratani khaalin minal-jauzahar. Wa ayyumaa daara maa daraa [kadzaa] shana'ta dzaalika fii waqtihi yakuunu khaaliyan minan-nuhuus, wa yakuunu dzaalika fii asyhuril-'arabi khaaliyan min asyhuril-hurumi, tsumma tanqusyuhu naqsyan hasanan, wa taghsiluhu ba'da dzaalika bimaa'in jaarin wa milhin, tsumma bimaa'i wardin wa miskin, tsumma tashna'u lahu mahfazhatan min hariirin akhdhar. Wa ta'ahhab bi-idznillaahi fil-wuquufi ilaihi.*
+*Idzaa aradtastikhdaama haadzal-malaki, fashna' khaatiman min dzahabin fashshuhu min 'aqiiqin ahmara, yakuunu shiyaaghatuhu wa naqsyuhu fii yaumil-jumu'ati, waz-Zuharatu fii syarafihaa wa huwal-huutu fii syarafihi, au yaumis-sabti wa Zuhalu fil-miizaani, au yaumil-ahadi wasy-Syamsu fil-hamali, au yaumil-itsnaini wal-Qamaru fits-Tsauri, au yaumil-khamiisi wal-Musytarii fis-saratani khaalin minal-jauzahar. Wa ayyumaa daara maa daraa [the printed phrase “ayyu maa daraa” is retained; its construction is unclear] shana'ta dzaalika fii waqtihi yakuunu khaaliyan minan-nuhuus, wa yakuunu dzaalika fii asyhuril-'arabi khaaliyan min asyhuril-hurumi, tsumma tanqusyuhu naqsyan hasanan, wa taghsiluhu ba'da dzaalika bimaa'in jaarin wa milhin, tsumma bimaa'i wardin wa miskin, tsumma tashna'u lahu mahfazhatan min hariirin akhdhar. Wa ta'ahhab bi-idznillaahi fil-wuquufi ilaihi.*
 
 **[Terjemahan Indonesia]**
 
@@ -397,7 +397,7 @@ Apabila engkau hendak memanfaatkan malaikat ini, buatlah sebuah cincin dari emas
 
 **[Syarah]**
 
-> Istilah falak: «الشرف» (*syaraf*) = kedudukan puncak planet pada buruj tertentu (Venus di Hut/Pisces, Saturnus di Mizan/Libra, Matahari di Hamal/Aries, Bulan di Tsaur/Taurus, Jupiter di Saratan/Cancer); «الجوزهر» (*al-Jawzahar*) = titik simpul orbit Bulan (kepala dan ekor naga); «النحوس» = saat atau pengaruh yang dianggap sial; «أشهر الحرم» = Muharram, Rajab, Dzulqa'dah, dan Dzulhijjah. «ميطرون» kemungkinan padanan «Metatron» (nama malaikat dalam tradisi mistik Yahudi); teks tidak menjelaskan. Kalimat «وأيما دار ما درى» tampak rusak dalam cetakan sehingga dibiarkan tanpa harakat dan ditandai [كذا]; arti umum kalimat sesudahnya: bila dibuat pada waktu yang tepat, cincin bebas dari kesialan.
+> Istilah falak: «الشرف» (*syaraf*) = kedudukan puncak planet pada buruj tertentu (Venus di Hut/Pisces, Saturnus di Mizan/Libra, Matahari di Hamal/Aries, Bulan di Tsaur/Taurus, Jupiter di Saratan/Cancer); «الجوزهر» (*al-Jawzahar*) = titik simpul orbit Bulan (kepala dan ekor naga); «النحوس» = saat atau pengaruh yang dianggap sial; «أشهر الحرم» = Muharram, Rajab, Dzulqa'dah, dan Dzulhijjah. «ميطرون» kemungkinan padanan «Metatron» (nama malaikat dalam tradisi mistik Yahudi); teks tidak menjelaskan. Kalimat «وأيما دار ما درى» tampak rusak dalam cetakan sehingga dibiarkan tanpa harakat dan ditandai [الصيغة كما في المطبوع مع غرابة تركيبها؛ لا تُصحح بلا شاهد أوضح]; arti umum kalimat sesudahnya: bila dibuat pada waktu yang tepat, cincin bebas dari kesialan.
 
 **[Faedah]**
 
@@ -541,21 +541,21 @@ Wahai Hiya Syura Hiya Adunay Ashba'ut Il Syadday, cahaya di atas cahaya, uu uu �
 
 <div dir="rtl">
 
-… غَشْيَالْ هَدْرِيَالْ لَهْفَيَالْ بَرْقِيَالْ نُورِيَالْ عَشْيَالْ غَشْيَالْ فَلَايَالْ عَنْ تِرْيَالْ سَرْحِيَالْ (؟). تَبَارَكَ رَبُّنَا، مَا أَعَزَّ عِزَّهُ، الَّذِي أَلْجَمَ الجَانَ بِكَلِمَاتِهِ، لَا إِلَهَ إِلَّا هُوَ. عَجِّلُوا بِكَافٍ مِنْ كَافٍ، وَبِصَادٍ مِنْ صَادٍ، أَوْ أُوهِي شُوصَهْ، شَرَمَهْ بِشُطُورٍ شُطُورٍ، حمعست الم المص [كذا] رَبِّ يَا جَلِيلَ الأَجَلِّ، أَجِبْنِي يَا مَيْطَطْرُونُ أَنْتَ وَجَمِيعُ أَعْوَانِكَ، الطَّاعَةَ لِلَّهِ وَلِأَسْمَائِهِ.
+… غَشْيَالْ هَدْرِيَالْ لَهْفَيَالْ بَرْقِيَالْ نُورِيَالْ عَشْيَالْ غَشْيَالْ فَلَايَالْ عَنْ تِرْيَالْ سَرْحِيَالْ [ضبط الاسم غير محسوم؛ حروفه محفوظة وفق الطباعة]. تَبَارَكَ رَبُّنَا، مَا أَعَزَّ عِزَّهُ، الَّذِي أَلْجَمَ الجَانَ بِكَلِمَاتِهِ، لَا إِلَهَ إِلَّا هُوَ. عَجِّلُوا بِكَافٍ مِنْ كَافٍ، وَبِصَادٍ مِنْ صَادٍ، أَوْ أُوهِي شُوصَهْ، شَرَمَهْ بِشُطُورٍ شُطُورٍ، حمعست الم المص [الصيغة مطابقة للمطبوع مع غرابة تركيبها؛ لا تُصحح بلا شاهد أوضح] رَبِّ يَا جَلِيلَ الأَجَلِّ، أَجِبْنِي يَا مَيْطَطْرُونُ أَنْتَ وَجَمِيعُ أَعْوَانِكَ، الطَّاعَةَ لِلَّهِ وَلِأَسْمَائِهِ.
 
 </div>
 
 **[Transliterasi Latin Fonetik]**
 
-*… Ghasyyaal Hadriyaal Lahfayaal Barqiyaal Nuuriyaal 'Asyyaal Ghasyyaal Falaayaal 'an Tiriyaal Sarhiyaal (?). Tabaaraka rabbunaa, maa a'azza 'izzah, alladzii aljamal-jaana bikalimaatih, laa ilaaha illaa huw. 'Ajjiluu bikaafin min kaaf, wa bishaadin min shaad, au Uuhii Syuushah, Syaramah bisyuthuurin syuthuur, ham'asat Alif-Laam-Mim Alif-Laam-Shaad [kadzaa] Rabbi yaa Jaliilal-ajal, ajibnii yaa Maithathruunu anta wa jamii'u a'waanik, ath-thaa'ata lillaahi wa li-asmaa-ih.*
+*… Ghasyyaal Hadriyaal Lahfayaal Barqiyaal Nuuriyaal 'Asyyaal Ghasyyaal Falaayaal 'an Tiriyaal Sarhiyaal [phonetic reading is tentative; printed consonants are retained]. Tabaaraka rabbunaa, maa a'azza 'izzah, alladzii aljamal-jaana bikalimaatih, laa ilaaha illaa huw. 'Ajjiluu bikaafin min kaaf, wa bishaadin min shaad, au Uuhii Syuushah, Syaramah bisyuthuurin syuthuur, ham'asat Alif-Laam-Mim Alif-Laam-Shaad [irregular printed letter sequence retained without emendation] Rabbi yaa Jaliilal-ajal, ajibnii yaa Maithathruunu anta wa jamii'u a'waanik, ath-thaa'ata lillaahi wa li-asmaa-ih.*
 
 **[Terjemahan Indonesia]**
 
-… Ghasyyal, Hadriyal, Lahfayal, Barqiyal, Nuriyal, 'Asyyal, Ghasyyal, Falayal, 'an Tiriyal, Sarhiyal (?). Mahasuci Tuhan kami; betapa perkasa keperkasaan-Nya; Dzat yang membungkam jin dengan kalimat-kalimat-Nya; tiada tuhan selain Dia. Segeralah dengan kaf dari kaf, dan dengan shad dari shad, atau Uhi Shushah, Syaramah dengan syuthur syuthur, ham'asat Alif-Lam-Mim Alif-Lam-Shad [demikian adanya]; Tuhanku, wahai Yang Mahamulia ajal, jawablah aku, wahai Mithathrun — engkau dan seluruh penolongmu — taat kepada Allah dan kepada nama-nama-Nya.
+… Ghasyyal, Hadriyal, Lahfayal, Barqiyal, Nuriyal, 'Asyyal, Ghasyyal, Falayal, 'an Tiriyal, Sarhiyal [pelafalan nama non-Arab bersifat tentatif; konsonan cetak dipertahankan]. Mahasuci Tuhan kami; betapa perkasa keperkasaan-Nya; Dzat yang membungkam jin dengan kalimat-kalimat-Nya; tiada tuhan selain Dia. Segeralah dengan kaf dari kaf, dan dengan shad dari shad, atau Uhi Shushah, Syaramah dengan syuthur syuthur, ham'asat Alif-Lam-Mim Alif-Lam-Shad [rangkaian huruf ini dipertahankan sesuai cetakan; bentuknya tidak baku]; Tuhanku, wahai Yang Mahamulia ajal, jawablah aku, wahai Mithathrun — engkau dan seluruh penolongmu — taat kepada Allah dan kepada nama-nama-Nya.
 
 **[Syarah]**
 
-> Rantai nama malaikat dari halaman sebelumnya ditutup (diakhiri tanda (؟) karena bacaan dugaan), lalu doa ditutup dengan pujian: «Dia yang membungkam jin dengan kalimat-kalimat-Nya». Seruan «kaf dari kaf dan shad dari shad» memakai pola ilmu huruf (penggalan huruf sebagai kunci), umum dalam literatur wafaq; rangkaian «حمعست الم المص» tidak jelas maknanya — «الم المص» berupa huruf muqaththa'ah (banding pembuka surat al-Baqarah dan al-A'raf) — sehingga dibiarkan tanpa harakat dan ditandai [كذا]. Permintaan ditutup dengan tuntutan taat «kepada Allah dan nama-nama-Nya».
+> Rantai nama malaikat dari halaman sebelumnya ditutup (nama penutup dibaca secara tentatif; konsonan cetaknya dipertahankan), lalu doa ditutup dengan pujian: «Dia yang membungkam jin dengan kalimat-kalimat-Nya». Seruan «kaf dari kaf dan shad dari shad» memakai pola ilmu huruf (penggalan huruf sebagai kunci), umum dalam literatur wafaq; rangkaian «حمعست الم المص» tidak jelas maknanya — «الم المص» berupa huruf muqaththa'ah (banding pembuka surat al-Baqarah dan al-A'raf) — sehingga dibiarkan tanpa harakat dan dicatat bahwa susunan cetaknya tidak lazim dan dipertahankan tanpa normalisasi. Permintaan ditutup dengan tuntutan taat «kepada Allah dan nama-nama-Nya».
 
 ### Bagian 2 — Judul: sebagian dari sumpah-sumpah Mithathrun
 
@@ -791,7 +791,7 @@ Dan apabila jin membangkang kepadamu, dan engkau hendak ia tidak beranjak dari a
 
 **أَسْمَاءُ تَقْتُلُ جَمِيعَ المُلُوكِ**
 
-إِذَا عَصَى عَلَيْكَ مَلِكٌ مِنَ المُلُوكِ أَوْ عَارِضٌ مِنَ العَوَارِضِ وَأَرَدْتَ قَتْلَهُ، اكْتُبْ هَذِهِ الأَسْمَاءَ فِي وَرَقَةٍ إِنْ أَمْكَنَكَ [المطبوع: أَمْكَتْكَ]، أَوْ فِي الأَرْضِ، وَتَعْمَلُ عَلَيْهَا حَرْبَةَ يَمُونَ [كذا]، فَكُلُّ مَا تَصْنَعُ فِيهَا يُصْنَعُ بِهِ. وَتَدْعُو بِأَيِّ مَلِكٍ شِئْتَ فَيُمْتَثَلُ [المطبوع: فَيُمَثِّلُ] أَمْرُكَ، وَهِيَ هَذِهِ: طَمْطَمْلُوشْ (؟)
+إِذَا عَصَى عَلَيْكَ مَلِكٌ مِنَ المُلُوكِ أَوْ عَارِضٌ مِنَ العَوَارِضِ وَأَرَدْتَ قَتْلَهُ، اكْتُبْ هَذِهِ الأَسْمَاءَ فِي وَرَقَةٍ إِنْ أَمْكَنَكَ [المطبوع: أَمْكَتْكَ]، أَوْ فِي الأَرْضِ، وَتَعْمَلُ عَلَيْهَا حَرْبَةَ يَمُونَ [الصيغة مطابقة للمطبوع مع غرابة تركيبها؛ لا تُصحح بلا شاهد أوضح]، فَكُلُّ مَا تَصْنَعُ فِيهَا يُصْنَعُ بِهِ. وَتَدْعُو بِأَيِّ مَلِكٍ شِئْتَ فَيُمْتَثَلُ [المطبوع: فَيُمَثِّلُ] أَمْرُكَ، وَهِيَ هَذِهِ: طَمْطَمْلُوشْ [ضبط الاسم غير محسوم؛ حروفه محفوظة وفق الطباعة]
 
 </div>
 
@@ -799,7 +799,7 @@ Dan apabila jin membangkang kepadamu, dan engkau hendak ia tidak beranjak dari a
 
 **Asmaa-un taqtulu jamii'al-muluuk**
 
-*Idzaa 'ashaa 'alaika malikun minal-muluuki au 'aaridhun minal-'awaaridhi wa aradta qatlah, uktub haadzihil-asmaa'a fii waraqatin in amkanaka [al-mathbu': amkatka], au fil-ardh, wa ta'malu 'alaiha harabata Yamuuna [kadzaa], fakullu maa tashna'u fiihaa yushna'u bih. Wa tad'uu bi-ayyi malikin syi'ta fayumtatsalu [al-mathbu': fayumatsilu] amruk, wa hiya haadzihi: Thamthamluusy (?).*
+*Idzaa 'ashaa 'alaika malikun minal-muluuki au 'aaridhun minal-'awaaridhi wa aradta qatlah, uktub haadzihil-asmaa'a fii waraqatin in amkanaka [al-mathbu': amkatka], au fil-ardh, wa ta'malu 'alaiha harabata Yamuuna [irregular printed sequence retained without emendation], fakullu maa tashna'u fiihaa yushna'u bih. Wa tad'uu bi-ayyi malikin syi'ta fayumtatsalu [al-mathbu': fayumatsilu] amruk, wa hiya haadzihi: Thamthamluusy [phonetic reading is tentative; printed consonants are retained].*
 
 **[Terjemahan Indonesia]**
 
@@ -813,7 +813,7 @@ Apabila seorang raja dari para raja atau seorang penghalang dari para penghalang
 
 **[Syarah]**
 
-> Bagian pertama kelompok «nama-nama pembunuh» ditujukan kepada «para raja» (raja jin, lih. batch 2) dan «'awaridh» (para penghalang/pengganggu). Frasa «حربة يمون» tidak jelas maknanya (kemungkinan nama alat atau istilah teknis); dibiarkan berharakat sebagaimana dibaca dan ditandai [كذا]. «فيمثل أمرك» tercetak demikian; dibaca «فَيُمْتَثَلُ أَمْرُكَ» (perintahmu dipatuhi); ditandai `[المطبوع: فيمثل]`. Nama «طمطملوش» non-Arab; bacaan dugaan.
+> Bagian pertama kelompok «nama-nama pembunuh» ditujukan kepada «para raja» (raja jin, lih. batch 2) dan «'awaridh» (para penghalang/pengganggu). Frasa «حربة يمون» tidak jelas maknanya (kemungkinan nama alat atau istilah teknis); dibiarkan berharakat sebagaimana dibaca dan dicatat dengan keterangan bahwa bentuk cetaknya tidak lazim dan dipertahankan. «فيمثل أمرك» tercetak demikian; dibaca «فَيُمْتَثَلُ أَمْرُكَ» (perintahmu dipatuhi); ditandai `[المطبوع: فيمثل]`. Nama «طمطملوش» non-Arab; bacaan dugaan.
 
 ### Bagian 2 — Bab mengikat, menyalib, dan membuat jin berbicara
 
@@ -823,7 +823,7 @@ Apabila seorang raja dari para raja atau seorang penghalang dari para penghalang
 
 **فَصْلٌ فِي تَكْتِيفِ الجَانِّ وَصَلْبِهِ وَاسْتِنْطَاقِهِ**
 
-إِذَا أَتَاكَ مُصَابٌ وَبِهِ رِيحٌ مِنَ الجَانِّ، فَاكْتُبْ لَهُ وَصَارِعْهُ. فَإِذَا انْصَرَعَ تَأْمُرُ بِتَكْتِيفِهِ فَتَقُولُ: لَنَا لَنَا هِي هَفْيَهْ آيْ هِي بِرَهِي، اخْضَعْ بِحَقِّ الغَالِبِ عَلَيْكَ، وَبِحَقِّ عَشِيرٍ ظَهْرَشْ كَفْهُ يَا مَيْمُونُ (؟).
+إِذَا أَتَاكَ مُصَابٌ وَبِهِ رِيحٌ مِنَ الجَانِّ، فَاكْتُبْ لَهُ وَصَارِعْهُ. فَإِذَا انْصَرَعَ تَأْمُرُ بِتَكْتِيفِهِ فَتَقُولُ: لَنَا لَنَا هِي هَفْيَهْ آيْ هِي بِرَهِي، اخْضَعْ بِحَقِّ الغَالِبِ عَلَيْكَ، وَبِحَقِّ عَشِيرٍ ظَهْرَشْ كَفْهُ يَا مَيْمُونُ [ضبط الاسم غير محسوم؛ حروفه محفوظة وفق الطباعة].
 
 </div>
 
@@ -831,7 +831,7 @@ Apabila seorang raja dari para raja atau seorang penghalang dari para penghalang
 
 **Fashlun fii taktiifil-jaanni wa shalbihi wastinthaaqih**
 
-*Idzaa ataaka mushaabun wa bihi riihun minal-jaann, faktub lahu wa shaari'hu. Fa-idzanshara'a ta'muru bitaktiifihi fataquulu: Lanaa Lanaa Hii Hafyah Aay Hii Birahi, ikhdha' bihaqqil-ghaalibi 'alaik, wa bihaqqi 'Asyirin Zhaharasy Kaffahu yaa Maimuun (?).*
+*Idzaa ataaka mushaabun wa bihi riihun minal-jaann, faktub lahu wa shaari'hu. Fa-idzanshara'a ta'muru bitaktiifihi fataquulu: Lanaa Lanaa Hii Hafyah Aay Hii Birahi, ikhdha' bihaqqil-ghaalibi 'alaik, wa bihaqqi 'Asyirin Zhaharasy Kaffahu yaa Maimuun [phonetic reading is tentative; printed consonants are retained].*
 
 **[Terjemahan Indonesia]**
 
@@ -851,7 +851,7 @@ Apabila datang kepadamu orang yang terkena (musibah) dan padanya ada «angin» (
 
 **اسْتِنْطَاقٌ**
 
-إِذَا أَرَدْتَ أَنْ يَتَكَلَّمَ [المطبوع: تَكَلَّمَ] الجِنُّ فَاسْجَنْهُ فِي الجُبَّةِ، تَقُولُ: حَبَسْتُكَ بِهَنْطَشْ بِكَهْيَصْ وَحَمِّ عَشَقْ (؟).
+إِذَا أَرَدْتَ أَنْ يَتَكَلَّمَ [المطبوع: تَكَلَّمَ] الجِنُّ فَاسْجَنْهُ فِي الجُبَّةِ، تَقُولُ: حَبَسْتُكَ بِهَنْطَشْ بِكَهْيَصْ وَحَمِّ عَشَقْ [ضبط الاسم غير محسوم؛ حروفه محفوظة وفق الطباعة].
 
 </div>
 
@@ -859,7 +859,7 @@ Apabila datang kepadamu orang yang terkena (musibah) dan padanya ada «angin» (
 
 **Istinthaaq**
 
-*Idzaa aradta an yatakallama [al-mathbu': takallama] al-jinnu fasjunhu fil-jubbah, taquulu: Habastuka bi-Hanthasy bi-Kahyash wa Hammi 'Asyaq (?).*
+*Idzaa aradta an yatakallama [al-mathbu': takallama] al-jinnu fasjunhu fil-jubbah, taquulu: Habastuka bi-Hanthasy bi-Kahyash wa Hammi 'Asyaq [phonetic reading is tentative; printed consonants are retained].*
 
 **[Terjemahan Indonesia]**
 
@@ -1003,13 +1003,13 @@ Apabila engkau hendak membuatnya, engkau letakkan ia pada kain sutra merah atau 
 
 <div dir="rtl">
 
-… الزِّيَادَةِ. وَإِنْ أَرَدْتَ أَنْ تَعْلَمَ الأَخْبَارَ مِنَ المَشْرِقِ إِلَى المَغْرِبِ، فَاطْلُبِ المُخْتَرِقِينَ فِي أَقْطَارِ الأَرْضِ يُعَلِّمُوكَ بِذَلِكَ. وَإِنْ أَرَدْتَ أَنْ يَسِيرُوا بِكَ مَسِيرَةَ سَنَةٍ فِي لَحْظَةٍ وَاحِدَةٍ، فَاصْنَعْهَا بِسَاطًا تَحْتَكَ، وَتَكَلَّمْ بِأَسْمَاءِ الرُّوحَانِيَّةِ. وَإِنْ أَرَدْتَ أَنْ تَنْصُرَ أَهْلَ إِقْلِيمِكَ عَلَى خَصْمٍ لَا يُطِيقُونَهُ، فَاسْتَدِعْ بِهِ وَسَلِّطْ عَلَيْهِ مَنْ شِئْتَ. وَإِنْ أَرَدْتَ أَنْ تَتَحَالَفَ مَعَ أَحَدٍ مِنْ مُلُوكِ الجِنِّ، فَتُحْضِرُهُ وَتَقُولُ: شَاهْ شَاهْ اشْ لِيَالْ لِيَالْ حَالِفْ حَالِفْ (؟)، وَإِذْ أَخَذَ رَبُّكَ مِنْ بَنِي آدَمَ مِنْ ظُهُورِهِمْ ذُرِّيَّاتِهِمْ، وَأَشْهَدَهُمْ عَلَى أَنْفُسِهِمْ أَلَسْتُ بِرَبِّكُمْ قَالُوا بَلَى، شَهِدْنَا شَهِدْنَا. فَإِنْ أَجَابُوا العَهْدَ، وَإِلَّا فَتَكَلَّمْ بِالأَسْمَاءِ الَّتِي فِي قَلْبِ البَلَاطَةِ، وَانْفَخْ عَلَيْهِمْ يَحْتَرِقُونَ. وَقَدْ أَرَدْتَ الاخْتِصَارَ خِيفَةَ التَّطْوِيلِ، فَإِنَّهَا تَتَصَرَّفُ فِي أَلْفِ بَابٍ مِنَ المَنَافِعِ، وَهِيَ الطَّاعَةُ الكُبْرَى الَّتِي كَانَ سُلَيْمَانُ بْنُ دَاوُدَ يَعْمَلُ بِهَا، وَكَانَ يَنْزِلُ بِهَا مِنْ إِقْلِيمٍ إِلَى إِقْلِيمٍ، وَهِيَ القَهْرُ عَلَى جَمِيعِ أَهْلِ الأَرْضِ. فَاحْفَظْ مَا قَدْ صَارَ إِلَيْكَ أَيُّهَا العَالِمُ، وَلَا تُبْدِهِ لِجَاهِلٍ فَيَصْرَفَهُ فِيمَا لَا يَرْضَاهُ اللَّهُ تَعَالَى، فَاحْفَظْهَا كَمَا ذَكَرْتُ لَكَ.
+… الزِّيَادَةِ. وَإِنْ أَرَدْتَ أَنْ تَعْلَمَ الأَخْبَارَ مِنَ المَشْرِقِ إِلَى المَغْرِبِ، فَاطْلُبِ المُخْتَرِقِينَ فِي أَقْطَارِ الأَرْضِ يُعَلِّمُوكَ بِذَلِكَ. وَإِنْ أَرَدْتَ أَنْ يَسِيرُوا بِكَ مَسِيرَةَ سَنَةٍ فِي لَحْظَةٍ وَاحِدَةٍ، فَاصْنَعْهَا بِسَاطًا تَحْتَكَ، وَتَكَلَّمْ بِأَسْمَاءِ الرُّوحَانِيَّةِ. وَإِنْ أَرَدْتَ أَنْ تَنْصُرَ أَهْلَ إِقْلِيمِكَ عَلَى خَصْمٍ لَا يُطِيقُونَهُ، فَاسْتَدِعْ بِهِ وَسَلِّطْ عَلَيْهِ مَنْ شِئْتَ. وَإِنْ أَرَدْتَ أَنْ تَتَحَالَفَ مَعَ أَحَدٍ مِنْ مُلُوكِ الجِنِّ، فَتُحْضِرُهُ وَتَقُولُ: شَاهْ شَاهْ اشْ لِيَالْ لِيَالْ حَالِفْ حَالِفْ [ضبط الاسم غير محسوم؛ حروفه محفوظة وفق الطباعة]، وَإِذْ أَخَذَ رَبُّكَ مِنْ بَنِي آدَمَ مِنْ ظُهُورِهِمْ ذُرِّيَّاتِهِمْ، وَأَشْهَدَهُمْ عَلَى أَنْفُسِهِمْ أَلَسْتُ بِرَبِّكُمْ قَالُوا بَلَى، شَهِدْنَا شَهِدْنَا. فَإِنْ أَجَابُوا العَهْدَ، وَإِلَّا فَتَكَلَّمْ بِالأَسْمَاءِ الَّتِي فِي قَلْبِ البَلَاطَةِ، وَانْفَخْ عَلَيْهِمْ يَحْتَرِقُونَ. وَقَدْ أَرَدْتَ الاخْتِصَارَ خِيفَةَ التَّطْوِيلِ، فَإِنَّهَا تَتَصَرَّفُ فِي أَلْفِ بَابٍ مِنَ المَنَافِعِ، وَهِيَ الطَّاعَةُ الكُبْرَى الَّتِي كَانَ سُلَيْمَانُ بْنُ دَاوُدَ يَعْمَلُ بِهَا، وَكَانَ يَنْزِلُ بِهَا مِنْ إِقْلِيمٍ إِلَى إِقْلِيمٍ، وَهِيَ القَهْرُ عَلَى جَمِيعِ أَهْلِ الأَرْضِ. فَاحْفَظْ مَا قَدْ صَارَ إِلَيْكَ أَيُّهَا العَالِمُ، وَلَا تُبْدِهِ لِجَاهِلٍ فَيَصْرَفَهُ فِيمَا لَا يَرْضَاهُ اللَّهُ تَعَالَى، فَاحْفَظْهَا كَمَا ذَكَرْتُ لَكَ.
 
 </div>
 
 **[Transliterasi Latin Fonetik]**
 
-*… az-ziyaadah. Wa in aradta an ta'lamal-akhbaara minal-masyriqi ilal-maghrib, fathlubil-mukhtariqiina fii aqthaaril-ardhi yu'allimuuka bidzaalik. Wa in aradta an yasiiruu bika masiirata sanatin fii lahzhatin waahidah, fashna'haa bisaathan tahtak, wa takallam bi-asmaa'ir-ruhaaniyyah. Wa in aradta an tansyura ahla iqliimika 'alaa khashmin laa yuthiiquunah, fastadi' bihi wa sallith 'alaihi man syi't. Wa in aradta an tatahaalafa ma'a ahadin min mulukil-jinn, fatuhdhiruhu wa taquulu: Syaah Syaah Asy Liyaal Liyaal Haalif Haalif (?), wa idz akhadza rabbuka min banii aadama min zhuhuurihim dzurriyyaatihim, wa asyhadahum 'alaa anfusihim a-lastu birabbikum qaaluu balaa, syahidnaa syahidnaa. Fa-in ajaabul-'ahd, wa illaa fatakallem bil-asmaa'il-latii fii qalbil-balaathah, wanfakh 'alaihim yahtariquun. Wa qad aradtal-ikhtishaara khiifatath-tathwiil, fa-innahaa tatasyarrafu fii alfi baabin minal-manaafi', wa hiyath-thaa'atul-kubrallatii kaana Sulaimaanu bnu Daawuda ya'malu bihaa, wa kaana yanzilu bihaa min iqliimin ilaa iqliim, wa hiyal-qahru 'alaa jamii'i ahlil-ardh. Fahfazh maa qad shaara ilaika ayyuhal-'aalim, wa laa tubdihi lijaahilin fayashrafahu fiimaa laa yardhaahullaahu ta'aalaa, fahfazhhaa kamaa dzakartu lak.*
+*… az-ziyaadah. Wa in aradta an ta'lamal-akhbaara minal-masyriqi ilal-maghrib, fathlubil-mukhtariqiina fii aqthaaril-ardhi yu'allimuuka bidzaalik. Wa in aradta an yasiiruu bika masiirata sanatin fii lahzhatin waahidah, fashna'haa bisaathan tahtak, wa takallam bi-asmaa'ir-ruhaaniyyah. Wa in aradta an tansyura ahla iqliimika 'alaa khashmin laa yuthiiquunah, fastadi' bihi wa sallith 'alaihi man syi't. Wa in aradta an tatahaalafa ma'a ahadin min mulukil-jinn, fatuhdhiruhu wa taquulu: Syaah Syaah Asy Liyaal Liyaal Haalif Haalif [phonetic reading is tentative; printed consonants are retained], wa idz akhadza rabbuka min banii aadama min zhuhuurihim dzurriyyaatihim, wa asyhadahum 'alaa anfusihim a-lastu birabbikum qaaluu balaa, syahidnaa syahidnaa. Fa-in ajaabul-'ahd, wa illaa fatakallem bil-asmaa'il-latii fii qalbil-balaathah, wanfakh 'alaihim yahtariquun. Wa qad aradtal-ikhtishaara khiifatath-tathwiil, fa-innahaa tatasyarrafu fii alfi baabin minal-manaafi', wa hiyath-thaa'atul-kubrallatii kaana Sulaimaanu bnu Daawuda ya'malu bihaa, wa kaana yanzilu bihaa min iqliimin ilaa iqliim, wa hiyal-qahru 'alaa jamii'i ahlil-ardh. Fahfazh maa qad shaara ilaika ayyuhal-'aalim, wa laa tubdihi lijaahilin fayashrafahu fiimaa laa yardhaahullaahu ta'aalaa, fahfazhhaa kamaa dzakartu lak.*
 
 **[Terjemahan Indonesia]**
 
@@ -1025,7 +1025,7 @@ Apabila engkau hendak membuatnya, engkau letakkan ia pada kain sutra merah atau 
 
 ![Rajah Hal. 15 (cetak 14) — daira balathah: lingkaran berlapis dengan nama-nama](rajah/rajah_p15_balatah_01.png)
 
-*Keterangan rajah: daira (lingkaran) berlapis empat. Cincin terluar memuat tulisan Arab mengikuti keliling (sebagian terbaca: «…سوماس هاموش ييمون خارش واهنش اذا هو…» pada busur bawah, dan seruan berawal «بسم الله…» pada busur kanan); cincin ke-2 berupa deret garis-garis pendek rapat; cincin ke-3 memuat pengulangan «سا» berselang-seling dengan goresan huruf; lingkaran pusat memuat lima baris nama (bacaan dugaan, tidak dipastikan): (1) Hamsaltam Syanihurasy, (2) Kazhakh Kazhakh Labuurasy Dadaal, (3) Buthiitsy Syaa'idah Aflat Yaah, (4) Yaaw Rabb Syuthuthasynaah, (5) Ashth Yaah Uuqaahiriyaad (?). Di antara cincin terdapat serpihan nama lain («مشقد عبدالله» (?) pada busur kiri-dalam, «كهم ق?» pada busur bawah-dalam). Kitab hanya menyatakan «sebagaimana engkau lihat»; bacaan tidak ditebak selain dugaan berlabel (?). Gambar dipotong dari pindaian, latar dibersihkan menjadi putih, diperbesar halus ke 300 DPI (metadata), dibingkai emas #c59b27; ketajaman mengikuti pindaian (bukan 300 DPI asli).*
+*Keterangan rajah: daira (lingkaran) berlapis empat. Cincin terluar memuat tulisan Arab mengikuti keliling (sebagian terbaca: «…سوماس هاموش ييمون خارش واهنش اذا هو…» pada busur bawah, dan seruan berawal «بسم الله…» pada busur kanan); cincin ke-2 berupa deret garis-garis pendek rapat; cincin ke-3 memuat pengulangan «سا» berselang-seling dengan goresan huruf; lingkaran pusat memuat lima baris nama (bacaan dugaan, tidak dipastikan): (1) Hamsaltam Syanihurasy, (2) Kazhakh Kazhakh Labuurasy Dadaal, (3) Buthiitsy Syaa'idah Aflat Yaah, (4) Yaaw Rabb Syuthuthasynaah, (5) Ashth Yaah Uuqaahiriyaad [phonetic reading is tentative; printed consonants are retained]. Di antara cincin terdapat serpihan nama lain («مشقد عبدالله» [phonetic reading is tentative; printed consonants are retained] pada busur kiri-dalam, «كهم ق[حرف أخير غير واضح]» pada busur bawah-dalam). Kitab hanya menyatakan «sebagaimana engkau lihat»; bacaan tidak ditebak selain dugaan disertai catatan bahwa pelafalannya tentatif. Gambar dipotong dari pindaian, latar dibersihkan menjadi putih, diperbesar halus ke 300 DPI (metadata), dibingkai emas #c59b27; ketajaman mengikuti pindaian (bukan 300 DPI asli).*
 
 **[Teks Arab Asli]**
 
@@ -1045,7 +1045,7 @@ Maka apabila engkau hendak membunuh seorang raja dari para raja, gambarlah sebua
 
 **[Syarah]**
 
-> Petunjuk pemasangan: «رق» = perkamen/kulit halus untuk menulis; «عنق» (leher) = bagian atas daira; baris-baris nama daira dipindahkan ke posisi masing-masing pada rupa (gambar) yang dibuat, dan dua nama pusat daira ditempatkan «di dalam rongga gambar». Fungsi yang diklaim: perintah apa pun terlaksana; untuk pembunuhan, rupa pihak yang dituju digambar (bersambung ke halaman berikutnya, di luar batch ini). Bentuk daira berlapis (lingkaran nama + garis + pengulangan «سا») lazim dalam wafaq/rajah tradisi hikmah; pengulangan «سا» kemungkinan singkatan seruan atau pemisah magis. Lima baris pusat berhuruf Arab naskh namun berisi nama-nama non-Arab; transkripsi pada keterangan gambar dugaan semata (berlabel (?)) dan tidak dipakai sebagai bacaan pasti.
+> Petunjuk pemasangan: «رق» = perkamen/kulit halus untuk menulis; «عنق» (leher) = bagian atas daira; baris-baris nama daira dipindahkan ke posisi masing-masing pada rupa (gambar) yang dibuat, dan dua nama pusat daira ditempatkan «di dalam rongga gambar». Fungsi yang diklaim: perintah apa pun terlaksana; untuk pembunuhan, rupa pihak yang dituju digambar (bersambung ke halaman berikutnya, di luar batch ini). Bentuk daira berlapis (lingkaran nama + garis + pengulangan «سا») lazim dalam wafaq/rajah tradisi hikmah; pengulangan «سا» kemungkinan singkatan seruan atau pemisah magis. Lima baris pusat berhuruf Arab naskh namun berisi nama-nama non-Arab; transkripsi pada keterangan gambar dugaan semata (disertai catatan bahwa pelafalannya tentatif) dan tidak dipakai sebagai bacaan pasti.
 
 ---
 
@@ -1155,17 +1155,17 @@ Adam pada jam-jam tertentu di siang hari. Ia terdiri atas delapan puluh kata, da
 
 <div dir="rtl">
 
-لَهُ ثَلَثْمَانِيَةٌ [كذا] صِنْفٌ فِي التَّعَارِيفِ، فَإِنَّ فِيهِ الأَسْمَاءَ المَكْتُوبَةَ فِي قَلْبِ الشَّمْسِ، وَالأَسْمَاءَ الثَّلَاثَةَ المَكْتُوبَةَ فِي قَلْبِ القَمَرِ، وَالأَسْمَاءَ المَكْتُوبَةَ فِي قَلْبِ المِرِّيخِ، وَالأَسْمَاءَ المَكْتُوبَةَ فِي قَلْبِ عُطَارِدَ، وَالأَسْمَاءَ المَكْتُوبَةَ فِي قَلْبِ المُشْتَرِي، وَالأَسْمَاءَ المَكْتُوبَةَ فِي قَلْبِ زُحَلَ، السَّبْعَةَ أَسْمَاءٍ الَّتِي خَلَقَ اللهُ بِهَا الآدَمِيِّينَ، وَالسَّبْعَةَ أَسْمَاءٍ الَّتِي خَلَقَ اللهُ بِهَا المَلَائِكَةَ المُوَكَّلِينَ بِالأَشْجَارِ وَالنَّبَاتَاتِ، وَفِيهِ خَمْسَةُ أَسْمَاءٍ الَّتِي كَانُوا يَعْمَلُونَ بِهَا سَحَرَةُ الجِنِّ وَسَحَرَةُ أَرْضِ بَابِلَ، وَفِيهِ السَّبْعَةُ أَسْمَاءٍ المَكْتُوبَةُ فِي قَلْبِ الطِّلَسْمِ، وَفِيهِ الاسْمُ السَّرِيعُ الَّذِي يُكْتَبُ عَلَى وَرَقِ الأُتْرُجِّ وَيُغْسَلُ بِمَاءِ وَرْدٍ وَعَسَلِ الشُّهْدِ الَّذِي غَيْرِ مُدَخَّنٍ، وَتَسْقِيهِ لِمَنْ شِئْتَ يَهِيجُ مِنْ حُبِّكَ. وَإِذَا كُتِبَ فِي رِقٍّ نَقِيٍّ بِدَمِ خُطَّافٍ وَمَسَحْتَ بِهِ عَلَى رَأْسِ البَهِيمَةِ تَبِعَكَ، كَذَلِكَ يُفْعَلُ فِي بَنِي آدَمَ. وَلَهُ مِنَ المَنَافِعِ مَا لَا يُحْصَى عِنْدَهُ.
+لَهُ ثَلَثْمَانِيَةٌ [صيغة المطبوع محفوظة كما هي مع التنبيه إلى غرابتها؛ لا تُصحح من غير قرينة] صِنْفٌ فِي التَّعَارِيفِ، فَإِنَّ فِيهِ الأَسْمَاءَ المَكْتُوبَةَ فِي قَلْبِ الشَّمْسِ، وَالأَسْمَاءَ الثَّلَاثَةَ المَكْتُوبَةَ فِي قَلْبِ القَمَرِ، وَالأَسْمَاءَ المَكْتُوبَةَ فِي قَلْبِ المِرِّيخِ، وَالأَسْمَاءَ المَكْتُوبَةَ فِي قَلْبِ عُطَارِدَ، وَالأَسْمَاءَ المَكْتُوبَةَ فِي قَلْبِ المُشْتَرِي، وَالأَسْمَاءَ المَكْتُوبَةَ فِي قَلْبِ زُحَلَ، السَّبْعَةَ أَسْمَاءٍ الَّتِي خَلَقَ اللهُ بِهَا الآدَمِيِّينَ، وَالسَّبْعَةَ أَسْمَاءٍ الَّتِي خَلَقَ اللهُ بِهَا المَلَائِكَةَ المُوَكَّلِينَ بِالأَشْجَارِ وَالنَّبَاتَاتِ، وَفِيهِ خَمْسَةُ أَسْمَاءٍ الَّتِي كَانُوا يَعْمَلُونَ بِهَا سَحَرَةُ الجِنِّ وَسَحَرَةُ أَرْضِ بَابِلَ، وَفِيهِ السَّبْعَةُ أَسْمَاءٍ المَكْتُوبَةُ فِي قَلْبِ الطِّلَسْمِ، وَفِيهِ الاسْمُ السَّرِيعُ الَّذِي يُكْتَبُ عَلَى وَرَقِ الأُتْرُجِّ وَيُغْسَلُ بِمَاءِ وَرْدٍ وَعَسَلِ الشُّهْدِ الَّذِي غَيْرِ مُدَخَّنٍ، وَتَسْقِيهِ لِمَنْ شِئْتَ يَهِيجُ مِنْ حُبِّكَ. وَإِذَا كُتِبَ فِي رِقٍّ نَقِيٍّ بِدَمِ خُطَّافٍ وَمَسَحْتَ بِهِ عَلَى رَأْسِ البَهِيمَةِ تَبِعَكَ، كَذَلِكَ يُفْعَلُ فِي بَنِي آدَمَ. وَلَهُ مِنَ المَنَافِعِ مَا لَا يُحْصَى عِنْدَهُ.
 
 </div>
 
 **[Transliterasi Latin Fonetik]**
 
-*Lahuu tsalatsmaaniyatun [kadzaa] shinfun fit-ta'aariif, fa-inna fiihil-asmaa-al-maktuubata fii qalbisy-syams, wal-asmaa-ats-tsalaatsatal-maktuubata fii qalbil-qamar, wal-asmaa-al-maktuubata fii qalbil-marriikh, wal-asmaa-al-maktuubata fii qalbi 'uthaarid, wal-asmaa-al-maktuubata fii qalbil-musytari, wal-asmaa-al-maktuubata fii qalbi zuhal, as-sab'ata asmaa-inil-latii khalaqallahu bihal-aadamiyyiin, was-sab'ata asmaa-inil-latii khalaqallahu bihal-malaa-ikatal-muwakkaliina bil-asyjaari wan-nabataat, wa fiihi khamsatu asmaa-inil-latii kaanuu ya'maluuna bihaa saharatul-jinni wa saharatu ardhi baabil, wa fiihis-sab'atul-asmaa-il-maktuubatu fii qalbit-thilasm, wa fiihil-ismus-sarii'ul-ladzii yuktabu 'alaa waraqil-utrujj wa yughsalu bimaa-i wardin wa 'asalisy-syuhdil-ladzii ghairi mudakhkhan, wa tasqiihi liman syi'ta yahiiju min hubbik. Wa idzaa kutiba fii riqqin naqiyyin bidami khuththaafin wa masahta bihi 'alaa ra'sil-bahiimati tabi'ak, kadzaalika yuf'alu fii banii aadam. Wa lahuu minal-manaafi'i maa laa yuhshaa 'indah.*
+*Lahuu tsalatsmaaniyatun [irregular printed form retained without emendation] shinfun fit-ta'aariif, fa-inna fiihil-asmaa-al-maktuubata fii qalbisy-syams, wal-asmaa-ats-tsalaatsatal-maktuubata fii qalbil-qamar, wal-asmaa-al-maktuubata fii qalbil-marriikh, wal-asmaa-al-maktuubata fii qalbi 'uthaarid, wal-asmaa-al-maktuubata fii qalbil-musytari, wal-asmaa-al-maktuubata fii qalbi zuhal, as-sab'ata asmaa-inil-latii khalaqallahu bihal-aadamiyyiin, was-sab'ata asmaa-inil-latii khalaqallahu bihal-malaa-ikatal-muwakkaliina bil-asyjaari wan-nabataat, wa fiihi khamsatu asmaa-inil-latii kaanuu ya'maluuna bihaa saharatul-jinni wa saharatu ardhi baabil, wa fiihis-sab'atul-asmaa-il-maktuubatu fii qalbit-thilasm, wa fiihil-ismus-sarii'ul-ladzii yuktabu 'alaa waraqil-utrujj wa yughsalu bimaa-i wardin wa 'asalisy-syuhdil-ladzii ghairi mudakhkhan, wa tasqiihi liman syi'ta yahiiju min hubbik. Wa idzaa kutiba fii riqqin naqiyyin bidami khuththaafin wa masahta bihi 'alaa ra'sil-bahiimati tabi'ak, kadzaalika yuf'alu fii banii aadam. Wa lahuu minal-manaafi'i maa laa yuhshaa 'indah.*
 
 **[Terjemahan Indonesia]**
 
-Ia mempunyai «thalatsmaniyah» [demikian adanya cetak] golongan dalam ta'rif-ta'rifnya. Sesungguhnya di dalamnya terdapat nama-nama yang tertulis di hati Matahari, tiga nama yang tertulis di hati Bulan, nama-nama yang tertulis di hati Mars, nama-nama yang tertulis di hati Merkurius, nama-nama yang tertulis di hati Jupiter, dan nama-nama yang tertulis di hati Saturnus; tujuh nama yang dengan itu Allah menciptakan manusia, dan tujuh nama yang dengan itu Allah menciptakan para malaikat yang ditugaskan pada pohon-pohon dan tumbuhan-tumbuhan; di dalamnya ada lima nama yang dahulu dipakai oleh para penyihir jin dan para penyihir negeri Babil; di dalamnya ada tujuh nama yang tertulis di hati thilasm (jimat); dan di dalamnya ada nama yang cepat (mustajab) yang ditulis di daun jeruk utrujj lalu dicuci dengan air mawar dan madu sarang yang tidak diasapi, lalu engkau minumkan kepada siapa yang engkau kehendaki, maka ia akan bergelora karena cintamu. Jika ia ditulis di perkamen yang bersih dengan darah burung walet, lalu engkau usapkan ke kepala hewan tunggangan, niscaya ia mengikutimu; demikian pula dilakukan terhadap Bani Adam. Ia mempunyai bermacam manfaat yang tidak terhitung banyaknya.
+Ia mempunyai «thalatsmaniyah» [bacaan mengikuti ejaan cetak meskipun bentuk katanya tidak lazim] golongan dalam ta'rif-ta'rifnya. Sesungguhnya di dalamnya terdapat nama-nama yang tertulis di hati Matahari, tiga nama yang tertulis di hati Bulan, nama-nama yang tertulis di hati Mars, nama-nama yang tertulis di hati Merkurius, nama-nama yang tertulis di hati Jupiter, dan nama-nama yang tertulis di hati Saturnus; tujuh nama yang dengan itu Allah menciptakan manusia, dan tujuh nama yang dengan itu Allah menciptakan para malaikat yang ditugaskan pada pohon-pohon dan tumbuhan-tumbuhan; di dalamnya ada lima nama yang dahulu dipakai oleh para penyihir jin dan para penyihir negeri Babil; di dalamnya ada tujuh nama yang tertulis di hati thilasm (jimat); dan di dalamnya ada nama yang cepat (mustajab) yang ditulis di daun jeruk utrujj lalu dicuci dengan air mawar dan madu sarang yang tidak diasapi, lalu engkau minumkan kepada siapa yang engkau kehendaki, maka ia akan bergelora karena cintamu. Jika ia ditulis di perkamen yang bersih dengan darah burung walet, lalu engkau usapkan ke kepala hewan tunggangan, niscaya ia mengikutimu; demikian pula dilakukan terhadap Bani Adam. Ia mempunyai bermacam manfaat yang tidak terhitung banyaknya.
 
 ### Bagian 3 — Judul: al-Jalb as-Suryani (bersambung ke hal. 18)
 
@@ -1175,7 +1175,7 @@ Ia mempunyai «thalatsmaniyah» [demikian adanya cetak] golongan dalam ta'rif-ta
 
 **وَهَذَا هُوَ الجَلْبُ السُّرْيَانِيُّ**
 
-تَقُولُ بَعْدَ التَّنْزِيهِ الأَوَّلِ الرُّوحَانِيِّ: أَرَى أَرَى كَفِيتَا كَفِيتَا شَلْشِيشْ شَلْشِيشْ مَلْشِيشْ مَلْشِيشْ أَهِيلِيلْ أَهِيلِيلْ هَيْبُولْ هَيْبُولْ مَلْتِينْ مَلْتِينْ كَلْكِيَامْ كَلْكِيَامْ أَهِيلْ أَهِيلْ كَلْكَثُومْ كَلْكَثُومْ أَرِيرِي أَرِيرِي أَجْبِنِي أَجْبِنِي أَكْيَاهُومْ أَكْيَاهُومْ كَلْكِيَائِيلْ كَلْكِيَائِيلْ بِدَمْلَاخْ بَرَاخْ بَرَاخْ هَيْطَيَائِيلْ هَيْطَيَائِيلْ أَرْبَابْ بِيَارَبْ بَهَيْتَنَاخْ هَيْتَنَاخْ مُلْتِيَاهُوخْ مُلْتِيَاهُوخْ بَاقِطَهْ عَيْطَلَهْ أَجْرِيَائِيلْ طَيْلَهُوبْ طَيْلَهُوبْ طَيْطُوبْ طَيْلَعُوبْ هَيْبَاوُطْ (؟)
+تَقُولُ بَعْدَ التَّنْزِيهِ الأَوَّلِ الرُّوحَانِيِّ: أَرَى أَرَى كَفِيتَا كَفِيتَا شَلْشِيشْ شَلْشِيشْ مَلْشِيشْ مَلْشِيشْ أَهِيلِيلْ أَهِيلِيلْ هَيْبُولْ هَيْبُولْ مَلْتِينْ مَلْتِينْ كَلْكِيَامْ كَلْكِيَامْ أَهِيلْ أَهِيلْ كَلْكَثُومْ كَلْكَثُومْ أَرِيرِي أَرِيرِي أَجْبِنِي أَجْبِنِي أَكْيَاهُومْ أَكْيَاهُومْ كَلْكِيَائِيلْ كَلْكِيَائِيلْ بِدَمْلَاخْ بَرَاخْ بَرَاخْ هَيْطَيَائِيلْ هَيْطَيَائِيلْ أَرْبَابْ بِيَارَبْ بَهَيْتَنَاخْ هَيْتَنَاخْ مُلْتِيَاهُوخْ مُلْتِيَاهُوخْ بَاقِطَهْ عَيْطَلَهْ أَجْرِيَائِيلْ طَيْلَهُوبْ طَيْلَهُوبْ طَيْطُوبْ طَيْلَعُوبْ هَيْبَاوُطْ [ضبط الاسم غير محسوم؛ حروفه محفوظة وفق الطباعة]
 
 </div>
 
@@ -1183,13 +1183,13 @@ Ia mempunyai «thalatsmaniyah» [demikian adanya cetak] golongan dalam ta'rif-ta
 
 **Wa haadza huwal-jalbus-suryaaniyy**
 
-**Taquulu ba'dat-tanziihil-awwalir-ruuhaaniyy: Araa araa kafiitaa kafiitaa syalsyiisy syalsyiisy malsyiisy malsyiisy ahiliil ahiliil haibuul haibuul maltiin maltiin kalkiyaam kalkiyaam ahiil ahiil kalkatsum kalkatsum ariiri ariiri ajbini ajbini akyaahuum akyaa-huum kalkiaa-iil kalkiaa-iil bidamlaakh baraakh baraakh haithaa-iil haithaa-iil arbaab biyaarab bahaitanaakh haitanaakh multiyaahuukh multiyaahuukh baaqithah 'aithalah ajriyaa-iil thailahuub thailahuub thaithuub thail'uub haibaa-uuth (?)* …*
+**Taquulu ba'dat-tanziihil-awwalir-ruuhaaniyy: Araa araa kafiitaa kafiitaa syalsyiisy syalsyiisy malsyiisy malsyiisy ahiliil ahiliil haibuul haibuul maltiin maltiin kalkiyaam kalkiyaam ahiil ahiil kalkatsum kalkatsum ariiri ariiri ajbini ajbini akyaahuum akyaa-huum kalkiaa-iil kalkiaa-iil bidamlaakh baraakh baraakh haithaa-iil haithaa-iil arbaab biyaarab bahaitanaakh haitanaakh multiyaahuukh multiyaahuukh baaqithah 'aithalah ajriyaa-iil thailahuub thailahuub thaithuub thail'uub haibaa-uuth [phonetic reading is tentative; printed consonants are retained]* …*
 
 **[Terjemahan Indonesia]**
 
 **Inilah al-Jalb as-Suryani.**
 
-Ucapkanlah setelah penyucian diri (tanzih) ruhani yang pertama: «Ara ara kafita kafita, syalsyisy syalsyisy malsyisy malsyisy, ahilil ahilil, haibul haibul, maltin maltin, kalkiyam kalkiyam, ahil ahil, kalkatsum kalkatsum, ariri ariri, ajbini ajbini, akyahum akyahum, kalkia-il kalkia-il, bidam lakh barakh barakh, haitha-il haitha-il, arbab biyarab, bahaitanakh haitanakh, multiyahukh multiyahukh, baqithah 'aithalah, ajriya-il, thailahub thailahub, thaithub thail'ub, haiba-uth (?)» …
+Ucapkanlah setelah penyucian diri (tanzih) ruhani yang pertama: «Ara ara kafita kafita, syalsyisy syalsyisy malsyisy malsyisy, ahilil ahilil, haibul haibul, maltin maltin, kalkiyam kalkiyam, ahil ahil, kalkatsum kalkatsum, ariri ariri, ajbini ajbini, akyahum akyahum, kalkia-il kalkia-il, bidam lakh barakh barakh, haitha-il haitha-il, arbab biyarab, bahaitanakh haitanakh, multiyahukh multiyahukh, baqithah 'aithalah, ajriya-il, thailahub thailahub, thaithub thail'ub, haiba-uth [pelafalan nama atau istilah belum pasti; bentuk cetak dipertahankan]» …
 
 ## Halaman PDF 18 (= cetak 17)
 
@@ -1255,17 +1255,17 @@ Dan inilah akhir nama yang tersimpan itu: «Aqsyamaqasy, 'aqasy, thahsyiz, Ahya 
 
 <div dir="rtl">
 
-عَلْيَاهَمَ عَلْيَاهَمَ بِحَجْبَاوُتَ بُورُوَايِبَ بِشْرِيَا عُولِينَ عُولِينَ كَلْكَلهُوجَ كَلْكَلهُوجَ جَرْخَيَالَ جَرْخَيَالَ يِكْطَشَهَ كَشْطَمَهَ بِعَنْجَهَفَ عَنْجَهَفَ صِنْهَ صِنْهَ عَمْحَكَانَ فُوخَ كَعِيدَاخَ عَسْمِيلَاهَ آهِ آهِ آهِ اللهُ قُدُّوسٌ قُدُّوسٌ رَبُّ المَلَائِكَةِ وَالرُّوحِ بِلَطْشَمَهَ هَهْ اللهُ قُدُّوسٌ قَدِيرٌ عَلَى مَا يَشَاءُ صِيلْيَاخُوتَ أَرْبَاهُوطَ يَا بَطْرَهَيْتَا يَا لَمهَيْتَا أَحْبَايِشَا بِهَيْتَالْمَتَا مَتُوبَا بِعَلْكَمَشَا فَلْمَلهْيَا بِيَطِيخَ يَعْلَمَ بَطِينَا بِحْمَاحَمِيثَا حَثِيثَا إِلْ شَدَّاي بَالَ خُوشَ بِشَنْدَلُونَ شَنْدَلُونَ يَا هِنْدُوَانَ يَا مَلِيخَا أَزْرِيَا أَزْرِيَا سُبُّوحٌ سُبُّوحٌ قُدُّوسٌ قُدُّوسٌ رَبُّ المَلَائِكَةِ وَالرُّوحِ بِالدَاخَ دَنْشَلَاخَ وَنَاشَاخَ مَرْعَاوِي مِصْرَابِيمَ صَبَاوُوتَ عَبْدُويَا الهِيبَا إِيلَهَ إِلَهُ المَلَائِكَةِ وَالرُّوحِ بِيَاهَ يَهَ يَهَ بِيهِ بِيهِ قُدُّوسٌ قُدُّوسٌ اسْلِبُوا طَوَّاشَهَ بِخْيَا بِلْيَا قِلْيَا بِمَشْدِيدَ فِلْبَاوُمَ دَحُوتَ أَخُوَا أَخُوَا لَمِيَاهَ لَا حَرَّاجَ رُودَ زِيدَ أَدِيمَ دَيُوشَ قَلْنَصُودَمَ يَشَاطُورَ يَشَاطُورَ فَلْقَهْصُودَمَ أَرْفَافَ أَرْمِيَارُوشَ كَشْرِيَاوُبَ دَمَرْتِيثَا وَمَرْتِيَا أَرْتِيَادَ يَالِينَ مِيَارَهَ دَمَرْكُوشَ بِدْيَاطُورَ بِلَحْتَتَرَ بَامِينَ دَادَ مَدَادَ يُوِيهَ قَلِيطَايْبُوهَ يُوثَرَ فُوثَرَ أَدَادَ أَدْمَادَ (؟)
+عَلْيَاهَمَ عَلْيَاهَمَ بِحَجْبَاوُتَ بُورُوَايِبَ بِشْرِيَا عُولِينَ عُولِينَ كَلْكَلهُوجَ كَلْكَلهُوجَ جَرْخَيَالَ جَرْخَيَالَ يِكْطَشَهَ كَشْطَمَهَ بِعَنْجَهَفَ عَنْجَهَفَ صِنْهَ صِنْهَ عَمْحَكَانَ فُوخَ كَعِيدَاخَ عَسْمِيلَاهَ آهِ آهِ آهِ اللهُ قُدُّوسٌ قُدُّوسٌ رَبُّ المَلَائِكَةِ وَالرُّوحِ بِلَطْشَمَهَ هَهْ اللهُ قُدُّوسٌ قَدِيرٌ عَلَى مَا يَشَاءُ صِيلْيَاخُوتَ أَرْبَاهُوطَ يَا بَطْرَهَيْتَا يَا لَمهَيْتَا أَحْبَايِشَا بِهَيْتَالْمَتَا مَتُوبَا بِعَلْكَمَشَا فَلْمَلهْيَا بِيَطِيخَ يَعْلَمَ بَطِينَا بِحْمَاحَمِيثَا حَثِيثَا إِلْ شَدَّاي بَالَ خُوشَ بِشَنْدَلُونَ شَنْدَلُونَ يَا هِنْدُوَانَ يَا مَلِيخَا أَزْرِيَا أَزْرِيَا سُبُّوحٌ سُبُّوحٌ قُدُّوسٌ قُدُّوسٌ رَبُّ المَلَائِكَةِ وَالرُّوحِ بِالدَاخَ دَنْشَلَاخَ وَنَاشَاخَ مَرْعَاوِي مِصْرَابِيمَ صَبَاوُوتَ عَبْدُويَا الهِيبَا إِيلَهَ إِلَهُ المَلَائِكَةِ وَالرُّوحِ بِيَاهَ يَهَ يَهَ بِيهِ بِيهِ قُدُّوسٌ قُدُّوسٌ اسْلِبُوا طَوَّاشَهَ بِخْيَا بِلْيَا قِلْيَا بِمَشْدِيدَ فِلْبَاوُمَ دَحُوتَ أَخُوَا أَخُوَا لَمِيَاهَ لَا حَرَّاجَ رُودَ زِيدَ أَدِيمَ دَيُوشَ قَلْنَصُودَمَ يَشَاطُورَ يَشَاطُورَ فَلْقَهْصُودَمَ أَرْفَافَ أَرْمِيَارُوشَ كَشْرِيَاوُبَ دَمَرْتِيثَا وَمَرْتِيَا أَرْتِيَادَ يَالِينَ مِيَارَهَ دَمَرْكُوشَ بِدْيَاطُورَ بِلَحْتَتَرَ بَامِينَ دَادَ مَدَادَ يُوِيهَ قَلِيطَايْبُوهَ يُوثَرَ فُوثَرَ أَدَادَ أَدْمَادَ [ضبط الاسم غير محسوم؛ حروفه محفوظة وفق الطباعة]
 
 </div>
 
 **[Transliterasi Latin Fonetik]**
 
-*'Alyaaham 'alyaaham bihajbaaut buuruwaib bisyriyaa 'uulina 'uulina kalkalhuuj kalkalhuuj jar-khiyaal jar-khiyaal yikthasyah kasythamah bi'anjahaf 'anjahaf shinah shinah 'amhakaan fuukh ka'iidakh 'asmiilaah aah aah aah Allaahu Qudduus Qudduus rabbul-malaa-ikati war-ruuh bilathsyamah hah Allaahu Qudduus Qadiirun 'alaa maa yasyaa-u shiilyaakhuut arbaahuuth yaa bathrahaitaa yaa lamhaita ahbaaisyaa bihaitaalmeta matuuba bi'alkamasya falmalh-ya biithiikh ya'lam bathiina bihmahamiitsa hatsiitsa Iil Syaddaay baal khuusy bisyandaluun syandluun yaa hinduwaan yaa maliikha azriyaa azriyaa Subbuuh Subbuuh Qudduus Qudduus rabbul-malaa-ikati war-ruuh bildaakh dansylaakh wanaasyakh mar'aawii mishraabiim shabaawuut 'abduyaa al-hiiba iilah ilahul-malaa-ikati war-ruuh biyaah yah yah bihi bihi Qudduus Qudduus islibu thawwaasyah bikhiya bilya qilya bimasydiid filbaawum dahut akhuwa akhuwa lamiyah laa harraaj ruud ziid adiim dayuusy qalnashuudam yasyaathuur yasyaathuur falqahshuudam arfaaf armiyaaruusy kasyriyaaub damartiitsa wamartiya artiyaad yaaliin miyaarah damarkuusy bidyaathuur bilahtatar baamiin daad madaad yuwiyah qaliithaibuuh yuutsar fuutsar adaad admaad (?)*
+*'Alyaaham 'alyaaham bihajbaaut buuruwaib bisyriyaa 'uulina 'uulina kalkalhuuj kalkalhuuj jar-khiyaal jar-khiyaal yikthasyah kasythamah bi'anjahaf 'anjahaf shinah shinah 'amhakaan fuukh ka'iidakh 'asmiilaah aah aah aah Allaahu Qudduus Qudduus rabbul-malaa-ikati war-ruuh bilathsyamah hah Allaahu Qudduus Qadiirun 'alaa maa yasyaa-u shiilyaakhuut arbaahuuth yaa bathrahaitaa yaa lamhaita ahbaaisyaa bihaitaalmeta matuuba bi'alkamasya falmalh-ya biithiikh ya'lam bathiina bihmahamiitsa hatsiitsa Iil Syaddaay baal khuusy bisyandaluun syandluun yaa hinduwaan yaa maliikha azriyaa azriyaa Subbuuh Subbuuh Qudduus Qudduus rabbul-malaa-ikati war-ruuh bildaakh dansylaakh wanaasyakh mar'aawii mishraabiim shabaawuut 'abduyaa al-hiiba iilah ilahul-malaa-ikati war-ruuh biyaah yah yah bihi bihi Qudduus Qudduus islibu thawwaasyah bikhiya bilya qilya bimasydiid filbaawum dahut akhuwa akhuwa lamiyah laa harraaj ruud ziid adiim dayuusy qalnashuudam yasyaathuur yasyaathuur falqahshuudam arfaaf armiyaaruusy kasyriyaaub damartiitsa wamartiya artiyaad yaaliin miyaarah damarkuusy bidyaathuur bilahtatar baamiin daad madaad yuwiyah qaliithaibuuh yuutsar fuutsar adaad admaad [phonetic reading is tentative; printed consonants are retained]*
 
 **[Terjemahan Indonesia]**
 
-«'Alyaham 'alyaham, bihajbaut buruwaib, bisyriya 'ulin 'ulin, kalkal huj kalkal huj, jar-khiyal jar-khiyal, yikthasyah kasythamah, bi'anjahaf 'anjahaf, shinah shinah, 'amhakan fukh, ka'idakh, 'asmilah — ah ah ah — Allah, Quddus, Quddus, Tuhan para malaikat dan ruh; bilathsyamah, hah — Allah, Quddus, Mahakuasa atas apa yang Dia kehendaki; shilyakhut, arbahuth, ya bathrahaita, ya lamhaita, ahbaisyah, bihaitalmeta matuba, bi'alkamasya falmalhya, bithikh ya'lam bathina, bihmahamitsa hatsitsa, Il Syaddai (Allah Yang Mahakuasa), bal khusy, bisyandlun syandlun, ya hinduwan, ya malikha azriya azriya — Subbuh, Subbuh, Quddus, Quddus, Tuhan para malaikat dan ruh; bildakh dansylakh wanasyakh, mar'awi mishrabim, Shabawut (semesta kuasa), 'abduya al-hiba ilah — Ilah para malaikat dan ruh — biyah yah yah, bihi bihi, Quddus Quddus; islibu thawwasyah, bikhia bilya qilya, bimasydid filbaum dahut, akhuwa akhuwa lamiyah, la harraj, rud zid adim dayusy, qalnashudam, yasyathur yasyathur, falqahsyudam, arfaf, armiyarusy, kasyriyaub, damartitsa wamartiya artiyad, yalin miyarah, damarkusy, bidyathur, bilahtatar, bamin, dad madad, yuwiyah, qalithaibuh, yutsar futsar, adad admad (?)»
+«'Alyaham 'alyaham, bihajbaut buruwaib, bisyriya 'ulin 'ulin, kalkal huj kalkal huj, jar-khiyal jar-khiyal, yikthasyah kasythamah, bi'anjahaf 'anjahaf, shinah shinah, 'amhakan fukh, ka'idakh, 'asmilah — ah ah ah — Allah, Quddus, Quddus, Tuhan para malaikat dan ruh; bilathsyamah, hah — Allah, Quddus, Mahakuasa atas apa yang Dia kehendaki; shilyakhut, arbahuth, ya bathrahaita, ya lamhaita, ahbaisyah, bihaitalmeta matuba, bi'alkamasya falmalhya, bithikh ya'lam bathina, bihmahamitsa hatsitsa, Il Syaddai (Allah Yang Mahakuasa), bal khusy, bisyandlun syandlun, ya hinduwan, ya malikha azriya azriya — Subbuh, Subbuh, Quddus, Quddus, Tuhan para malaikat dan ruh; bildakh dansylakh wanasyakh, mar'awi mishrabim, Shabawut (semesta kuasa), 'abduya al-hiba ilah — Ilah para malaikat dan ruh — biyah yah yah, bihi bihi, Quddus Quddus; islibu thawwasyah, bikhia bilya qilya, bimasydid filbaum dahut, akhuwa akhuwa lamiyah, la harraj, rud zid adim dayusy, qalnashudam, yasyathur yasyathur, falqahsyudam, arfaf, armiyarusy, kasyriyaub, damartitsa wamartiya artiyad, yalin miyarah, damarkusy, bidyathur, bilahtatar, bamin, dad madad, yuwiyah, qalithaibuh, yutsar futsar, adad admad [pelafalan nama atau istilah belum pasti; bentuk cetak dipertahankan]»
 
 **[Syarah]**
 
@@ -1475,7 +1475,7 @@ Jika engkau melamar seorang perempuan lalu pernikahannya terasa sulit bagimu, ma
 
 **حِجَابُ سُلَيْمَانَ بْنِ دَاوُودَ**
 
-بِسْمِ اللهِ الرَّحْمَنِ الرَّحِيمِ، بِسْمِ اللهِ وَبِاللهِ وَمِنَ اللهِ وَإِلَى اللهِ وَلَا إِلَهَ إِلَّا اللهُ وَلَا غَالِبَ إِلَّا اللهُ وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللهِ العَلِيِّ العَظِيمِ، أَقْسَمْتُ عَلَيْكُمْ يَا مَعْشَرَ الأَرْوَاحِ المَعْلُومَاتِ وَأَصْحَابِ السِّلَاحِ وَالرِّمَاحِ المَحْدُودَاتِ، وَرُكَّابِ الرِّيَاحِ وَالمُسْتَرِقِينَ السَّمْعَ مِنَ السَّمَاءِ إِلَى الأَرْضِ، وَأَصْحَابِ البُنُودِ، أَقْسَمْتُ عَلَيْكُمْ بِالأَسْمَاءِ العِظَامِ، وَالكَلِمَاتِ الكِرَامِ، وَبِحَقِّ الأَسْمَاءِ المُقَلَّدَةِ فِي أَعْنَاقِكُمْ وَطَاعَتِهَا بِكُمْ، تَعْطِرَ يَايِلُ تَعْطِرَ يَايِلُ، طَرْطَيَائِيلُ طَرْطَيَائِيلُ، زَنْقِيطُ زَنْقِيطُ، مُطَاهُوشُ مُطَاهُوشُ، جَلْجَمِيشُ جَلْجَمِيشُ، رَاهِمُ رَاهِمُ، جِرْجَيَائِيلُ جِرْجَيَائِيلُ، أَيَّتُهَا الأَرْوَاحُ الرُّوحَانِيَّةُ أَصْحَابُ السَّمَاءِ وَأَصْحَابُ الشَّمَالِيَّةِ وَالجِهَةِ النَّارِيَّةِ، انْزِلُوا بِصِغَارِكُمْ وَكِبَارِكُمْ إِلَى الأَرْضِ، لَا أَرْضٌ تُظِلُّكُمْ وَلَا سَمَاءٌ تُقِلُّكُمْ بِحَقِّ أَرْكَاضِ أَصْبَاوْتَ آلَ شَدَّاي، حَصَّنْتُكَ يَا صَاحِبَ هَذَا الكِتَابِ، بِسْمِ اللهِ الَّذِي وَضَعَ عَلَى المَلَائِكَةِ وَهُمْ يَعْرُجُونَ وَلَا يَأْكُلُونَ وَلَا يَشْرَبُونَ وَعَنْ ذِكْرِ اللهِ لَا يَفْتُرُونَ، وَبِخَاتَمِ رَسُولِ اللهِ ﷺ الَّذِي عَلَى آثَارِهِمْ، ﴿وَجَعَلْنَا مِنْ بَيْنِ أَيْدِيهِمْ سَدًّا وَمِنْ خَلْفِهِمْ سَدًّا فَأَغْشَيْنَاهُمْ فَهُمْ لَا يُبْصِرُونَ﴾ [يس: ٩]، وَمَا شَاءَ رَبُّكَ مِنَ التَّمَائِلِ [كذا]، ﴿وَإِذَا قَرَأْتَ القُرْآنَ جَعَلْنَا بَيْنَكَ وَبَيْنَ الَّذِينَ لَا يُؤْمِنُونَ بِالآخِرَةِ حِجَابًا مَسْتُورًا وَجَعَلْنَا عَلَى قُلُوبِهِمْ أَكِنَّةً أَنْ يَفْقَهُوهُ وَفِي آذَانِهِمْ وَقْرًا وَإِذَا ذَكَرْتَ رَبَّكَ فِي القُرْآنِ وَحْدَهُ وَلَّوْا عَلَى أَدْبَارِهِمْ نُفُورًا﴾ [الإسراء: ٤٥-٤٦]، ﴿وَنُنَزِّلُ مِنَ القُرْآنِ مَا هُوَ شِفَاءٌ وَرَحْمَةٌ لِلْمُؤْمِنِينَ﴾ [الإسراء: ٨٢]، الرَّأْسُ، طَرْطَرُ، بَرْقُوسُ، فَيُوسُ، مَهْرُوسُ، عَطْرُوسُ، حَرُوسُ، بَعْدُوسُ، سَرْنَلُوسُ، دَبُوسُ، مَلْعُونَةُ، أُمُّ الصِّبْيَانِ،
+بِسْمِ اللهِ الرَّحْمَنِ الرَّحِيمِ، بِسْمِ اللهِ وَبِاللهِ وَمِنَ اللهِ وَإِلَى اللهِ وَلَا إِلَهَ إِلَّا اللهُ وَلَا غَالِبَ إِلَّا اللهُ وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللهِ العَلِيِّ العَظِيمِ، أَقْسَمْتُ عَلَيْكُمْ يَا مَعْشَرَ الأَرْوَاحِ المَعْلُومَاتِ وَأَصْحَابِ السِّلَاحِ وَالرِّمَاحِ المَحْدُودَاتِ، وَرُكَّابِ الرِّيَاحِ وَالمُسْتَرِقِينَ السَّمْعَ مِنَ السَّمَاءِ إِلَى الأَرْضِ، وَأَصْحَابِ البُنُودِ، أَقْسَمْتُ عَلَيْكُمْ بِالأَسْمَاءِ العِظَامِ، وَالكَلِمَاتِ الكِرَامِ، وَبِحَقِّ الأَسْمَاءِ المُقَلَّدَةِ فِي أَعْنَاقِكُمْ وَطَاعَتِهَا بِكُمْ، تَعْطِرَ يَايِلُ تَعْطِرَ يَايِلُ، طَرْطَيَائِيلُ طَرْطَيَائِيلُ، زَنْقِيطُ زَنْقِيطُ، مُطَاهُوشُ مُطَاهُوشُ، جَلْجَمِيشُ جَلْجَمِيشُ، رَاهِمُ رَاهِمُ، جِرْجَيَائِيلُ جِرْجَيَائِيلُ، أَيَّتُهَا الأَرْوَاحُ الرُّوحَانِيَّةُ أَصْحَابُ السَّمَاءِ وَأَصْحَابُ الشَّمَالِيَّةِ وَالجِهَةِ النَّارِيَّةِ، انْزِلُوا بِصِغَارِكُمْ وَكِبَارِكُمْ إِلَى الأَرْضِ، لَا أَرْضٌ تُظِلُّكُمْ وَلَا سَمَاءٌ تُقِلُّكُمْ بِحَقِّ أَرْكَاضِ أَصْبَاوْتَ آلَ شَدَّاي، حَصَّنْتُكَ يَا صَاحِبَ هَذَا الكِتَابِ، بِسْمِ اللهِ الَّذِي وَضَعَ عَلَى المَلَائِكَةِ وَهُمْ يَعْرُجُونَ وَلَا يَأْكُلُونَ وَلَا يَشْرَبُونَ وَعَنْ ذِكْرِ اللهِ لَا يَفْتُرُونَ، وَبِخَاتَمِ رَسُولِ اللهِ ﷺ الَّذِي عَلَى آثَارِهِمْ، ﴿وَجَعَلْنَا مِنْ بَيْنِ أَيْدِيهِمْ سَدًّا وَمِنْ خَلْفِهِمْ سَدًّا فَأَغْشَيْنَاهُمْ فَهُمْ لَا يُبْصِرُونَ﴾ [يس: ٩]، وَمَا شَاءَ رَبُّكَ مِنَ التَّمَائِلِ [الصيغة مطابقة للمطبوع مع غرابة تركيبها؛ لا تُصحح بلا شاهد أوضح]، ﴿وَإِذَا قَرَأْتَ القُرْآنَ جَعَلْنَا بَيْنَكَ وَبَيْنَ الَّذِينَ لَا يُؤْمِنُونَ بِالآخِرَةِ حِجَابًا مَسْتُورًا وَجَعَلْنَا عَلَى قُلُوبِهِمْ أَكِنَّةً أَنْ يَفْقَهُوهُ وَفِي آذَانِهِمْ وَقْرًا وَإِذَا ذَكَرْتَ رَبَّكَ فِي القُرْآنِ وَحْدَهُ وَلَّوْا عَلَى أَدْبَارِهِمْ نُفُورًا﴾ [الإسراء: ٤٥-٤٦]، ﴿وَنُنَزِّلُ مِنَ القُرْآنِ مَا هُوَ شِفَاءٌ وَرَحْمَةٌ لِلْمُؤْمِنِينَ﴾ [الإسراء: ٨٢]، الرَّأْسُ، طَرْطَرُ، بَرْقُوسُ، فَيُوسُ، مَهْرُوسُ، عَطْرُوسُ، حَرُوسُ، بَعْدُوسُ، سَرْنَلُوسُ، دَبُوسُ، مَلْعُونَةُ، أُمُّ الصِّبْيَانِ،
 
 </div>
 
@@ -1483,7 +1483,7 @@ Jika engkau melamar seorang perempuan lalu pernikahannya terasa sulit bagimu, ma
 
 **Hijaabu Sulaimaana bni Daawuuda**
 
-*Bismillaahir-Rahmaanir-Rahiim, bismillaahi wabillaahi wa minallaahi wa ilallaahi wa laa ilaaha illallaahu wa laa ghaaliba illallaahu wa laa haula wa laa quwwata illaa billaahil-'aliyyil-'azhiim, aqsamtu 'alaikum yaa ma'syaral-arwaahil-ma'luumaati wa ash-haabis-silaahi war-rimaahil-mahduudaat, wa rukkaabir-riyaahi wal-mustariqiinas-sam'a minas-samaa-i ilal-ardh, wa ash-haabul-bunuud, aqsamtu 'alaikum bil-asmaa-il-'izhaam, wal-kalimaatil-kiraam, wa bihaqqil-asmaa-il-muqalladati fii a'naaqikum wa thaa'atihaa bikum, Ta'thir Yaayil Ta'thir Yaayil, Tharthaa-iil Tharthaa-iil, Zanqiith Zanqiith, Muthaahusy Muthaahusy, Jaljamiisy Jaljamiisy, Raahim Raahim, Jirjaa-iil Jirjaa-iil, ayyatuhal-arwaarhur-ruuhaaniyyatu ash-haabus-samaa-i wa ash-haabusy-syaamaaliyyati wal-jihatin-naariyyah, anziluu bishighaarikum wa kibaarikum ilal-ardh, laa ardhun tuzhillukum wa laa samaa-un tuqillukum bihaqqi arkaadhi Ashbaawta Aala Syaddaay, hashshantuka yaa shaahiba haadzal-kitaab, bismillaahil-ladzii wadha'a 'alal-malaa-ikati wa hum ya'rujuuna wa laa ya'kuluuna wa laa yasyrabuuna wa 'an dzikrillaahi laa yafturuun, wa bikhaatami Rasuulillaahi ﷺ (shallallaahu 'alaihi wa sallama) alladzii 'alaa aatsaarihim, ﴿wa ja'alnaa min baini aidiihim saddan wa min khalfihim saddan fa-aghsyainaahum fahum laa yubshiruun﴾ [Yasin: 9], wa maa syaa-a Rabbuka minat-tamaa-ili [kadzaa], ﴿wa idzaa qara-tal-Qur-aana ja'alnaa bainaka wa bainal-ladziina laa yu'minuuna bil-aakhirati hijaabam-mastuuran wa ja'alnaa 'alaa quluubihim akinnatan an yafqahuuhu wa fii aadzaanihim waqran wa idzaa dzakarta Rabbaka fil-Qur-aani wahdahu wallau 'alaa adbaarihim nufuuran﴾ [al-Israa': 45-46], ﴿wa nunazzilu minal-Qur-aani maa huwa syifaa-un wa rahmatun lil-mu'miniin﴾ [al-Israa': 82], ar-Ra'su, Thartharu, Barquusu, Fayuusu, Mahruusu, 'Athruusu, Haruusu, Ba'duusu, Sarnaluusu, Dabuusa, Mal'uunatu, Ummush-Shibyaan,*
+*Bismillaahir-Rahmaanir-Rahiim, bismillaahi wabillaahi wa minallaahi wa ilallaahi wa laa ilaaha illallaahu wa laa ghaaliba illallaahu wa laa haula wa laa quwwata illaa billaahil-'aliyyil-'azhiim, aqsamtu 'alaikum yaa ma'syaral-arwaahil-ma'luumaati wa ash-haabis-silaahi war-rimaahil-mahduudaat, wa rukkaabir-riyaahi wal-mustariqiinas-sam'a minas-samaa-i ilal-ardh, wa ash-haabul-bunuud, aqsamtu 'alaikum bil-asmaa-il-'izhaam, wal-kalimaatil-kiraam, wa bihaqqil-asmaa-il-muqalladati fii a'naaqikum wa thaa'atihaa bikum, Ta'thir Yaayil Ta'thir Yaayil, Tharthaa-iil Tharthaa-iil, Zanqiith Zanqiith, Muthaahusy Muthaahusy, Jaljamiisy Jaljamiisy, Raahim Raahim, Jirjaa-iil Jirjaa-iil, ayyatuhal-arwaarhur-ruuhaaniyyatu ash-haabus-samaa-i wa ash-haabusy-syaamaaliyyati wal-jihatin-naariyyah, anziluu bishighaarikum wa kibaarikum ilal-ardh, laa ardhun tuzhillukum wa laa samaa-un tuqillukum bihaqqi arkaadhi Ashbaawta Aala Syaddaay, hashshantuka yaa shaahiba haadzal-kitaab, bismillaahil-ladzii wadha'a 'alal-malaa-ikati wa hum ya'rujuuna wa laa ya'kuluuna wa laa yasyrabuuna wa 'an dzikrillaahi laa yafturuun, wa bikhaatami Rasuulillaahi ﷺ (shallallaahu 'alaihi wa sallama) alladzii 'alaa aatsaarihim, ﴿wa ja'alnaa min baini aidiihim saddan wa min khalfihim saddan fa-aghsyainaahum fahum laa yubshiruun﴾ [Yasin: 9], wa maa syaa-a Rabbuka minat-tamaa-ili [unusual printed sequence retained without emendation], ﴿wa idzaa qara-tal-Qur-aana ja'alnaa bainaka wa bainal-ladziina laa yu'minuuna bil-aakhirati hijaabam-mastuuran wa ja'alnaa 'alaa quluubihim akinnatan an yafqahuuhu wa fii aadzaanihim waqran wa idzaa dzakarta Rabbaka fil-Qur-aani wahdahu wallau 'alaa adbaarihim nufuuran﴾ [al-Israa': 45-46], ﴿wa nunazzilu minal-Qur-aani maa huwa syifaa-un wa rahmatun lil-mu'miniin﴾ [al-Israa': 82], ar-Ra'su, Thartharu, Barquusu, Fayuusu, Mahruusu, 'Athruusu, Haruusu, Ba'duusu, Sarnaluusu, Dabuusa, Mal'uunatu, Ummush-Shibyaan,*
 
 **[Terjemahan Indonesia]**
 
@@ -1577,7 +1577,7 @@ Ditulis dan digantungkan; dengan nama Allah Yang Maha Pengasih lagi Maha Penyaya
 
 **تَحْصِينُ الإِحَاطَةِ**
 
-يُقْرَأُ صَبَاحًا وَمَسَاءً ثَلَاثَ مَرَاتٍ وَهُوَ: بِسْمِ اللهِ الرَّحْمَنِ الرَّحِيمِ لَا إِلَهَ إِلَّا اللهُ بَيْنِي وَبَيْنَ أَعْدَائِي، لَا إِلَهَ إِلَّا اللهُ بَيْنِي وَبَيْنَ خَصْمَانِي جَبَلًا حَائِلًا وَسَدًّا مَانِعًا وَسِتْرًا مَحْجُوبًا وَسَيْفًا قَاطِعًا وَنَارًا مُحْرِقَةً وَبَحْرًا عَمِيقًا لَا يَصِلُونَ إِلَيَّ لَا بِقَوْلٍ وَلَا بِفِعْلٍ وَلَا بِسُوءٍ مِنْ هَذَا اليَوْمِ إِلَى غَدٍ، وَإِلَى الأَبَدِ، ﴿فَنَبْذُكُهُمُ [كذا] اللهُ وَهُوَ السَّمِيعُ العَلِيمُ﴾
+يُقْرَأُ صَبَاحًا وَمَسَاءً ثَلَاثَ مَرَاتٍ وَهُوَ: بِسْمِ اللهِ الرَّحْمَنِ الرَّحِيمِ لَا إِلَهَ إِلَّا اللهُ بَيْنِي وَبَيْنَ أَعْدَائِي، لَا إِلَهَ إِلَّا اللهُ بَيْنِي وَبَيْنَ خَصْمَانِي جَبَلًا حَائِلًا وَسَدًّا مَانِعًا وَسِتْرًا مَحْجُوبًا وَسَيْفًا قَاطِعًا وَنَارًا مُحْرِقَةً وَبَحْرًا عَمِيقًا لَا يَصِلُونَ إِلَيَّ لَا بِقَوْلٍ وَلَا بِفِعْلٍ وَلَا بِسُوءٍ مِنْ هَذَا اليَوْمِ إِلَى غَدٍ، وَإِلَى الأَبَدِ، ﴿فَنَبْذُكُهُمُ [الصيغة مطابقة للمطبوع مع غرابة تركيبها؛ لا تُصحح بلا شاهد أوضح] اللهُ وَهُوَ السَّمِيعُ العَلِيمُ﴾
 
 </div>
 
@@ -1585,7 +1585,7 @@ Ditulis dan digantungkan; dengan nama Allah Yang Maha Pengasih lagi Maha Penyaya
 
 **Tahshiinul-Ihaathah**
 
-*Yuqra-u shabaahan wa masaa-an tsalaatsa marraatin wa huwa: bismillaahir-Rahmaanir-Rahiim laa ilaaha illallaahu bainii wa baina a'daa-ii, laa ilaaha illallaahu bainii wa baina khashmaanii jabalan haa-ilan wa saddan maani'an wa sitran mahjuuban wa saifan qaathi'an wa naaran muhriqatan wa bahran 'amiiqan laa yashiluuna ilayya laa biqaulin wa laa bi-fi'lin wa laa bisuu-in min haadzal-yawmi ilaa ghad, wa ilal-abad, ﴿fa nabdzukuhum [kadzaa] Allaahu wa huwas-Samii'ul-'Aliim﴾*
+*Yuqra-u shabaahan wa masaa-an tsalaatsa marraatin wa huwa: bismillaahir-Rahmaanir-Rahiim laa ilaaha illallaahu bainii wa baina a'daa-ii, laa ilaaha illallaahu bainii wa baina khashmaanii jabalan haa-ilan wa saddan maani'an wa sitran mahjuuban wa saifan qaathi'an wa naaran muhriqatan wa bahran 'amiiqan laa yashiluuna ilayya laa biqaulin wa laa bi-fi'lin wa laa bisuu-in min haadzal-yawmi ilaa ghad, wa ilal-abad, ﴿fa nabdzukuhum [unusual printed sequence retained without emendation] Allaahu wa huwas-Samii'ul-'Aliim﴾*
 
 **[Terjemahan Indonesia]**
 
@@ -1729,7 +1729,7 @@ Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang; dengan nama Allah, Dia
 
 **أَسْمَاءُ الطَّهَاطِيلِ الثَّمَانِيَةِ**
 
-وَهِيَ أَسْمَاءُ مُلُوكٍ عِظَامٍ لَهَا كَثِيرٌ مِنَ الخَوَاصِّ وَالتَّصَارِيفِ الشَّرِيفَةِ وَالأَسْرَارِ اللَّطِيفَةِ نَذْكُرُ بَعْضَهَا عِنْدَ حَاجَتِهَا بِإِذْنِ اللهِ تَعَالَى وَهَذِهِ هِيَ الأَسْمَاءُ السَّبْعَةُ [كذا]:
+وَهِيَ أَسْمَاءُ مُلُوكٍ عِظَامٍ لَهَا كَثِيرٌ مِنَ الخَوَاصِّ وَالتَّصَارِيفِ الشَّرِيفَةِ وَالأَسْرَارِ اللَّطِيفَةِ نَذْكُرُ بَعْضَهَا عِنْدَ حَاجَتِهَا بِإِذْنِ اللهِ تَعَالَى وَهَذِهِ هِيَ الأَسْمَاءُ السَّبْعَةُ [الصيغة مطابقة للمطبوع مع غرابة تركيبها؛ لا تُصحح بلا شاهد أوضح]:
 
 لِلطَّهْطِيلُ، مُهَطْهَطِيلُ، قُهْطِيطِيلُ، فَهْطِيطِيلُ، نُهَهْطَطِيلُ، جَهْلَطْطِيلُ، لَخَهْطَطِيلُ، لَمْقَنْجَلُ.
 
@@ -1739,7 +1739,7 @@ Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang; dengan nama Allah, Dia
 
 **Asmaa-uth-Thahaathiilits-Tsamaaniyah**
 
-*Wa hiya asmaa-u muluukin 'izhaamin lahaa katsiirun minal-khawaashi wat-tashaariifisy-syariifati wal-asraaril-lathiifah, nadzkuru ba'dhaha 'inda haajatihaa bi-idznillaahi ta'aala wa haadzihi hiyal-asmaa-us-sab'atu [kadzaa]:*
+*Wa hiya asmaa-u muluukin 'izhaamin lahaa katsiirun minal-khawaashi wat-tashaariifisy-syariifati wal-asraaril-lathiifah, nadzkuru ba'dhaha 'inda haajatihaa bi-idznillaahi ta'aala wa haadzihi hiyal-asmaa-us-sab'atu [unusual printed sequence retained without emendation]:*
 
 *Lith-thahthiil, Muhaththathiil, Quhthithiil, Fahthithiil, Nuhahthathiil, Jahloththiil, Lakhahthathiil, Lamqanjal.*
 
@@ -2093,7 +2093,7 @@ Nama keenam: Bizjil, setimbangan «kaukab»; ia mempunyai huruf waw dan, dari ma
 
 الاسْمُ الرَّابِعُ عَشَرَ: نُمُوشْلَخُ بِوَزْنِ بَنُو قَمَرٍ، لَهُ مِنَ الحُرُوفِ حَرْفُ النُّونِ وَمِنَ المَنَازِلِ السِّمَاكُ وَمَعْنَاهُ بِاللُّغَةِ العَرَبِيَّةِ (يَا اللهُ يَا هُوَ) وَفِي نُسْخَةٍ (الوَكِيلُ).
 
-الاسْمُ الخَامِسُ عَشَرَ: بِرْهِيُولَا بِوَزْنِ أَنْ تَزُولَا، لَهُ مِنَ الحُرُوفِ حَرْفُ السِّينِ وَمِنَ المَنَازِلِ الغَفْرُ وَمَعْنَاهُ بِالعَرَبِيَّةِ (يَا كَافِي) وَفِي نُسْخَةٍ (يَا كَافِي) [كذا] وَقِيلَ (يَا سَمِيعُ).
+الاسْمُ الخَامِسُ عَشَرَ: بِرْهِيُولَا بِوَزْنِ أَنْ تَزُولَا، لَهُ مِنَ الحُرُوفِ حَرْفُ السِّينِ وَمِنَ المَنَازِلِ الغَفْرُ وَمَعْنَاهُ بِالعَرَبِيَّةِ (يَا كَافِي) وَفِي نُسْخَةٍ (يَا كَافِي) [الصيغة مطابقة للمطبوع مع غرابة تركيبها؛ لا تُصحح بلا شاهد أوضح] وَقِيلَ (يَا سَمِيعُ).
 
 الاسْمُ السَّادِسُ عَشَرَ: بَشْكِيلَخُ بِوَزْنِ مَفْعِيلٍ، لَهُ مِنَ الحُرُوفِ حَرْفُ العَيْنِ وَمِنَ المَنَازِلِ الزَّبَانَا، وَمَعْنَاهُ بِاللُّغَةِ العَرَبِيَّةِ (يَا مُؤْمِنُ) وَقِيلَ (يَا لَطِيفُ).
 
@@ -2117,7 +2117,7 @@ Nama keenam: Bizjil, setimbangan «kaukab»; ia mempunyai huruf waw dan, dari ma
 
 *Al-Ismur-raabi'u 'asyar: Numuusyalakhu biwazni banuu qamar, lahuu minal-huruufi harfun-nuuni wa minal-manaazilis-simaaku wa ma'naahu bil-lughatil-'arabiyyati (Yaa Allaahu yaa Huu) wa fii nuskhatin (Al-Wakiil).*
 
-*Al-Ismul-khaamisu 'asyar: Birhyuulaa biwazni an tazuulaa, lahuu minal-huruufi harfus-siini wa minal-manaazilil-ghafru wa ma'naahu bil-'arabiyyati (Yaa Kaafi) wa fii nuskhatin (Yaa Kaafi) [kadzaa] wa qiila (Yaa Samii').*
+*Al-Ismul-khaamisu 'asyar: Birhyuulaa biwazni an tazuulaa, lahuu minal-huruufi harfus-siini wa minal-manaazilil-ghafru wa ma'naahu bil-'arabiyyati (Yaa Kaafi) wa fii nuskhatin (Yaa Kaafi) [unusual printed sequence retained without emendation] wa qiila (Yaa Samii').*
 
 *Al-Ismus-saadisu 'asyar: Basykiilakhu biwazni maf'iil, lahuu minal-huruufi harful-'aini wa minal-manaaziliz-zabaanaa, wa ma'naahu bil-lughatil-'arabiyyati (Yaa Mu'min) wa qiila (Yaa Lathiif).*
 
@@ -2513,7 +2513,7 @@ Telah disebutkan perihal cara riyadhah dan pengamalan ini beberapa jalan; kami s
 
 دَعْوَةُ السَّبَاسِبِ الصُّغْرَى
 
-بِسْمِ اللهِ الرَّحْمَنِ الرَّحِيمِ الحَمْدُ للهِ الَّذِي احْتَجَبَ عَنِ الأَبْصَارِ فَلَا يُرَى، رَبِّ السَّمَاوَاتِ السَّبْعِ والأَرَاضِينَ السَّبْعِ ومَنْ فِيهِنَّ مِنَ الوَرَى، الَّذِي خَضَعَ كُلُّ شَيْءٍ لَهُ وتَوَاضَعَ لِقُدْرَتِهِ، وكُلُّ وَصْفٍ عَنْ وَصْفِ صِفَاتِهِ، المُنْفَرِدُ بِالمُلْكِ والمَلَكُوتِ المُتَمَزِّزُ بِالجَبَرُوتِ الَّذِي لَهُ مَا فِي بِسَاطِ الأَرْضِ والأَرْكَانِ وبِسَاطِ العِبَادِ والأَنْوَارِ رَبِّ الظُّلُمَاتِ والأَنْوَارِ الدَّائِمُ فِي مُلْكِهِ الصَّمَدُ الحَمْدُ للهِ الَّذِي لَا إِلَهَ إِلَّا هُوَ المَلِكُ المَعْبُودُ فِي أَرْضِهِ وسَمَائِهِ مُخْرِجُ الأَشْيَاءِ مِنَ العَدَمِ إِلَى الوُجُودِ ومِنَ الوُجُودِ إِلَى العَدَمِ سُبْحَانَ اللهِ والحَمْدُ للهِ وَلَا إِلَهَ إِلَّا اللهُ واللهُ أَكْبَرُ، سِبَاسِبُ سِبَاسِبُ سَبُوكَةٌ سَبُوكَةٌ كَطَهْطَمُ كَطَهْطَمُ تَزَلْزَلْتُ تَزَلْزَلْتُ تَزَعْزَعْتُ تَزَعْزَعْتُ مُطَاعُ مُطَاعُ مُطَاغُ مُطَاغُ ابْنُ الرُّؤُوسِ الأَرْبَعَةِ ابْنُ التُّرَابِيَّةِ ابْنُ الهَوَائِيَّةِ ابْنُ بَنِي غَيْلَانَ ابْنُ صَاحِبِ جَبَلِ الدُّخَانِ ابْنُ الرَّاكِبِ عَلَى الفِيلِ المُتَعَمِّمِ بِالشَّبَانِ ابْنُ كَرْدَمِ ابْنُ دَرْدَمِ ابْنُ خَمِيسِ ابْنُ قَاصُورِ ابْنُ قِمَارِشِ ابْنُ قَطَارِيشِ ابْنُ أَبُو الرَّوِيشِ ابْنُ زَمْزَمِ ابْنُ دَرْدَمِ أَجِيبُوا أَيُّهَا الخُدَّامُ بِمَا أَمَرْتُكُمْ بِهِ أَنْتُمْ وجَمِيعُ أَخْبَارِكُمُ العُلْوِيَّةُ والسُّفْلِيَّةُ والسَّحَابِيَّةُ والطَّمَاطِمُ [كذا] والصَّمَاصِمُ وافْعَلُوا كَذَا وكَذَا بِحَقِّ صَمَاصِمُ صَمَاصِمُ هَدَامُ هَدَامُ هُمُومُ هُمُومُ شَارَخُ شَارَخُ أَحِبْ يَا مَازِرَ صَاحِبَ قَلَمِ اليَاقُوتِ الأَحْمَرِ أَحِبْ يَا كَعْثَمَ صَاحِبَ قَلَمِ الذَّهَبِ ومِحْبَرَةِ
+بِسْمِ اللهِ الرَّحْمَنِ الرَّحِيمِ الحَمْدُ للهِ الَّذِي احْتَجَبَ عَنِ الأَبْصَارِ فَلَا يُرَى، رَبِّ السَّمَاوَاتِ السَّبْعِ والأَرَاضِينَ السَّبْعِ ومَنْ فِيهِنَّ مِنَ الوَرَى، الَّذِي خَضَعَ كُلُّ شَيْءٍ لَهُ وتَوَاضَعَ لِقُدْرَتِهِ، وكُلُّ وَصْفٍ عَنْ وَصْفِ صِفَاتِهِ، المُنْفَرِدُ بِالمُلْكِ والمَلَكُوتِ المُتَمَزِّزُ بِالجَبَرُوتِ الَّذِي لَهُ مَا فِي بِسَاطِ الأَرْضِ والأَرْكَانِ وبِسَاطِ العِبَادِ والأَنْوَارِ رَبِّ الظُّلُمَاتِ والأَنْوَارِ الدَّائِمُ فِي مُلْكِهِ الصَّمَدُ الحَمْدُ للهِ الَّذِي لَا إِلَهَ إِلَّا هُوَ المَلِكُ المَعْبُودُ فِي أَرْضِهِ وسَمَائِهِ مُخْرِجُ الأَشْيَاءِ مِنَ العَدَمِ إِلَى الوُجُودِ ومِنَ الوُجُودِ إِلَى العَدَمِ سُبْحَانَ اللهِ والحَمْدُ للهِ وَلَا إِلَهَ إِلَّا اللهُ واللهُ أَكْبَرُ، سِبَاسِبُ سِبَاسِبُ سَبُوكَةٌ سَبُوكَةٌ كَطَهْطَمُ كَطَهْطَمُ تَزَلْزَلْتُ تَزَلْزَلْتُ تَزَعْزَعْتُ تَزَعْزَعْتُ مُطَاعُ مُطَاعُ مُطَاغُ مُطَاغُ ابْنُ الرُّؤُوسِ الأَرْبَعَةِ ابْنُ التُّرَابِيَّةِ ابْنُ الهَوَائِيَّةِ ابْنُ بَنِي غَيْلَانَ ابْنُ صَاحِبِ جَبَلِ الدُّخَانِ ابْنُ الرَّاكِبِ عَلَى الفِيلِ المُتَعَمِّمِ بِالشَّبَانِ ابْنُ كَرْدَمِ ابْنُ دَرْدَمِ ابْنُ خَمِيسِ ابْنُ قَاصُورِ ابْنُ قِمَارِشِ ابْنُ قَطَارِيشِ ابْنُ أَبُو الرَّوِيشِ ابْنُ زَمْزَمِ ابْنُ دَرْدَمِ أَجِيبُوا أَيُّهَا الخُدَّامُ بِمَا أَمَرْتُكُمْ بِهِ أَنْتُمْ وجَمِيعُ أَخْبَارِكُمُ العُلْوِيَّةُ والسُّفْلِيَّةُ والسَّحَابِيَّةُ والطَّمَاطِمُ [الصيغة مطابقة للمطبوع مع غرابة تركيبها؛ لا تُصحح بلا شاهد أوضح] والصَّمَاصِمُ وافْعَلُوا كَذَا وكَذَا بِحَقِّ صَمَاصِمُ صَمَاصِمُ هَدَامُ هَدَامُ هُمُومُ هُمُومُ شَارَخُ شَارَخُ أَحِبْ يَا مَازِرَ صَاحِبَ قَلَمِ اليَاقُوتِ الأَحْمَرِ أَحِبْ يَا كَعْثَمَ صَاحِبَ قَلَمِ الذَّهَبِ ومِحْبَرَةِ
 
 </div>
 
@@ -2521,7 +2521,7 @@ Telah disebutkan perihal cara riyadhah dan pengamalan ini beberapa jalan; kami s
 
 *Da'watus-Sabaasibish-Shughraa*
 
-**Bismillaahir-Rahmaanir-Rahiim, alhamdu lillaahil-ladziihtaajaba 'anil-abshaari fa laa yura, Rabbis-samaawaatis-sab'i wal-araadhiinas-sab'i wa man fiihinna minal-waraa, alladzii khadha'a kullu syai-in lahu wa tawaadha'a liqudratih, wa kullu washfin 'an washfi shifaatih, al-Munfaridu bil-mulki wal-malakuti al-Mutamazzizu bil-jabarutilladzii lahuu maa fii bisaathil-ardhi wal-arkaani wa bisaathul-'ibaadi wal-anwaari Rabbizh-zhulumaati wal-anwaarid-Daa-imu fii mulkihiish-Shamad, alhamdu lillaahil-ladzii laa ilaaha illaa huwal-Malikul-Ma'buudu fii ardhihii wa samaa-ihi mukhrijul-asy-yaa-i minal-'adami ilal-wujuudi wa minal-wujuudi ilal-'adam, subhaanallaahi walhamdu lillaahi wa laa ilaaha illallaahu wallaahu akbar, Sibaasibu Sibaasibu Sabuukatun Sabuukah Kathahthamu Kathahtham Tazalzaltu Tazalzalt Taza'za'tu Taza'za't Muthaa'u Muthaa' Muthaaghu Muthaagh Ibnur-ru-usil-arba'ati ibnut-Turaabiyyati ibnul-Hawaa-iyyati ibnu Banii Ghailaana ibnu Shaahibi Jabalid-Dukhaani ibnur-Raakibi 'alal-fiilil-Muta'ammimi bisy-Syabaani ibnu Kardami ibnu Dardami ibnu Khamiisi ibnu Qaashuuri ibnu Qimaarisyi ibnu Qathaariisyi ibnu Abur-Rawaisyi ibnu Zamzami ibnu Dardam, ajiiibuu ayyuhal-khuddaamu bimaa amartukum bih antum wa jamii'u akhbaarikumul-'ulwiyyatu was-sufliyyatu was-sahaabiyyatu wath-Thamaathim [kadzaa] wash-Shamaashim, waf'aluu kadzaa wa kadzaa bihaqqi Shamaashimu Shamaashim Hadaamu Hadaam Humuumu Humuum Syaarakhu Syaarakh ahib yaa Maazira Shaahiba Qalamil-Yaaquutil-Ahmar ahib yaa Ka'tsama Shaahiba Qalamidz-Dzahabi wa Mihbarati* …*
+**Bismillaahir-Rahmaanir-Rahiim, alhamdu lillaahil-ladziihtaajaba 'anil-abshaari fa laa yura, Rabbis-samaawaatis-sab'i wal-araadhiinas-sab'i wa man fiihinna minal-waraa, alladzii khadha'a kullu syai-in lahu wa tawaadha'a liqudratih, wa kullu washfin 'an washfi shifaatih, al-Munfaridu bil-mulki wal-malakuti al-Mutamazzizu bil-jabarutilladzii lahuu maa fii bisaathil-ardhi wal-arkaani wa bisaathul-'ibaadi wal-anwaari Rabbizh-zhulumaati wal-anwaarid-Daa-imu fii mulkihiish-Shamad, alhamdu lillaahil-ladzii laa ilaaha illaa huwal-Malikul-Ma'buudu fii ardhihii wa samaa-ihi mukhrijul-asy-yaa-i minal-'adami ilal-wujuudi wa minal-wujuudi ilal-'adam, subhaanallaahi walhamdu lillaahi wa laa ilaaha illallaahu wallaahu akbar, Sibaasibu Sibaasibu Sabuukatun Sabuukah Kathahthamu Kathahtham Tazalzaltu Tazalzalt Taza'za'tu Taza'za't Muthaa'u Muthaa' Muthaaghu Muthaagh Ibnur-ru-usil-arba'ati ibnut-Turaabiyyati ibnul-Hawaa-iyyati ibnu Banii Ghailaana ibnu Shaahibi Jabalid-Dukhaani ibnur-Raakibi 'alal-fiilil-Muta'ammimi bisy-Syabaani ibnu Kardami ibnu Dardami ibnu Khamiisi ibnu Qaashuuri ibnu Qimaarisyi ibnu Qathaariisyi ibnu Abur-Rawaisyi ibnu Zamzami ibnu Dardam, ajiiibuu ayyuhal-khuddaamu bimaa amartukum bih antum wa jamii'u akhbaarikumul-'ulwiyyatu was-sufliyyatu was-sahaabiyyatu wath-Thamaathim [unusual printed sequence retained without emendation] wash-Shamaashim, waf'aluu kadzaa wa kadzaa bihaqqi Shamaashimu Shamaashim Hadaamu Hadaam Humuumu Humuum Syaarakhu Syaarakh ahib yaa Maazira Shaahiba Qalamil-Yaaquutil-Ahmar ahib yaa Ka'tsama Shaahiba Qalamidz-Dzahabi wa Mihbarati* …*
 
 **[Terjemahan Indonesia]**
 
@@ -4583,7 +4583,7 @@ dan penundukan para durhaka yang angkuh serta siapa yang mendurhakai.
 
 مُمِيتٌ فَعَجِّلْ مَوْتَ خَصْمِي إِذَا اعْتَدَى
 
-وعَجِّلْ لِأَعْدَائِي هَلَاكَاً نَعَجِّلُكَ [كذا]
+وعَجِّلْ لِأَعْدَائِي هَلَاكَاً نَعَجِّلُكَ [الصيغة مطابقة للمطبوع مع غرابة تركيبها؛ لا تُصحح بلا شاهد أوضح]
 
 </div>
 
@@ -4623,7 +4623,7 @@ dan penundukan para durhaka yang angkuh serta siapa yang mendurhakai.
 
 *Mumiitun fa 'ajjil mauta khashmii idza i'tadaa*
 
-*Wa 'ajjil li-a'daa-ii halaakan na'ajjiluka [kadzaa]*
+*Wa 'ajjil li-a'daa-ii halaakan na'ajjiluka [unusual printed sequence retained without emendation]*
 
 **[Terjemahan Indonesia]**
 
@@ -5519,7 +5519,7 @@ dan aku mengalahkan dengan nama-nama itu bala tentara yang bersekutu.
 
 بِسَيْفِكَ يَا جَبَّارُ فَاقْتُلْ عَدُوَّنَا
 
-ويَا ذَابِحُ اذْبَحْ كُلَّ قَوْمٍ نَجْبَرْتُ [كذا]
+ويَا ذَابِحُ اذْبَحْ كُلَّ قَوْمٍ نَجْبَرْتُ [الصيغة مطابقة للمطبوع مع غرابة تركيبها؛ لا تُصحح بلا شاهد أوضح]
 
 ويَا قَاتِلَ الأَعْدَاءِ أَسْرِعْ بِفَنِّهَا
 
@@ -5893,7 +5893,7 @@ dan wahai Tuhanku, dengan ikhlas, sucikanlah hati kami.
 
 وَبِالْمُلْكِ مَلِّكْنِي الْقُلُوبَ بِأَسْرِهَا
 
-وَبِالرُّسُلِ أَرْسِلْ لِي مُلُوكًا تَوَاصَلَتْ [كذا]
+وَبِالرُّسُلِ أَرْسِلْ لِي مُلُوكًا تَوَاصَلَتْ [الصيغة مطابقة للمطبوع مع غرابة تركيبها؛ لا تُصحح بلا شاهد أوضح]
 
 بِنُورِكَ يَا اللَّهُ نَوِّرْ بَصِيرَتِي
 
@@ -6157,7 +6157,7 @@ pada hari suatu talisman tampak, dengannya seluruhnya terkena talisman.
 
 وَأَصْمَتُ تِلْكَ السَّامِعِينَ بِصَيْحَةٍ
 
-فَصُمُّوا جَمِيعًا دَائِمِينَ نَاهِبَةً [كذا]
+فَصُمُّوا جَمِيعًا دَائِمِينَ نَاهِبَةً [الصيغة مطابقة للمطبوع مع غرابة تركيبها؛ لا تُصحح بلا شاهد أوضح]
 
 وَأَبَنْتُ كُلَّ الْعَالَمِينَ بِبَهْجَةٍ
 
@@ -6259,7 +6259,7 @@ dengan kemuliaan siang, melalui sihir, aku membatalkan [daya sihir itu].
 
 **[Syarah]**
 
-> Larik 419 memuat rangkaian yang sukar dibaca secara nahwu dan makna («داهِمِينَ ناهِبَةً»); teks dipertahankan dan ditandai `[كذا]`, bukan diperbaiki diam-diam. Bagian ini diterjemahkan sebagai klaim pengarang tentang talisman, bukan petunjuk praktik.
+> Larik 419 memuat rangkaian yang sukar dibaca secara nahwu dan makna («داهِمِينَ ناهِبَةً»); teks dipertahankan dan ditandai `[bentuk cetak dipertahankan karena susunannya tidak lazim]`, bukan diperbaiki diam-diam. Bagian ini diterjemahkan sebagai klaim pengarang tentang talisman, bukan petunjuk praktik.
 
 ## Halaman PDF 70 (= cetak 69)
 
@@ -6279,7 +6279,7 @@ dengan kemuliaan siang, melalui sihir, aku membatalkan [daya sihir itu].
 
 وَأَرْسَلْتُ لِلْأَعْدَاءِ كُلَّ مُقَاتِلٍ
 
-مِنَ الْجِنِّ فَتَلَا إِذَا اللَّيْلُ أَظْلَمَتْ [كذا]
+مِنَ الْجِنِّ فَتَلَا إِذَا اللَّيْلُ أَظْلَمَتْ [الصيغة مطابقة للمطبوع مع غرابة تركيبها؛ لا تُصحح بلا شاهد أوضح]
 
 مُحِيطٌ بِأَعْدَائِي سَرِيعٌ يَأْخُذُهُمْ
 
@@ -6386,3 +6386,4267 @@ dan dengan Nama itu, para musuh kupenggal dengan pedang.
 **[Syarah]**
 
 > Beberapa bentuk cetak pada larik 435, 438, dan 444 tampak ganjil: «فتلا», «وأطر», dan «مدل». Bacaan «وأطر» dinormalkan menjadi «وَأَمْطِرْ» (“turunkanlah seperti hujan”) karena larik sesudahnya mengulang verba «أمطرت»; dua bentuk lain dipertahankan atau diberi penanda tanpa mengarang kepastian. Seluruhnya adalah klaim dalam nazham, bukan anjuran melakukan kekerasan.
+
+---
+
+# BATCH 15 — Halaman PDF 71–72
+
+## Halaman PDF 71 (= cetak 70)
+
+### Bagian 1 — Sambungan nazham: permohonan penundukan dan pengerahan (larik 448–465)
+
+**[Teks Arab Asli]**
+
+<div dir="rtl">
+
+وَبِالسَّيْفِ يَا جَبَّارُ فَاقْتُلْ عَدُوَّنَا
+
+وَبِالطَّعْنِ يَا قَهَّارُ فَاطْعَنْ بِمَنْ بَغَتْ
+
+وَأَعْمِ عُيُونَ الْكُلِّ بِالِاسْمِ سُرْعَةً [المطبوع: وأعمي]
+
+وَأَخْرِسْ جَمِيعَ الْقَوْمِ بِالِاسْمِ أَخْرَسْتُ
+
+وَخَرِّبْ بِسْمِ الِاسْمِ كُلَّ دِيَارِهِمْ
+
+بِخَسْفٍ وَإِحْرَاقٍ وَنَارٍ تَلَهَّبَتْ
+
+وَأَرْسِلْ لِأَعْدَائِي إِذَا اللَّيْلُ قَدْ أَتَى
+
+أُسُودًا مِنَ الْجِنِّ الْحُمَاةِ تَنَوَّلَتْ [يظهر الفعل «تنولت» في المطبوع؛ يُحفظ كما هو، ولا يُبدل دون شاهد أوضح]
+
+وَأَرْسِلْ لَهُمْ شَخْصِي بِنَوْمٍ وَيَقْظَةٍ
+
+بِجِنٍّ وَأَرْهَاطٍ وَجِنٍّ تَمَرَّدَتْ
+
+وَسَلِّطْ عَلَيْهِمْ كُلَّ جِنٍّ تَسَرَّدُوا [شكل «تسردوا» في المطبوع محفوظ رغم غرابة تصريفه؛ لا يُسوّى إلى قياس آخر]
+
+بِقَتْلٍ وَإِحْرَاقٍ وَرَجْمٍ تَسَلَّطَتْ
+
+وَأَرْسِلْ إِلَيْهِمْ كُلَّ رَهْطٍ وَمَارِدٍ
+
+بِسِنَانٍ وَنِيرَانٍ وَبِالْحَرْبِ أَرْسَلْتُ
+
+وَأَنْزِلْ بِهِمْ بِالِاسْمِ كُلَّ مُصِيبَةٍ
+
+بِهِمْ وَأَحْزَانٍ عَلَى الْكُلِّ أُنْزِلَتْ
+
+وَضَيِّقْ عَلَيْهِمْ كُلَّ أَرْضٍ وَمَسْلَكٍ
+
+وَزَلْزِلْ بِهِمْ كُلَّ الْجِهَاتِ فَزَلْزَلَتْ
+
+</div>
+
+**[Transliterasi Latin Fonetik]**
+
+*Wa bis-saifi ya Jabbaru faqtul 'aduwwana*
+
+*Wa bit-tha'ni ya Qahharu fa'tha'n biman baghat*
+
+*Wa a'mi 'uyunal-kulli bil-ismi sur'atan*
+
+*Wa akhris jami'al-qawmi bil-ismi akhrastu*
+
+*Wa kharrib bismil-ismi kulla diyarahum*
+
+*Bikhasfin wa-ihraqin wa-narin talahhabat*
+
+*Wa-arsil li-a'da'i idha al-laylu qad ata*
+
+*Usudan minal-jinni al-humati tanawwalat*
+
+*Wa-arsil lahum shakhsiy binawmin wa-yaqzhatin*
+
+*Bijinni wa-arhatin wa-jinni tamarradat*
+
+*Wa-sallit 'alayhim kulla jinnin tasarradu*
+
+*Biqotlin wa-ihraqin wa-rajmin tasallatat*
+
+*Wa-arsil ilayhim kulla rahṭin wa-maridin*
+
+*Bisinin wa-niranin wa-bil-harbi arsaltu*
+
+*Wa-anzil bihim bil-ismi kulla musibatin*
+
+*Bihim wa-ahzanin 'ala al-kulli unzilat*
+
+*Wa-dayyiq 'alayhim kulla ardin wa-maslak*
+
+*Wa-zalzil bihim kulla al-jihati fa-zalzalat*
+
+**[Terjemahan Indonesia]**
+
+Dengan pedang, wahai Yang Maha Perkasa, tumpaslah musuh kami.
+
+Dengan tusukan, wahai Yang Maha Menundukkan, tusuklah siapa pun yang melampaui batas.
+
+Dengan Nama itu, butakanlah mata semua orang dengan segera.
+
+Bungkamkanlah seluruh kaum dengan Nama itu; sungguh, telah kubungkam mereka.
+
+Runtuhkanlah seluruh tempat tinggal mereka dengan Nama itu.
+
+Dengan ditelan bumi, pembakaran, dan api yang berkobar.
+
+Kirimkanlah kepada musuh-musuhku saat malam tiba,
+
+berupa singa-singa dari kalangan jin pelindung yang maju menyerbu.
+
+Kirimkanlah sosokku kepada mereka, baik dalam tidur maupun saat terjaga,
+
+dengan rombongan jin dan jin-jin pembangkang.
+
+Kerahkanlah atas mereka seluruh jin yang datang beruntun.
+
+Dengan pembunuhan, pembakaran, dan lemparan batu, mereka pun menguasai keadaan.
+
+Utuslah kepada mereka setiap rombongan dan jin yang durhaka.
+
+Dengan tombak, kobaran api, dan peperangan—demikianlah aku mengutus mereka.
+
+Turunkanlah atas mereka, dengan perantaraan Nama itu, segala musibah,
+
+dan kesedihan yang menimpa mereka; semuanya telah diturunkan.
+
+Sempitkanlah bagi mereka seluruh bumi dan setiap jalan,
+
+dan guncangkanlah mereka dari segala penjuru hingga semuanya bergetar.
+
+## Halaman PDF 72 (= cetak 71)
+
+### Bagian 1 — Sambungan nazham (dua larik awal; larik 466–467)
+
+**[Teks Arab Asli]**
+
+<div dir="rtl">
+
+وَخَرِّبْ دِيَارَ الْكُلِّ بِالْخَسْفِ سُرْعَةً
+
+وَبِالنَّارِ وَالْإِحْرَاقِ وَالسُّمُوتِ وَالشَّتَتِ
+
+</div>
+
+**[Transliterasi Latin Fonetik]**
+
+*Wa-kharrib diyara al-kulli bil-khasfi sur'atan*
+
+*Wa-bin-nari wal-ihraqi was-sumuti wash-shatati*
+
+**[Terjemahan Indonesia]**
+
+Hancurkanlah tempat tinggal mereka semua dengan ditelan bumi, secepatnya,
+
+dan dengan api serta pembakaran, hingga mereka tercerai-berai ke segala penjuru.
+
+---
+
+# BATCH 16 — Halaman PDF 72–73
+
+## Halaman PDF 72 (= cetak 71)
+
+### Bagian 1 — Sambungan nazham: permohonan dan pengerahan kekuatan (larik 468–483)
+
+**[Teks Arab Asli]**
+
+<div dir="rtl">
+
+وَنَكِّسْ رُؤُوسَ الْحَاسِدِينَ وَالنِّقَمَ
+
+جَمِيعًا بِبَحْرِ الْهَمِّ وَالْحُزْنِ وَالْكَبْتِ
+
+وَيَا رَبِّ بِالْأَسْمَاءِ أَسْأَلُ دَاعِيًا
+
+بِأَمْلَاكِ أَفْلَاكٍ إِلَى الْكَوْنِ سَخَّرْتُ
+
+بِأَسْرَارِ أَنْوَارٍ بِظُلْمَاءِ بَحْرِهَا
+
+بِأَرْوَاحِ أَمْلَاكٍ غِلَاظٍ تَشَدَّدَتْ
+
+بِأَسْمَائِكَ الْعُظْمَى بِأَسْرَارِ نُورِهَا
+
+بِأَسْرَارِكَ اللَّاتِي بِهَا الْكَوْنَ كَوَّنْتَ
+
+بِتَكْوِينِكَ الْأَكْوَانَ كَوِّنْ مَطْلَبِي
+
+وَأَسْرِعْ بِسِرِّ الِاسْمِ بِالْقَصْدِ أَسْرَعْتُ
+
+بِخَلْخَلَةِ الْأَرْوَاحِ بِالرَّعْدِ وَالْهَوَى
+
+بِسِرِّ سَحَابٍ فِي السَّحَرِ تَسَخَّرَتْ
+
+بِسَحْقِ خُسُوفٍ وَالْكُسُوفِ لِشَمْسِهَا
+
+بِكُلِّ شِهَابٍ مِنْ سَمَائِكَ أَرْسَلْتُ
+
+بِتَسْبِيحِ أَمْلَاكٍ بِسِرِّ سُجُودِهَا
+
+بِإِضْمَارِ أَرْوَاحٍ لِأَمْلَاكٍ سَافَرَتْ
+
+</div>
+
+**[Transliterasi Latin Fonetik]**
+
+*Wa nakkis ru'usal-hasidin wan-niqami*
+
+*Jami'an bibahril-hammi wal-huzni wal-kabti*
+
+*Wa ya rabbi bil-asma'i as-alu da'iyan*
+
+*Bi-amlaki aflakin ilal-kawni sakhkhartu*
+
+*Bi-asrari anwarin bi-zhulma'i bahriha*
+
+*Bi-arwahi amlaakin ghilazin tasyaddadat*
+
+*Bi-asma'ikal-'uzhma bi-asrari nuriha*
+
+*Bi-asrarikal-lati biha al-kawna kawwanta*
+
+*Bi-takwinikal-akwana kawwin mathlabi*
+
+*Wa asri' bisirril-ismi bil-qasdi asra'tu*
+
+*Bikhalkhalatil-arwahi bir-ra'di wal-hawa*
+
+*Bisirri sahabin fis-sahari tasakhkharat*
+
+*Bi-sahqi khusufin wal-kusufi li-syamsiha*
+
+*Bikulli syihabin min sama'ika arsaltu*
+
+*Bi-tasbihi amlaakin bisirri sujudiha*
+
+*Bi-idmari arwahi li-amlakin safarat*
+
+**[Terjemahan Indonesia]**
+
+Tundukkanlah kepala orang-orang yang dengki dan timpakanlah segala pembalasan.
+
+Semuanya tenggelam dalam lautan kegundahan, kesedihan, dan himpitan batin.
+
+Wahai Tuhanku, melalui nama-nama-Mu aku memohon sambil berdoa.
+
+Dengan para malaikat falak, alam semesta telah kutundukkan.
+
+Dengan rahasia cahaya-cahaya di tengah gulita samuderanya.
+
+Dengan ruh-ruh para malaikat yang gagah dan semakin teguh.
+
+Dengan nama-nama-Mu yang paling agung, melalui rahasia cahayanya.
+
+Dengan rahasia-rahasia-Mu, yang dengannya Engkau membentuk alam semesta.
+
+Dengan penciptaan seluruh alam oleh-Mu, wujudkanlah maksudku.
+
+Dengan rahasia Nama itu, segerakanlah; aku telah bersungguh-sungguh memohon.
+
+Dengan mengguncang ruh-ruh melalui guntur dan angin.
+
+Dengan rahasia awan pada waktu sahar, semuanya pun ditundukkan.
+
+Dengan meluluhlantakkan gerhana bulan dan gerhana matahari.
+
+Dengan setiap meteor dari langit-Mu yang telah kuutus.
+
+Dengan tasbih para malaikat, melalui rahasia sujud mereka.
+
+Dengan menggerakkan ruh-ruh yang berangkat menuju para malaikat.
+
+**[Syarah]**
+
+> (468) «نَكِّسْ» berarti membalikkan atau menundukkan. «النِّقَم» dibaca sebagai berbagai balasan atau hukuman; susunannya padat dan puitis.
+>
+> (469) «الكَبْت» menunjuk tekanan atau himpitan batin. Baris ini melukiskan para pendengki ditenggelamkan dalam gambaran lautan kesusahan.
+>
+> (470) Seruan «يا رب» menandai peralihan dari ancaman kepada permohonan langsung kepada Tuhan melalui nama-nama-Nya.
+>
+> (471) «أملاك أفلاك» merujuk pada malaikat yang dikaitkan dengan falak atau lapisan langit; ini kosmologi yang dipakai dalam nazham.
+>
+> (472) Cahaya dan gulita samudra dipertautkan sebagai citra rahasia kosmik, bukan keterangan tentang laut secara harfiah.
+>
+> (473) «غلاظ» menggambarkan sifat tegas atau keras, sedangkan «تشدّدت» menekankan keteguhan para malaikat dalam gambaran teks.
+>
+> (474) Nama-nama Ilahi dan rahasia cahaya dipakai sebagai ungkapan pujian sekaligus sandaran permohonan.
+>
+> (475) Larik ini menghubungkan rahasia Tuhan dengan penciptaan alam semesta; bentuk «كوّنتَ» dibaca sebagai “Engkau membentuk”.
+>
+> (476) «كَوِّنْ مَطْلَبِي» merupakan permintaan agar maksud pemohon diwujudkan, dengan mengacu pada kuasa penciptaan.
+>
+> (477) «بالقصد» mengisyaratkan kesungguhan niat. Harakat «أسرعتُ» dipilih sebagai orang pertama, meski teks cetak tanpa harakat memungkinkan bacaan lain.
+>
+> (478) Guntur dan angin menjadi citra daya yang mengguncang ruh-ruh; ini bahasa puitis dalam rangkaian seruan.
+>
+> (479) «السَّحَر» dibaca sebagai waktu menjelang fajar. Tanpa harakat, «السحر» juga dapat dibaca “sihir”; ambiguitas cetak tetap ada.
+>
+> (480) «الخسوف» dan «الكسوف» menunjuk gerhana bulan dan matahari. Susunan «بسحق» terdengar ganjil, sehingga terjemahan mempertahankan citra penghancuran secara dekat.
+>
+> (481) Meteor dari langit digambarkan sebagai daya yang dikirim. Harakat «أرسلتُ» mengikuti suara orang pertama dalam rangkaian, tetapi bentuk cetak sendiri tidak memastikan pelakunya.
+>
+> (482) Tasbih dan sujud malaikat berfungsi sebagai citra ibadah dan pengagungan dalam nazham.
+>
+> (483) Ungkapan tentang ruh-ruh dan malaikat yang bepergian sangat ringkas; terjemahan mengikuti hubungan kata yang paling dekat tanpa menambah rincian.
+
+## Halaman PDF 73 (= cetak 72)
+
+### Bagian 1 — Sambungan nazham: pasukan dan ketundukan (larik 484–487)
+
+**[Teks Arab Asli]**
+
+<div dir="rtl">
+
+بِسِرِّ جُيُوشٍ لِلْجِهَادِ تَجَهَّزُوا
+
+بِحَقِّ سُيُوفٍ فِي سَبِيلِكَ جُرِّدَتْ
+
+لِأَسْمَائِكَ تَرَنَّحُ الْقُلُوبُ مَهَابَةً
+
+وَتَخْضَعُ طَوْعًا لِلَّهِ وَمَا عَصَتْ
+
+</div>
+
+**[Transliterasi Latin Fonetik]**
+
+*Bisirri juyusyin lil-jihadi tajahhazu*
+
+*Bihaqqi suyufin fi sabilika juridat*
+
+*Li-asma'ika tarannahul-qulubu mahabatan*
+
+*Wa takhda'u taw'an lillahi wa ma 'asat*
+
+**[Terjemahan Indonesia]**
+
+Demi rahasia pasukan-pasukan yang bersiap untuk berjihad.
+
+Demi pedang-pedang yang terhunus di jalan-Mu.
+
+Di hadapan nama-nama-Mu, hati-hati pun bergetar penuh rasa gentar,
+
+dan tunduk dengan sukarela kepada Allah tanpa mendurhakai-Nya.
+
+**[Syarah]**
+
+> (484) Pasukan yang bersiap berangkat melanjutkan citra pengerahan kekuatan pada larik sebelumnya; kata «الجهاد» dibaca sesuai konteks sebagai perjuangan bersenjata dalam nazham ini.
+>
+> (485) Pedang terhunus di jalan Tuhan menjadi gambaran kesiapan pasukan, bukan uraian tentang cara penggunaannya.
+>
+> (486) Hati digambarkan bergetar karena segan dan gentar ketika nama-nama Ilahi disebut.
+>
+> (487) Penutup potongan ini menyatakan bahwa hati tunduk secara sukarela kepada Allah dan tidak membangkang.
+
+---
+
+# BATCH 17 — Halaman PDF 73–74
+
+## Halaman PDF 73 (= cetak 72)
+
+### Bagian 1 — Sambungan nazham: pembakaran, pengerahan, dan penundukan (larik 488–501)
+
+**[Teks Arab Asli]**
+
+<div dir="rtl">
+
+بِأَنْوَارِ إِحْرَاقٍ بِسِرِّ مَطْلَبٍ
+
+بِأَسْمَاءِ إِحْرَاقٍ بِهَا الْجِنُّ سُخِّرَتْ
+
+فَيَا رَبِّ أَحْرِقْ كُلَّ عَاصٍ وَمَارِدٍ
+
+مِنَ الْجِنِّ وَالْأَرْهَاطِ حَرْقًا تَوَاصَلَتْ
+
+وَزَلْزِلْ عُصَاةَ الْجِنِّ مِنْ كُلِّ جَانِبٍ
+
+لِطَاعَةِ أَسْمَائِهِ بِهَا الْأَرْضُ زُلْزِلَتْ
+
+وَبِالِاسْمِ فَاجْلِبْ لِيَ الْمَوَالِيَ بِمِصْرِنَا
+
+وَأَتْبَاعَهُمْ وَالْجُنُودَ جَمِيعًا سَخَّرْتُ
+
+وَأَخْضِعْ لِيَ السُّلْطَانَ وَالْكَوْنَ كُلَّهُ
+
+وَأَهْلِكْ لِيَ الْأَعْدَاءَ بِالِاسْمِ أَهْلَكْتُ
+
+وَبِالِاسْمِ فَاجْمَعْ لِيَ الْمُلُوكَ جَمِيعَهَا
+
+وَأَخْضِعْهُمْ بِالِاسْمِ قَهْرًا فَأَقْهَرْتُ
+
+وَأَرْسِلْ لِيَ الْأَمْلَاكَ قَهْرًا لِمَنْ عَصَى
+
+بِزَجْرٍ وَإِحْرَاقٍ إِلَى الْجِنِّ أَرْسَلْتُ
+
+</div>
+
+**[Transliterasi Latin Fonetik]**
+
+*Bi-anwari ihraqin bisirri mathlabin*
+
+*Bi-asma'i ihraqin biha al-jinna sukhkhirat*
+
+*Fa-ya rabbi ahriq kulla 'ashin wa-maridin*
+
+*Minal-jinni wal-arhati harqan tawashalat*
+
+*Wa-zalzil 'ushata al-jinni min kulli janib*
+
+*Li-ta'ati asma'ihi biha al-ardu zulzilat*
+
+*Wa bil-ismi fajlib lil-mawali bi-mishrina*
+
+*Wa-atba'ahum wal-junuda jami'an sakhkhartu*
+
+*Wa-akhdhi' lis-sultana wal-kawna kullahu*
+
+*Wa-ahlik lil-a'da'a bil-ismi ahlaktu*
+
+*Wa bil-ismi fajma' lil-muluka jami'aha*
+
+*Wa-akhdhi'hum bil-ismi qahran fa-aqhartu*
+
+*Wa-arsil lil-amlaaka qahran liman 'asa*
+
+*Bi-zajrin wa-ihraqin ila al-jinni arsaltu*
+
+**[Terjemahan Indonesia]**
+
+Dengan cahaya-cahaya pembakaran, melalui rahasia suatu permohonan.
+
+Dengan nama-nama pembakaran itu, para jin ditundukkan.
+
+Wahai Tuhanku, bakarlah setiap pendurhaka dan setiap jin durhaka yang perkasa,
+
+dari kalangan jin dan kelompok-kelompok mereka; pembakaran itu berlangsung terus-menerus.
+
+Guncangkanlah para jin pembangkang dari segala penjuru.
+
+Demi ketaatan kepada nama-nama-Nya, bumi pun diguncangkan dengannya.
+
+Dengan Nama itu, datangkanlah untukku para pendukung di negeri Mesir kami,
+
+serta para pengikut dan seluruh pasukan mereka yang telah kutundukkan.
+
+Tundukkanlah bagiku penguasa dan seluruh alam semesta.
+
+Binasakanlah para musuhku dengan Nama itu; aku telah membinasakan mereka.
+
+Dengan Nama itu, kumpulkanlah untukku semua raja,
+
+dan tundukkanlah mereka dengan paksa; aku pun telah menguasai mereka.
+
+Utuslah untukku para malaikat secara paksa, menghadapi siapa pun yang durhaka,
+
+dengan hardikan dan pembakaran; telah kuutus mereka kepada golongan jin.
+
+**[Syarah]**
+
+> (488) Ungkapan “cahaya pembakaran” dan “rahasia permohonan” bersifat padat dan puitis; larik ini membuka rangkaian citra api.
+>
+> (489) Teks mengklaim nama-nama pembakaran dapat menundukkan jin; ini disajikan sebagai keyakinan yang dinyatakan dalam nazham.
+>
+> (490) Baris ini berisi seruan keras terhadap pendurhaka dan mārid; terjemahan mencatat isi teks, bukan menganjurkan kekerasan.
+>
+> (491) «الأرهاط» berarti kelompok atau rombongan. Susunan «حرقًا تواصلت» ringkas; terjemahan mengikuti gambaran pembakaran yang terus berlanjut.
+>
+> (492) «عصاة الجن» menunjuk jin-jin yang dianggap membangkang; «من كل جانب» memberi kesan kepungan dari segala arah.
+>
+> (493) Nama-nama Ilahi digambarkan sebagai sebab bumi bergetar dan makhluk tunduk; ini hiperbola puitis.
+>
+> (494) «الموالي» dapat berarti para pendukung atau orang-orang yang berafiliasi. «بمصرنا» dibaca “di negeri Mesir kami”.
+>
+> (495) Pemohon menyatakan telah menundukkan para pengikut dan pasukan; kata «سخرت» diberi harakat orang pertama mengikuti konteks.
+>
+> (496) Permintaan diperluas dari penguasa hingga seluruh alam semesta, sebuah klaim kuasa yang bersifat retoris.
+>
+> (497) Pengulangan akar «هلك» memperkeras nada ancaman; bentuk lampau di akhir larik dibaca sebagai pernyataan “aku telah membinasakan”.
+>
+> (498) Penyair meminta agar semua raja dikumpulkan melalui Nama; ini melanjutkan gambaran pengerahan kekuasaan.
+>
+> (499) «قهرًا» berarti dengan paksa atau dominasi. Bentuk akhir «فأقهرت» dibaca sebagai klaim bahwa pemohon telah menguasai mereka.
+>
+> (500) «الأملاك» dibaca sebagai para malaikat. Larik meminta pengutusan mereka terhadap pihak yang durhaka.
+>
+> (501) «زجر» berarti teguran atau hardikan. Api dan teguran menjadi gambaran hukuman dalam narasi teks.
+
+## Halaman PDF 74 (= cetak 73)
+
+### Bagian 1 — Sambungan nazham: perlindungan dan ketundukan (larik 502–507)
+
+**[Teks Arab Asli]**
+
+<div dir="rtl">
+
+وَسَخِّرْ لِيَ الْأَرْوَاحَ وَالْجِنَّ كُلَّهَا
+
+وَكُلَّ عَفَارِيتٍ عُصَاةٍ تَمَرَّدَتْ
+
+وَأَرْسِلْ لِيَ الْأَرْهَاطَ طَوْعًا بِذِلَّةٍ
+
+كَذَا كُلُّ ظَبْيٍ وَغُولٍ تَفَوَّلَتْ [لفظ «تفولت» مطابق لرسم المطبوع، لكن معناه في السياق غير واضح؛ يُحفظ دون تصحيح]
+
+وَكِّلْ بِحِفْظِي يَا حَفِيظُ مُلُوكَهَا
+
+مِنَ السُّوءِ وَالْأَعْدَاءِ بِالْحِفْظِ وُكِّلْتُ
+
+</div>
+
+**[Transliterasi Latin Fonetik]**
+
+*Wa-sakhkhir lil-arwaha wal-jinna kullaha*
+
+*Wa-kulla 'afaritin 'usatin tamarradat*
+
+*Wa-arsil lil-arhata taw'an bi-dhillatin*
+
+*Kadha kullu zhabyin wa-ghulin tafawwalat [the printed verb is read tentatively; its contextual meaning is unclear].*
+
+*Wa-wakkil bihifzhi ya Hafiz mulukaha*
+
+*Minas-su'i wal-a'da'i bil-hifzhi wukkiltu*
+
+**[Terjemahan Indonesia]**
+
+Tundukkanlah untukku seluruh ruh dan golongan jin,
+
+serta semua ifrit durhaka yang memberontak.
+
+Utuslah kepadaku kelompok-kelompok itu dengan patuh dan merendahkan diri.
+
+Demikian pula setiap kijang dan ghul—makna kata terakhir pada cetakan belum pasti.
+
+Wahai Yang Maha Menjaga, serahkanlah para penguasanya ke dalam penjagaanku,
+
+agar terlindung dari keburukan dan musuh; aku pun diberi amanah penjagaan.
+
+**[Syarah]**
+
+> (502) «الأرواح والجن» memperluas daftar makhluk gaib yang diminta tunduk; ini klaim tekstual, bukan petunjuk praktik.
+>
+> (503) «عفاريت» adalah bentuk jamak dari «عفريت», sosok jin yang digambarkan kuat; «عصاة» dan «تمردت» menekankan sifat pembangkang.
+>
+> (504) «الأرهاط» berarti kelompok atau rombongan. «طوعًا بذلة» melukiskan kepatuhan yang disertai kerendahan diri.
+>
+> (505) Nama makhluk pertama tampak sebagai «ظبي» (kijang/gazel), sedangkan «غول» ialah ghul dalam cerita Arab. Lafaz «تفولت» terbaca demikian pada cetakan, tetapi maknanya tidak jelas; karena itu tidak dipastikan dalam terjemahan.
+>
+> (506) «حفيظ» adalah sebutan bagi Yang Maha Menjaga. Pemohon meminta agar para penguasa atau pemimpin berada dalam perlindungannya.
+>
+> (507) «وُكِّلْتُ» dibaca pasif, “aku diberi amanah”. Karena teks cetak tidak berharakat, pelaku dan bentuk katanya masih mungkin dibaca berbeda.
+
+---
+
+# BATCH 18 — Halaman PDF 74–75
+
+## Halaman PDF 74 (= cetak 73)
+
+### Bagian 1 — Sambungan nazham: perlindungan, alam, dan pengerahan (larik 508–518)
+
+**[Teks Arab Asli]**
+
+<div dir="rtl">
+
+وَثَبَتَ بِهِ قَلْبِي لِرُؤْيَةِ هَوْلِهَا
+
+وَبِالِاسْمِ تَحْفَظُنِي بِحِصْنٍ تَحَصَّنْتُ
+
+وَسَخِّرْ لِيَ الْأَرْوَاحَ وَالسُّحُبَ وَالْهَوَى
+
+وَأَرْسِلْ لِيَ الْأَمْطَارَ بِالْفَيْضِ أَرْسَلْتُ
+
+وَبِاسْمِكَ فَالْبَحْرُ الْمُحِيطُ وَمَا حَوَى
+
+وَأَمْلَاكُ يَا ذَا الْجَلَالِ تَسَخَّرَتْ
+
+وَدِجْلَةُ بَغْدَادَ وَنِيلُ فُرَاتِهَا [تتابع أسماء الأنهار مطابق للمطبوع؛ تركيب «نيل فراتها» غير واضح ولا يُعاد تأويله]
+
+وَسُبْحَانَ جَحْجَانَ [«جحجان» اسم غير معروف؛ ضبطه تقريبي والحروف محفوظة كما طُبعت] بِاسْمِكَ سَخَّرْتُ
+
+وَبِالِاسْمِ فَاجْلِبْ لِيَ الْخَلَائِقَ كُلَّهَا
+
+بِبَحْرٍ وَبَرٍّ فَالْقَبَائِلُ أَقْبَلَتْ
+
+سَأَلْتُكَ يَا جَبَّارُ بِالِاسْمِ سُرْعَةً
+
+</div>
+
+**[Transliterasi Latin Fonetik]**
+
+*Wa-thabata bihi qalbi li-ru'yati hawliha*
+
+*Wa bil-ismi tahfazuni bihisnin tahassantu*
+
+*Wa-sakhkhir lil-arwaha was-suhubi wal-hawa*
+
+*Wa-arsil lil-amtara bil-faydi arsaltu*
+
+*Wa-bismika fal-bahru al-muhitu wa-ma hawa*
+
+*Wa-amlaku ya dza al-jalali tasakhkharat*
+
+*Wa-Dijlata Baghdada wa-nila furatiha [the printed phrase is retained; its grammatical connection is unclear].*
+
+*Wa-subhana Jahjan [the non-Arabic name is tentative; printed consonants retained] bismika sakhkhartu*
+
+*Wa bil-ismi fajlib lil-khala'iqa kullaha*
+
+*Bi-bahri wa-barrin fal-qaba'ilu aqbalat*
+
+*Sa'altuka ya Jabbaru bil-ismi sur'atan*
+
+**[Terjemahan Indonesia]**
+
+Dengannya, hatiku menjadi teguh untuk menyaksikan kedahsyatannya.
+
+Dengan Nama itu, lindungilah aku; aku telah berlindung di dalam benteng.
+
+Tundukkanlah untukku para ruh, awan, dan angin.
+
+Kirimkanlah kepadaku hujan yang melimpah; demikianlah aku telah mengutusnya.
+
+Demi Nama-Mu, lautan yang melingkupi ini beserta segala isinya.
+
+Dan para malaikat, wahai Pemilik Keagungan, telah ditundukkan.
+
+Serta Tigris di Baghdad, sungai Nil, dan Efratnya. [Susunan lafaz pada cetakan kurang jelas.]
+
+Dan Subhan Jahjan [nama non-Arab ini belum pasti pelafalannya], dengan Nama-Mu aku telah menundukkannya.
+
+Dengan Nama itu, datangkanlah untukku seluruh makhluk,
+
+dari lautan dan daratan; maka berdatanganlah berbagai kabilah.
+
+Aku memohon kepada-Mu, wahai Yang Maha Perkasa, dengan Nama itu: segerakanlah.
+
+**[Syarah]**
+
+> (508) «بِهِ» merujuk pada sandaran yang disebut sebelumnya. Hati penyair digambarkan menjadi teguh saat menghadapi kedahsyatan.
+>
+> (509) Benteng menjadi perumpamaan perlindungan; «تحصنت» berarti “aku berlindung atau membentengi diri”.
+>
+> (510) «السحب» berarti awan, sedangkan «الهوى» dapat berarti angin atau hawa. Terjemahan memilih “angin” sesuai rangkaian citra langit.
+>
+> (511) Larik menyatukan permohonan agar hujan dicurahkan dengan bentuk lampau «أرسلتُ» (“aku telah mengutus”); susunannya padat.
+>
+> (512) Lautan yang melingkupi dan seluruh isinya melambangkan cakupan alam yang luas.
+>
+> (513) «يا ذا الجلال» adalah seruan pengagungan kepada Tuhan; para malaikat disebut sebagai makhluk yang ditundukkan dalam klaim teks.
+>
+> (514) Bacaan tampak menyebut Tigris, Baghdad, Nil, dan Efrat, tetapi hubungan kata-katanya tidak terang pada cetakan; frasa dipertahankan menurut grafi sumber tanpa dinormalkan.
+>
+> (515) «جحجان» tampak sebagai nama seruan yang tidak dikenal; vokalisasi «Jahjan» tentatif, sehingga nama dan konsonan cetaknya dipertahankan tanpa diterjemahkan.
+>
+> (516) Pemohon meminta agar seluruh makhluk didatangkan kepadanya melalui Nama.
+>
+> (517) Laut dan darat membentuk gambaran kedatangan kabilah-kabilah dari segala penjuru.
+>
+> (518) Seruan kepada «الجبار» diikuti permintaan agar perkara disegerakan dengan menyebut Nama.
+
+## Halaman PDF 75 (= cetak 74)
+
+### Bagian 1 — Sambungan nazham: hukuman dan pengadilan (larik 519–527)
+
+**[Teks Arab Asli]**
+
+<div dir="rtl">
+
+بِجِهَادِ مُلُوكٍ بِالْعَذَابِ تَوَكَّلْتُ
+
+وَبِالْوَحْيِ وَالتَّنْزِيلِ وَالْبَعْثِ وَالسَّنَا
+
+وَبِالْحَشْرِ وَالنَّشْرِ الْعَظِيمِ وَمَا حَوَتْ
+
+وَبِالْخَسْفِ وَالْأَخْذِ الْأَلِيمِ بِشِدَّةٍ
+
+وَبِالْمَسْخِ وَالطُّوفَانِ جَمْعًا تَرَادَفَتْ
+
+وَبِاللَّطْمَةِ الْكُبْرَى وَهَوْلِ عَذَابِهَا
+
+وَبِالْوَقْفَةِ الْعُظْمَى إِذِ النَّاسُ حُوسِبَتْ
+
+تَسَلَّطَ مُلُوكُ الِانْتِقَامِ بِجَمْعِهِمْ
+
+عَلَى مَنْ عَصَى مِنْ خَصْمِي دَاعٍ بِالْأَسْمَاءِ تَظَلَّمْتُ [صيغة «تظلمت» مطابقة للمطبوع؛ صلتها بما قبلها غير مستقرة فلا تُصحح تخميناً]
+
+</div>
+
+**[Transliterasi Latin Fonetik]**
+
+*Bi-jihadi mulukin bil-'adhabi tawakkaltu*
+
+*Wa bil-wahyi wat-tanzili wal-ba'tsi was-sana*
+
+*Wa bil-hashri wan-nasyri al-'azhimi wa-ma hawat*
+
+*Wa bil-khasfi wal-akhdhil-alimi bisyiddatin*
+
+*Wa bil-maskhi wat-thufani jam'an taradafat*
+
+*Wa bil-lathmatil-kubra wa-hawli 'adhabiha*
+
+*Wa bil-waqfatil-'uzhma idz-in-nasu husibat*
+
+*Tasallata mulukul-intiqami bijam'ihim*
+
+*'Ala man 'asa min khasmi da'in bil-asma'i tazallamtu [the printed verb is retained; syntax is uncertain]*
+
+**[Terjemahan Indonesia]**
+
+Dengan perjuangan para raja, aku bertawakal kepada azab.
+
+Demi wahyu, penurunan, kebangkitan, dan cahaya.
+
+Demi penghimpunan dan kebangkitan agung, serta segala yang dikandungnya.
+
+Demi ditelan bumi, penangkapan yang pedih, dan kekerasan.
+
+Demi perubahan rupa dan banjir, yang datang berturut-turut.
+
+Demi hantaman besar dan kedahsyatan azabnya.
+
+Demi tempat berdiri yang agung, ketika manusia dihisab.
+
+Para raja pembalasan menguasai mereka dengan pengerahan bersama,
+
+atas siapa pun yang durhaka di antara para penentangku; aku mengadukan perkara itu dengan menyebut nama-nama. [Susunan lafaz penutup meragukan.]
+
+**[Syarah]**
+
+> (519) Penyair menyebut perjuangan para raja dan azab sebagai sandaran; susunan frasa ini ringkas dan puitis.
+>
+> (520) «الوحي» dan «التنزيل» menunjuk wahyu dan penurunan pesan, sedangkan «البعث» adalah kebangkitan; «السنا» dibaca sebagai cahaya atau sinar.
+>
+> (521) «الحشر والنشر» menggambarkan penghimpunan dan kebangkitan kembali; «وما حوت» memperluas cakupannya kepada segala yang dikandung.
+>
+> (522) «الخسف» berarti ditelan atau dibenamkan bumi; «الأخذ الأليم» menggambarkan hukuman yang keras dan menyakitkan.
+>
+> (523) «المسخ» adalah perubahan rupa, sedangkan «الطوفان» ialah banjir besar; keduanya digambarkan datang beruntun.
+>
+> (524) «اللَّطْمَة الكبرى» berarti hantaman besar; baris ini menekankan kedahsyatan hukumannya.
+>
+> (525) «الوقفة العظمى» mengacu pada saat manusia berdiri untuk diperiksa atau dihisab.
+>
+> (526) «ملوك الانتقام» merupakan personifikasi kuasa pembalasan yang menguasai orang-orang yang dituju.
+>
+> (527) Susunan «من خصمي داع بالأسماء تظلمت» tidak terang pada cetakan. Terjemahan mengambil «تظلمت» sebagai “aku mengadu/meminta keadilan” dan tidak memastikan hubungan tiap katanya.
+
+---
+
+# BATCH 19 — Halaman PDF 75–76
+
+## Halaman PDF 75 (= cetak 74)
+
+### Bagian 1 — Sambungan nazham: para penguasa api dan hukuman (larik 528–535)
+
+**[Teks Arab Asli]**
+
+<div dir="rtl">
+
+وَيَا مَلِكَ النِّيرَانِ أَرْسِلْ مُلُوكَهَا
+
+بِوَيْلٍ وَسِجِلٍّ سَرِيعًا تَسَارَعَتْ [لفظا «ويل» و«سجل» كما في المطبوع؛ صلتهما بالفعل الأخير غير واضحة]
+
+وَأَرْسِلْ جَمِيعًا بِالسَّعِيرِ وَبِاللَّظَى
+
+لِإِحْرَاقِ أَهْوَالٍ لِاسْمِكَ قَدْ عَصَتْ [تركيب السطر ومرجع الفعل «عصت» غير واضحين؛ تُحفظ القراءة المطبوعة دون إصلاح]
+
+وَعَذِّبْ جَمِيعَ الْجِنِّ إِنْ لَمْ يُسَارِعُوا
+
+لِأَمْرِي سَرِيعًا بِالْإِجَابَةِ أَسْرَعْتُ
+
+وَأَرْسِلْ عَفَارِيتَ الْجَحِيمِ وَنَارَهَا
+
+بِأَغْلَالِ سِجِلٍّ عَذَابًا تَوَاصَلَتْ [«سجل» والتركيب محفوظان كما في المطبوع؛ إسناد «تواصلت» غير محسوم]
+
+</div>
+
+**[Transliterasi Latin Fonetik]**
+
+*Wa-ya malika an-nirani arsil mulukaha*
+
+*Bi-waylin wa-sijillin sari'an tasara'at [the printed verb is retained; its attachment is unclear]*
+
+*Wa-arsil jami'an bis-sa'iri wa-bil-lazha*
+
+*Li-ihraqi ahwalin li-ismika qad 'asat [the printed syntax and verb are retained; the referent is unclear]*
+
+*Wa-'adzdzib jami'al-jinni in lam yusari'u*
+
+*Li-amri sari'an bil-ijabati asra'tu*
+
+*Wa-arsil 'afarit al-jahimi wa-naraha*
+
+*Bi-aghlali sijillin 'adhaban tawashalat [the printed verb is retained; its relation to the phrase is uncertain]*
+
+**[Terjemahan Indonesia]**
+
+Wahai Raja Api, utuslah para penguasanya.
+
+Disertai wail dan sijil, mereka pun bergegas cepat. [Susunan lafaz pada cetakan kurang jelas.]
+
+Utuslah mereka semua dengan api yang menyala dan kobaran dahsyat.
+
+Untuk membakar kedahsyatan yang telah mendurhakai Nama-Mu. [Hubungan antarkata pada cetakan kurang jelas.]
+
+Azablah seluruh jin jika mereka tidak segera bergegas.
+
+Aku telah bersegera memberikan jawaban demi perintahku.
+
+Utuslah ifrit-ifrit Jahanam beserta apinya,
+
+dengan belenggu dari sijil; azab itu pun terus berlanjut. [Lafaz “sijil” dan susunannya meragukan.]
+
+**[Syarah]**
+
+> (528) «ملك النيران» mempersonifikasikan penguasa api; penyair meminta agar para penguasa yang berada di bawahnya diutus.
+>
+> (529) «ويل» dan «سجل» terbaca demikian pada cetakan, tetapi kaitan keduanya dengan «تسارعت» tidak terang; kedua lafaz dipertahankan tanpa menormalkan susunan.
+>
+> (530) «السعير» dan «اللظى» sama-sama menggambarkan nyala api yang dahsyat, sehingga larik ini memperkuat citra hukuman.
+>
+> (531) Rangkaian «لإحراق أهوال لاسمك قد عصت» sulit dipastikan susunan dan rujukannya; terjemahan mempertahankan makna sedekat mungkin tanpa membetulkan diam-diam.
+>
+> (532) Bentuk bersyarat «إن لم يسارعوا» mengancam hukuman bagi jin yang tidak segera memenuhi perintah dalam teks.
+>
+> (533) «لأمري» menyatakan tujuan, sementara «أسرعتُ» dibaca sebagai pengakuan orang pertama bahwa pemohon sendiri telah bersegera.
+>
+> (534) «عفاريت الجحيم» berarti ifrit-ifrit dari Jahanam; api Jahanam dipersonifikasikan sebagai sesuatu yang dapat diutus.
+>
+> (535) «سجل» dapat dibaca sebagai kata atau nama tertentu; hubungan frasa dengan «عذابًا تواصلت» tidak pasti.
+
+## Halaman PDF 76 (= cetak 75)
+
+### Bagian 1 — Sambungan nazham: rantai dan api Jahanam (larik 536–547)
+
+**[Teks Arab Asli]**
+
+<div dir="rtl">
+
+سَلَاسِلَ أَغْلَالٍ بِأَعْنَاقِ مَنْ عَصَى
+
+إِجَابَةَ أَسْمَاءِ الْإِلَهِ تَسَلْسَلَتْ [الصياغة كما في المطبوع؛ العلاقة بين «إجابة» و«تسلسلت» غير مستقرة]
+
+زَبَانِيَةَ التَّعْذِيبِ بِاللَّهِ أَسْرِعُوا
+
+بِإِحْرَاقٍ تَعْذِيبٍ لِقَوْمٍ تَجَبَّرَتْ
+
+خُذُوهُمْ فَغُلُّوهُمْ بِأَغْلَالِ مَالِكٍ
+
+وَفِي النَّارِ صَلُّوهُمْ جَمِيعًا تَسَعَّرَتْ
+
+جَهَنَّمَ بِصَلْوِهَا دَوَامًا بِجَمْعِهِمْ
+
+سَعِيرًا وَأَغْلَالًا بِهَا الْكُلُّ عُذِّبَتْ
+
+وَتَجْمَعُهُمْ أَعْوَانُ نِيرَانِ مَالِكٍ
+
+فَذُوقُوا لِبَاسَ الْجَحِيمِ بِمَا حَوَتْ
+
+أَحَاطَتْ بِهِمْ نَارُ الْجَحِيمِ بِحَرِّهَا
+
+وَأَمْلَاكُهَا بِالْحَرْقِ جَمْعًا تَوَكَّلْتُ [قراءة «تَوَكَّلْتُ» محفوظة حسب الرسم؛ تركيب الجملة غير مألوف]
+
+</div>
+
+**[Transliterasi Latin Fonetik]**
+
+*Salasila aghlalin bi-a'naqi man 'asa*
+
+*Ijabata asma'i al-ilahi tasalsalat [the printed form is retained; its syntax is uncertain]*
+
+*Zabaniyata at-ta'dhibi billahi asri'u*
+
+*Bi-ihraqin ta'dhibin liqawmin tajabbarat*
+
+*Khudhuhum fa-ghulluhum bi-aghlali Malikin*
+
+*Wa fin-nari shalluhum jami'an tasa'arat*
+
+*Jahannama bi-salwiha dawaman bijam'ihim*
+
+*Sa'iran wa-aghlalan biha al-kullu 'udzdzibat*
+
+*Wa-tajma'uhum a'wanu nirani Malikin*
+
+*Fa-dzuqu libasa al-jahimi bima hawat*
+
+*Ahatat bihim narul-jahimi biharriha*
+
+*Wa-amlakuha bil-harqi jami'an tawakkaltu [the printed form is retained; the sentence structure is unclear]*
+
+**[Terjemahan Indonesia]**
+
+Rantai-rantai dan belenggu pada leher siapa pun yang durhaka.
+
+Jawaban terhadap seruan nama-nama Ilahi pun berantai. [Susunan lafaz pada cetakan kurang jelas.]
+
+Wahai Zabaniyah penyiksa, demi Allah, segeralah!
+
+Dengan pembakaran dan siksaan bagi kaum yang bertindak sewenang-wenang.
+
+Tangkap mereka, lalu belenggulah dengan rantai-rantai Mālik.
+
+Campakkan mereka semua ke dalam api yang menyala-nyala.
+
+Jahanam dengan kobaran apinya akan terus menghimpun mereka.
+
+Dengan api yang menyala dan belenggu, semuanya disiksa di dalamnya.
+
+Para pembantu api Mālik mengumpulkan mereka,
+
+lalu rasakanlah pakaian Jahanam dan segala yang dikandungnya.
+
+Api Jahanam mengepung mereka dengan panasnya.
+
+Dan para malaikatnya, dengan pembakaran secara bersama—aku bertawakal. [Susunan lafaz penutup meragukan.]
+
+**[Syarah]**
+
+> (536) «سلاسل» dan «أغلال» sama-sama menunjuk rantai atau belenggu; keduanya dipasang pada leher orang yang durhaka.
+>
+> (537) «تسلسلت» menggambarkan sesuatu yang tersambung beruntun, tetapi kaitannya dengan «إجابة أسماء الإله» tidak jelas dalam cetakan.
+>
+> (538) «الزبانية» dikenal sebagai para penjaga atau pelaksana azab Jahanam; di sini mereka diseru agar segera bertindak.
+>
+> (539) Larik ini menyandingkan pembakaran dan penyiksaan terhadap kaum yang digambarkan melampaui batas; susunannya padat.
+>
+> (540) «مالك» dipertahankan sebagai nama Mālik, yang dalam tradisi Islam dikenal sebagai penjaga neraka.
+>
+> (541) «صلّوهم» merupakan perintah untuk memasukkan atau memanggang mereka dalam api; «تسعرت» menggambarkan nyala yang berkobar.
+>
+> (542) Jahanam dan kobaran apinya digambarkan terus-menerus menghimpun para sasaran hukuman.
+>
+> (543) «سعير» berarti api yang menyala-nyala; rantai dan api menjadi dua gambaran hukuman dalam larik ini.
+>
+> (544) «أعوان نيران مالك» menggambarkan para pembantu atau pelaksana yang mengumpulkan mereka.
+>
+> (545) «لباس الجحيم» adalah gambaran puitis tentang balasan yang meliputi para sasaran, disertai seluruh isi Jahanam.
+>
+> (546) Api digambarkan mengepung mereka dari segala sisi dengan panasnya.
+>
+> (547) Bentuk «توكّلتُ» dibaca sebagai orang pertama («aku bertawakal/bersandar»). Hubungannya dengan «أملاكها بالحرق جمعًا» tidak jelas; terjemahan mempertahankan ketidakpastian tersebut.
+
+---
+
+# BATCH 20 — Halaman PDF 76–77
+
+## Halaman PDF 76 (= cetak 75)
+
+### Bagian 1 — Sambungan nazham: pertolongan, janji, dan pembalasan (larik 548–552)
+
+**[Teks Arab Asli]**
+
+<div dir="rtl">
+
+وَإِنْ يَسْتَغِيثُوا لَنْ يُغَاثُوا وَيُحْرَقُوا
+
+بِمَاءٍ كَالْمُهْلِ بِالْحَمِيمِ نَاحِمِينَ [المطبوع: «ناحمين»؛ الضبط الاحتمالي «نَاحِمِينَ» ولا أجزم بتبديل الحروف؛ السياق وصلاً: عذاب الحميم بين «يستغيثوا... ويحرقوا» و«فلا تحسبن الله مخلف وعده»؛ النحو: حالٌ منصوبٌ محتملٌ من ضمير الجمع في «يستغيثوا/يحرقوا»؛ التجويد: الحاء مهموسة، ولا قاف ساكنة أو نون مشددة في اللفظ.]
+
+فَلَا تَحْسَبَنَّ اللَّهَ مُخْلِفَ وَعْدِهِ
+
+إِلَهٌ عَزِيزٌ ذُو انْتِقَامٍ تَسَارَعَتْ [المطبوع: «تسارعت» بلا ضبط؛ الضبط المبدئي «تَسَارَعَتْ» فعل ماضٍ مؤنث، وفاعله غير ظاهر في البيت؛ السياق وصلاً: وصف الإله بالعزة والانتقام بين «فلا تحسبن الله مخلف وعده» و«ترى المجرمين»؛ لا أبدل اللفظ لغياب شاهد قاطع؛ التجويد: لا قاف ساكنة ولا نون مشددة في الكلمة.]
+
+تَرَى الْمُجْرِمِينَ الْجَاحِدِينَ كِتَابَهُ
+
+</div>
+
+**[Transliterasi Latin Fonetik]**
+
+*Wa-in yastaghithu lan yughathu wa-yuhraqu*
+
+*Bi-ma'in kal-muhli bil-hamimi nahimina [al-matbu': nahimin; dabt ihtimali nahimina, without claiming a definite emendation; wasl: context is 'adhab al-hamim; nahw: probable hal mansub referring to the plural pronoun; tajwid: ha' is a hams consonant; no sakin qaf or doubled nun here.]*
+
+*Fa-la tahsabanna Allaha mukhlifa wa'dihi*
+
+*Ilahun 'azizun dhu intiqamin tasara'at [al-matbu': tasara'at unvowelled; tentative dabt: tasara'at; wasl: divine might and retribution followed by the sinners; nahw: feminine perfect verb with no explicit subject; tajwid: no sakin qaf or doubled nun in this word.]*
+
+*Tara al-mujrimina al-jahidina kitabahu*
+
+**[Terjemahan Indonesia]**
+
+Jika mereka memohon pertolongan, mereka tidak akan ditolong dan akan dibakar.
+
+Dengan air seperti logam cair, bersama air mendidih, sambil merintih (terjemahan tentatif). [Cetakan: «ناحمين»; harakat «نَاحِمِينَ» bersifat sementara, tanpa penggantian huruf yang belum terbukti.]
+
+Jangan sekali-kali mengira Allah akan mengingkari janji-Nya.
+
+Dia Tuhan Yang Mahaperkasa, Pemilik pembalasan; kata penutup tercetak «تسارعت» dan dibaca sementara «تَسَارَعَتْ» [subjek feminin tidak tampak jelas dalam bait; karena itu dipertahankan tanpa emendasi].
+
+Engkau akan melihat para pendosa yang mengingkari Kitab-Nya.
+
+**[Syarah]**
+
+> (548) «يستغيثوا» berarti memohon pertolongan. Larik ini menyatakan bahwa permohonan itu tidak mendatangkan pertolongan dan diikuti gambaran pembakaran.
+>
+> (549) «المهل» menggambarkan cairan sangat panas; konteks sambung tiga bait sebelum dan sesudah tetap tentang azab, air mendidih, Sa'ir, dan para pendosa. «ناحمين» pada cetakan dibaca sementara «نَاحِمِينَ», kemungkinan حالٌ منصوبٌ bagi para pendosa, tetapi makna leksikalnya belum cukup pasti sehingga hurufnya tidak dikoreksi. Tajwid pada lafaz ini: حاء adalah huruf hams; tidak ada قاف ساكنة atau نون مشددة.
+>
+> (550) Larik ini menggemakan peringatan agar janji Allah tidak dianggap akan diingkari.
+>
+> (551) «عزيز ذو انتقام» melanjutkan tema janji dan pembalasan, lalu bait berikut menyebut para pendosa. رسم «تسارعت» hanya memungkinkan ضبط sementara «تَسَارَعَتْ»; sebagai fi'il madhi mu'annats, fa'ilnya tidak dinyatakan terang, sehingga saya tidak menebak subjek atau mengganti kata. Tidak ada قاف ساكنة atau نون مشددة pada kata itu.
+>
+> (552) «الجاحدين كتابه» menggambarkan para pendosa sebagai orang yang mengingkari Kitab-Nya; kalimat menyambung gambaran pembalasan pada larik sebelumnya.
+
+## Halaman PDF 77 (= cetak 76)
+
+### Bagian 1 — Sambungan nazham: pakaian api dan guncangan alam (larik 553–567)
+
+**[Teks Arab Asli]**
+
+<div dir="rtl">
+
+سَرَابِيلُ قَطِرَانٍ بِهَا الْكُلُّ سُرْبِلَتْ
+
+بِنَارٍ وَتَغْشَى النَّارُ مِنْهُمْ وُجُوهَهُمْ
+
+عَذَابًا تَجْزِي كُلُّ نَفْسٍ بِمَا كَسَبَتْ [المطبوع: «بنت»؛ القراءة المقترحة سياقاً «كَسَبَتْ» لموافقة «كُلُّ نَفْسٍ بِمَا كَسَبَتْ» في المدثر 74:38؛ النحو: «كل نفس» فاعل «تجزي»، وتاء «كَسَبَتْ» للتأنيث وفاعلها ضمير مستتر يعود إلى «نفس»؛ «بنت» ممكنة صرفياً فلا يحسم النحو وحده التصحيح؛ الوصل: يتصل بوصف سرابيل القطران ثم السعير واللظى؛ التجويد: تنوين «نفسٍ» قبل باء «بما» إقلاب بغنة، ولا قلقلة في «كسبت».]
+
+وَيُؤْتَى بِنِيرَانِ السَّعِيرِ وَبِاللَّظَى
+
+وَغُلٌّ وَأَصْفَادٌ بِهَا الْكُلُّ صُفِّدَتْ
+
+فَهَذَا بَلَاغٌ لِلْفَصَاحَةِ لِيُنْذَرُوا [المطبوع: «للفصاحة»؛ أُثبت كما هو لعدم شاهد قطعي على بديل؛ السياق وصلاً: تقرير البلاغ والإنذار بعد وصف العذاب؛ النحو: «هذا» مبتدأ و«بلاغٌ» خبره، و«لِيُنذَروا» لام التعليل وفعل مضارع مبني للمجهول منصوب بحذف النون، والواو نائب فاعل؛ التجويد: نون ساكنة قبل الذال إخفاء حقيقي بغنة.]
+
+وَزَجْرٌ وَإِحْرَاقٌ بِهِ الْجِنَّ أَحْرَقْتُ [المطبوع: «أحرقت» بلا تشكيل؛ القراءة النحوية «أَحْرَقْتُ» فعل ماضٍ معلوم للمتكلم؛ «الجنَّ» مفعول به مقدّم، والفاعل ضمير «أنا»؛ السياق وصلاً: الزجر والإحراق يعقبهما صياح جحيم النار؛ التجويد: القاف الساكنة في «أحرقتُ» قلقلة صغرى، والنون المشددة في «الجنّ» غنة.]
+
+صَاحَتْ جَحِيمُ النَّارِ فِي الْكَوْنِ صَيْحَةً
+
+فَمِنْهَا جَمِيعُ الْأَرْضِ بِالْكَوْنِ صُعِقَتْ
+
+وَدُكَّتْ جِبَالُ الْأَرْضِ دَكًّا بِقُوَّةٍ
+
+وَكُلُّ الْعُصَاةِ الشَّامِخِينَ تَصَاغَرَتْ
+
+وَمَاجَتْ جَمِيعُ الْجِنِّ شَرْقًا وَمَغْرِبًا
+
+وَبِالطَّاعَةِ الْعُظْمَى لِأَمْرِي تَمَهَّدَتْ [المطبوع: «تمهدت» بلا ضبط؛ الضبط المبدئي «تَمَهَّدَتْ» بصيغة الفاعل، ولا أجزم بالمراد؛ السياق وصلاً: بعد موج الجن شرقاً وغرباً وقبل دعاء القهر؛ النحو: فعل ماضٍ مؤنث، وفاعله غير مصرّح به، فلا أجعل الاسم المجرور بالباء فاعلاً مباشراً؛ التجويد: الهاء في «تمهّدت» مهموسة، والطاء في «الطاعة» حرف شمسي تُدغم فيه لام التعريف.]
+
+وَيَا رَبِّ يَا جَبَّارُ أَسْرِعْ بِقَهْرِهِمْ
+
+وَزَلَازِلَ عُصَاةِ الْجِنِّ قَهْرًا أَنْزَلْتُ [المطبوع: «أنزلت» بلا ضبط؛ القراءة الأرجح هنا «أَنْزَلْتُ» معلوم المتكلم، و«زلازلَ» مفعول به مقدّم؛ أما «أُنْزِلَتْ» مبني للمجهول فيقتضي «زلازلُ» نائب فاعل؛ السياق وصلاً: طلب قهر عصاة الجن ثم الانتقال إلى «والصافات»؛ التجويد: نون ساكنة قبل الزاي في «أنزلتُ» إخفاء بغنة، وتنوين «قهراً» قبل الهمزة إظهار حلقي، ونون «الجنّ» مشددة بغنة.]
+
+</div>
+
+**[Transliterasi Latin Fonetik]**
+
+*Sarabilu qitranin biha al-kullu surbilat*
+
+*Bi-narin wa-taghsha an-naru minhum wujuhahum*
+
+*'Adhaban tajzi kullu nafsin bima kasabat [al-matbu': banat; al-qira'ah al-muqtarahah: kasabat, per parallel Qur'anic al-Muddaththir 74:38; kullu nafsin fa'il tajzi, feminine pronoun in kasabat refers to nafs; tajwid: tanwin nafsin before ba is iqlab with ghunnah.]*
+
+*Wa-yu'ta bi-nirani as-sa'iri wa-bil-lazha*
+
+*Wa-ghullun wa-asfadun biha al-kullu suffidat*
+
+*Fa-hadha balaghun lil-fasahati liyundharu [al-matbu': lil-fasahati; kept without emendation absent decisive witness; wasl: balagh and warning after punishment; nahw: hadha mubtada', balagh khabar, li-yundharu passive subjunctive, waw na'ib fa'il; tajwid: nun sakinah before dhal is ikhfa haqiqi with ghunnah.]*
+
+*Wa-zajrun wa-ihraqun bihi al-jinna ahraqtu [al-matbu': ahrqt without vowels; read ahraqtu (active first-person); al-jinna is fronted object; tajwid: qalqalah sughra on sakin qaf, ghunnah on mushaddad nun in al-jinn.]*
+
+*Sahat jahimu an-nari fil-kawni sayhatan*
+
+*Fa-minha jami'ul-ardi bil-kawni shu'iqat*
+
+*Wa-dukkat jibalu al-ardi dakkan bi-quwwatin*
+
+*Wa-kullu al-'ushati asy-syamikhina tasagharat*
+
+*Wa-majat jami'ul-jinni sharqan wa-maghriban*
+
+*Wa-bith-tha'ati al-'uzhma li-amri tamahhadat [al-matbu': tamahhadat without vowels; tentative active feminine past, explicit subject absent; wasl: after jinn's movement and before request for their subjugation; nahw: feminine past verb, subject not explicit; tajwid: hā' is hams, ṭā' is a solar letter.]*
+
+*Wa-ya rabbi ya jabbaru asri' bi-qahrihim*
+
+*Wa-zalazila 'ushati al-jinni qahran anzaltu [al-matbu': anzalt without vowels; preferred active anzaltu with zalazila as fronted object; passive unzilat would require nominative zalazilu; tajwid: ikhfa before zay, izhar of tanwin before hamza, ghunnah on mushaddad nun in al-jinn.]*
+
+**[Terjemahan Indonesia]**
+
+Jubah-jubah dari ter; dengannya semua orang dibalut.
+
+Dengan api, dan api menutupi wajah-wajah mereka.
+
+Sebagai balasan, setiap jiwa menerima sesuai dengan amal yang diusahakannya. [Cetakan terbaca «بنت»; dibaca usulan «كَسَبَتْ» karena konteks dan padanan al-Muddaththir 74:38, bukan karena «بنت» mustahil secara nahwu.]
+
+Didatangkanlah nyala-nyala api Sa'ir dan kobaran dahsyat.
+
+Belenggu dan rantai-rantai; dengannya semua orang dibelenggu.
+
+Inilah penyampaian yang fasih agar mereka diberi peringatan. [Kata cetak «للفصاحة» dipertahankan karena belum ada bukti yang cukup untuk menggantinya; konteks lanjutan menegaskan tujuan peringatan.]
+
+Dengan teguran dan pembakaran itu, aku membakar para jin. [Kata cetak «أحرقت» dibaca «أَحْرَقْتُ»; «الجنَّ» objek yang didahulukan, subjeknya «aku».]
+
+Api Jahanam menjeritkan pekik di seluruh alam.
+
+Maka karenanya, seluruh bumi di alam semesta tersambar.
+
+Gunung-gunung di bumi dihancurkan sehancur-hancurnya dengan kekuatan.
+
+Semua pendurhaka yang angkuh pun menjadi hina.
+
+Seluruh jin bergelora ke timur dan barat.
+
+Dengan ketaatan yang agung, [jalan/perkara] bagi perintahku menjadi siap (makna sementara). [Cetakan «تمهدت» dibaca sementara «تَمَهَّدَتْ»; subjek tidak tampak jelas dan tidak saya tambahkan ke teks.]
+
+Wahai Tuhanku, wahai Yang Mahaperkasa, segerakanlah penundukan mereka.
+
+Dan gempa-gempa untuk para jin durhaka kuturunkan dengan paksa. [Cetakan «أنزلت» tanpa harakat; dibaca usulan «أَنْزَلْتُ» sebagai verba aktif orang pertama, dengan «زلازلَ» sebagai objek yang didahulukan.]
+
+**[Syarah]**
+
+> (553) «سرابيل قطران» menggambarkan pakaian dari ter yang dikenakan kepada semua sasaran; citra ini menegaskan panas dan kehinaan hukuman.
+>
+> (554) Api dan kobaran yang menyelubungi wajah melanjutkan gambaran siksa pada larik sebelumnya.
+>
+> (555) Full-page PDF 77 memperlihatkan «بنت». Saya usulkan «كَسَبَتْ» karena rangkaian ayat tentang pakaian ter, api, Sa'ir dan balasan menggemakan «كُلُّ نَفْسٍ بِمَا كَسَبَتْ» (al-Muddaththir 74:38). Nahwu: «كل نفس» ialah fa'il bagi «تجزي»; pada «كَسَبَتْ», dhamir mu'annats tersembunyi kembali kepada «نفس». Namun «بَنَتْ» juga bentuk fi'il mu'annats yang mungkin secara tata bahasa, maka dasar koreksi ialah konteks/parallel ayat, bukan aturan kesesuaian gender semata. Tajwid: tanwin «نفسٍ» sebelum ba dalam «بما» dibaca iqlab dengan ghunnah; bukan ghunnah khusus karena frasa «وما» saja.
+>
+> (556) «السعير» dan «اللظى» sama-sama merujuk pada api yang menyala-nyala.
+>
+> (557) «غُلّ» berarti belenggu, sedangkan «أصفاد» adalah rantai atau pengikat; keduanya membelenggu seluruh sasaran dalam gambaran teks.
+>
+> (558) Pada halaman penuh terbaca «للفصاحة»; tidak saya ganti diam-diam menjadi kata lain. Washal menghubungkan berita azab dengan tujuan memberi peringatan. Nahwu: «هذا» mubtada dan «بلاغٌ» khabar; «لِيُنذَروا» lam ta'lil + mudhari' majhul mansub dengan hazf nun, sementara waw menjadi na'ib fa'il. Tajwid: nun sakinah sebelum dzal pada «يُنذَروا» ialah ikhfa haqiqi dengan ghunnah.
+>
+> (559) Saya membaca «أَحْرَقْتُ» sebagai fi'il ma'lum orang pertama; «الجنَّ» maf'ul bih yang didahulukan, pelakunya dhamir «أنا». Washal ke larik selanjutnya membawa gambaran kepekikan api. Tajwid: qaf sukun dalam «أحرقتُ» mendapat qalqalah sughra, dan nun mushaddadah pada «الجنّ» dibaca ghunnah.
+>
+> (560) Api Jahanam dipersonifikasikan sebagai suara keras yang menggema di alam semesta.
+>
+> (561) «فمنها» menghubungkan guncangan bumi dengan pekik api pada larik sebelumnya; makna tepat «صعقت» bergantung pada konteks tersebut.
+>
+> (562) «دكّت» berarti dihancurkan atau diratakan; gunung-gunung menjadi lambang guncangan kosmis.
+>
+> (563) «العصاة الشامخين» menunjuk para pendurhaka yang angkuh; «تصاغرت» menyatakan mereka direndahkan, dengan susunan yang ringkas.
+>
+> (564) Gerak seluruh jin ke timur dan barat memperluas gambaran kekacauan ke segala penjuru.
+>
+> (565) Halaman penuh menampilkan «تمهدت» tanpa harakat; saya beri ضبط sementara «تَمَهَّدَتْ» (ma'lum, lampau feminin), tetapi fa'ilnya tidak disebut jelas. Dalam susunan «بالطاعة العظمى لأمري», «الطاعة» majrur oleh باء, jadi tidak saya sebut fa'il langsung. Washal: sebelum bait ini jin bergerak ke timur/barat, sesudahnya dimohonkan qahr. Tajwid: هاء pada «تمهّدت» memiliki hams; طاء pada «الطاعة» huruf syamsiyah.
+>
+> (566) Seruan «يا رب يا جبار» memohon agar penundukan mereka disegerakan.
+>
+> (567) Pada cetakan hanya tertulis «أنزلت». Saya pilih «أَنْزَلْتُ» (aktif, pelaku orang pertama) karena «زلازلَ» dapat dianalisis sebagai maf'ul bih yang didahulukan; bacaan pasif «أُنْزِلَتْ» mengharuskan «زلازلُ» sebagai na'ib fa'il. Washal: bait ini menyusul doa «أسرع بقهرهم» dan beralih sesudahnya ke seruan «بالصافات». Tajwid: nun sukun sebelum zay pada «أنزلتُ» ikhfa dengan ghunnah; tanwin pada «قهراً» sebelum hamzah izhar halqi; nun mushaddadah pada «الجنّ» ghunnah.
+
+---
+
+# BATCH 21 — Halaman PDF 77–79
+
+## Halaman PDF 77 (= cetak 76)
+
+### Bagian 1 — Sambungan nazham: seruan dan pengerahan (larik 568–569)
+
+**[Teks Arab Asli]**
+
+<div dir="rtl">
+
+وَيَا رَبِّ بِالصَّافَّاتِ صَفًّا بِسِرِّهَا
+
+وَبِالزَّاجِرَاتِ السَّحَرَاتِ لِمَنْ عَصَتْ [الرسم «السحرات» كما في المطبوع؛ لا يُستبدل بلفظ مألوف لعدم وضوح القراءة]
+
+</div>
+
+**[Transliterasi Latin Fonetik]**
+
+*Wa-ya rabbi bis-saffati saffan bisirriha*
+
+*Wa-biz-zajirati as-saharat liman 'asat [the printed noun “as-saharat” is retained; its sense is uncertain]*
+
+**[Terjemahan Indonesia]**
+
+Wahai Tuhanku, demi para makhluk yang berbaris rapat, demi baris dan rahasianya.
+
+Demi para penghalau dan para «saharat», bagi siapa pun yang durhaka. [Bentuk «السحرات» dipertahankan sebagaimana terbaca.]
+
+**[Syarah]**
+
+> (568) «الصافات صفًّا» menggambarkan barisan yang tersusun; hubungan «بسرها» dengan barisan tersebut tidak dijelaskan lebih lanjut dalam teks.
+>
+> (569) «الزاجرات» berarti para penghalau atau penahan. Kata berikutnya terbaca «السحرات»; ejaan cetaknya dipertahankan karena tidak ada dasar yang cukup untuk menormalkannya menjadi kata lain.
+
+## Halaman PDF 78 (= cetak 77)
+
+### Bagian 1 — Sambungan nazham: seruan, cahaya, dan penundukan (larik 570–586)
+
+**[Teks Arab Asli]**
+
+<div dir="rtl">
+
+وَبِالْغَايَاتِ الذِّكْرِ رَبِّي بِجَاهِهَا [ترتيب «الغايات الذكر ربي بجاهها» كما في المطبوع؛ العلاقة النحوية بين الكلمات غير واضحة]
+
+وَبِالْمُرْسَلَاتِ الْعَاصِفَاتِ وَمَا حَوَتْ
+
+وَبِالنَّاشِرَاتِ الْفَارِقَاتِ بِجَنْبِهَا
+
+وَبِالرُّسُلِ وَالْأَحْزَابِ حِزْبِي تَحَرَّرَتْ [«تحررت» مطبوعة بهذه الصيغة؛ فاعلها وعلاقتها بـ«حزبي» غير محسومين]
+
+وَبِالنُّورِ وَالْأَنْوَارِ أَحْرِقْ مَعَانِي [«أحرق معاني» مطابق للمطبوع؛ المفعول المراد غير واضح]
+
+وَبِالْمَلِكِ وَالْفُرْقَانِ مُلْكِي تَكَوَّنَتْ [«ملكي تكونت» محفوظة كما في المطبوع؛ المطابقة بين الاسم والفعل غير مألوفة]
+
+وَبِالْأَمْلَاكِ أَظْهِرْ مَنْ عَصَى
+
+وَبِالسَّيْفِ وَالْأَجْنَادِ أَقْتُلُ مَنْ بَغَتْ
+
+سَأَلْتُكَ يَا قَهَّارُ لِمَنْ طَغَى
+
+وَبَطْشًا بِأَعْدَائِي سَرِيعًا إِذَا اعْتَدَتْ [«اعتدت» كما طُبعت؛ الفاعل الذي يعود إليه الفعل غير مذكور]
+
+وَخَيْلَ قُلُوبِ الْمُعَانِدِينَ بِجَمْعِهِمْ [تركيب «خيل قلوب المعاندين بجمعهم» مطابق للمطبوع؛ وجه الإضافة والربط غير واضح]
+
+وَأَسْرِعْ بِنَصْرِ الْبَاغِضِينَ وَمَنْ بَغَتْ [«الباغضين» و«من بغت» كما في الطباعة؛ مرجع «من» غير واضح]
+
+سَمِيعٌ سَرِيعُ الْإِجَابَةِ سَيِّدِي
+
+بِحَقٍّ لِيَأْخُذَهُمْ بِهِ الظُّلْمَةُ انْجَلَتْ [تركيب «ليأخذهم به الظلمة انجلت» كما في الطباعة؛ العلاقة بين الجمل غير واضحة]
+
+بِجَاهِ اللَّوْحِ جَلَبْتُ مَقَاصِدِي
+
+بِحَقِّ يَا نُورُ عَلَى الْفَوْرِ عَجَّلْتُ [ضبط «عجلت» غير محسوم؛ تُحفظ الحروف واللفظ كما في المطبوع]
+
+بِاسْمِ لِيَارُوشٍ بِسَطْوَةِ قَهْرِهِ [اسم «لياروش» و«بسطوة قهره» محفوظان كما في الطباعة؛ المعنى الكلي غير محسوم]
+
+</div>
+
+**[Transliterasi Latin Fonetik]**
+
+*Wa-bil-ghayati adh-dhikri rabbi bijahiha [the printed word order is retained; the grammatical relation is unclear]*
+
+*Wa-bil-mursalati al-'asifati wa-ma hawat*
+
+*Wa-bin-nashirati al-fariqati bijanbiha*
+
+*Wa-bir-rusuli wal-ahzabi hizbi taharrarat [the printed verb is retained; its subject and relation to “hizbi” are uncertain]*
+
+*Wa-bin-nuri wal-anwari ahriq ma'ani [the printed phrase is retained; the intended object is unclear]*
+
+*Wa-bil-maliki wal-furqani mulki takawwanat [the printed phrase is retained; agreement is unusual]*
+
+*Wa-bil-amlaki azhir man 'asa*
+
+*Wa-bis-saifi wal-ajnadi aqtulu man baghat*
+
+*Sa'altuka ya Qahharu liman tagha*
+
+*Wa-batshan bi-a'da'i sari'an idha i'tadat [the printed verb is retained; its subject is unstated]*
+
+*Wa-khayla qulubil-mu'anidina bijam'ihim [the printed construction is retained; its attachment is unclear]*
+
+*Wa-asri' bi-nasril-baghidhina wa-man baghat [the printed wording is retained; the referent of “man” is unclear]*
+
+*Sami'un sari'u al-ijabati sayyidi*
+
+*Bi-haqqi li-ya'khudhahum bihi azh-zhulmatu injalat [the printed syntax is retained; the clause relation is unclear]*
+
+*Bi-jahi al-lawhi jalabtu maqasidi*
+
+*Bi-haqqi ya nuru 'ala al-fawri 'ajjalta [the printed verb is retained; its vocalization is uncertain]*
+
+*Bi-ismi Liyarushi bisatwati qahrihi [the name and phrase follow the print; the full sense is uncertain]*
+
+**[Terjemahan Indonesia]**
+
+Demi al-ghāyāt, zikir Tuhanku, dan kemuliaannya. [Susunan lafaz pada cetakan kurang jelas.]
+
+Demi para utusan yang menerjang, serta segala yang dikandungnya.
+
+Demi para penebar dan para pemisah, beserta apa yang menyertainya.
+
+Demi para rasul dan kelompok-kelompok; kelompokku pun terbebaskan. [Susunan penutup kurang jelas.]
+
+Demi cahaya dan segala cahaya; bakarlah makna-makna. [Hubungan antarkata meragukan.]
+
+Demi Sang Raja dan Pembeda; kerajaanku pun terbentuk. [Susunan pada cetakan janggal.]
+
+Dengan para malaikat, tampakkanlah siapa yang durhaka.
+
+Dengan pedang dan pasukan, aku membunuh siapa pun yang memberontak.
+
+Aku memohon kepada-Mu, wahai Yang Maha Menundukkan, atas siapa pun yang melampaui batas.
+
+Dengan hantaman terhadap musuh-musuhku, segeralah ketika mereka melampaui batas. [Lafaz akhir terbaca demikian, tetapi rujukannya tidak jelas.]
+
+Dan pasukan «khayl» menuju hati para penentang beserta kumpulan mereka. [Susunan lafaz kurang jelas.]
+
+Bersegeralah menolong pihak yang membenci dan siapa pun yang memberontak. [Kata «الباغضين» dipertahankan; maksud pihak yang dibenci atau membenci tidak pasti.]
+
+Wahai Yang Maha Mendengar, Yang cepat mengabulkan, Tuhanku.
+
+Demi kebenaran, agar mereka diambil dengannya, kegelapan pun tersingkap. [Susunan pada cetakan meragukan.]
+
+Dengan kemuliaan Lauh, kudatangkan tujuan-tujuanku.
+
+Demi kebenaran, wahai Cahaya, aku menyegerakan perkara itu seketika. [Vokalisasi kata akhir tidak pasti.]
+
+Dengan nama Liyārūsh, dengan kekuatan penaklukan-Nya. [Nama ini dipertahankan sebagaimana tercetak.]
+
+**[Syarah]**
+
+> (570) «الغايات» terbaca demikian, tetapi hubungan kata tersebut dengan «الذكر ربي بجاهها» tidak terang; susunan kata dipertahankan sesuai cetakan tanpa normalisasi nahwu berdasarkan tebakan.
+>
+> (571) «المرسلات» dan «العاصفات» membentuk citra para utusan dan kekuatan yang menerjang; «وما حوت» memperluas cakupan gambaran.
+>
+> (572) «الناشرات» dan «الفارقات» berarti para penebar dan pemisah; rujukan pronomina pada «بجنبها» tidak jelas.
+>
+> (573) Larik menggabungkan para rasul, kelompok-kelompok, dan «حزبي» (“kelompokku”), tetapi bentuk «تحررت» membuat hubungan gramatikalnya tidak pasti.
+>
+> (574) «أحرق معاني» terbaca demikian pada cetakan, namun siapa yang membakar dan apa yang dimaksud dengan “makna-makna” tidak jelas.
+>
+> (575) «الملك والفرقان» dapat dibaca sebagai “Sang Raja dan Pembeda”; frasa «ملكي تكونت» dipertahankan walau susunannya janggal.
+>
+> (576) «الأملاك» berarti para malaikat; teks memohon agar orang yang durhaka ditampakkan.
+>
+> (577) Pedang dan pasukan menjadi gambaran pengerahan kekuatan terhadap pihak yang memberontak.
+>
+> (578) «القَهَّار» adalah seruan kepada Yang Maha Menundukkan; larik memohon tindakan terhadap orang yang melampaui batas.
+>
+> (579) «بطشًا» menunjuk hantaman atau kekerasan. Kata akhir «اعتدت» terbaca demikian, tetapi subjeknya tidak disebut dengan terang.
+>
+> (580) «خيل قلوب المعاندين بجمعهم» sangat ringkas dan dapat ditafsirkan lebih dari satu cara; kata «خيل» dipertahankan tanpa pembetulan.
+>
+> (581) «الباغضين» terbaca demikian, tetapi hubungan maknanya dengan «ومن بغت» tidak sepenuhnya jelas.
+>
+> (582) «سميع سريع الإجابة» memuji pendengar yang cepat menjawab permohonan.
+>
+> (583) Frasa «بحق ليأخذهم به الظلمة انجلت» sulit dipastikan susunannya; terjemahan mempertahankan urutan dan menandai ketidakpastian.
+>
+> (584) «اللوح» berarti papan atau Lauh; teks mengaitkannya dengan pencapaian maksud-maksud pemohon.
+>
+> (585) «يا نور» adalah seruan “wahai Cahaya”; bentuk «عجلت» tidak diberi harakat pada cetakan dan dapat dibaca lebih dari satu cara.
+>
+> (586) «لياروش» tampak sebagai nama khusus atau lafaz invokatif; bentuk cetak dipertahankan tanpa dinormalisasi.
+
+## Halaman PDF 79 (= cetak 78)
+
+### Bagian 1 — Sambungan nazham: nama Liyārūsh dan kekuatan (larik 587)
+
+**[Teks Arab Asli]**
+
+<div dir="rtl">
+
+بِسُورِ لِيَارُوشٍ بِشِدَّةِ بَطْشِهِ [لفظ «سور» مطابق للمطبوع؛ دلالته في التركيب غير مؤكدة]
+
+</div>
+
+**[Transliterasi Latin Fonetik]**
+
+*Bi-suri Liyarushi bi-shiddati batshihi [the printed word “sur” is retained; its sense in context is uncertain]*
+
+**[Terjemahan Indonesia]**
+
+Dengan Sūr Liyārūsh, dengan kerasnya daya gempurnya. [Lafaz «سور» dipertahankan sesuai cetakan.]
+
+**[Syarah]**
+
+> (587) «لياروش» melanjutkan nama yang muncul pada larik sebelumnya. «سور» terbaca demikian, tetapi maknanya dalam susunan ini tidak pasti; bentuk cetakan tidak diganti.
+
+---
+
+# BATCH 22 — Halaman PDF 79–80
+
+## Halaman PDF 79 (= cetak 78)
+
+### Bagian 1 — Sambungan nazham: nama dan seruan (larik 588–603)
+
+**[Teks Arab Asli]**
+
+<div dir="rtl">
+
+لِيَاشِشُ بِالِاسْمِ سَعْدِي أَقْبَلَتْ [«لياشش» اسم غير مألوف وضبطه تقريبي؛ بقية العبارة محفوظة كما في المطبوع]
+
+بِرَوَا [الكلمة التالية باهتة] بِزَهْرِهِ بِسِرِّهِ [«بزهره» و«بسره» ظاهرتان؛ الصلة بين الألفاظ غير محسومة]
+
+بِمَاءٍ كَثِيرٍ [لفظ قصير بينهما غير جلي] عِزَّةٌ عَلَتْ [تركيب السطر كما في الطباعة، واللفظ الفاصل لا يتضح]
+
+[بداية السطر باهتة] عَظِيمٌ مُعَظَّمٌ [«عظيم معظم» ظاهرتان؛ لا يُستكمل أول السطر بالتخمين]
+
+إِلَهِي بِطُورَانَ بِالِاسْمِ سَعْدِي قَدْ نَبَتْ [«طوران» و«قد نبت» قراءة تقريبية وفق الرسم؛ لا تُسوّى الصياغة دون قرينة]
+
+سَأَلْتُكَ يَا اللَّهُ سِرًّا [خاتمة قصيرة بعد «سرّاً» مطموسة] [تُحفظ العبارة الظاهرة كما في الطباعة]
+
+وَيَا [لفظ النداء غير واضح] بِالِاسْمِ عَوْنِي تَسَخَّرَتْ [«بالاسم عوني تسخرت» هي أقرب قراءة للرسم؛ لا يُفترض اسم النداء]
+
+وَيَا [لفظ النداء باهت] عَزْمِي قَوِيٌّ [خاتمة قصيرة غير مقروءة] [«عزمي قوي» محفوظة؛ موضعا الاسم والخاتمة غير واضحين]
+
+وَيَا [لفظ النداء غير جلي] [كلمة تالية مطموسة] قَدَرَتْ [نهاية الفعل تقرأ تقريبياً «قدرت»؛ يُحفظ رسمها دون إصلاح]
+
+بِعِزَّةٍ [لفظ قصير بينهما غير واضح] لَهُ الْمَجْدُ وَالسَّنَا [«له المجد والسنا» ظاهرة؛ اللفظ بعد «بعزة» باهت]
+
+وَيَا [اسم النداء غير مقروء] الْجِنَّ إِذَا عَصَتْ [«الجن إذا عصت» محفوظة كما في المطبوع؛ صدر السطر غير واضح]
+
+بِسَطْوَةٍ [اسم بعده غير جلي] قَوِيٌّ [تتمة قصيرة باهتة] [«بسطوة» و«قوي» ظاهرتان؛ لا تُستكمل الأسماء المطموسة بالتخمين]
+
+لَهُ الْمُلْكُ وَالْأَمْلَاكُ جَمْعًا تَوَاضَعَتْ
+
+وَيَا [اسم النداء غير واضح] يَا إِلَهِي بِجَاهِهِ [«يا إلهي بجاهه» ظاهرة؛ الاسم السابق غير مقروء]
+
+بِعِزٍّ [لفظ قصير بعده مطموس] بِالنَّفْخِ السَّعْدُ أَقْبَلَتْ [«بالنفخ السعد أقبلت» قراءة تقريبية؛ التركيب محفوظ كما في الطباعة]
+
+بِاسْمِ جَلِيلٍ بِزَهْوٍ لَا قَاهِرَ [«بزهو لا قاهر» كما في المطبوع؛ ترتيب العبارة غير مألوف ولا يُعاد بناؤه]
+
+</div>
+
+**[Transliterasi Latin Fonetik]**
+
+*Liyashishu bil-ismi sa'di aqbalat [the name “Liyashishu” is tentative; printed consonants are retained]*
+
+*Bi-rawa [following word unclear] bi-zahrihi bisirrihi [the printed fragments are retained; the connector is illegible]*
+
+*Bi-ma'in kathirin [short middle word unclear] 'izzatun 'alat [the visible wording is retained; the middle reading is uncertain]*
+
+*[opening word unreadable] 'azhimun mu'azzamun [the two visible epithets are retained; the line opening is obscured]*
+
+*Ilahi bi-Thuran bil-ismi sa'di qad nabat [“Thuran” and the final phrase are tentative readings of the print]*
+
+*Sa'altuka ya Allah sirran [short ending unclear] [the visible phrase is retained; final reading remains uncertain]*
+
+*Wa-ya [vocative name unreadable] bil-ismi 'awni taskharat [the visible phrase is retained; the opening name is obscured]*
+
+*Wa-ya [vocative name faint] 'azmi qawiyyun [short ending unclear] [“azmi qawiyyun” is visible; the surrounding words are uncertain]*
+
+*Wa-ya [vocative name unreadable] [following word obscured] qadarat [the printed ending resembles “qadarat”; reading is tentative]*
+
+*Bi-'izzatin [short middle word unclear] lahu al-majdu was-sana [the final phrase is visible; the middle word is obscured]*
+
+*Wa-ya [vocative name unreadable] al-jinna idza 'asat [the latter phrase is retained; opening name is obscured]*
+
+*Bi-satwatin [name-like word unclear] qawiyyun [short ending obscured] [the visible words are retained; the name fragments are uncertain]*
+
+*Lahu al-mulku wal-amlaku jam'an tawada'at*
+
+*Wa-ya [vocative name unclear] ya ilahi bijahihi [the visible invocation is retained; the opening name is unreadable]*
+
+*Bi-'izzin [short word unclear] bin-nafkhi as-sa'du aqbalat [the final words are tentative readings of the print]*
+
+*Bi-ismi Jalilin bi-zahwin la qahira [the printed wording is retained; the syntax is unusual]*
+
+**[Terjemahan Indonesia]**
+
+«Liyāshish» (bacaan tidak pasti) disebut bersama Nama dan «sa'di»; akhir larik tampak berbunyi «أقبلت». [Susunan tidak jelas.]
+
+Beberapa lafaz pada baris ini tidak cukup jelas untuk diterjemahkan dengan pasti; tampak bagian «بزهره» dan «بسره».
+
+Disebut air dalam jumlah banyak dan kemuliaan yang meningkat; bagian penghubungnya tidak jelas.
+
+Lafaz awal tidak terbaca dengan pasti; tampak kata «عظيم» dan «معظم».
+
+Seruan «إلهي» (“Tuhanku”) dan bagian «بالاسم سعدي» tampak; lafaz «بطوران» serta penutupnya meragukan.
+
+Aku memohon kepada-Mu, wahai Allah, secara rahasia; sambungan akhir tidak terbaca pasti.
+
+Nama/lafaz panggilan tidak terbaca pasti; baris menyebut «بالاسم عوني» dan «تسخرت».
+
+Lafaz panggilan dan penutup tidak jelas; bagian «عزمي قوي» tampak pada cetakan.
+
+Lafaz baris ini sebagian besar tidak terbaca pasti; kata akhir tampak seperti «قدرت».
+
+Dengan kemuliaan [lafaz tidak jelas], bagi-Nya kemegahan dan cahaya. [Susunan awal meragukan.]
+
+Wahai [lafaz tidak jelas], para jin jika mereka durhaka. [Kalimat terputus/tidak jelas pada cetakan.]
+
+Dengan kekuatan [lafaz tidak jelas], [bagian berikutnya tidak terbaca pasti].
+
+Kekuasaan adalah milik-Nya; seluruh malaikat pun tunduk bersama-sama.
+
+Wahai [lafaz tidak jelas], wahai Tuhanku, demi kemuliaan-Nya.
+
+Dengan keagungan [lafaz tidak jelas], melalui embusan keberuntungan [lafaz penutup meragukan].
+
+Dengan nama Yang Agung, dengan kebesaran; tiada penakluk. [Susunan pada cetakan janggal.]
+
+**[Syarah]**
+
+> (588) «لياشش» tampak sebagai nama/lafaz khusus; bentuk dan kaitannya dengan «بالاسم سعدي أقبلت» tidak dapat dipastikan dari cetakan.
+>
+> (589) Beberapa kata di larik ini tidak terbaca dengan cukup pasti. Fragmen «بزهره» dan «بسره» dipertahankan tanpa ditafsirkan berlebihan.
+>
+> (590) «بماء كثير» dan «عزة علت» relatif terbaca, tetapi kata penghubung di antaranya meragukan.
+>
+> (591) Hanya «عظيم معظم» yang terbaca cukup jelas; lafaz awal baris ditandai tidak terbaca.
+>
+> (592) «إلهي» dan «بالاسم سعدي» terbaca; «بطوران» serta «قد نبت» dipertahankan sebagai bacaan sementara.
+>
+> (593) Seruan kepada Allah dan kata «سرًّا» (secara rahasia) tampak, sementara bagian akhir larik tidak jelas.
+>
+> (594) «بالاسم عوني» serta «تسخرت» terbaca; nama/lafaz sebelum itu tidak dipastikan.
+>
+> (595) Fragmen «عزمي قوي» tampak; susunan selebihnya tidak cukup jelas untuk dinormalkan.
+>
+> (596) Sebagian besar larik tidak dapat dibaca dengan pasti; bentuk akhir ditandai sebagai dugaan.
+>
+> (597) «له المجد والسنا» berarti bagi-Nya kemegahan dan cahaya; bagian awal tidak jelas.
+>
+> (598) «الجن إذا عصت» menyebut jin yang durhaka; lafaz seruan sebelumnya tidak terbaca dengan pasti.
+>
+> (599) «بسطوة» terbaca sebagai ungkapan kekuatan, tetapi nama dan kelanjutan frasa tidak jelas.
+>
+> (600) «له الملك والأملاك» menyatakan kekuasaan bagi-Nya dan menyebut para malaikat; verba «تواضعت» menggambarkan ketundukan.
+>
+> (601) Bagian «يا إلهي بجاهه» merupakan seruan kepada Tuhan; lafaz yang mendahuluinya tidak jelas.
+>
+> (602) Beberapa kata pada larik ini meragukan; «السعد» dan «أقبلت» tampak pada cetakan dan dipertahankan.
+>
+> (603) «باسم جليل» berarti “dengan nama yang agung”; susunan «بزهو لا قاهر» terasa tidak lazim dan tetap disalin sesuai cetakan tanpa penataan ulang.
+
+## Halaman PDF 80 (= cetak 79)
+
+### Bagian 1 — Sambungan nazham: permohonan agar tujuan tercapai (larik 604–607)
+
+**[Teks Arab Asli]**
+
+<div dir="rtl">
+
+[صدر السطر مطموس] نَارُ الْجِنِّ تَمَرَّدَتْ [«نار الجن تمردت» أقرب قراءة للرسم؛ يبقى أول السطر غير محسوم]
+
+وَيَا [اسم النداء غير مقروء] أَسْرِعْ بِنَجْحِ مَقَاصِدِي [«بنجح مقاصدي» محفوظة حسب الطباعة رغم غرابة اللفظ]
+
+[صدر السطر باهت] فَالْمُلُوكُ تَسَارَعَتْ [«فالملوك تسارعت» ظاهرة؛ يُترك صدر السطر دون تخمين]
+
+[صدر السطر غير مقروء] يَا إِلَهِي وَالْمَالِكِي [«يا إلهي والمالكي» محفوظة وفق الرسم؛ الاسم/الصفة الأخيرة غير محسومة]
+
+</div>
+
+**[Transliterasi Latin Fonetik]**
+
+*[opening word unreadable] narul-jinni tamarradat [the visible phrase is retained; the line opening is obscured]*
+
+*Wa-ya [vocative name unreadable] asri' binajhi maqasidi [the printed phrase is retained despite unusual wording]*
+
+*[opening word unclear] fal-muluku tasara'at [the visible phrase is retained; opening reading is uncertain]*
+
+*[opening word unreadable] ya ilahi wal-maliki [the visible invocation is retained; opening is obscured]*
+
+**[Terjemahan Indonesia]**
+
+Lafaz awal tidak terbaca pasti; bagian akhir menyebut api/jin yang memberontak.
+
+Wahai [lafaz tidak jelas], percepatlah keberhasilan tujuan-tujuanku. [Bacaan «بنجح» dipertahankan meski tidak lazim.]
+
+[Lafaz awal tidak jelas]; para raja pun bersegera.
+
+[Lafaz awal tidak jelas]; tampak seruan «يا إلهي» dan penyebutan «المالكي».
+
+**[Syarah]**
+
+> (604) Bagian awal larik sulit dibaca; fragmen «نار الجن تمردت» dipertahankan secara literal tanpa menyusun ulang maknanya.
+>
+> (605) «أسرع» dan «مقاصدي» terbaca; lafaz panggilan di antaranya tidak pasti.
+>
+> (606) «فالملوك تسارعت» tampak pada cetakan; bagian awal tidak cukup jelas untuk diterjemahkan dengan aman.
+>
+> (607) «يا إلهي» dan «المالكي» terbaca, tetapi awal larik dan hubungan katanya meragukan.
+
+---
+
+# BATCH 23 — Halaman PDF 80–81
+
+## Halaman PDF 80 (= cetak 79)
+
+### Bagian 1 — Seruan nama dan permohonan (larik 608–620)
+
+**[Teks Arab Asli]**
+
+<div dir="rtl">
+
+وَيَا [لفظ طلسم يُقرأ تقريباً «ثبرات»؛ حروفه الوسطى غير جلية] شَامِخٍ قَدْ تَشَخَّصَتْ [خاتمة السطر غير ثابتة]
+
+بِسِرِّ [اسم/لفظ يبدو «غياها»] [لفظ قصير قريب من «كند»] [لفظ قريب من «مولا»] بِسِرِّهِ [آخر الرسم غير واضح]
+
+بِشَنْخٍ [مقطع اسمي غير جلي] لَهُ الْمَجْدُ [بقية السطر مطموسة]
+
+إِلَهِي لَقَدْ [اللفظ التالي يُقرأ «أنت» على وجه التقريب] بِاسْمِكَ دَاعِيًا [خاتمة قصيرة غير واضحة]
+
+بِسِرِّ حُرُوفٍ فِي كِتَابِكَ أُنْزِلَتْ [علامة ختام السطر غير مقروءة]
+
+قَرِيبٌ [كلمة وسطى تظهر كأنها «قوي»] مُجِيبٌ لِمَنْ دَعَا [طرف السطر غير واضح]
+
+كَهَيْجٍ بَهِيجٍ كَهَيْجٍ بِمَا حَوَتْ [أسماء/ألفاظ طلسمية كما في الرسم]
+
+عَزِيزٌ [فاصل أو لفظ قصير بين الصفتين غير جلي] مَاجِدٌ قَدْ أَمِنْتُ [الخاتمة غير واضحة]
+
+بِخِدْمَةِ الْأَمْلَاكِ لِأَمْرِي تَسَارَعَتْ [آخر السطر غير ثابت]
+
+بِاسْمِ الْعَرْشِ [فاصل قصير في الرسم غير واضح] فَالْكُلُّ يَخْضَعُوا [صيغة الفعل كما طُبعت]
+
+لِطَاعَةِ أَسْمَاءٍ عِظَامٍ تَسَلَّطَتْ [نهاية السطر باهتة]
+
+[سطر من أسماء وألفاظ طلسمية؛ تظهر فيه مقاطع تشبه «شروح» و«شبحج»، لكن اتصال الحروف لا يسمح بتثبيت القراءة بأمان.]
+
+بِاسْمِ [اسم يظهر قريباً من «شنخ/شنوخ»] يَا عَظِيمُ [تظهر بعد النداء بقايا تشبه «تشخصت»؛ القراءة تقريبية]
+
+</div>
+
+**[Transliterasi Latin Fonetik]**
+
+*Wa-ya [talismanic word read tentatively as “thabarat”; middle letters unclear] shamikhin qad tashakhkhasat [line ending uncertain]*
+
+*Bi-sirri [name-like word resembling “ghiyaha”] [short token resembling “kand”] [token resembling “mawla”] bi-sirrihi [ending unclear]*
+
+*Bi-shankhin [name-like fragment unclear] lahu al-majdu [remainder obscured]*
+
+*Ilahi laqad [the next printed word appears to be “anta”] bismika da'iyan [short ending unclear]*
+
+*Bi-sirri hurufin fi kitabika unzilat [line-ending mark unreadable]*
+
+*Qaribun [middle word appears to be “qawiyy”] mujibun liman da'a [line edge unclear]*
+
+*Ka-hayjin bahijin ka-hayjin bima hawat [talismanic words retained as printed]*
+
+*'Azizun [short separator or word between the epithets unclear] majidun qad amintu [ending unclear]*
+
+*Bi-khidmati al-amlaki li-amri tasara'at [line ending uncertain]*
+
+*Bi-ismi al-'arshi [short printed connector unclear] fal-kullu yakhda'u [verb form retained as printed]*
+
+*Li-ta'ati asma'in 'izhamin tasallatat [faint line ending]*
+
+*[A line of talismanic names; connected letters are too indistinct for a safe phonetic transcription.]*
+
+*Bi-ismi [name resembling “shankh/shunukh”] ya 'azhimu [remaining strokes resemble “tashakhkhasat”; tentative]*
+
+**[Terjemahan Indonesia]**
+
+Wahai [lafaz seruan yang kira-kira terbaca «thabarat»], Yang menjulang; sungguh ia tampak/menjelma. [Akhir baris tidak cukup tegas untuk dipastikan.]
+
+Demi rahasia [rangkaian lafaz yang menyerupai «ghiyaha, kand, mawla»] dan rahasia-Nya. [Lafaz-lafaz itu dipertahankan sebagai nama, bukan diterjemahkan secara spekulatif.]
+
+Dengan «Shankh» [nama/fragmen berikutnya kurang jelas]; bagi-Nya kemegahan. [Sisa baris tidak terbaca dengan aman.]
+
+Tuhanku, sungguh [kata sesudah «laqad» tampak seperti «anta»], dengan Nama-Mu aku berdoa. [Penutup samar.]
+
+Demi rahasia huruf-huruf yang diturunkan dalam Kitab-Mu.
+
+Yang dekat, [kata di tengah tampak seperti «kuat»], Yang mengabulkan orang yang berdoa. [Ujung baris kurang jelas.]
+
+[Seruan/nama] «Kahayj, bahij, kahayj», bersama segala yang dikandungnya. [Nama-nama dipertahankan menurut rupa cetak.]
+
+Yang Mahaperkasa, [pemisah atau lafaz pendek tidak jelas], Yang Mahaagung; sungguh aku telah merasa aman. [Penutup samar.]
+
+Dengan pelayanan para malaikat, mereka bergegas demi urusanku. [Bentuk dan subjek verba mengikuti cetakan; penutupnya kurang tegas.]
+
+Dengan nama Arasy, [penghubung singkat tidak jelas], maka semua tunduk. [Bentuk verba jamak dipertahankan sebagaimana tercetak.]
+
+Untuk menaati nama-nama agung yang berkuasa. [Ujung larik pudar.]
+
+Larik ini berisi rangkaian nama/seruan; huruf-hurufnya terlalu bertaut untuk diterjemahkan dengan aman, sehingga dicatat sebagai baris talismanik yang tidak terbaca utuh.
+
+Dengan nama [lafaz yang kira-kira terbaca «Shankh/Shunukh»], wahai Yang Mahaagung. [Sisa baris tampak menyerupai «tashakhkhasat», tetapi belum pasti.]
+
+**[Syarah]**
+
+> (608) Seruan «ويا» diikuti nama yang pada pindaian paling dekat dengan «ثبرات», lalu «شامخ» dan «قد تشخصت». Nama itu bukan kata baku yang dapat dipaksakan artinya. «تشخصت» berbentuk verba feminin; subjeknya tidak dinyatakan. Washal meneruskan rangkaian seruan dari larik sebelumnya.
+>
+> (609) «بسرّ» adalah jar-majrur; sesudahnya tampak beberapa nama yang bentuknya kurang tegas, lalu «بسرّه». Nama-nama itu dicatat menurut rupa cetak dan tidak diberi i'rab atau makna rekaan.
+>
+> (610) «بشنخ» tampak sebagai nama/seruan, sedangkan «له المجد» terbaca lebih jelas. Pada «له» jar-majrur mendahului «المجد» sebagai pokok pujian; kelanjutan larik masih samar.
+>
+> (611) «إلهي» seruan kepada Tuhan; «لقد» memberi penegasan. Kata setelahnya tampak seperti «أنت», tetapi susunan «لقد أنت باسمك داعياً» ganjil, maka tidak diperbaiki diam-diam. «داعياً» dibaca sebagai bentuk mansub yang tampak pada teks.
+>
+> (612) «بسرّ حروف في كتابك أنزلت» menyebut rahasia huruf-huruf yang diturunkan dalam Kitab. «أنزلت» dibaca sebagai bentuk pasif yang cocok dengan «حروف»; harakatnya tidak tercetak. Tidak ada hukum qalqalah khusus pada sambungan ini.
+>
+> (613) «قريب» dan «مجيب لمن دعا» terbaca; kata di antara dua sifat itu hanya terbaca tentatif sebagai «قوي». «لمن دعا» menerangkan pihak yang menerima ijabah; washāl menghubungkan sifat-sifat tersebut dalam satu seruan.
+>
+> (614) «كهيج، بهيج، كهيج» dipertahankan sebagai rangkaian nama/lafaz, tanpa normalisasi. «بما حوت» ialah frasa sambungan; dhamir feminin tunggal merujuk kepada sesuatu yang disebut sebelumnya, tetapi acuannya tidak jelas.
+>
+> (615) «عزيز» dan «ماجد» adalah dua sifat pujian; satu pemisah/fragmen di antaranya belum terbaca. «قد أمنت» dipertahankan sesuai cetakan; pelaku orang pertama tersirat pada verba.
+>
+> (616) «بخدمة الأملاك» dan «لأمري» adalah dua jar-majrur. «تسارعت» tampak sebagai verba lampau feminin; rujukannya mungkin «الأملاك», tetapi susunan puitisnya tidak dipaksa menjadi prosa.
+>
+> (617) «باسم العرش» jar-majrur; «فالكل» menjadi pokok kalimat. Bentuk «يخضعوا» dipertahankan persis sesuai cetakan meskipun tidak mengikuti kesesuaian standar yang diharapkan untuk «الكل». Washal menyambungkan penyebutan Arasy dengan ketundukan.
+>
+> (618) «لطاعة أسماء عظام» adalah frasa jar-majrur; «تسلطت» verba feminin yang dapat mengikuti «أسماء» sebagai jamak tak berakal. Ujung larik tidak cukup jelas untuk tambahan bacaan.
+>
+> (619) Pada baris ini huruf nama-nama talismanik saling bertaut; beberapa bentuk menyerupai «شروح» dan «شبحج», tetapi tidak cukup pasti untuk ditranskripsikan sebagai kata. Satu larik tetap dipertahankan dengan catatan deskriptif, bukan dilengkapi lewat tebakan.
+>
+> (620) «باسم» dan seruan «يا عظيم» terbaca; nama di antara keduanya hanya terbaca tentatif sebagai «شنخ/شنوخ». Sisa bentuk yang menyerupai «تشخصت» juga belum pasti. «باسم» jar-majrur dan «يا عظيم» munada.
+
+## Halaman PDF 81 (= cetak 80)
+
+### Bagian 1 — Nama-nama penundukan (larik 621–627)
+
+**[Teks Arab Asli]**
+
+<div dir="rtl">
+
+بِكَفْخٍ [اسم/لفظ تالٍ حروفه تشبه «طنطنج»] [مقطع متصل غير جلي] بِشَارِشٍ [الضبط غير معروف]
+
+بَطُوشٍ بَطُوشٍ طُوَيْشٍ [نهاية السطر تبدو «تسلطت» في الطباعة]
+
+بِعِزَّةٍ [لفظ قصير بينهما غير محسوم] قَوِيٌّ وَقَاهِرٌ [طرف السطر باهت]
+
+قَهَرْتُ جَمِيعَ الْمَارِدِينَ وَمَنْ عَصَتْ
+
+بِطَنْ [تتابع ألفاظ قصيرة بعده غير مقروء بوضوح؛ يمتد حتى نهاية السطر]
+
+بِشَنْخٍ [اسم بعده غير واضح] بِالْقَهْرِ مَنْ عَصَتْ [خاتمة السطر باهتة]
+
+بِطَنْ [لفظ اسمي قصير بعده مطموس] يَا إِلَهِي [تتمة السطر غير مقروءة]
+
+</div>
+
+**[Transliterasi Latin Fonetik]**
+
+*Bi-kafkhin [following name has letters resembling “tantanj”] [connected fragment unclear] bi-sharishin [vowels unknown]*
+
+*Bathushin bathushin thuwayshin [line ending appears to read “tasallatat”]*
+
+*Bi-'izzatin [short middle word uncertain] qawiyyun wa-qahirun [line edge faint]*
+
+*Qahartu jami'a al-maridina wa-man 'asat*
+
+*Bi-than [following short tokens are indistinct through the line ending]*
+
+*Bi-shankhin [following name unclear] bil-qahri man 'asat [faint ending]*
+
+*Bi-than [short name-like token obscured] ya ilahi [remainder unreadable]*
+
+**[Terjemahan Indonesia]**
+
+Dengan «Kafkh» [nama berikutnya tampak seperti «Tantanj»] dan «Sharish» [vokal nama-nama tidak dipastikan]; fragmen penghubungnya tidak terbaca jelas.
+
+«Bathush, bathush, thuwaysh» [nama-nama yang diulang]; ujungnya tampak berbunyi «tasallatat».
+
+Dengan keagungan [lafaz di tengah kurang pasti], Yang kuat dan Yang menundukkan. [Tepi larik pudar.]
+
+Aku telah menundukkan seluruh para pemberontak dan siapa pun yang durhaka.
+
+Dengan «Than» [beberapa lafaz pendek setelahnya tidak terbaca jelas sampai ujung baris].
+
+Dengan «Shankh» [nama setelahnya samar], melalui penundukan terhadap siapa pun yang durhaka. [Penutup pudar.]
+
+Dengan «Than» [lafaz nama sesudahnya tertutup], wahai Tuhanku. [Sisa larik tidak terbaca.]
+
+**[Syarah]**
+
+> (621) «بكفخ» dan «بشارش» tampak pada awal dan akhir baris; rangkaian di antaranya menyerupai nama «طنطنج», tetapi huruf bertautnya tidak memastikan bacaan. Semuanya dipertahankan sebagai nama seruan, tanpa dipaksakan i'rab atau makna.
+>
+> (622) «بطوش بطوش طويش» terbaca berulang; penutup tampak seperti «تسلطت». Karena ini rangkaian nama talismanik, pelafalan hurufnya dipertahankan secara tentatif. Washal membawa rangkaian nama ke seruan berikutnya.
+>
+> (623) «بعزة» dan «قوي وقاهر» tampak; kata di antara «بعزة» dan sifat-sifat itu kurang pasti. «بعزة» jar-majrur, sementara «قوي» dan «قاهر» terbaca sebagai sifat, tetapi kaitan nahwunya tidak cukup jelas untuk dinormalkan.
+>
+> (624) «قهرت جميع الماردين ومن عصت» terbaca jelas. «قهرت» fi'il madhi orang pertama; «جميع الماردين» maf'ul bih, sedangkan «من عصت» menyambung dengan kata relatif «من» dan verba feminin «عصت». Washal menghubungkan permohonan penundukan ini dengan nama-nama pada larik berikutnya.
+>
+> (625) Baris dimulai dengan «بطن» atau nama yang sangat dekat bentuknya; kelompok lafaz sesudahnya terlalu samar untuk ditetapkan. Nama-nama tidak diterjemahkan seolah-olah kata Arab biasa.
+>
+> (626) «بشنخ» dan «بالقهر من عصت» tampak; nama di antaranya dan penutupnya pudar. «بالقهر» jar-majrur, sedangkan «من عصت» adalah sambungan relatif yang menyerupai penutup larik 624.
+>
+> (627) «يا إلهي» terbaca jelas setelah nama yang tampak seperti «بطن». «يا» huruf nida' dan «إلهي» munada mudaf; kata-kata sisanya terlalu samar untuk dilengkapi. Washal menyambungkan doa ini dengan lanjutan nazham pada BATCH 24.
+
+---
+
+# BATCH 24 — Halaman PDF 81–82
+
+## Halaman PDF 81 (= cetak 80)
+
+### Bagian 1 — Sambungan seruan dan nama (larik 628–638)
+
+**[Teks Arab Asli]**
+
+<div dir="rtl">
+
+بِعِزَّةِ أَفْلَا غَلَاوُونَ تَنَطَّقَتْ [الرسم في الصفحة «بعزة أفلا غلاوون تنطقت»؛ «أفلا غلاوون» على الإعراب المطلوب مبتدأٌ وخبرٌ مرفوعان بعد شبه الجملة «بعزة». «تنطقت» ضبطها تَنَطَّقَتْ، بطاء مشددة (طاء لا تاء).]
+
+بِعِزٍّ غَلَاوُونَ لَهُ الْمُلْكُ وَالْعُلَا [«غلاوون» اسم خاص كما يظهر في المطبوع؛ ضبطه اجتهادي لا يغيّر حروفه.]
+
+بِسَطْوَةِ طَارُومَ بِالْجِنِّ تَسَخَّرَتْ [«طاروم» قراءة تقريبية للاسم الأعجمي بعد «بسطوة»؛ أُثبتت حروفه على أقرب ما يظهر في الصفحة.]
+
+وَيَا جَهْرَمِيشَ جَهْرَمِيشَ بِجَاهِهِ [الرسم يكرر اسماً قريباً من «جهرميش»؛ الحركة تقريبية لاسم خاص.]
+
+وَيَا ضَرْمَاغُوشَ بِالْجِنِّ أَحْرَقْتُ [الاسم «ضرماغوش» قراءة تقريبية من الرسم؛ «أحرقت» تُقرأ أَحْرَقْتُ على أنها فعل المتكلم.]
+
+بِضَمِيرٍ زَرَافَاخُونٍ بِسِرِّ خُلُوجَةٍ [«زرافاخون» و«خلوحة» اسمان كما يظهران تقريباً في المطبوع؛ لا يُحمّلان معنى معجمياً غير ثابت.]
+
+وَيَا مَنْخَلُوخَ مَنْخَلُوخَ تَسَابَتْ [الاسمان و«تسابت» منقولة بحسب ظاهر الحروف؛ لم يُستبدل بها لفظٌ أفصح بلا شاهد.]
+
+وَيَا طَنْطَلُوخَ مَطْلُوخَ بِسِرِّهِ [ضبط الاسمين تقريبي، مع إبقاء الرسم المطبوع.]
+
+وَيَا مَنْدَرِيشَ النُّفُوسُ قَدْ صَلَّتْ [«مندريش» اسم خاص بقراءة تقريبية؛ «النفوس قد صلت» تُقرأ بحسب ظاهر السطر.]
+
+وَيَا سِفْسَانِيلَ بِعِزَّةِ هِنْدَرَسْ [اسما «سفسائيل» و«هندرس» تقريبٌ لحروف الاسم في الطباعة، لا تصحيح قطعي.]
+
+تَوَكَّلْ بِحَرْقِ الْمَارِدِينَ وَمَنْ عَصَتْ
+
+</div>
+
+**[Transliterasi Latin Fonetik]**
+
+*Bi-'izzati afla ghalawun tanattaqat*
+
+*Bi-'izzin Ghalawun lahu al-mulku wa-al-'ula [Ghalawun is retained as a proper name; its vowel pattern is editorial.]*
+
+*Bi-satwati Ṭarum bil-jinni taskharat [Ṭarum is a tentative reading of the non-Arabic name after “might”.]*
+
+*Wa-ya Jahramish Jahramish bi-jahihi [The printed name is repeated; vowels are approximate.]*
+
+*Wa-ya Ḍarmaghush bil-jinni ahraqtu [The name is tentatively read from the print; ahraqtu is first-person active.]*
+
+*Bi-dhamirin Zarafakhun bi-sirri Khulujah [Both names are tentative readings of the printed forms.]*
+
+*Wa-ya Mankhalukh Mankhalukh tasabat [Names and final verb follow the visible consonants; no silent normalization.]*
+
+*Wa-ya Ṭanṭalukh Maṭlukh bi-sirrihi [The two names are read tentatively from print.]*
+
+*Wa-ya Mandarish an-nufusu qad sallat [Mandarish is a proper name; the final phrase follows the printed letters.]*
+
+*Wa-ya Sifsanil bi-'izzati Hindaras [Both names are approximate readings of the printed forms.]*
+
+*Tawakkal bi-harqi al-maridina wa-man 'asat*
+
+**[Terjemahan Indonesia]**
+
+Demi kemuliaan; Afla Ghalawun telah bertutur. [«أفلا غلاوون» dibaca sebagai mubtada dan khabar marfu‘ sesuai i‘rab yang diminta; «تنطقت» dibaca «تَنَطَّقَتْ».]
+
+Demi kemuliaan Ghalawun; milik-Nya kerajaan dan keluhuran. [Nama khusus dipertahankan, bukan diterjemahkan sebagai kata umum.]
+
+Demi daya «Ṭarum», para jin ditundukkan. [Nama setelah «بسطوة» dibaca tentatif dari bentuk cetak.]
+
+Wahai Jahramish, Jahramish, demi kewibawaannya. [Rangkaian nama khusus; harakatnya perkiraan.]
+
+Wahai Ḍarmaghush, dengan para jin aku membakar. [Nama dibaca tentatif; «أحرقت» dibaca sebagai “aku membakar”.]
+
+Dengan «dhamir» Zarafakhun, demi rahasia Khulujah. [Nama-nama tidak diberi arti leksikal yang belum pasti.]
+
+Wahai Mankhalukh, Mankhalukh; lafaz penutup tercetak «تسابت» dan dipertahankan. [Bacaan kata penutup belum mantap.]
+
+Wahai Ṭanṭalukh, Maṭlukh, demi rahasianya. [Nama-nama khusus, dengan vokalisasi tentatif.]
+
+Wahai Mandarish; jiwa-jiwa telah salat/berdoa. [«صلت» dibaca menurut bentuk cetak; konteksnya tidak dijadikan alasan untuk mengganti lafaz.]
+
+Wahai Sifsanil, demi kemuliaan Hindaras. [Kedua nama dibaca tentatif dari cetakan.]
+
+Serahkanlah pembakaran para pemberontak dan siapa pun yang durhaka. [«توكل» dibaca sebagai perintah; susunan dipertahankan.]
+
+**[Syarah]**
+
+> (628) Washal menghubungkan larik ini dengan rangkaian Asma penundukan jin dalam BATCH_23. Pada pindaian halaman penuh, grafi awal tampak seperti «بيزة» (dibaca «بعزة»); baris lengkap memuat «أفلا غلاوون», dan penutupnya mirip «تنطق». «بِعِزَّةِ» adalah jar-majrur; sesuai i‘rab yang diminta, «أَفْلَا غَلَاوُونَ» dibaca sebagai mubtada dan khabar marfu‘. Lafaz «غلاوون» tetap dicantumkan karena tampak pada baris sumber. «تنطقت» dibaca «تَنَطَّقَتْ»; tasydid berada pada طاء (ṭāʾ), bukan تاء. Dalam wasal, قاف berharakat sehingga tidak ada qalqalah padanya.
+>
+> (629) «له الملك والعلا» terbaca jelas. «غلاوون» dipertahankan sebagai nama khusus; ia tidak diterjemahkan secara spekulatif. Washal menyambung frasa kemuliaan dengan pujian tentang kerajaan dan keluhuran. Tidak terdapat نون مشددة pada nama itu.
+>
+> (630) «بسطوة» dan «بالجن» ظاهران في الصفحة; اسم «طاروم» قراءة تقريبية. Nahwu: «بسطوة طاروم» جار ومجرور، و«تسخرت» فعل ماضٍ مؤنث. Tajwid: النون المشددة في «الجنّ» غنة؛ ولا قاف ساكنة في آخر «تسخرت».
+>
+> (631) Seruan «ويا» dan «بجاهه» terbaca; nama di tengah tampak berulang. Harakat nama tidak dipastikan karena ia bukan bentuk Arab baku. Hā' pada «بجاهه» dibaca jelas; tidak ada kaidah qalqalah pada nama itu.
+>
+> (632) Washal meneruskan tema pengerahan jin. «أحرقت» dibaca «أَحْرَقْتُ» (fi'il ma'lum orang pertama); «الجنّ» ialah maf'ul bih. Tajwid: قاف sukun dalam «أحرقتُ» mendapat qalqalah sughra, dan نون مشددة pada «الجنّ» dibaca ghunnah.
+>
+> (633) «بضمير» dan «بسر» terbaca, sedangkan nama-nama sesudahnya diikuti menurut bentuk huruf cetak. Karena rangkaian itu nama khusus, i'rab dan arti katanya tidak dipaksakan. Mīm dan rā' tidak membentuk qalqalah atau ghunnah khusus di sini.
+>
+> (634) Nama-nama setelah «ويا» dan bentuk «تسابت» dipertahankan menurut cetakan. Tidak ada dasar nahwu yang cukup untuk mengganti verba atau menambah pelaku. Washal menjaga kesinambungan seruan; bacaan akhir tā' mengikuti bentuk kata pada cetakan.
+>
+> (635) Dua nama pada baris ini dibaca tentatif dari huruf yang tampak; frasa «بسره» jelas. Tidak dinormalisasi menjadi kata Arab lain. Dalam «سره» hā' termasuk huruf hams.
+>
+> (636) «النفوس قد صلت» terbaca; «مندريش» nama khusus dengan ضبط تقريبي. Jika «صلت» dimaksudkan «صَلَّتْ», ia fi'il madhi mu'annats dan fa'ilnya dapat berupa «النفوس». Ṣād dibaca dengan hams dan ṣafīr.
+>
+> (637) «بعزة» tampak; nama sebelum dan sesudahnya dibaca tentatif sesuai cetakan. Susunan dipertahankan tanpa menambahkan i'rab bagi nama asing.
+>
+> (638) Penutup terbaca «توكل بحرق الماردين ومن عصت». «توكل» dibaca sebagai amr; «الماردين» majrur setelah «بحرق». Washal menyambung perintah dengan frasa «ومن عصت»; huruf qaf pada «حرق» berharakat dalam wasl, sehingga tidak mendapat qalqalah kecuali bila berhenti pada sukun.
+
+## Halaman PDF 82 (= cetak 81)
+
+### Bagian 1 — Doa dan penyebutan nama-nama (larik 639–647)
+
+**[Teks Arab Asli]**
+
+<div dir="rtl">
+
+بِقَهْرِكَ يَا نَارُ فَانْتَهِرْ سَنَايَ [اللفظ الأخير في المطبوع يظهر «سناي»؛ ضُبط تقريبياً «سَنَايَ» ولم يُستبدل بكلمة أخرى.]
+
+بِاسْمِكَ يَا جَبَّارُ فَالْجِنَّ أَحْرِقْ [قراءة الأمر «أحرق» تلائم سياق الدعاء؛ الرسم المطبوع غير مشكول.]
+
+بِبَطْشِكَ يَا ذَا الْبَطْشِ فَابْطِشْ بِمَنْ عَصَى
+
+إِجَابَةَ أَسْمَاءٍ عِظَامٍ تَنَطَّقَتْ [«تنطقت» تُقرأ «تَنَطَّقَتْ»؛ الطاء مشددة على وزن تفعّل.]
+
+يَا رَبِّ مَا لَا يُطَاقُ انْتِقَامِي [المطبوع يقرأ «ما»؛ أبقيتها كما هي ولم أبدلها «من».]
+
+سَأَلْتُكَ إِحْرَاقَ الْعُصَاةِ إِذَا عَصَتْ
+
+بِجِبْرَائِيلَ ذِي الْبَطْشِ الشَّدِيدِ وَقَهْرِهِ
+
+بِسَطْوَةِ مِيكَائِيلَ بِالْأَرْضِ زُلْزِلَتْ
+
+بِنَفْخَةِ إِسْرَافِيلَ فِي يَوْمِ نَفْخَةٍ
+
+</div>
+
+**[Transliterasi Latin Fonetik]**
+
+*Bi-qahrika ya naru fantahir sanaya [the final printed word appears to be sanaya; its vowel pattern is tentative.]*
+
+*Bismika ya Jabbaru fal-jinna ahriq [ahriq is read as an imperative in this supplication; the print has no vowel marks.]*
+
+*Bi-batshika ya dha al-batshi fabtish biman 'asa*
+
+*Ijabata asma'in 'izhamin tanaṭṭaqat [tanaṭṭaqat follows the printed consonants; emphatic ṭā' is doubled.]*
+
+*Ya rabbi ma la yutaqu intiqami [the print reads ma; it is not silently changed to man.]*
+
+*Sa'altuka ihraqa al-'usati idha 'asat*
+
+*Bi-Jibra'ila dhi al-batshi ash-shadidi wa-qahrihi*
+
+*Bi-satwati Mika'ila bil-ardi zulzilat*
+
+*Bi-nafkhat Israfil fi yawmi nafkhatin*
+
+**[Terjemahan Indonesia]**
+
+Demi daya penundukan-Mu, wahai api, jadilah penghalau bagi «sanaya»-ku. [Kata terakhir dibaca sementara sesuai cetakan; makna leksikalnya belum pasti.]
+
+Dengan nama-Mu, wahai Yang Mahaperkasa, bakarlah jin. [Kata «أحرق» dibaca sebagai perintah sesuai konteks seruan.]
+
+Demi daya-Mu, wahai Pemilik daya; timpakanlah daya-Mu kepada siapa yang durhaka.
+
+Sebagai jawaban atas nama-nama agung yang telah terucap. [Bentuk «تنطقت» dibaca «تَنَطَّقَتْ».]
+
+Wahai Tuhanku, apa yang tidak tertanggungkan ialah pembalasanku. [Cetakan memuat «ما»; susunan dipertahankan tanpa mengubahnya menjadi «من».]
+
+Aku memohon kepada-Mu agar membakar orang-orang durhaka ketika mereka durhaka.
+
+Demi Jibril, pemilik daya dahsyat dan penundukan.
+
+Demi kekuatan Mikail, bumi diguncangkan.
+
+Demi tiupan Israfil pada hari tiupan.
+
+**[Syarah]**
+
+> (639) «بقهرك يا نار» terbaca; kata akhir tampak seperti «سناي», sehingga dipertahankan sebagai lafaz/nama tanpa pemaknaan yang dipaksakan. Washal menyambungkan sumpah kepada api dengan seruan sesudahnya. «يا نار» munada; tajwid tidak memunculkan qalqalah pada قاف «قهرك» selama ia berharakat.
+>
+> (640) «باسمك يا جبار» terbaca; «أحرق» dibaca fi'il amr, dengan «الجنّ» sebagai maf'ul bih yang didahulukan. Nun mushaddadah pada «الجنّ» dibaca ghunnah.
+>
+> (641) «فابطش بمن عصى» merupakan perintah yang menyambung «بطشك». Nahwu: «ذا البطش» munada mudaf; «بمن» جار ومجرور. Ṭā' pada «بطشك» huruf tebal, dan qaf tidak sukun dalam wasl.
+>
+> (642) «إجابة أسماء عظام تنطقت» dipertahankan sebagaimana terbaca. «تنطقت» dibaca «تَنَطَّقَتْ» (fi'il madhi mu'annats); pada pola ini tasydid terdapat pada طاء. Washal menghubungkan «إجابة» dengan rangkaian nama; tidak dipaksakan subjek yang tidak tertulis.
+>
+> (643) Bentuk cetak «ما لا يطاق انتقامي» dipertahankan; tidak diubah menjadi «من». «ما» dapat dibaca sebagai kata relatif/maṣdariyya menurut susunan. Jika waqaf pada «يطاق», قاف di akhir kata mendapat qalqalah kubra; dalam wasl ia berharakat dan qalqalahnya tidak muncul.
+>
+> (644) «إذا عصت» mengikuti cetakan, dengan subjek mu'annats yang tidak disebut jelas. Ṣād pada «العصاة» termasuk huruf hams dan ṣafīr.
+>
+> (645) Nama Jibril dan «ذي البطش الشديد وقهره» terbaca jelas. Washal menyambungkan sumpah kepada malaikat dengan sifat daya dan penundukan; tidak ada emendasi leksikal.
+>
+> (646) «زلزلت» dibaca pasif feminin, dengan «الأرض» sebagai نائب فاعل yang dipahami dari frasa «بالأرض». Mika'il dipertahankan sebagai nama. Washal menjaga hubungan «بسطوة ميكائيل» dengan akibatnya.
+>
+> (647) «بنفخة إسرافيل في يوم نفخة» terbaca; pengulangan «نفخة» dipertahankan. Ṣād dalam «إسرافيل» dibaca dengan hams dan ṣafīr; tidak ada alasan nahwu untuk menghapus kata terakhir.
+
+---
+
+# BATCH 25 — Halaman PDF 82–83
+
+## Halaman PDF 82 (= cetak 81)
+
+### Bagian 1 — Sambungan seruan dan nama, kitab, serta doa (larik 648–656)
+
+**[Teks Arab Asli]**
+
+<div dir="rtl">
+
+بِتُحْفَةِ مَرْزَائِيلَ فَالْجِنُّ انْبَهَرَتْ [«مرزائيل» اسم خاص؛ ضُبط بحسب الرسم، و«انبهرت» واضحة في السطر.]
+
+بِتَوْرَاةِ مُوسَى بِالْإِنْجِيلِ [مقطع قصير بعد «الإنجيل» غير واضح في الطباعة] كَتَبَتْ [«كتبت» قراءة تقريبية لآخر الفعل الظاهر.]
+
+بِإِنْجِيلِ عِيسَى بِالزَّبُورِ وَمَا حَوَتْ
+
+سَأَلْتُكَ بِالِاسْمِ الْمُعَظَّمِ قَدْرُهُ
+
+بِتَاجِ أَمُوجٍ جَلَّ [مقطع مطبوع غير مقروء] جَلِيلَتْ [«أموج» و«جليلت» أقرب قراءة للرسم؛ لا يُفترض لهما معنى معجمي.]
+
+بِحُبِّي وَقَيُّومٍ حَلِيمٍ وَعَالِمٍ [تتابع الأسماء/الصفات يُقرأ بحسب ظاهر الحروف.]
+
+بِسِيَادَةٍ فَالْمُلُوكُ تَوَاضَعَتْ
+
+بِآلٍ وَبِآلٍ جَلَبْتُ مَقْصِدِي [اللفظان بعد «آل» غير واضحين تماماً؛ أُثبتت الحروف الظاهرة دون تصحيح الاسم.]
+
+يَا [ألفاظ النداء التالية مطموسة في الطباعة] تَنَاظَرَتْ [خاتمة السطر تُقرأ تقريبياً «تناظرت».]
+
+</div>
+
+**[Transliterasi Latin Fonetik]**
+
+*Bi-tuhfati Marza'il fa-al-jinnu inbaharat [Marza'il is a proper name; its vowels are editorial.]*
+
+*Bi-Tawrati Musa bil-Injili [a short printed fragment after al-Injil is unclear] katabat [katabat is a tentative reading of the final verb.]*
+
+*Bi-Injili 'Isa biz-Zaburi wa-ma hawat*
+
+*Sa'altuka bil-ismi al-mu'azzami qadruhu*
+
+*Bi-taji Amuj jalla [printed fragment unreadable] Jalilat [Amuj and Jalilat are tentative readings of proper names.]*
+
+*Bi-hubbi wa-Qayyumin Halimin wa-'Alimin [the sequence follows the visible letters; its syntax is not forced.]*
+
+*Bi-siyadatin fal-muluku tawada'at*
+
+*Bi-alin wa-bi-alin jalabtu maqsidi [the two forms after al are uncertain proper-name readings.]*
+
+*Ya [the words after the vocative are obscured] tanazarat [the final verb is a tentative reading.]*
+
+**[Terjemahan Indonesia]**
+
+Dengan anugerah Marza'il, para jin pun terpesona. [Marza'il dipertahankan sebagai nama khusus; vokalisasinya tentatif.]
+
+Dengan Taurat Musa dan Injil, [ada fragmen cetak singkat yang tak terbaca] «katabat» [bacaan sementara untuk verba penutup].
+
+Dengan Injil Isa, Zabur, dan segala yang dikandungnya.
+
+Aku memohon kepada-Mu dengan nama yang diagungkan kedudukannya.
+
+Dengan mahkota «Amuj», «jalla», dan «Jalilat» [sebagian rangkaian nama pada cetakan tak terbaca; bentuk yang tampak dipertahankan.]
+
+Dengan cintaku, Yang Maha Menegakkan, Yang Penyantun, dan Yang Mengetahui. [Rangkaian gelar/nama tidak dipaksakan sebagai kalimat biasa.]
+
+Dengan kepemimpinan, maka para raja pun merendahkan diri.
+
+Dengan «Āl» dan «Āl», kudatangkan maksudku. [Bacaan nama sesudah «Āl» tidak dipastikan dari cetakan.]
+
+Wahai [lafaz seruan tidak terbaca jelas], mereka saling berhadapan/berpandangan. [«تناظرت» dibaca tentatif dari penutup baris.]
+
+**[Syarah]**
+
+> (648) Washal meneruskan tema penundukan jin dari akhir BATCH_24 ke «بتحفة مرزائيل». Nahwu: «بتحفة» jar-majrur dan «مرزائيل» mudaf ilaih; «الجنّ» menjadi fa'il bagi «انبهرت», dengan verba feminin tunggal yang lazim untuk jamak nonmanusia. Tajwid: nun bertasydid pada «الجنّ» dibaca ghunnah.
+>
+> (649) «بتوراة موسى» dan «بالإنجيل» terbaca; ada fragmen cetak di antara bagian-bagian baris yang tidak cukup jelas untuk dipastikan. «كتبت» dipertahankan sebagai bacaan kerja yang tentatif, bukan emendasi pasti. «توراة» majrur setelah ba dan menjadi mudaf kepada «موسى».
+>
+> (650) «بإنجيل عيسى بالزبور وما حوت» terbaca. Dua frasa berawalan ba ialah jar-majrur; «ما حوت» dipertahankan menurut susunan tercetak tanpa menambah objek yang tidak tampak.
+>
+> (651) Pada pindaian terbaca «سألتك بالاسم المعظم قدره». «سألتك» ialah fi'il madhi dengan kaf sebagai maf'ul bih; «بالاسم» jar-majrur, disusul sifat «المعظم» dan frasa «قدره».
+>
+> (652) Cetakan memuat bentuk yang terbaca dekat dengan «بتاج أموج جلّ جليلت». Nama-nama itu tidak dinormalkan ke kata Arab lain; fragmen di antara «جلّ» dan «جليلت» tetap dicatat sebagai tidak terbaca. Karena berupa lafaz khusus, i'rabnya tidak dipaksakan.
+>
+> (653) «بحبي وقيوم حليم وعالم» mengikuti bentuk huruf yang terlihat. Rangkaian dapat memuat nama atau sifat; tidak ditambah mubtada/khabar yang tidak tertulis. «قيوم» memiliki ya bertasydid pada bacaan nama «قَيُّوم».
+>
+> (654) «بالسيادة» jar-majrur; «فالملوك تواضعت» menyambung akibatnya. «تواضعت» dibaca sebagai fi'il madhi feminin tunggal dengan fa'il jamak nonmanusia «الملوك» menurut susunan puitis.
+>
+> (655) «بآل» dan «جلبت مقصدي» tampak; nama penghubung setelah «آل» tidak terang. Bentuk cetak dipertahankan dan tidak ditafsirkan sebagai nasab tertentu.
+>
+> (656) «يا» dan penutup yang menyerupai «تناظرت» tampak. Nama-nama di antara keduanya tidak cukup jelas; tidak diganti dengan nama yang ditebak. «تناظرت» dibaca sebagai fi'il madhi feminin, dengan pelaku tidak disebut.
+
+## Halaman PDF 83 (= cetak 82)
+
+### Bagian 1 — Permohonan ilmu, kejernihan, dan kehidupan hati (larik 657–667)
+
+**[Teks Arab Asli]**
+
+<div dir="rtl">
+
+أَنْوَخْ أَنْوَخْ يَا إِلَهِي بِسِرِّهِ [«أنوخ» اسم/لفظ خاص؛ ضبطه تقريبي من الرسم.]
+
+عَظِيمٌ لَهُ الْأَمْلَاكُ حَقًّا تَسَارَعَتْ
+
+بَدَنْسُوحٍ [اسم خاص كما يظهر في الطباعة] فَـ[مقطعان بعد الفاء غير واضحين] بَعْدَهَا
+
+وَتَدْلِيجُ [لفظ بعده غير مقروء] بِهَا السَّعْدُ أَقْبَلَتْ [الختام غير واضح في الرسم.]
+
+بِنَكْ [اسم قصير غير واضح] بِكَنْفَالٍ بِسِرِّ حُرُوفِهَا [تتمة السطر مطموسة.]
+
+بِأَفْلَالِ [اسم/لفظ بعده غير مقروء] لِي بِهِ النُّورُ أَشْرَقَتْ [الختام غير واضح.]
+
+نَكُنْ يَا إِلَهِي كَاشِفَ الضُّرِّ وَالْبَلَا
+
+بِهَمِّي [مقطعان غير واضحين] بِقَلْبٍ بِهَا [تتمة غير مقروءة]
+
+وَأَحْيِ إِلَهِي الْقَلْبَ مِنْ بَعْدِ مَوْتِهِ
+
+بِذِكْرِكَ يَا قَيُّومُ حَقًّا تَنَفَّسَتْ [«تنفست» أقرب قراءة لحروف الختام الظاهرة.]
+
+أَجِدْ يَا إِلَهِي فِيهِ عِلْمًا وَحِكْمَةً
+
+</div>
+
+**[Transliterasi Latin Fonetik]**
+
+*Anwakh anwakh ya ilahi bisirrihi [Anwakh is a tentative reading of the printed proper name.]*
+
+*'Azhimun lahu al-amlaku haqqan tasara'at*
+
+*Badansuh [proper name, approximate] fa-[two printed fragments after fa are unclear] ba'daha*
+
+*Wa-tadliju [following word unreadable] biha as-sa'du aqbalat [the line ending is unclear.]*
+
+*Bi-nak [short name unclear] bi-kanfal bisirri hurufiha [the line continuation is obscured.]*
+
+*Bi-aflali [following name/word unreadable] li bihi an-nuru ashraqat [ending unclear.]*
+
+*Nakun ya ilahi kashifa adh-dhurri wal-bala'*
+
+*Bi-hammi [two fragments unclear] bi-qalbin biha [continuation unreadable]*
+
+*Wa-ahyi ilahi al-qalba min ba'di mawtihi*
+
+*Bi-dhikrika ya Qayyumu haqqan tanaffasat [tanaffasat is a tentative reading of the visible ending.]*
+
+*Ajid ya ilahi fihi 'ilman wa-hikmatan*
+
+**[Terjemahan Indonesia]**
+
+«Anwakh, Anwakh», wahai Tuhanku, demi rahasianya. [Nama pembuka dipertahankan secara tentatif.]
+
+Yang Mahaagung; milik-Nya para malaikat, sungguh mereka bersegera.
+
+«Badansuh» [nama khusus], lalu [dua fragmen setelah fa tidak terbaca] sesudahnya. [Tidak dinormalkan menjadi kata yang lebih lazim.]
+
+«Tadliju» [lafaz sesudahnya tidak terbaca]; melalui itu kebahagiaan datang. [Penutup baris kabur.]
+
+Dengan «nak» [nama pendek tidak jelas], dengan «kanfal», demi rahasia huruf-hurufnya. [Sambungan baris tidak terbaca jelas.]
+
+Dengan «Aflal» [lafaz sesudahnya tidak jelas], melalui-Nya cahaya bersinar bagiku. [Penutup baris kabur.]
+
+Jadikanlah kami, wahai Tuhanku, penyingkap kesusahan dan bencana.
+
+Dengan kegelisahanku [dua fragmen tidak terbaca], dalam hati yang dengannya [sambungan tidak terbaca].
+
+Hidupkanlah kembali, wahai Tuhanku, hati setelah kematiannya.
+
+Dengan zikir kepada-Mu, wahai Yang Maha Hidup dan Maha Menegakkan, sungguh ia bernapas. [«تنفست» dibaca tentatif menurut rupa huruf penutup.]
+
+Wahai Tuhanku, anugerahkanlah di dalamnya ilmu dan hikmah.
+
+**[Syarah]**
+
+> (657) Washal membawa rangkaian seruan dari nama-nama pada larik sebelumnya menuju permohonan «يا إلهي». «أنوخ» dua kali dipertahankan sebagai lafaz khusus; vokalnya perkiraan. «بسره» jar-majrur dalam susunan yang tercetak.
+>
+> (658) «عظيم له الأملاك حقا تسارعت» terbaca jelas. «له الأملاك» adalah susunan khabari; pada wasal, tanwin «عظيمٌ» bertemu lam «له» dan mengalami idgham tanpa ghunnah. Tanwin «حقًّا» sebelum ta pada «تسارعت» dibaca ikhfa dengan ghunnah.
+>
+> (659) «بدنسوح» dan «بعدها» tampak; dua fragmen di tengah baris tidak cukup terang. Nama dan fragmen dipertahankan tanpa diberi makna yang tidak didukung cetakan.
+>
+> (660) «وتدليج» serta «بها السعد أقبلت» mengikuti rupa huruf. Nahwu pada rangkaian akhir ganjil; harakat dan makna tidak dinormalisasi secara pasti.
+>
+> (661) «بنك»، «بكنفال»، dan «بسر حروفها» adalah bacaan kerja dari bentuk yang tampak. Dua nama pertama diperlakukan sebagai lafaz khusus; «بسر» jar-majrur.
+>
+> (662) «بأفلال» dan «لي به النور أشرقت» dipertahankan menurut cetakan. «أفلال» nama/lafaz khusus dengan vokalisasi tentatif; akhir feminin «أشرقت» mengikuti teks.
+>
+> (663) «نكن يا إلهي كاشف الضر والبلاء» terbaca. «يا إلهي» munada mudaf; «كاشف الضر» rangkaian idafa, disusul «والبلاء».
+>
+> (664) «بهمي» dan «بقلب بها» tampak, sementara dua fragmen di antaranya dan penutup baris tidak terbaca. Fragmen kosong tidak diganti dengan lafaz rekaan.
+>
+> (665) «وأحي إلهي القلب من بعد موته» merupakan permohonan langsung. «أحيِ» fi'il amr; «القلب» maf'ul bih, dan «من بعد موته» jar-majrur.
+>
+> (666) «بذكرك يا قيوم حقاً» jelas. Penutup dibaca sementara «تنفست» menurut bentuk yang tampak; pada «قيوم» terdapat ya bertasydid, sedangkan tanwin «حقًّا» sebelum ta dibaca ikhfa dengan ghunnah.
+>
+> (667) «أجد يا إلهي فيه علماً وحكمة» terbaca. «أجد» fi'il amr; «علماً» dan «حكمةً» dibaca sebagai maf'ul/isi yang diminta, dengan «فيه» sebagai jar-majrur.
+
+---
+
+# BATCH 26 — Halaman PDF 83–84
+
+## Halaman PDF 83 (= cetak 82)
+
+### Bagian 1 — Sambungan doa: penyucian, keyakinan, dan cahaya (larik 668–673)
+
+**[Teks Arab Asli]**
+
+<div dir="rtl">
+
+وَطَهِّرْ بِهِ قَلْبِي مِنَ الرِّجْسِ وَالْغِلِّ
+
+وَزِدْنِي يَقِينًا ثَابِتًا بِكَ وَإِخْلَاصًا
+
+بِحَقِّكَ يَا حَقَّ الْأُمُورِ تَيَسَّرَتْ
+
+أَضَاءَتْ عَلَى قَلْبِي بَوَارِقُ نُورِهِ
+
+وَلَاحَ عَلَى وَجْهِي ضِيَاءٌ فَانْشَرَقَتْ [الفعل الأخير قريب من «فانشرقت» في الرسم، وضبطه تقريبي.]
+
+وَصُبَّ عَلَى قَلْبِي شَآبِيبَ رَحْمَةٍ
+
+</div>
+
+**[Transliterasi Latin Fonetik]**
+
+*Wa-thahhir bihi qalbi minar-rijsi wal-ghilli*
+
+*Wa-zidni yaqinan thabitan bika wa-ikhlasan*
+
+*Bi-haqqika ya haqqa al-umuri tayassarat*
+
+*Adha'at 'ala qalbi bawariqu nurihi*
+
+*Wa-laha 'ala wajhi dhiya'un fansharaqat [the final verb is read tentatively from the print.]*
+
+*Wa-subba 'ala qalbi sha'abiba rahmatin*
+
+**[Terjemahan Indonesia]**
+
+Sucikanlah dengannya hatiku dari kotoran dan kedengkian.
+
+Tambahkanlah kepadaku keyakinan yang teguh kepada-Mu serta keikhlasan.
+
+Demi hak-Mu, wahai Yang Maha Benar, segala urusan pun dimudahkan.
+
+Kilat-kilat cahaya-Nya menerangi hatiku.
+
+Cahaya tampak pada wajahku, lalu [kata kerja penutup dibaca tentatif] bersinar.
+
+Curahkanlah hujan rahmat ke atas hatiku.
+
+**[Syarah]**
+
+> (668) Washal menyambung doa pada BATCH_25: setelah memohon ilmu dan hikmah, nazham memohon penyucian hati. «طَهِّرْ» fi'il amr; «به» jar-majrur dan «قلبي» maf'ul bih. Pada «الرجس», lam ta'rif melebur sebelum ra; ghain pada «الغلّ» dibaca jelas.
+>
+> (669) «وزدني يقيناً ثابتاً بك وإخلاصاً» terbaca. «زدني» fi'il amr; «يقيناً» maf'ul bih dan «ثابتاً» sifatnya. Tanwin «يقيناً» sebelum tha pada «ثابتاً» dibaca ikhfa, sedangkan tanwin «ثابتاً» sebelum ba pada «بك» dibaca iqlab dengan ghunnah.
+>
+> (670) «بحقك يا حق الأمور تيسرت» terbaca. «بحقك» jar-majrur; «يا حق» seruan, dan «الأمور» mudaf ilaih. «تيسرت» dipertahankan sebagaimana tampak, sebagai fi'il madhi feminin.
+>
+> (671) Pada pindaian terbaca «أضاءت على قلبي بوارق نوره». «بوارق» fa'il yang datang sesudah fi'il; «نور» menjadi mudaf ilaih. Washal mempertahankan hubungan frasa «على قلبي» dengan «بوارق نوره».
+>
+> (672) «ولاح على وجهي ضياء» tampak jelas; penutup menyerupai «فانشرقت» dan dicatat sebagai bacaan tentatif, bukan dinormalkan diam-diam. «ضياءٌ» marfu' sebagai fa'il; tanwinnya sebelum fa pada penutup dibaca ikhfa dengan ghunnah.
+>
+> (673) «وصب على قلبي شآبيب رحمة» merupakan doa langsung. «صُبَّ» fi'il amr; «شآبيب» maf'ul bih dan «رحمة» mudaf ilaih.
+
+## Halaman PDF 84 (= cetak 83)
+
+### Bagian 1 — Doa atas hikmah, perlindungan, dan pemadaman api (larik 674–687)
+
+**[Teks Arab Asli]**
+
+<div dir="rtl">
+
+بِحِكْمَةِ مَوْلَانَا الْحَكِيمِ فَأَحْكَمَتْ
+
+أَحَاطَتْ بِنَا الْأَنْوَارُ مِنْ كُلِّ جَانِبٍ
+
+وَهَيْبَةُ مَوْلَانَا الْعَظِيمِ بِنَا عَلَتْ
+
+فَسُبْحَانَكَ اللَّهُمَّ يَا خَيْرَ بَارِئٍ
+
+وَيَا خَيْرَ خَلَّاقٍ لَهُ الْخَلْقُ أَمِنْتُ [لفظ قصير بين «الخلق» و«أمنت» غير واضح في الطباعة؛ قراءة «أمنت» تقريبية.]
+
+أَفِضْ لِي مِنَ الْأَنْوَارِ فَيْضَةً مُشْرِقَةً [الختام يتبع أقرب قراءة ظاهرة «مشرقة».]
+
+عَلَيَّ وَأَحْيِ مَيِّتَ قَلْبِي بِلُطْفِكَ
+
+أَلَا وَأَلْبِسْنِي هَيْبَةً وَجَلَالَةً
+
+وَكَفَّ يَدَ الْأَعْدَاءِ عَنِّي بِتَلَطُّفٍ
+
+أَلَا وَاجْنُبْنِي مِنْ عَدُوٍّ ظَالِمٍ
+
+بِحَقِّ شَمَاخٍ وَأَشْمَخَ سَلْطَنَةٍ سَمَتْ [الأسماء واللفظ الأوسط قراءة تقريبية لحروف الطباعة.]
+
+بِصِمْصَامٍ [لفظ قصير غير واضح] بِحَرْفِ [لفظ الختام غير مقروء]
+
+بِنَهْرَاشٍ [لفظ بعد الاسم غير واضح] بِهَا النَّارُ أَخْمَدَتْ [خاتمة قصيرة مطموسة.]
+
+بِضَمَامِ نِظَامٍ وَبِالنُّورِ وَالضِّيَاءِ
+
+</div>
+
+**[Transliterasi Latin Fonetik]**
+
+*Bi-hikmati mawlana al-hakimi fa-ahkamat*
+
+*Ahatat bina al-anwaru min kulli janibin*
+
+*Wa-haybatu mawlana al-'azhimi bina 'alat*
+
+*Fa-subhanaka Allahumma ya khayra bari'in*
+
+*Wa-ya khayra khallaqin lahu al-khalqu [short printed fragment unclear] amintu [tentative reading of the final word]*
+
+*Afidh li minal-anwari faydatan mushriqatan [mushriqatan follows the visible print tentatively]*
+
+*'Alayya wa-ahyi mayyita qalbi bi-lutfika*
+
+*Ala wa-albisni haybatan wa-jalalatan*
+
+*Wa-kaffa yada al-a'da'i 'anni bi-talattufin*
+
+*Ala wa-ajnibni min 'aduwwin zalimin*
+
+*Bi-haqqi Shamakhin wa-Ashmakha saltanatin samat [proper names and the middle form are tentative readings]*
+
+*Bi-simsamin [short word unclear] bi-harfi [final word unreadable]*
+
+*Bi-Nahrashin [word after the name unclear] biha an-naru akhmadat [short ending obscured]*
+
+*Bi-dhamami nizhamin wa-bin-nuri wa-ad-dhiya'i*
+
+**[Terjemahan Indonesia]**
+
+Dengan hikmah Tuhan kami Yang Mahabijaksana, Dia pun menyempurnakan.
+
+Cahaya-cahaya meliputi kami dari setiap sisi.
+
+Kewibawaan Tuhan kami Yang Mahaagung meninggi bersama kami.
+
+Mahasuci Engkau, ya Allah, sebaik-baik Pencipta.
+
+Wahai sebaik-baik Pencipta, milik-Nya seluruh makhluk; aku pun merasa aman. [Ada fragmen cetak singkat yang tidak jelas; «أمنت» dibaca tentatif.]
+
+Limpahkanlah kepadaku curahan cahaya yang bersinar. [Bentuk penutup dibaca tentatif dari cetakan.]
+
+Atas diriku; hidupkanlah hati yang mati dengan kelembutan-Mu.
+
+Kenakanlah kepadaku kewibawaan dan kemuliaan.
+
+Tahanlah tangan para musuh dariku dengan kelembutan.
+
+Jauhkanlah aku dari musuh yang zalim.
+
+Demi hak «Shamakh» dan «Ashmakh», serta lafaz yang menyerupai «saltanah samat». [Rangkaian nama dipertahankan tanpa makna yang dipaksakan.]
+
+Dengan «ṣimṣām» [satu lafaz pendek tidak terbaca], demi huruf «[lafaz penutup tidak terbaca]».
+
+Dengan «Nahrash» [lafaz sesudah nama tak jelas], dengannya api dipadamkan. [Ada penutup pendek yang samar.]
+
+Dengan «Ḍamām Niẓām», dengan cahaya dan sinar.
+
+**[Syarah]**
+
+> (674) «بحكمة مولانا الحكيم فأحكمت» terbaca. «بحكمة» jar-majrur dan «مولانا الحكيم» rangkaian idafa/sifat; «فأحكمت» dipertahankan sebagai fi'il madhi feminin menurut bentuk cetak.
+>
+> (675) «أحاطت بنا الأنوار من كل جانب» jelas. «الأنوار» fa'il yang datang setelah fi'il feminin; «بنا» dan «من كل جانب» adalah jar-majrur.
+>
+> (676) «هيبة مولانا العظيم بنا علت» terbaca. «هيبة» menjadi fa'il bagi «علت»; «مولانا» mudaf ilaih, sedangkan «العظيم» sifatnya.
+>
+> (677) «فسبحانك اللهم يا خير بارئ» adalah tasbih dan seruan. «يا خير» munada mudaf; bila disambung ke larik berikutnya, tanwin «بارئٍ» bertemu waw dan dibaca idgham bighunnah.
+>
+> (678) «ويا خير خلاق له الخلق» terbaca; bacaan «أمنت» dan fragmen pendek sebelumnya tentatif. «له الخلق» susunan khabari; «أمنت» tidak diberi objek tambahan yang tak tercetak.
+>
+> (679) «أفض لي من الأنوار فيضة مشرقة» merupakan permohonan. «أفض» fi'il amr; «لي» dan «من الأنوار» jar-majrur, sementara «فيضةً» maf'ul bih dan «مشرقةً» sifatnya.
+>
+> (680) «علي وأحي ميت قلبي بلطفك» menyambung «عليّ» dengan limpahan pada larik sebelumnya, lalu memohon kehidupan hati. «أحيِ» fi'il amr; «ميت قلبي» maf'ul bih dalam susunan idafa.
+>
+> (681) «ألا وألبسني هيبة وجلالة» adalah perintah; «هيبة» dan «جلالة» menjadi objek yang dimohonkan.
+>
+> (682) «وكف يد الأعداء عني بتلطف» terbaca. «يد» maf'ul bih dalam susunan idafa kepada «الأعداء»; «عني» dan «بتلطف» jar-majrur. Bentuk fi'il mengikuti teks, tanpa menambahkan pelaku.
+>
+> (683) «ألا واجنبني من عدو ظالم» merupakan permohonan menjauhkan diri. «اجنبني» fi'il amr; «من عدو» jar-majrur dan «ظالم» sifat.
+>
+> (684) Bentuk pada pindaian mendekati «بحق شماخ وأشمخ سلطنة سمت». Nama dan lafaz tengah dipertahankan sebagai bacaan tentatif; i'rabnya tidak dipaksakan.
+>
+> (685) «بصمصام» dan «بحرف» terlihat; lafaz di antaranya/penutupnya kurang terang. Rangkaian ini dipertahankan sebagai istilah khusus tanpa tafsir leksikal.
+>
+> (686) «بنهرش» serta «بها النار أخمدت» terbaca; fragmen setelah nama dan ujung baris samar. «النار» dipahami sebagai fa'il mu'annats dari «أخمدت» sesuai susunan.
+>
+> (687) «بضمام نظام وبالنور والضياء» terbaca. «بضمام نظام» dan «بالنور والضياء» jar-majrur; washāl menyambungkan kedua frasa sumpah, tanpa menghapus pengulangan.
+
+---
+
+# BATCH 27 — Halaman PDF 84–85
+
+## Halaman PDF 84 (= cetak 83)
+
+### Bagian 1 — Sambungan nama dan penyingkapan (larik 688–690)
+
+**[Teks Arab Asli]**
+
+<div dir="rtl">
+
+بِنَهْرَاشٍ [لفظ تالٍ غير واضح] بِالْجِنِّ [مقطع قصير مطموس] لَمْ تُسَخَّرْ [خاتمة غير واضحة]
+
+بِنُورِ جَلَالٍ [اللفظ بعد «جلال» قريب من «بارخ»] وَشَرْنَطٍ [اسم خاص، ضبطه تقريبي] [تتمة السطر غير مقروءة]
+
+بِقُدُّوسٍ بِرَهُوبٍ بِهِ الظُّلْمَةُ انْجَلَتْ [خاتمة قصيرة مطموسة في الطباعة.]
+
+</div>
+
+**[Transliterasi Latin Fonetik]**
+
+*Bi-Nahrashin [following word unclear] bil-jinni [short printed fragment obscured] lam tusakhkhar [ending unclear]*
+
+*Bi-nuri jalalin [the next form resembles barikh] wa-sharnatin [proper name, approximate] [line continuation unreadable]*
+
+*Bi-Quddusin bi-rahubin bihi adh-dhulmatu injalat [a short ending is obscured.]*
+
+**[Terjemahan Indonesia]**
+
+Dengan «Nahrash» [lafaz sesudahnya tidak terbaca], terhadap jin [fragmen pendek tidak jelas] yang belum ditundukkan [ujung larik samar].
+
+Dengan cahaya keagungan [kata sesudah «jalal» menyerupai «barikh»] dan «Sharnat» [nama khusus, bacaan tentatif]. [Sambungan larik tidak terbaca.]
+
+Dengan Yang Mahakudus, dengan «Rahub», kegelapan tersingkap dengannya. [Ada penutup pendek yang samar.]
+
+**[Syarah]**
+
+> (688) Pada pindaian terbaca «بنهرش» dan «بالجن»; fragmen penghubung serta ujung larik tidak cukup jelas untuk dipastikan. Washal menyambung nama itu dengan penyebutan jin. Nama khusus tidak diberi arti leksikal yang belum terbukti.
+>
+> (689) «بنور جلال» dan bentuk yang menyerupai «شرنط» tampak. Lafaz di antaranya dibaca tentatif sebagai «بارخ»; susunan tidak dinormalkan menjadi frasa Arab lain.
+>
+> (690) «بقدوس برهوب به الظلمة انجلت» terbaca cukup jelas. «بقدوس» dan «برهوب» adalah jar-majrur; «الظلمة» fa'il bagi «انجلت». Ghain pada «الظلمة» dibaca jelas, dan tidak ada qalqalah pada qaf «قدوس» selama berharakat.
+
+## Halaman PDF 85 (= cetak 84)
+
+### Bagian 1 — Permohonan cahaya, kelapangan, dan perlindungan (larik 691–707)
+
+**[Teks Arab Asli]**
+
+<div dir="rtl">
+
+أَلَا وَاقْضِ يَا رَبِّ بِالنُّورِ حَاجَتِي
+
+وَيَا أَنْخَ جَلِيًّا سَرِيعًا قَدِ انْقَضَتْ [«أنخ» اسم/لفظ خاص؛ الخاتمة بعد «انقضت» غير واضحة.]
+
+وَيَسِّرْ أُمُورِي يَا مُيَسِّرُ وَأَعْطِنِي
+
+مِنَ الْعِزِّ وَالْعَلَاءِ عِزًّا تَسَامَيْتُ
+
+وَأَرْسِلْ لِي [لفظ بعد «لي» قريب من «الذنب»] بِطَبِيبٍ [مقطع قصير غير واضح] مَعَاطِبِي [القراءة الأخيرة تقريبية.]
+
+وَبِالِاسْمِ أَرْسِلْهَا بِكَسْبٍ تَسْهَلَتْ [الفعل الأخير يتبع أقرب قراءة للرسم.]
+
+أَسْلِمْ بِسَحْرٍ وَأَعْطِنِي خَيْرَ [لفظ بعد «خير» غير واضح]
+
+وَاسْبِلْ عَلَيَّ السِّتْرَ بِالْحُجُبِ [خاتمة السطر قريبة من «أسبلت».]
+
+وَيَبْلُغْ بِهِ قَصْدِي وَكُلَّ مَآرِبِي
+
+بِحَقِّ حُرُوفٍ يَا إِلَهِي نَجَحْتُ [خاتمة قصيرة غير واضحة.]
+
+بِسِرِّ حُرُوفٍ أُودِعَتْ فِي عَزْمَتِي [الختام غير واضح.]
+
+تَبْلُغْنَا الْأَعْمَالُ جَمْعًا بِمَا حَوَتْ [قراءة الكلمة الأولى تقريبية من الرسم.]
+
+بِبَاءٍ [مقاطع الاسم التالية غير مقروءة] أَصَالِي [خاتمة غير واضحة]
+
+نَجَا [مقطع بعد الفعل غير واضح] بِسِرِّ أَمْرِي [خاتمة غير مقروءة]
+
+أَلَا وَاكْفِنِي يَا ذَا الْجَلَالِ بِكَافِ كُنْ
+
+بِنَصِّ حُكْمٍ قَاطِعٍ [مقطع قصير غير واضح] السِّرِّ [خاتمة غير مقروءة]
+
+وَخَلِّصْنِي مِنْ كُلِّ هَوْلٍ وَشِدَّةٍ
+
+</div>
+
+**[Transliterasi Latin Fonetik]**
+
+*Alā wa-qdi ya rabbi bin-nuri hajati*
+
+*Wa-ya ankh jaliyyan sari'an qad inqadat [Ankh is a proper-name reading; the ending is unclear.]*
+
+*Wa-yassir umuri ya Muyassiru wa-a'tini*
+
+*Minal-'izzi wal-'ala'i 'izzan tasamaytu*
+
+*Wa-arsil li [the word after li resembles «الذنب»] bi-tabibin [short fragment unclear] ma'atibi [tentative reading]*
+
+*Wa-bil-ismi arsilha bi-kasbin tashallat [the final verb is tentative.]*
+
+*Aslim bi-sahrin wa-a'tini khayra [word after khayr unclear]*
+
+*Wa-asbil 'alayya as-sitra bil-hujubi [the ending resembles asbalt]*
+
+*Wa-yablugh bihi qasdi wa-kulla ma'aribi*
+
+*Bi-haqqi hurufin ya ilahi najahhtu [short ending unclear]*
+
+*Bi-sirri hurufin udi'at fi 'azmati [ending unclear]*
+
+*Tablughnal-a'malu jam'an bima hawat [the opening word is a tentative reading.]*
+
+*Bi-ba'in [following name fragments unreadable] asali [ending unclear]*
+
+*Naja [fragment after the verb unclear] bi-sirri amri [ending unreadable]*
+
+*Ala wa-akfini ya dha al-jalali bi-kafi kun*
+
+*Bi-nassi hukmin qati'in [short fragment unclear] as-sirri [ending unreadable]*
+
+*Wa-khallisni min kulli hawlin wa-shiddatin*
+
+**[Terjemahan Indonesia]**
+
+Wahai Tuhanku, penuhilah kebutuhanku dengan cahaya.
+
+Wahai «Ankh», dengan terang dan cepat telah berlalu. [Nama khusus dan sambungan penutup dibaca tentatif.]
+
+Mudahkanlah urusanku, wahai Yang Maha Memudahkan, dan anugerahkanlah kepadaku.
+
+Dari kemuliaan dan keluhuran, aku pun meningkat dalam kemuliaan. [Bacaan «تساميت» mengikuti bentuk cetak.]
+
+Kirimkanlah kepadaku [lafaz setelah «li» menyerupai «al-dhanb»] dengan seorang penyembuh [fragmen pendek tak terbaca] bagi kesulitanku. [Bacaan «معاطبي» tentatif.]
+
+Dengan Nama itu, kirimkanlah ia; dengan upaya, segala urusan menjadi mudah. [Kata kerja penutup dibaca tentatif menurut cetakan.]
+
+Serahkanlah [lafaz sesudah «أسلم» menyerupai «بسحر»] dan berikan kepadaku yang terbaik [kata sesudah «خير» tidak terbaca].
+
+Bentangkanlah atasku perlindungan di balik tabir-tabir. [Penutup larik menyerupai «أسبلت».]
+
+Semoga dengannya tercapai tujuanku dan semua keperluanku.
+
+Demi hak huruf-huruf, wahai Tuhanku, aku berhasil. [Penutup pendek tidak terbaca jelas.]
+
+Demi rahasia huruf-huruf yang dititipkan dalam tekadku. [Ujung baris samar.]
+
+Himpunkanlah amal-amal [kata pembuka dibaca tentatif] beserta segala yang dikandungnya.
+
+Dengan huruf «ba» [rangkaian nama sesudahnya tidak terbaca], «asali» [ujung baris samar].
+
+Selamatlah [fragmen sesudah verba tidak jelas] demi rahasia perintahku [penutup tidak terbaca].
+
+Cukupkanlah aku, wahai Pemilik keagungan, dengan kaf dari «kun».
+
+Dengan nash ketetapan yang tegas [fragmen pendek tak terbaca], rahasia [ujung larik samar].
+
+Bebaskanlah aku dari setiap ketakutan dan kesulitan.
+
+**[Syarah]**
+
+> (691) «ألا واقض يا رب بالنور حاجتي» terbaca. «اقضِ» fi'il amr; «حاجتي» maf'ul bih. «بالنور» jar-majrur, dan lam pada «النور» melebur sebelum nun dalam wasal.
+>
+> (692) Seruan «ويا أنخ» memuat nama/istilah khusus; «جلياً سريعاً قد انقضت» terbaca dengan catatan akhir yang samar. Tanwin «سريعاً» sebelum qaf pada «قد» dibaca ikhfa.
+>
+> (693) «ويسر أموري يا ميسر وأعطني» tampak. «يسّر» dan «أعطني» fi'il amr; «أموري» maf'ul bih dan «يا ميسر» munada.
+>
+> (694) «من العز والعلاء عزا تساميت» terbaca. «من العز والعلاء» jar-majrur; tanwin «عزاً» sebelum ta pada «تساميت» dibaca ikhfa.
+>
+> (695) «وأرسل لي» و«بطبيب» ولفظٌ قريبٌ من «معاطبي» تظهر في الصفحة; الكلمات بين هذه الأجزاء تُقرأ بحذر ولا يُفترض لها معنى قطعيّ.
+>
+> (696) «وبالاسم» و«أرسلها» واضحتان؛ بقية السطر تُحفظ وفق الرسم. «بالاسم» جار ومجرور، و«أرسلها» فعل أمر ومفعوله الضمير.
+>
+> (697) «وأعطني خير» ظاهر؛ اللفظ بعد «أسلم» وبعد «خير» غير ثابت. لا يُستبدل بهما كلامٌ أفصح بلا شاهد.
+>
+> (698) «واسْبِلْ عليّ الستر بالحجب» دعاءٌ واضح؛ «اسبل» فعل أمر، و«الستر» مفعول به، و«بالحجب» جار ومجرور.
+>
+> (699) «قصدي وكل مآربي» واضحان؛ «به» جار ومجرور، و«يبلغ» فعل مضارع مرفوع أو دعائيّ بحسب القراءة.
+>
+> (700) «بحق حروف يا إلهي نجحت» ظاهر. «بحق» جار ومجرور، و«يا إلهي» منادى مضاف؛ خاتمة الفعل تُحفظ على أقرب قراءة.
+>
+> (701) «بسر حروف أودعت في عزمتي» يتصل بموضوع أسرار الحروف. «بسر» جار ومجرور، و«أودعت» فعل ماضٍ مؤنث، والعبارة «في عزمتي» جار ومجرور.
+>
+> (702) «الأعمال جمعاً بما حوت» تُرى في السطر؛ كلمة الافتتاح ضبطها تقريبي. «الأعمال» مرفوعة في القراءة الاسمية، و«بما حوت» تُبقى كما في الرسم.
+>
+> (703) «بباء» و«أصالي» أقرب ما يظهر من الحروف؛ المقاطع بينهما وبعدهما لا تكفي لإعراب أو معنى جازم.
+>
+> (704) «نجا» و«بسر أمري» مقروءان تقريباً؛ لا يُستكمل الفعل باسم أو مفعول غير ظاهر.
+>
+> (705) «ألا واكفني يا ذا الجلال بكاف كن» دعاء واضح. «اكفني» فعل أمر، و«يا ذا الجلال» منادى مضاف؛ عبارة «بكاف كن» محفوظة كما وردت.
+>
+> (706) «بنص حكم قاطع» واضح؛ المقاطع التالية تُسجل بحسب الرسم، من دون إدخال تصحيح نحوي غير مسنود.
+>
+> (707) «وخلصني من كل هول وشدة» دعاء مباشر. «خلّصني» فعل أمر، و«من كل هول» جار ومجرور؛ تنوين «هولٍ» قبل الواو في «وشدة» يدغم بغنة عند الوصل.
+
+---
+
+# BATCH 28 — Halaman PDF 85–87
+
+## Halaman PDF 85 (= cetak 84)
+
+### Bagian 1 — Penutup doa pada halaman (larik 708)
+
+**[Teks Arab Asli]**
+
+<div dir="rtl">
+
+فَأَنْتَ رَجَاءُ الْعَالَمِينَ وَلَوْ [لفظ قصير بعد «ولو» غير واضح] طَمِعَتْ [خاتمة السطر مطموسة؛ قراءة الفعل تقريبية.]
+
+</div>
+
+**[Transliterasi Latin Fonetik]**
+
+*Fa-anta raja'u al-'alamina wa-law [short word after wa-law unclear] thami'at [the ending is obscured; the verb is tentative]*
+
+**[Terjemahan Indonesia]**
+
+Maka Engkaulah harapan seluruh alam, sekalipun [kata setelah «walau» tidak jelas] mengharapkan. [Penutup baris samar; bacaan kata kerja tentatif.]
+
+**[Syarah]**
+
+> (708) «فأنت رجاء العالمين» terbaca jelas. Sesudah «ولو» tampak kata pendek yang tidak dapat dipastikan; penutup menyerupai «طمعت». Washal menghubungkan akhir doa sebelumnya dengan rangkaian permohonan rezeki pada halaman berikutnya.
+
+## Halaman PDF 86 (= cetak 85)
+
+### Bagian 1 — Doa rezeki, perlindungan, dan pembungkaman (larik 709–726)
+
+**[Teks Arab Asli]**
+
+<div dir="rtl">
+
+وَصُبَّ عَلَيَّ الرِّزْقَ صَبًّا رَحْمَةً
+
+وَأَرْسِلْ لِي الْأَرْزَاقَ بِالْخَيْرِ أُرْسِلَتْ [شكل الفعل الأخير ظاهر تقريباً.]
+
+وَبِالِاسْمِ مَانِعٍ كُلَّ مَنْعٍ وَمَانِعٍ [تكرار «مانع» كما في الطباعة؛ الإعراب غير جازم.]
+
+فَأَنْتَ رَجَاءُ السَّائِلِينَ إِذَا دَعَتْ [آخر العبارة يُقرأ تقريبياً.]
+
+وَأَصْمِمْ [لفظ قصير غير واضح] وَأَبْكِمْ [لفظ قصير غير واضح] ثُمَّ أَصْمِمْ [خاتمة مطموسة]
+
+وَأَخْرِسْهُمْ يَا ذَا الْجَلَالِ [مقطع غير واضح] بِحُجَّتِي [خاتمة غير مقروءة]
+
+نَفْيَ خُصُومٍ [مقاطع قصيرة غير واضحة] وَبِتَرَاسِيمَ [خاتمة السطر مطموسة]
+
+تَحَصَّنْتُ بِالِاسْمِ الْعَظِيمِ مِنَ الْفَلَتِ [آخر كلمة/حركة غير ثابتة في الرسم.]
+
+وَيَا [لفظ النداء غير واضح] أَسْرِعْ بِسِرٍّ [مقاطع تالية غير مقروءة]
+
+بِمَقْعَدِ [لفظ بعده غير واضح] لِسَانِ السَّائِلِينَ فَأَعْقَدَتْ [الختام تقريبي.]
+
+وَأَعْمِ عُيُونَ النَّاظِرِينَ جَمِيعَهُمْ
+
+وَأَصْمِمْ وَأُبْكِمْ كُلَّ قَوْمٍ تَكَلَّمَتْ [خاتمة السطر غير واضحة.]
+
+وَأَخْرِسْ بِسِرِّ الْاسْمِ قَوْمًا تَكَلَّمُوا
+
+وَأَصْمِمْ جَمِيعَ الْكُلِّ بِالِاسْمِ أَصْمَتَ [الختام يتبع أقرب قراءة للرسم.]
+
+وَأَوْقِفْ بِأَسْمَاءِ الْجَلَالِ أَيْدِيًا [خاتمة قصيرة غير واضحة.]
+
+تَمُدُّ بِبَطْشٍ بِالْجَلَالِ تَوَقَّفَتْ [تتمة السطر مطموسة.]
+
+وَعَطِّفْ قُلُوبَ الْعَالَمِينَ جَمِيعَهُمْ
+
+عَلَيَّ وَأَلْبِسْنِي قَبُولًا [لفظ قصير غير واضح] بِشَمْلٍ [الختام غير مقروء]
+
+</div>
+
+**[Transliterasi Latin Fonetik]**
+
+*Wa-subba 'alayya ar-rizqa sabban rahmatan*
+
+*Wa-arsil lil-arzaqa bil-khayri ursilat [the final verb is read tentatively]*
+
+*Wa-bil-ismi mani'in kulla man'in wa-mani'in [the repeated form follows the print; syntax is uncertain]*
+
+*Fa-anta raja'u as-sa'ilina idha da'at [the ending is tentative]*
+
+*Wa-asimma [short word unclear] wa-abkim [short word unclear] thumma asimma [ending obscured]*
+
+*Wa-akhrishum ya dha al-jalali [fragment unclear] bi-hujjati [ending unreadable]*
+
+*Nafya khusumin [short fragments unclear] wa-bi-tarasima [line ending obscured]*
+
+*Tahassantu bil-ismi al-'azhimi minal-falati [the last form is uncertain]*
+
+*Wa-ya [vocative word unclear] asri' bi-sirrin [following fragments unreadable]*
+
+*Bi-maq'adi [following word unclear] lisani as-sa'ilina fa-a'aqadat [tentative ending]*
+
+*Wa-a'mi 'uyuna an-nazhirina jami'ahum*
+
+*Wa-asimma wa-abkim kulla qawmin takallamat [ending unclear]*
+
+*Wa-akhris bi-sirri al-ismi qawman takallamu*
+
+*Wa-asimma jami'a al-kulli bil-ismi ashmata [final form tentative]*
+
+*Wa-awqif bi-asma'i al-jalali aydiyan [short ending unclear]*
+
+*Tamuddu bi-batshin bil-jalali tawaqqafat [continuation obscured]*
+
+*Wa-'attif quluba al-'alamina jami'ahum*
+
+*'Alayya wa-albisni qabulan [short word unclear] bi-shamlin [ending unreadable]*
+
+**[Terjemahan Indonesia]**
+
+Curahkanlah kepadaku rezeki sebagai curahan rahmat.
+
+Kirimkanlah kepadaku rezeki dengan kebaikan, yang telah dikirimkan. [Bentuk kata kerja penutup dibaca tentatif.]
+
+Dengan Nama Sang Pencegah, setiap pencegahan dan Sang Pencegah. [Pengulangan «مانع» dipertahankan; susunannya tidak dipastikan.]
+
+Engkaulah harapan orang-orang yang memohon ketika mereka berdoa. [Penutup mengikuti bacaan tentatif.]
+
+Jadikanlah [lafaz pendek tidak jelas] tuli dan [lafaz pendek tidak jelas] bisu, kemudian tuli [penutup samar].
+
+Buatlah mereka kelu, wahai Pemilik keagungan, [fragmen tidak jelas] dengan hujahku [penutup samar].
+
+[Lenyapkanlah] para lawan [fragmen tidak jelas] dengan «tarasim» [ujung larik tidak terbaca].
+
+Aku berlindung dengan Nama Yang Mahaagung dari «al-falat». [Bentuk kata terakhir tidak pasti.]
+
+Wahai [seruan tidak terbaca], segeralah dengan suatu rahasia [fragmen berikutnya tidak terbaca].
+
+Dengan «maq'ad» [lafaz sesudahnya tidak jelas], lidah para pemohon menjadi kelu. [Penutup dibaca tentatif.]
+
+Buatlah buta mata semua orang yang memandang.
+
+Buatlah tuli dan bisu setiap kaum yang berbicara. [Penutup samar.]
+
+Buatlah suatu kaum yang berbicara menjadi kelu dengan rahasia Nama.
+
+Buatlah seluruhnya tuli dengan Nama; bentuk penutup dibaca tentatif.
+
+Hentikanlah tangan-tangan dengan nama-nama keagungan. [Penutup pendek tidak jelas.]
+
+Tangan-tangan yang menjulur dengan kekuatan keagungan pun berhenti. [Sambungan larik samar.]
+
+Lunakkanlah hati seluruh manusia.
+
+Kepadaku, kenakanlah penerimaan [lafaz pendek tidak jelas] secara menyeluruh [penutup tidak terbaca].
+
+**[Syarah]**
+
+> (709) «وصب علي الرزق صباً رحمة» دعاء واضح. «صُبَّ» فعل أمر؛ «الرزق» مفعول به، و«صباً» مصدر، و«رحمةً» تبيّن المقصود. Tanwin «صباً» sebelum ra dibaca idgham tanpa ghunnah.
+>
+> (710) «وأرسل لي الأرزاق بالخير أرسلت» terbaca; bentuk pasif «أرسلت» dipertahankan menurut cetakan. Washal menyambungkan permintaan rezeki dengan sifat kebaikan.
+>
+> (711) «بالاسم مانع كل منع ومانع» mengikuti susunan cetak yang ganjil. «بالاسم» jar-majrur; kata «مانع» berulang dan tidak diubah menjadi kalimat yang lebih fasih tanpa bukti.
+>
+> (712) «فأنت رجاء السائلين إذا دعت» terbaca. «أنت رجاء» jumlah ismiyyah; «إذا دعت» anak kalimat waktu, dengan pelaku feminin yang tidak disebut.
+>
+> (713) Fragmen «أصمم» dan «أبكم» mengandung permohonan tuli/bisu; kata-kata pendek di antaranya dipertahankan sebagai tidak terbaca, bukan dilengkapi dengan tebakan.
+>
+> (714) «أخرسهم يا ذا الجلال بحجتي» tampak. «أخرسهم» fi'il amr; «يا ذا الجلال» munada mudaf dan «بحجتي» jar-majrur.
+>
+> (715) «نفي خصوم» dan «بتراسيم» adalah bacaan kerja dari huruf yang terlihat; fragmen tengah tidak cukup jelas untuk dipastikan.
+>
+> (716) «تحصنت بالاسم العظيم» terbaca; «من الفلت» mengikuti rupa cetak dan tidak dinormalkan. «بالاسم العظيم» jar-majrur.
+>
+> (717) «أسرع بسر» tampak setelah seruan «ويا»; nama/fragmen di antaranya dipertahankan sebagai tidak jelas.
+>
+> (718) «لسان السائلين» dan «فأعقدت» tampak; «بمقعد» dibaca menurut bentuk cetak dengan kata sesudahnya belum pasti.
+>
+> (719) «وأعم عيون الناظرين جميعهم» terbaca jelas. «أعمِ» fi'il amr; «عيون» maf'ul bih dan «الناظرين» mudaf ilaih.
+>
+> (720) «وأصمم وأبكم كل قوم تكلمت» dipertahankan sebagaimana cetakan; penutupnya tidak diubah agar sesuai dengan norma yang diharapkan.
+>
+> (721) «وأخرس بسر الاسم قوماً تكلموا» دعاء بصيغة الأمر؛ «قوماً» مفعول به و«تكلموا» صلة/جملة وصفية بحسب السياق.
+>
+> (722) «وأصمم جميع الكل بالاسم أصمت» يظهر في الرسم؛ ضبط آخر الفعل تقريبي، ولا يُحمّل أكثر مما يدل عليه النص.
+>
+> (723) «وأوقف بأسماء الجلال أيدياً» دعاء؛ «أوقف» فعل أمر، و«أيدياً» مفعول به. تتمة السطر غير واضحة.
+>
+> (724) «تمدّ ببطش بالجلال توقفت» محفوظ كما في المطبوع؛ الفاعل المقصود في الجملة غير مصرح به، وتتمة السطر مطموسة.
+>
+> (725) «وعطف قلوب العالمين جميعهم» terbaca jelas. «عطّف» fi'il amr; «قلوب» maf'ul bih dan «العالمين» mudaf ilaih.
+>
+> (726) «وألبسني قبولاً» terbaca; kata penghubung dan penutup sesudahnya kurang jelas. «ألبسني» fi'il amr dengan ya sebagai maf'ul bih.
+
+## Halaman PDF 87 (= cetak 86)
+
+### Bagian 1 — Doa atas keberkahan usaha (larik 727)
+
+**[Teks Arab Asli]**
+
+<div dir="rtl">
+
+وَبَارِكْ لَنَا اللَّهُمَّ فِي جَمْعِ كَسْبِنَا [لفظ قصير بعد «كسبنا» مطموس.]
+
+</div>
+
+**[Transliterasi Latin Fonetik]**
+
+*Wa-barik lana Allahumma fi jam'i kasbina [a short closing fragment is obscured]*
+
+**[Terjemahan Indonesia]**
+
+Berkahilah bagi kami, ya Allah, himpunan usaha dan penghasilan kami. [Ada fragmen pendek sesudah «kasbina» yang tidak terbaca.]
+
+**[Syarah]**
+
+> (727) «وبارك لنا اللهم في جمع كسبنا» terbaca; washāl menyambungkan doa keberkahan ini dengan rangkaian sebelumnya. «بارك» fi'il amr; «لنا» dan «في جمع» jar-majrur, dan «كسبنا» mudaf ilaih.
+
+---
+
+# BATCH 29 — Halaman PDF 87–88
+
+## Halaman PDF 87 (= cetak 86)
+
+### Bagian 1 — Sambungan doa: pembukaan ikatan dan penolakan musuh (larik 728–743)
+
+**[Teks Arab Asli]**
+
+<div dir="rtl">
+
+وَحُلَّ عُقُودَ السِّحْرِ يَا [اسم النداء بعد «يا» غير واضح؛ خاتمته تشبه «أرنخت»]
+
+[سطر أسماء طلسمية متتابعة؛ تظهر مقاطع قصيرة متفرقة، لكن اتصال الحروف لا يسمح بتثبيت القراءة بأمان]
+
+وَيَا مَنْ لَنَا الْأَرْزَاقُ مِنْ جُودِهِ نَمَتْ
+
+نَرُدُّ بِكَ الْأَعْدَاءَ مِنْ كُلِّ جِهَةٍ
+
+وَبِالِاسْمِ نَرْمِيهِمْ مِنَ الْبُعْدِ [اللفظ الأخير باهت؛ يشبه «بالشتت»]
+
+فَأَنْتَ رَجَائِي يَا إِلَهِي وَسَيِّدِي
+
+نُفَرِّقُ [تتابع أسماء/ألفاظ غير واضحة] [نهاية السطر تقرأ على نحو «أضمرت»]
+
+[اسم طلسم غير مقروء] يَا إِلَهِي [بقية السطر مطموسة]
+
+بِاسْمِ [لفظ يظهر قريباً من «عظيم»] [اسم تالٍ غير واضح] [خاتمة غير مقروءة]
+
+فَيَا خَيْرَ مَسْؤُولٍ وَأَكْرَمَ مَنْ دَعَا
+
+وَيَا خَيْرَ مَأْمُولٍ بِهِ الْخَيْرُ [الفعل الأخير غير جلي؛ يظهر كأنه «أقبلت»]
+
+[سطر بأسماء طلسمية؛ حروفه الوسطى متشابكة ولا تُقرأ بثقة]
+
+[مقطع اسمي غير واضح] [تتمة قصيرة باهتة]
+
+سِرَاجُ [لفظ بعده غير واضح] [خاتمة السطر غير مقروءة]
+
+بِقَدَادِ [اسم/مقطع بعده غير واضح] [بقية السطر مطموسة]
+
+[سطر من أسماء طلسمية؛ تظهر في آخره مقاطع تشبه «الشاذخ» و«بنوخ» دون إمكان تثبيت تمام العبارة]
+
+</div>
+
+**[Transliterasi Latin Fonetik]**
+
+*Wa-hul 'uquda as-sihri ya [vocative name unclear; final letters resemble “arnakht”]*
+
+*[a line of connected talismanic names; the letter sequence is too indistinct for a reliable phonetic rendering]*
+
+*Wa-ya man lana al-arzaqu min judihi namat*
+
+*Naruddu bika al-a'da'a min kulli jihatin*
+
+*Wa-bil-ismi narmihim minal-bu'di [the final printed word is faint; it resembles “bishatat”]*
+
+*Fa-anta raja'i ya ilahi wa-sayyidi*
+
+*Nufarriqu [unclear name-like sequence] [the ending resembles “admarat”]*
+
+*[unreadable talismanic name] ya ilahi [remainder obscured]*
+
+*Bi-ismi [word resembles “'azhim”] [following name unclear] [ending unreadable]*
+
+*Fa-ya khayra mas'ulin wa-akrama man da'a*
+
+*Wa-ya khayra ma'mulin bihi al-khayru [the final verb is tentative]*
+
+*[connected talismanic names; middle letters cannot be read confidently]*
+
+*[unclear name-like fragment] [short continuation faint]*
+
+*Siraju [following word unclear] [line ending unreadable]*
+
+*Bi-qadadi [following name-like fragment unclear] [remainder obscured]*
+
+*[line of talismanic names; the ending only tentatively resembles “ash-shadhikh” and “banukh”]*
+
+**[Terjemahan Indonesia]**
+
+Lepaskanlah ikatan-ikatan sihir, wahai [nama seruan tidak terbaca; ujungnya menyerupai «arnakht»].
+
+Baris ini berisi nama-nama invokatif yang huruf-hurufnya saling bertaut; bunyinya tidak dapat ditetapkan dengan aman.
+
+Wahai Dia yang dari kemurahan-Nya rezeki tumbuh bagi kami.
+
+Dengan pertolongan-Mu, kami menolak para musuh dari segala penjuru.
+
+Dengan Nama itu, kami lemparkan mereka dari kejauhan. [Kata terakhir pada cetakan samar.]
+
+Engkaulah harapanku, wahai Tuhanku dan junjunganku.
+
+Kami pisahkan [kelompok nama/seruan tidak terbaca]; penutupnya tampak menyerupai «أضمرت».
+
+[Nama invokatif tidak terbaca], wahai Tuhanku. [Sisa baris tertutup oleh ketidakjelasan huruf.]
+
+Dengan nama [lafaz yang menyerupai «agung»], [nama berikutnya tidak jelas]. [Akhir baris tidak terbaca.]
+
+Wahai sebaik-baik tempat meminta dan semulia-mulia pihak yang dimohon.
+
+Wahai sebaik-baik yang diharapkan, melalui-Nya kebaikan [kata kerja terakhir samar].
+
+Baris ini berisi nama-nama invokatif; bagian tengahnya tidak dapat dipastikan.
+
+[Nama/fragmen pendek tidak terbaca]; [sambungannya samar].
+
+Pelita [lafaz sesudahnya tidak terbaca]. [Ujung larik samar.]
+
+Dengan «Qadad» [nama/fragmen sesudahnya tidak jelas]. [Sisa baris tertutup.]
+
+Baris penutup memuat nama-nama talismanik; beberapa huruf menyerupai «al-shadhikh» dan «banukh», tetapi bacaan lengkapnya tidak pasti.
+
+**[Syarah]**
+
+> (728) «حُلَّ» fi'il amr dan «عقود السحر» menjadi objeknya. Seruan sesudah «يا» berupa nama yang kurang jelas; washāl menghubungkan perintah ini dengan rangkaian nama pada larik berikutnya.
+>
+> (729) Baris didominasi nama invokatif. Karena huruf-hurufnya bertaut pada pindaian, tidak dipaksakan i'rab atau makna leksikal.
+>
+> (730) «يا من لنا الأرزاق من جوده نمت» terbaca sebagai pujian kepada sumber kemurahan rezeki. «من جوده» jar-majrur, sementara «نمت» verba lampau feminin yang mengikuti «الأرزاق» sebagai jamak tak berakal.
+>
+> (731) «نردّ بك الأعداء من كل جهة» memuat verba orang pertama jamak dan objek «الأعداء»; «من كل جهة» menerangkan cakupan arah.
+>
+> (732) «بالاسم نرميهم من البعد» terbaca; kata terakhir samar dan tidak dinormalkan. Washāl meneruskan doa penolakan musuh.
+>
+> (733) «فأنت رجائي» jumlah ismiyyah yang jelas; «يا إلهي» seruan, disusul «وسيدي» sebagai pujian.
+>
+> (734) Awal «نفرق» tampak, tetapi rangkaian sesudahnya merupakan nama/fragmen yang belum dapat dibaca. Penutup yang tampak seperti «أضمرت» dipertahankan sebagai tentatif.
+>
+> (735) Hanya seruan «يا إلهي» yang terbaca dengan cukup aman; nama sebelum dan kelanjutan sesudahnya tidak ditafsirkan.
+>
+> (736) «باسم» dan kata yang tampak seperti «عظيم» terbaca; nama berikutnya belum pasti. Tidak ditambahkan harakat i'rab pada nama-nama non-Arab.
+>
+> (737) «فيا خير مسؤول وأكرم من دعا» merupakan seruan pujian. «خير» dan «أكرم» mengikuti pola af'al at-tafdil.
+>
+> (738) «يا خير مأمول به الخير» tampak; kata kerja penutup hanya dibaca sementara. Washāl menyambungkan permohonan kebaikan dengan seruan sebelumnya.
+>
+> (739) Baris memuat nama-nama bertaut yang tidak cukup jelas untuk diurai menjadi kata Arab biasa.
+>
+> (740) Fragmen nama dan sambungan larik sama-sama pudar; keduanya dipertahankan sebagai bagian nazham tanpa pengisian.
+>
+> (741) «سراج» terbaca, tetapi kata sesudahnya tidak jelas; karena itu makna “pelita” tidak diperluas melampaui lafaz yang tampak.
+>
+> (742) «بقداد» merupakan bacaan tentatif dari bentuk huruf; sisa larik tidak cukup jelas untuk analisis nahwu.
+>
+> (743) Penutup halaman berupa nama invokatif. Beberapa gugus huruf tampak menyerupai «الشاذخ» dan «بنوخ», tetapi pelafalan lengkap tidak dipastikan.
+
+## Halaman PDF 88 (= cetak 87)
+
+### Bagian 1 — Sambungan nazham: nama dan penutup seruan (larik 744–747)
+
+**[Teks Arab Asli]**
+
+<div dir="rtl">
+
+بِشَنْخٍ شُمُوخٍ شَايِخٍ قَدْ تَشَخَّصَتْ
+
+أَبَارِيجُ بَنُوخٍ [لفظ تالٍ يبدو «ويشراح»] [الخاتمة تقرأ تقريباً «برخوا»]
+
+شَمَارِيخُ بِشَرَاحٍ شُرُوحٍ [الفعل الأخير يبدو «تشلخت»، وقراءته تقريبية]
+
+بَنْجَلِيخُ شَنَانَا وَبَانُوخُ بَعْدَهَا
+
+</div>
+
+**[Transliterasi Latin Fonetik]**
+
+*Bi-shankhin shumukhin shayikhin qad tashakhkhasat*
+
+*Abariju banukhin [following name resembles “wayishrah”] [ending tentatively “barakhu”]*
+
+*Shamarikhu bisharahi shuruhin [the final verb resembles “tashalakhat”; tentative]*
+
+*Banjalikhu shanana wa-banukhu ba'daha*
+
+**[Terjemahan Indonesia]**
+
+Dengan «Shankh, Shumukh, Shayikh»—nama-nama invokatif—ia sungguh tampak/menjelma («qad tashakhkhasat»).
+
+«Abarij, Banukh» dan nama yang tampak seperti «Wayishrah»; penutupnya terbaca tentatif «Barakhu».
+
+«Shamarikh, Bisharah, Shuruh»; kata kerja penutup tampak seperti «tashalakhat», tetapi bentuk lengkapnya tetap tentatif.
+
+«Banjalikh, Shanana, Banukh», kemudian [sambungan samar].
+
+**[Syarah]**
+
+> (744) «بشنخ شموخ شايخ قد تشخصت» tampak pada cetakan. Tiga bentuk pertama diperlakukan sebagai nama invokatif; «قد» mendahului verba lampau «تشخصت» (bacaan huruf demi huruf tetap perlu kehati-hatian).
+>
+> (745) «أباريج بنوخ» terbaca, disusul bentuk yang menyerupai «ويشراح» dan penutup «برخوا». Karena rangkaiannya berupa nama khusus, tidak dipaksakan i'rab atau arti kamus.
+>
+> (746) Cetakan menampilkan «شماريخ بشراح شروح»; kata terakhir tampak seperti «تشلخت». Bentuk tersebut dipertahankan sebagai bacaan tentatif, bukan dibetulkan menjadi kata baku.
+>
+> (747) «بنجليخ شنانا وبانوخ بعدها» terbaca sebagai rangkaian nama dan kata «بعدها». Susunan ini dipertahankan sebagaimana terlihat; makna nama-nama tidak ditebak.
+
+---
+
+# BATCH 30 — Halaman PDF 88–89
+
+## Halaman PDF 88 (= cetak 87)
+
+### Bagian 1 — Rangkaian nama dan permohonan (larik 748–760)
+
+**[Teks Arab Asli]**
+
+<div dir="rtl">
+
+وَدَامُوحُ [اللفظ التالي يبدو «ينشوخ»] بِهَا الْكَوْنُ [الخاتمة تشبه «عطرت»]
+
+بَالِيخُ شَلَايُ وَقَانُولُخُ بَعْدَهَا
+
+وَرَامُوحُ أَنْمُوحُ بِهَا الظُّلْمَةُ انْجَلَتْ
+
+عَلَى مَا [عبارة قصيرة بعد «ما» غير واضحة] [بقية السطر باهتة]
+
+بِحَقِّ [اسم/لفظ غير واضح] [تتمة السطر تنتهي بما يشبه «زاحمت»]
+
+كَمَا [لفظ غير واضح] بِبَابٍ [مقطع غير واضح] جَمِيعُهَا
+
+بِشَخَّاخٍ مَشَخَّاخٍ [لفظ بعده يشبه «كون»] [الخاتمة غير واضحة]
+
+بِآلِ [اسمين متتابعين؛ يظهران كـ«أهيل» و«شلع»] [تتمة السطر باهتة]
+
+طَحْطِي طَحْطُوبُ طَفَطُوبُ [اللفظ الأخير يشبه «تسامت»]
+
+حُرُوفٌ [مقطع بعده يشبه «لبهرام»] [الخاتمة متصلة وغير واضحة]
+
+وَأَسْمَاءُ عَصَا مُوسَى بِهَا الظُّلْمَةُ انْجَلَتْ
+
+تَوَسَّلْتُ مَوْلَانَا إِلَيْكَ بِسِرِّهَا
+
+تَوَسَّلْتُ ذَا عِزٍّ بِهِ النَّاسُ اهْتَدَتْ
+
+</div>
+
+**[Transliterasi Latin Fonetik]**
+
+*Wa-damukhu [following word resembles “yanshukh”] biha al-kawnu [ending resembles “'athurat”]*
+
+*Balikhu shalayu wa-qanulukhu ba'daha*
+
+*Wa-ramukhu anmukhu biha az-zulmatu injalat*
+
+*'Ala ma [short phrase after ma unclear] [remainder faint]*
+
+*Bi-haqqi [unclear name/word] [the line ending resembles “zahamat”]*
+
+*Kama [unclear word] bi-babin [unclear fragment] jami'uha*
+
+*Bi-shakhkhin mashakhkhin [following word resembles “kawn”] [ending unclear]*
+
+*Bi-ali [two names appear as “ahil” and “shala'] [faint continuation]*
+
+*Tahṭi tahṭubu tafaṭubu [final word resembles “tasamat”]*
+
+*Hurufun [following fragment resembles “labahram”] [connected, unclear ending]*
+
+*Wa-asma'u 'asa Musa biha az-zulmatu injalat*
+
+*Tawassaltu mawlana ilayka bi-sirriha*
+
+*Tawassaltu dha 'izzin bihi an-nasu ihtadat*
+
+**[Terjemahan Indonesia]**
+
+«Damūḥ» dan [lafaz yang menyerupai «Yanshūkh»]; melalui rangkaian ini, [kata tentang alam tampak], sedangkan penutup menyerupai «عطرت» (“menjadi harum”). Nama-namanya tidak ditafsirkan.
+
+«Balikh, Shalay, Qanulukh», kemudian [nama lain tidak ditambahkan].
+
+«Ramūḥ, Anmūḥ»; melaluinya kegelapan tersingkap. [Bagian nama tidak diterjemahkan.]
+
+«Atas apa…» [sesudah «ما» dan sisa larik tidak terbaca dengan aman.]
+
+Demi [nama/ungkapan tidak jelas]… [ujungnya menyerupai «زاحمت»; makna keseluruhan tidak pasti.]
+
+Sebagaimana [lafaz samar] pada pintu [fragmen tidak jelas], seluruhnya [sambungan samar].
+
+«Shakhkhakh, Mashakhkhakh» [diikuti lafaz menyerupai «kawn»]; akhir baris tidak terbaca.
+
+Dengan «Āl…» [dua nama menyerupai «Ahil» dan «Shal‘»]; sambungannya pudar.
+
+«Taḥṭī, Taḥṭūb, Ṭafaṭūb» [kata terakhir samar].
+
+Huruf-huruf [diikuti fragmen menyerupai «Labahram»]; akhir larik bertaut dan tidak dapat dipastikan.
+
+Dengan nama-nama dan tongkat Musa, kegelapan pun tersingkap.
+
+Aku memohon kepada Junjungan kami, dengan rahasianya.
+
+Aku memohon kepada Yang Maha Mulia; dengannya manusia mendapat petunjuk.
+
+**[Syarah]**
+
+> (748) Cetakan menampilkan nama «وداموح» dan lafaz berikut yang menyerupai «ينشوخ». Frasa «بها الكون» serta penutup yang tampak seperti «عطرت» memberi konteks pujian, tetapi nama khusus tidak ditafsirkan.
+>
+> (749) «باليخ، شلاي، قانولخ» adalah urutan nama invokatif; «بعدها» terbaca sebagai keterangan “sesudahnya”. Tidak dipaksakan i'rab pada nama-nama tersebut.
+>
+> (750) «بها الظلمة انجلت» memberi struktur yang jelas: «بها» jar-majrur dan «انجلت» verba lampau feminin. Nama sebelum frasa itu tetap sebagai nama khusus.
+>
+> (751) Hanya «على ما» yang dapat dipastikan; sisa larik samar sehingga tidak dibangun makna atau hubungan nahwu yang spekulatif.
+>
+> (752) «بحق» terbaca, diikuti nama/ungkapan samar. Penutup menyerupai «زاحمت»; bentuknya dicatat sebagai tentatif.
+>
+> (753) «كما» dan «بباب» tampak, tetapi kata penghubungnya tidak cukup jelas. Terjemahan mempertahankan batas ketidakpastian.
+>
+> (754) «بشخاخ مشخاخ» dipertahankan sebagai nama; lafaz sesudahnya tampak seperti «كون». Tidak dinormalkan menjadi kosakata baku.
+>
+> (755) Awal «بآل» terbaca dan dua nama tampak menyerupai «أهيل» serta «شلع»; hubungan antarnama tidak dipaksakan.
+>
+> (756) «طحطي طحطوب طفطوب» merupakan rangkaian nama/seruan. Tajwid tidak ditambahkan pada nama non-Arab; lafaz penutup hanya tentatif.
+>
+> (757) Kata «حروف» terbaca, sedangkan sesudahnya menyerupai «لبهرام». Susunan akhir yang bertaut tidak cukup jelas untuk dianalisis.
+>
+> (758) «وأسماء عصا موسى بها الظلمة انجلت» memuat «أسماء» sebagai subjek dan «انجلت» sebagai verba lampau feminin; ungkapan tentang tongkat Musa diterjemahkan sesuai konteks.
+>
+> (759) «توسلت مولانا إليك بسرها» merupakan doa orang pertama; «بسرها» kembali kepada sesuatu yang disebut sebelumnya, tetapi rujukannya tidak dipastikan.
+>
+> (760) «توسلت ذا عز به الناس اهتدت» terbaca sebagai permohonan melalui Yang Maha Mulia. «الناس» jamak tak berakal bukan; karena itu verba feminin tunggal «اهتدت» tidak dinormalkan.
+
+## Halaman PDF 89 (= cetak 88)
+
+### Bagian 1 — Cahaya, huruf, dan permohonan kebutuhan (larik 761–767)
+
+**[Teks Arab Asli]**
+
+<div dir="rtl">
+
+نَقْدٌ كَوْكَبِيٌّ بِالِاسْمِ نُورًا بَهْجَةً
+
+صَدَى الدَّهْرِ وَالْأَيَّامِ يَا نُورُ [الخاتمة تقرأ على نحو «جللت»]
+
+فَيَا [ألفاظ طلسمية غير واضحة] يَا [اسم غير واضح] أَنْتَ [تتمة السطر غير مقروءة]
+
+وَيَا [اسم طلسم] غَوْثَ الرِّيَاحِ [تتمة غير واضحة؛ آخرها متصل]
+
+بَنَا [لفظ قصير غير واضح] أَدْرِنَانِي عَرَنَا
+
+بَآلِ [اسم/مقطع غير واضح] بِالسِّبَالِ [لفظ تالٍ غير مقروء] نَسَرَتْ
+
+فَيَا حَيُّ يَا قَيُّومُ أَسْرِعْ بِحَاجَتِي
+
+</div>
+
+**[Transliterasi Latin Fonetik]**
+
+*Naqdun kawkabiyyun bi-l-ismi nuran bahjatan*
+
+*Sada ad-dahri wa-al-ayyam ya nuru [ending resembles “jallalat”]*
+
+*Fa-ya [unclear talismanic words] ya [unclear name] anta [remainder unreadable]*
+
+*Wa-ya [talismanic name] ghawtha ar-riyahi [unclear connected ending]*
+
+*Bana [short word unclear] adrinani 'arana*
+
+*Bi-ali [unclear name/fragment] bi-s-sibali [following word unreadable] nasarat*
+
+*Fa-ya Hayyu ya Qayyumu asri' bi-hajati*
+
+**[Terjemahan Indonesia]**
+
+[Baris pembuka menyebut sesuatu yang menyerupai «naqd kawkabi», disertai «dengan Nama» dan lafaz «nūr/kemilau». Hubungan katanya tidak pasti karena susunan cetak bertaut.]
+
+Gema zaman dan hari-hari, wahai Cahaya… [penutup tampak seperti «جللت».]
+
+Wahai… [seruan/nama-nama tidak terbaca], wahai [nama samar]… engkau… [sisa larik tidak jelas].
+
+Wahai [nama invokatif], penolong angin… [lanjutan larik tidak terbaca dengan aman].
+
+«Banā…» [fragmen pendek] «adrinānī ‘aranā»; rangkaian katanya tidak dapat ditetapkan.
+
+Dengan «Āl…» [nama tidak jelas], «bi-s-sibāl» [lafaz berikutnya samar], [kata penutup menyerupai «نصرت»].
+
+Wahai Yang Mahahidup, wahai Yang Maha Menegakkan, segerakanlah pemenuhan kebutuhanku.
+
+**[Syarah]**
+
+> (761) Cetakan tampak memuat «نقد كوكبي بالاسم نورا بهجة». Hubungan sintaksisnya tidak pasti; «بالاسم» dan «نور» terbaca, tetapi susunan dipertahankan tanpa mengubah urutannya.
+>
+> (762) «صدى الدهر والأيام يا نور» terbaca sebagai seruan kepada “Cahaya”; penutup menyerupai «جللت», sehingga dicatat sebagai bacaan tentatif.
+>
+> (763) Larik dimulai dengan «فيا», kemudian nama-nama bertaut. Hanya pola nida yang jelas; isi nama tidak diterjemahkan.
+>
+> (764) «غوث الرياح» tampak setelah seruan «ويا»; gelar itu dapat dipahami sebagai “penolong angin”, sedangkan nama dan penutupnya belum jelas.
+>
+> (765) Gugus «بنا… أدرناني عرنا» terbaca sebagian, namun tanda vokal dan sambungan huruf tidak cukup jelas untuk penetapan nahwu.
+>
+> (766) Baris memuat «بآل» dan «بالسبال»; akhir kata tampak menyerupai «نصرت». Semuanya dipertahankan sebagai bacaan tentatif.
+>
+> (767) «يا حي يا قيوم أسرع بحاجتي» adalah doa yang jelas: dua seruan Asmaul Husna diikuti fi'il amr «أسرع» dan jar-majrur «بحاجتي».
+
+---
+
+# BATCH 31 — Halaman PDF 89–90
+
+## Halaman PDF 89 (= cetak 88)
+
+### Bagian 1 — Huruf pembuka dan permohonan perlindungan (larik 768–777)
+
+**[Teks Arab Asli]**
+
+<div dir="rtl">
+
+بِسَبْعِ مَثَانٍ مِنْ كِتَابِكَ أُحْكِمَتْ
+
+بِطَهَ وَطَاسِينَ وَيَاسِينَ كُنْ لَنَا
+
+وَطَاسِينَ وَمِيمٍ بِالسَّعَادَةِ أَقْبَلَتْ
+
+بِكَافِهَا يَا عَيْنُ وَصَادِهَا
+
+[لفظ يبدأ بـ«كفانا/كفينا»] بِهَا مِنْ كُلِّ سُوءٍ [الخاتمة تشبه «بشملت»]
+
+بِهِمْ [مقاطع «عين» و«ميم» ظاهرة؛ بقية الشطر غير واضحة]
+
+[لفظ يبدأ بـ«حياتنا»] وَالنُّونُ [الخاتمة باهتة]
+
+بِأَلِفٍ وَلَامٍ ثُمَّ مِيمٍ وَصَادِهَا
+
+جَذَبَتْ قُلُوبَ الْعَالَمِينَ [الخاتمة تشبه «نأبت»]
+
+بِأَلِفٍ وَلَامٍ ثُمَّ مِيمٍ وَرَائِهَا
+
+</div>
+
+**[Transliterasi Latin Fonetik]**
+
+*Bi-sab'i mathanin min kitabika uhkimat*
+
+*Bi-Ta-Ha wa-Tasin wa-Yasin kun lana*
+
+*Wa-Tasin wa-Mimin bi-s-sa'adati aqbalat*
+
+*Bi-Kafiha ya 'Aynu wa-Sadiha*
+
+*[the word begins “kafana/kafayna”] biha min kulli su'in [ending resembles “bishamilat”]*
+
+*Bihim [the fragments “'ayn” and “mim” are visible; the rest is unclear]*
+
+*[word begins “hayatina”] wa-n-nunu [faint ending]*
+
+*Bi-alifin wa-lamin thumma mimin wa-sadiha*
+
+*Jadhabat quluba al-'alamina [ending resembles “na'bat”]*
+
+*Bi-alifin wa-lamin thumma mimin wa-ra'iha*
+
+**[Terjemahan Indonesia]**
+
+Dengan tujuh ayat yang diulang-ulang dari Kitab-Mu, [sesuatu] diteguhkan.
+
+Dengan Ṭā-Hā, Ṭā-Sīn, dan Yā-Sīn, jadilah penolong kami.
+
+Dengan Ṭā-Sīn dan Mīm, kebahagiaan datang menyambut.
+
+Dengan Kāf-nya, wahai ‘Ayn, dan Ṣād-nya. [Susunan berupa penyebutan huruf pembuka surah.]
+
+[“Cukup bagi kami” atau “kami berlindung”] dengannya dari setiap keburukan; penutup samar.
+
+Melalui mereka… [fragmen ‘Ayn dan Mīm tampak; sisa baris tidak terbaca.]
+
+[Kata awal menyerupai “hidup kami”] dan Nūn… [penutup samar.]
+
+Dengan Alif dan Lām, kemudian Mīm dan Ṣād-nya.
+
+Ia menarik hati seluruh alam… [kata terakhir tidak pasti.]
+
+Dengan Alif dan Lām, kemudian Mīm dan bagian belakang/kelanjutannya. [Lafaz «ورائها» dipertahankan secara literal.]
+
+**[Syarah]**
+
+> (768) «بسبع مثان» merujuk secara leksikal pada “tujuh yang diulang-ulang”; «من كتابك» menerangkan sumbernya. Verba «أحكمت» tampak pada akhir larik.
+>
+> (769) «طه، طاسين، ياسين» adalah nama huruf/pembuka surah; «كن لنا» merupakan permohonan dengan verba amr «كن».
+>
+> (770) «بطاسين وميم» meneruskan penyebutan huruf; «بالسعادة أقبلت» menyatakan datangnya kebahagiaan, dengan subjek feminin yang tidak disebut.
+>
+> (771) «بكافها يا عين وصادها» menyebut nama-nama huruf. Vokalisasi «يا عين» mengikuti nida; tidak ditambahkan tafsir batin atas huruf.
+>
+> (772) Awal kata terbaca antara «كفانا» dan «كفينا»; penutup menyerupai «بشملت». Ketidakpastian dicatat karena perbedaan bentuk itu mengubah nahwu.
+>
+> (773) Fragmen «بهم»، «عين» dan «ميم» terlihat, tetapi tidak cukup untuk menyusun satu jumlah yang lengkap.
+>
+> (774) Kata awal tampak menyerupai «حياتنا» dan diikuti «النون»; penutup pudar sehingga tidak diterka.
+>
+> (775) «بألف ولام ثم ميم وصادها» adalah penyebutan rangkaian huruf; «ثم» mengatur urutan secara eksplisit.
+>
+> (776) «جذبت قلوب العالمين» terbaca dengan verba feminin «جذبت»; kata penutup tidak jelas dan tidak diperbaiki.
+>
+> (777) «بألف ولام ثم ميم ورائها» mengulang rangkaian huruf; kata «ورائها» dipertahankan sesuai tulisan, walau rujukannya tidak terang.
+
+## Halaman PDF 90 (= cetak 89)
+
+### Bagian 1 — Rahasia nama, ayat, dan huruf-huruf Kitab (larik 778–787)
+
+**[Teks Arab Asli]**
+
+<div dir="rtl">
+
+تَجَلَّتْ بِنُورِ الِاسْمِ وَالرُّوحُ قَدْ عَلَتْ
+
+بِقَافٍ وَنُونٍ ثُمَّ صَادٍ وَمَا انْطَوَى
+
+مِنَ السِّرِّ وَالْأَسْرَارِ فِيهَا وَمَا حَوَتْ
+
+بِمَا فِي كِتَابِ اللهِ مِنْ كُلِّ سُورَةٍ
+
+وَآيَاتِهِ ثُمَّ الْحُرُوفُ تَعَظَّمَتْ
+
+بِمَا فِيهِ مَنْقُوطٌ وَمَا فِيهِ مُهْمَلُ
+
+عَلَوْتَ بِنُورِ الِاسْمِ وَالرُّوحُ قَدْ عَلَتْ
+
+سَأَلْتُكَ بِالْقُرْآنِ وَالْكُتُبِ كُلِّهَا
+
+بِأَسْمَائِكَ الْعُلْيَا بِآيَاتٍ فُصِّلَتْ
+
+دَعَوْتُكَ يَا رَبَّاهُ حَقًّا [الكلمة الأخيرة تشبه «وأنتي»]
+
+</div>
+
+**[Transliterasi Latin Fonetik]**
+
+*Tajallat bi-nuri al-ismi wa-r-ruhu qad 'alat*
+
+*Bi-Qafin wa-Nunin thumma Sadin wa-ma intawa*
+
+*Minas-sirri wa-al-asrari fiha wa-ma hawat*
+
+*Bi-ma fi Kitabi Allahi min kulli suratin*
+
+*Wa-ayati-hi thumma al-hurufu ta'azzamat*
+
+*Bi-ma fihi manqutun wa-ma fihi muhmalu*
+
+*'Alawta bi-nuri al-ismi wa-r-ruhu qad 'alat*
+
+*Sa'altuka bi-l-Qur'ani wa-al-kutubi kulliha*
+
+*Bi-asma'ika al-'ulya bi-ayatin fussilat*
+
+*Da'awtuka ya Rabbahu haqqan [the final word resembles “wa-anti”]*
+
+**[Terjemahan Indonesia]**
+
+Ia tersingkap dengan cahaya Nama, dan ruh pun telah meninggi.
+
+Dengan Qāf, Nūn, kemudian Ṣād, serta apa yang tersembunyi di dalamnya.
+
+Dari rahasia dan berbagai rahasia yang dikandungnya.
+
+Dengan segala yang ada dalam Kitab Allah dari setiap surah.
+
+Dengan ayat-ayat-Nya; kemudian huruf-huruf itu dimuliakan.
+
+Dengan apa yang bertitik di dalamnya dan apa yang tidak bertitik.
+
+Engkau meninggi dengan cahaya Nama, dan ruh pun telah meninggi. [Bacaan «علوت» ditinjau dari bentuk cetak; subjeknya belum sepenuhnya terang.]
+
+Aku memohon kepada-Mu dengan Al-Qur’an dan seluruh kitab.
+
+Dengan nama-nama-Mu yang Mahatinggi, melalui ayat-ayat yang dijelaskan.
+
+Aku menyeru-Mu, wahai Tuhanku, dengan sungguh-sungguh… [kata terakhir tampak seperti «وأنتي», tetapi konteksnya belum cukup untuk menetapkan maksud.]
+
+**[Syarah]**
+
+> (778) «تجلت» verba lampau feminin, diikuti «بنور الاسم» sebagai keterangan sebab/cara. «والروح قد علت» merupakan klausa kedua; «قد» masuk pada verba lampau.
+>
+> (779) «بقاف ونون ثم صاد» menyebut huruf-huruf muqaṭṭa‘āt; «وما انطوى» menunjuk pada yang tersimpan/terlipat, tanpa menentukan rahasia yang dimaksud.
+>
+> (780) «من السر والأسرار فيها وما حوت» melanjutkan objek makna sebelumnya. Dhamir «فيها» kemungkinan kembali kepada huruf atau surah yang disebut, tetapi rujukannya tidak dinyatakan langsung.
+>
+> (781) «في كتاب الله» jar-majrur; «من كل سورة» menerangkan cakupan yang disebut dalam nazham.
+>
+> (782) «وآياته ثم الحروف تعظمت» menggabungkan ayat dan huruf; bentuk «تعظمت» adalah verba feminin yang menyesuaikan «الحروف» sebagai jamak tak berakal.
+>
+> (783) «منقوط» dan «مهمل» berlawanan: huruf bertitik dan huruf tanpa titik. Keduanya menjadi deskripsi bagi apa yang terdapat di dalam kitab.
+>
+> (784) Cetakan tampak «علوت»; kemungkinan subjek orang kedua, tetapi konteks sebelumnya juga memakai verba feminin. Bacaan dipertahankan tanpa menyelaraskan secara spekulatif.
+>
+> (785) «سألتك بالقرآن والكتب كلها» jelas sebagai sumpah/wasilah permohonan; «كلها» merujuk kepada «الكتب».
+>
+> (786) «بأسمائك العليا» dan «بآيات فصلت» merupakan dua frasa jar-majrur. «فُصّلت» memberi arti “diperinci/dijelaskan”, dengan tasydid yang sesuai bentuk cetaknya.
+>
+> (787) «دعوتك يا رباه حقا» terbaca; kata terakhir tampak seperti «وأنتي». Karena struktur sesudahnya tidak jelas, tidak dibuat pelengkapan kalimat.
+
+---
+
+# BATCH 32 — Halaman PDF 90–91
+
+## Halaman PDF 90 (= cetak 89)
+
+### Bagian 1 — Rajah, huruf, dan permohonan (larik 788–795)
+
+**[Teks Arab Asli]**
+
+<div dir="rtl">
+
+تَوَسَّلْتُ بِالْآيَاتِ جَمْعًا بِمَا حَوَتْ
+
+ثَلَاثَ عِصِيٍّ صُفِّفَتْ بَعْدَ خَاتَمٍ
+
+عَلَى رَأْسِهَا مِثْلَ السِّهَامِ تَقَوَّسَتْ
+
+وَبِاسْمِ [اسم/لفظ يشبه «طمبس»] [لفظ يشبه «أبرشم»] ثُمَّ سَلَّمْ
+
+وَفِي وَسَطِهَا بِالْهِجْرَتَيْنِ [الفعل يشبه «نفرت»]
+
+وَأَرْبَعَةٌ مِثْلَ الْأَنَامِلِ صُفِّفَتْ
+
+تُشِيرُ إِلَى الْخَيْرَاتِ وَالرِّزْقِ جُمِعَتْ
+
+وَهَاءُ شِينٍ ثُمَّ وَاوٌ مُقَوَّسٌ
+
+</div>
+
+**[Transliterasi Latin Fonetik]**
+
+*Tawassaltu bi-l-ayati jam'an bi-ma hawat*
+
+*Thalatha 'isiyyin suffifat ba'da khatimin*
+
+*'Ala ra'siha mithla as-sihami taqawwasat*
+
+*Wa-bi-ismi [name/word resembles “tambas”] [word resembles “abrasham”] thumma sallim*
+
+*Wa-fi wasatiha bi-l-hijratayni [verb resembles “nafarat”]*
+
+*Wa-arba'atun mithla al-anamili suffifat*
+
+*Tushiru ila al-khayrati wa-r-rizqi jumi'at*
+
+*Wa-ha'u shinin thumma wawun muqawwasun*
+
+**[Terjemahan Indonesia]**
+
+Aku memohon dengan ayat-ayat secara keseluruhan, dengan segala kandungan yang dimilikinya.
+
+Tiga batang disusun berjajar sesudah sebuah cincin/penutup.
+
+Di atasnya, [bentuk-bentuk itu] melengkung seperti anak-anak panah.
+
+Dengan nama [lafaz menyerupai «Ṭambas»] [lafaz menyerupai «Abrasham»], kemudian [kata penutup samar].
+
+Di bagian tengahnya, dengan dua [bacaan menyerupai «hijratayn»], [kata kerjanya tampak seperti «nafarat»].
+
+Empat [bentuk] lain disusun seperti jari-jari.
+
+[Susunan itu] menunjukkan berbagai kebaikan; rezeki dihimpunkan.
+
+Hā’, Shīn, kemudian Wāw yang melengkung. [Nama huruf dan deskripsi bentuk dipertahankan.]
+
+**[Syarah]**
+
+> (788) «توسلت بالآيات» adalah permohonan melalui ayat; «جمعا» memberi makna keseluruhan, sedangkan «بما حوت» menjelaskan kandungan ayat-ayat itu.
+>
+> (789) «ثلاث عصي» menjadi subjek frasa, «صففت» verba pasif feminin yang sesuai dengan «عصي»; «بعد خاتم» menunjukkan urutan.
+>
+> (790) «على رأسها» menerangkan posisi, dan «مثل السهام» perbandingan. «تقوست» berarti melengkung/berbentuk busur.
+>
+> (791) Kata «باسم» jelas, sedangkan dua unsur sesudahnya menyerupai nama khusus («طمبس» dan «أبرشم»). «ثم سلم» dipertahankan sebagaimana tampak; tidak dikoreksi menjadi frasa lain.
+>
+> (792) «وفي وسطها» menunjukkan letak. «بالهجرتين» dan verba penutup tidak cukup jelas untuk diberi makna pasti.
+>
+> (793) «وأربعة مثل الأنامل صففت» menggambarkan empat unsur yang disusun seperti ruas/jari; «صففت» verba pasif feminin.
+>
+> (794) «تشير إلى الخيرات والرزق» menyatakan petunjuk menuju kebaikan dan rezeki; kata «جُمعت» terbaca sebagai verba pasif di ujung larik.
+>
+> (795) «هاء، شين، واو» adalah nama huruf; «مقوس» menjadi sifat bagi Wāw atau bentuknya. Tanda vokal akhir tidak ditambahkan melebihi yang ditopang cetakan.
+
+## Halaman PDF 91 (= cetak 90)
+
+### Bagian 1 — Penutup bentuk dan doa dengan nama-nama Allah (larik 796–807)
+
+**[Teks Arab Asli]**
+
+<div dir="rtl">
+
+كَأُنْبُوبِ حِجَامٍ مِنَ السِّرِّ [الكلمة الأخيرة تبدو «النوت»]
+
+وَآخِرُهَا مِثْلَ الْأَوَائِلِ خَاتَمٌ
+
+خُمَاسِيُّ أَرْكَانٍ وَلِلسِّرِّ قَدْ حَوَتْ
+
+بِهَا الْعَهْدُ وَالْمِيثَاقُ وَالْوَعْدُ وَالْوَفَا
+
+وَبِالْمِسْكِ وَالْكَافُورِ [لفظ بعدهما غير واضح؛ حروفه تشبه «النافح/النافج»] خُتِمَتْ
+
+تَوَجَّهْتُ يَا رَبِّي إِلَيْكَ بِحَقِّهَا
+
+بِأَسْمَائِكَ الْحُسْنَى إِذَا هِيَ جُمِعَتْ
+
+بِجَاهِ رَسُولِ اللهِ أَسْأَلُ دَائِمًا
+
+وَبِالرُّسْلِ وَالْأَفْلَاكِ وَالنَّجْمِ حَضَرَتْ
+
+تَقَبَّلْ دُعَائِي بِالْعَجِيبِ مُحَمَّدٍ
+
+وَبِالْحَسَنِ الْأَعْظَمَيْنِ وَمَنْ حَوَتْ
+
+وَالْآلِ الْكِرَامِ يَا رَبِّ كُلَّهُمْ
+
+</div>
+
+**[Transliterasi Latin Fonetik]**
+
+*Ka-unbubi hijamin mina as-sirri [final word resembles “an-nut”]*
+
+*Wa-akhiruha mithla al-awa'ili khatimun*
+
+*Khumasiyyu arkanin wa-li-s-sirri qad hawat*
+
+*Biha al-'ahdu wa-al-mithaqu wa-al-wa'du wa-al-wafa'*
+
+*Wa-bi-l-miski wa-al-kafuri [the following word is unclear; its letters resemble “an-nafih/an-nafij”] khutimat*
+
+*Tawajjahtu ya Rabbi ilayka bi-haqqiha*
+
+*Bi-asma'ika al-husna idha hiya jumi'at*
+
+*Bi-jahi Rasuli Allahi as'alu da'iman*
+
+*Wa-bi-r-rusuli wa-al-aflaki wa-an-najmi hadarat*
+
+*Taqabbal du'a'i bi-l-'ajibi Muhammadin*
+
+*Wa-bi-l-Hasani al-a'zhamayni wa-man hawat*
+
+*Wa-al-ali al-kirami ya Rabbi kullahum*
+
+**[Terjemahan Indonesia]**
+
+Seperti tabung bekam, dari rahasia [kata terakhir tampak seperti «النوت»; tidak diterjemahkan pasti].
+
+Dan ujungnya, seperti bagian-bagian awalnya, adalah sebuah penutup.
+
+Berbentuk lima sisi; ia telah memuat rahasia.
+
+Di dalamnya ada perjanjian, ikrar, janji, dan kesetiaan.
+
+Dengan kesturi, kapur barus, dan [lafaz sesudahnya samar; hurufnya menyerupai «النافح/النافج»], rangkaian itu ditutup.
+
+Aku menghadap kepada-Mu, wahai Tuhanku, dengan haknya.
+
+Dengan nama-nama-Mu yang indah, apabila semuanya dihimpunkan.
+
+Dengan kemuliaan Rasulullah, aku senantiasa memohon.
+
+Dengan para rasul, falak-falak, dan bintang, [mereka] hadir. [Struktur larik dipertahankan; hubungan subjek tidak dinyatakan jelas.]
+
+Terimalah doaku melalui al-‘Ajīb Muḥammad. [Susunan nama dipertahankan sesuai cetakan.]
+
+Dengan al-Ḥasan al-A‘ẓamayn dan segala yang dikandungnya. [Bacaan «الأعظمين» dipertahankan.]
+
+Dan dengan seluruh keluarga yang mulia, wahai Tuhanku.
+
+**[Syarah]**
+
+> (796) Perumpamaan «كأنبوب حجام» terbaca, tetapi kata sesudah «من السر» hanya menyerupai «النوت». Tidak diterjemahkan sebagai istilah pasti.
+>
+> (797) «وآخرها مثل الأوائل خاتم» menggambarkan penutup yang serupa dengan bagian awal. «خاتم» dapat menjadi khabar atau penjelas; susunan nazham memungkinkan pemadatan.
+>
+> (798) «خماسي أركان» berarti memiliki lima sisi/penjuru; «وللسر قد حوت» menyatakan kandungan rahasia, dengan subjek feminin yang merujuk bentuk sebelumnya.
+>
+> (799) «العهد والميثاق والوعد والوفا» merupakan deret kata benda yang seluruhnya terkait dengan «بها».
+>
+> (800) «بالمسك والكافور» jelas; lafaz sesudahnya hanya menyerupai «النافح» atau «النافج». Karena bentuknya tidak pasti, keduanya dicatat sebagai rupa huruf yang mungkin, tanpa memilih istilah bahan tertentu.
+>
+> (801) «توجهت يا ربي إليك بحقها» adalah kalimat doa yang jelas; «بحقها» merujuk pada rajah/rahasia sebelumnya tanpa menetapkan objek secara berlebihan.
+>
+> (802) «إذا هي جمعت» klausa bersyarat/keterangan waktu; «هي» merujuk kepada «أسمائك الحسنى» sebagai kumpulan nama.
+>
+> (803) «بجاه رسول الله أسأل دائما» memakai jar-majrur «بجاه» sebagai wasilah; «دائما» menerangkan keberlangsungan permohonan.
+>
+> (804) «بالرسل والأفلاك والنجم حضرت» mengikuti bentuk cetak; verba feminin tunggal dapat mencocokkan subjek jamak tak berakal/kelompok yang disebut.
+>
+> (805) «تقبل دعائي» adalah permohonan amr. «بالعجيب محمد» dicatat apa adanya karena apakah «العجيب» gelar atau sifat tidak dapat dipastikan dari larik ini saja.
+>
+> (806) «وبالحسن الأعظمين ومن حوت» memuat bentuk ganda/jamak yang tidak sepenuhnya jelas. Bacaan cetak dipertahankan tanpa menormalkan «الأعظمين».
+>
+> (807) «والآل الكرام يا رب كلهم» merupakan sambungan sumpah/wasilah; «كلهم» menegaskan keseluruhan keluarga yang dimaksud.
+
+---
+
+# BATCH 33 — Halaman PDF 91–92
+
+## Halaman PDF 91 (= cetak 90)
+
+### Bagian 1 — Penutup doa dan permohonan ampun (larik 808–812)
+
+**[Teks Arab Asli]**
+
+<div dir="rtl">
+
+وَبِالْحَوْرَاءِ الْبَتُولِ [لفظ بعده يشبه «رسلها»] تَشَفَّعَتْ
+
+وَأَسْتَوْدِعُ اللهَ الْعَظِيمَ سَعَادَتِي
+
+بِجَانِبِهَا وَالْأُخْرَى [عبارة قصيرة غير واضحة] أَصْبَحَتْ
+
+وَعَفْوًا عَنِ الْآثَامِ وَالرِّجْسِ كُلِّهِ
+
+وَمِنْ كُلِّ ذَنْبٍ فِي الصَّحِيفَةِ [الخاتمة تشبه «تبت»]
+
+</div>
+
+**[Transliterasi Latin Fonetik]**
+
+*Wa-bi-l-hawra'i al-batuli [following word resembles “rasluha”] tashaffa'at*
+
+*Wa-astawdi'u Allaha al-'azhima sa'adati*
+
+*Bi-janibiha wa-al-ukhra [short phrase unclear] asbahat*
+
+*Wa-'afwan 'ani al-athami wa-r-rijsi kullihi*
+
+*Wa-min kulli dhanbin fi as-sahifati [ending resembles “tabat”]*
+
+**[Terjemahan Indonesia]**
+
+Dengan al-Ḥawrā’ al-Batūl, [kata sesudahnya menyerupai «رسلها»], ia memohon syafaat. [Susunan persisnya samar.]
+
+Aku menitipkan kebahagiaanku kepada Allah Yang Mahaagung.
+
+Di sisinya dan yang lain… [frasa pendek tidak jelas], [kata penutup tampak «أصبحت»].
+
+Dan ampunan atas segala dosa serta seluruh kotoran/keburukan.
+
+Dan dari setiap dosa dalam catatan [kata terakhir menyerupai «تبت»; makna bentuknya belum pasti].
+
+**[Syarah]**
+
+> (808) «بالحوراء البتول» jelas sebagai frasa jar-majrur; kata sesudahnya tampak menyerupai «رسلها». «تشَفَّعت» dibaca sesuai huruf yang terlihat, dengan pelaku yang tidak dinyatakan jelas.
+>
+> (809) «أستودع الله العظيم سعادتي» adalah kalimat orang pertama: verba «أستودع» diikuti objek «سعادتي» dan penerima «الله العظيم».
+>
+> (810) «بجانبها والأخرى» terbaca sebagian, sedangkan frasa tengah bertaut. «أصبحت» tampak di akhir; makna dan rujukan dhamirnya tidak ditebak.
+>
+> (811) «عفوا عن الآثام والرجس كله» memuat permintaan ampun; «كله» menegaskan cakupan «الرجس».
+>
+> (812) «ومن كل ذنب في الصحيفة» jelas; penutup tampak seperti «تبت». Karena bentuk akhirnya dapat mengubah arti, dicatat sebagai bacaan tentatif.
+
+## Halaman PDF 92 (= cetak 91)
+
+### Bagian 1 — Perlindungan, penundukan, dan doa penutup (larik 813–827)
+
+**[Teks Arab Asli]**
+
+<div dir="rtl">
+
+وَمَحْوُ ذُنُوبِي وَالْخَطَايَا بِأَسْرِهَا
+
+وَثَابِتُ عَفْوٍ فِي الْكِتَابِ تَكَامَلَتْ
+
+وَأَسْتَوْدِعُ اللهَ الْحَفِيظَ إِجَابَتِي
+
+وَقَهْرُ مُلُوكٍ بِالتِّلَاوَةِ [الخاتمة تشبه «سخرت»]
+
+وَقَهْرُ مُلُوكِ الْجِنِّ طُرًّا [لفظ بعده غير واضح]
+
+وَإِحْرَاقُ أَعْوَانٍ عَلَيَّ تَجَبَّرَتْ
+
+وَزَجْرُ مُلُوكِ الْجِنِّ جَمْعًا لِطَاعَتِي
+
+وَقَهْرُ الْمَفَارِيدِ الْعُتَاةِ وَمَنْ طَغَتْ
+
+وَإِحْرَاقُ [لفظ يشبه «أرباط»] تُخَالِفُ دِينِي
+
+بِأَسْمَاءِ إِحْرَاقٍ بِهَا الْجِنُّ أُحْرِقَتْ
+
+أَلَا وَاحْصُرْ لِي [مقطع تالٍ غير واضح] [خاتمة السطر مطموسة]
+
+[اسم طلسم يبدأ بـ«طحطبيال»] [وصف/خاتمة غير واضحة؛ آخرها يشبه «انجلت»]
+
+فَيَا قَارِئَ الِاسْمِ الْمُنْتَظَمَ قَدْرُهُ
+
+عَلَيْكَ بِتَقْوَى اللهِ تَنْجُو مِنَ الْفَلَتِ
+
+بِهَا الْعَهْدُ وَالْمِيثَاقُ وَالْوَعْدُ وَالْوَفَا
+
+</div>
+
+**[Transliterasi Latin Fonetik]**
+
+*Wa-mahwu dhunubi wa-al-khataya bi-asriha*
+
+*Wa-thabitu 'afwin fi al-kitabi takamalat*
+
+*Wa-astawdi'u Allaha al-hafizha ijabati*
+
+*Wa-qahru mulukin bi-t-tilawati [ending resembles “sukhkhirat”]*
+
+*Wa-qahru muluki al-jinni turra [following word unclear]*
+
+*Wa-ihraqu a'wanin 'alayya tajabbarat*
+
+*Wa-zajru muluki al-jinni jam'an li-ta'ati*
+
+*Wa-qahru al-mafaridi al-'utati wa-man taghat*
+
+*Wa-ihraqu [word resembles “arbat”] tukhalifu dini*
+
+*Bi-asma'i ihraqin biha al-jinnu uhriqat*
+
+*Ala wa-uhsur li [following fragment unclear] [ending obscured]*
+
+*[talismanic name begins “tahtabiyal”] [description/ending unclear; final fragment resembles “injalat”]*
+
+*Fa-ya qari'a al-ismi al-muntazama qadruhu*
+
+*'Alayka bi-taqwa Allahi tanju mina al-falati*
+
+*Biha al-'ahdu wa-al-mithaqu wa-al-wa'du wa-al-wafa'*
+
+**[Terjemahan Indonesia]**
+
+Dan penghapusan dosa-dosaku serta seluruh kesalahan.
+
+Dan ampunan yang tetap di dalam Kitab telah sempurna. [Susunan larik dipadatkan.]
+
+Aku menitipkan permohonanku kepada Allah Yang Maha Menjaga.
+
+Dan penaklukan para raja melalui pembacaan… [penutup hanya tampak menyerupai «سخرت».]
+
+Dan penaklukan para raja jin seluruhnya… [kata sesudahnya samar.]
+
+Dan pembakaran para penolong yang berlaku angkuh terhadapku. [Hubungan sintaksis larik tidak sepenuhnya jelas.]
+
+Penghardikan para raja jin seluruhnya agar tunduk pada ketaatanku.
+
+Dan penaklukan para pembangkang yang keras, serta siapa pun yang melampaui batas.
+
+Dan pembakaran [kata menyerupai «أرباط»] yang menentang agamaku.
+
+Dengan nama-nama pembakaran, jin-jin dibakar dengannya.
+
+Ketahuilah—dan kurunglah untukku… [fragmen sesudahnya serta penutup baris tidak terbaca.]
+
+[Nama talismanik yang bermula «طَحْطَبِيَال»]… [sifat/penutupnya samar; fragmen akhir tampak seperti «انجلت».]
+
+Wahai pembaca Nama yang tertata, yang nilainya telah ditetapkan.
+
+Hendaklah engkau bertakwa kepada Allah; engkau akan selamat dari kesesatan/kelengahan.
+
+Dengan itu terdapat perjanjian, ikrar, janji, dan kesetiaan.
+
+**[Syarah]**
+
+> (813) «محو ذنوبي والخطايا» adalah frasa nominal tentang penghapusan dosa; «بأسرها» berarti seluruhnya.
+>
+> (814) Cetakan terbaca «وثابت عفو في الكتاب تكاملت». Kesepakatan subjek-verba tidak sepenuhnya rapi dalam susunan nazham; teks dipertahankan, bukan diselaraskan diam-diam.
+>
+> (815) «أستودع الله الحفيظ إجابتي» memakai «أستودع» sebagai verba orang pertama; «إجابتي» menjadi sesuatu yang dititipkan kepada Allah Yang Maha Menjaga.
+>
+> (816) Awal frasa terbaca sebagai «وقهر ملوك بالتلاوة»; penutupnya tampak seperti «سخرت». Susunan dan subjek verba terakhir tidak cukup jelas untuk dipastikan.
+>
+> (817) «ملوك الجن» jelas; «طرا» bermakna seluruhnya. Lafaz terakhir kabur dan tidak ditafsirkan.
+>
+> (818) «إحراق أعوان علي تجبرت» memuat «أعوان» serta verba «تجبرت»; susunan hubungan antarklausa tidak jelas sehingga terjemahan bersifat dekat-lafzi.
+>
+> (819) «زجر ملوك الجن جمعا لطاعتي» adalah frasa masdar: menghardik para raja jin seluruhnya demi ketaatan.
+>
+> (820) «قهر المفاريد العتاة» terbaca sebagai penaklukan para pembangkang yang keras; klausa «ومن طغت» disambungkan menurut konteks, tanpa menambahkan subjek tertentu.
+>
+> (821) Kata setelah «إحراق» tampak menyerupai «أرباط». Bentuk itu dipertahankan karena tidak cukup bukti untuk menggantinya dengan istilah lain.
+>
+> (822) «بأسماء إحراق» disusul «بها الجن أحرقت»; verba pasif feminin «أحرقت» sesuai dengan «الجن» sebagai kelompok tak berakal dalam konstruksi puitis.
+>
+> (823) «ألا واحصر لي» terbaca sebagian; objek/kelanjutan perintah tidak tampak cukup jelas untuk dilengkapi.
+>
+> (824) Nama «طحطبيال» terbaca secara tentatif; fragmen «انجلت» di ujung tidak cukup untuk memulihkan keseluruhan makna.
+>
+> (825) «فيا قارئ الاسم المنتظم قدره» merupakan nida kepada pembaca nama; hubungan «المنتظم» dengan «قدره» dipertahankan sesuai susunan.
+>
+> (826) «عليك بتقوى الله» adalah ilzam/anjuran, dan «تنجو» jawabnya; «من الفلت» diterjemahkan secara hati-hati sebagai keselamatan dari kelengahan/terlepas.
+>
+> (827) «بها العهد والميثاق والوعد والوفا» mengulang empat unsur janji/perjanjian; «بها» merujuk pada lafaz atau amalan yang disebut sebelumnya.
+
+---
+
+# BATCH 34 — Halaman PDF 92–93
+
+## Halaman PDF 92 (= cetak 91)
+
+### Bagian 1 — Dua larik penutup rangkaian sebelumnya (larik 828–829)
+
+**[Teks Arab Asli]**
+
+<div dir="rtl">
+
+وَبِالْمِسْكِ وَالْكَافُورِ [اللفظ بعدهما يبدو «النذخ/النافح»] خُتِمَتْ
+
+وَبِآيَاتِ [لفظ يشبه «شمسين»] وَسِينٍ تَشَفَّعَتْ
+
+</div>
+
+**[Transliterasi Latin Fonetik]**
+
+*Wa-bi-l-miski wa-al-kafuri [following word resembles “an-nadhkh/an-nafih”] khutimat*
+
+*Wa-bi-ayati [word resembles “shamsayn”] wa-sinin tashaffa'at*
+
+**[Terjemahan Indonesia]**
+
+Dengan kesturi, kapur barus, dan [lafaz sesudahnya samar], rangkaian itu ditutup.
+
+Dengan ayat-ayat [lafaz menyerupai «Shamsayn»] dan Sīn, ia memohon syafaat. [Bacaan kata khusus bersifat tentatif.]
+
+**[Syarah]**
+
+> (828) «بالمسك والكافور» terbaca, sedangkan kata berikutnya tidak pasti—hurufnya menyerupai «النذخ» atau «النافح». «ختمت» menjadi penutup feminin yang rujukannya ialah susunan sebelumnya.
+>
+> (829) «بآيات» dan «وسين» tampak; nama di antara keduanya menyerupai «شمسين». «تشفعّت» dibaca sesuai rangkaian huruf yang terlihat, tanpa menetapkan maksud batin huruf-huruf tersebut.
+
+## Halaman PDF 93 (= cetak 92)
+
+### Bagian 1 — Penutup nazham dan faedah nama yang disebut (larik 830–844)
+
+**[Teks Arab Asli]**
+
+<div dir="rtl">
+
+بِهَا الْأَسْرَارُ [لفظ بعده يشبه «أعظام»] [الخاتمة تبدو «تسجمت»]
+
+وَبَعْدُ صَلَّى اللهُ رَبِّي دَائِمًا
+
+عَلَى الْمُصْطَفَى مَا طَارَ طَيْرٌ وَرَفْرَفَتْ
+
+وَآلِهِ الطُّهْرِ كِرَامٍ أَئِمَّةٍ
+
+بِهِمْ زَالَتِ الْأَكْدَارُ عَنَّا وَزُحْزِحَتْ
+
+فَهَذَا هُوَ اسْمُ اللهِ يَا قَارِئُ اعْتَقِدْ
+
+وَاحْرِصْ وَصُنْ [لفظ بعده يشبه «سرابه»] [الخاتمة تقرأ تقريباً «قد علت»]
+
+وَكُنْ عَارِفَ اسْمِ اللهِ الَّذِي جَلَّ قَدْرُهُ
+
+فَلَرُبَّ كَانَ مَعَ أُنْثَى لَكَانَتْ بِهِ [تتمة قصيرة غير واضحة]
+
+وَإِنْ كَانَ إِنْسَانٌ [لفظان بعده غير واضحين؛ يظهران كـ«يسخان وعبده»]
+
+فَلَا يَخْشَ مِنْ بَأْسِ الْمُلُوكِ وَلَوْ طَغَتْ
+
+وَإِنْ كَانَ هَذَا الِاسْمُ فِي مَالِ تَاجِرٍ
+
+بِأَمْوَالِهِ بِالرِّبْحِ وَالْكَسْبِ قَدْ نَمَتْ
+
+وَإِنْ كَانَ مَصْرُوعًا مِنَ الْجِنِّ وَاقِعًا
+
+[العبارة الأخيرة بعد «نصب حميم» غير واضحة؛ يظهر منها «جنة العون» وخاتمة تشبه «تنطمت»]
+
+</div>
+
+**[Transliterasi Latin Fonetik]**
+
+*Biha al-asraru [following word resembles “a'zham”] [ending resembles “tasajamat”]*
+
+*Wa-ba'du salla Allahu Rabbi da'iman*
+
+*'Ala al-Mustafa ma tara tayrun wa-rafrafat*
+
+*Wa-alihi at-tuhri kiramin a'immatin*
+
+*Bihim zalati al-akdaru 'anna wa-zuḥziḥat*
+
+*Fa-hadha huwa ismu Allahi ya qari'u i'taqid*
+
+*Wa-hris wa-sun [following word resembles “sarabahu”] [ending tentatively “qad 'alat”]*
+
+*Wa-kun 'arifa ismi Allahi alladhi jalla qadruhu*
+
+*Fa-rubba kana ma'a untha la-kanat bihi [short continuation unclear]*
+
+*Wa-in kana insanun [two following words unclear; resemble “yaskhan wa-'abduh”]*
+
+*Fa-la yakhsha min ba'si al-muluki wa-law taghat*
+
+*Wa-in kana hadha al-ismu fi mali tajirin*
+
+*Bi-amwalihi bi-r-ribhi wa-al-kasbi qad namat*
+
+*Wa-in kana masru'an mina al-jinni waqi'an*
+
+*[after “nasaba hamim,” the phrase is unclear; “jannata al-'awn” and an ending resembling “tanṭamat” are visible]*
+
+**[Terjemahan Indonesia]**
+
+Dengan itu, rahasia-rahasia [kata berikutnya menyerupai «agung»]… [akhir baris samar].
+
+Selanjutnya, semoga Tuhanku senantiasa melimpahkan salawat.
+
+Kepada al-Muṣṭafā selama burung terbang dan mengepakkan sayap.
+
+Dan kepada keluarga beliau yang suci, para pemuka yang mulia.
+
+Melalui mereka, kesusahan telah lenyap dari kami dan dijauhkan.
+
+Inilah Nama Allah; wahai pembaca, yakinilah.
+
+Bersungguh-sungguhlah dan jagalah [lafaz sesudahnya menyerupai «rahasianya»]; [penutup tampak seperti «telah meninggi»].
+
+Kenalilah Nama Allah yang kemuliaan-Nya agung.
+
+Boleh jadi, jika [seseorang] bersama seorang perempuan, [sesuatu] akan terjadi dengannya… [lanjutan tidak jelas].
+
+Jika seseorang [dua kata berikutnya tidak jelas]…
+
+Maka janganlah ia takut terhadap kekuatan para raja, sekalipun mereka melampaui batas.
+
+Jika Nama ini berada pada harta seorang pedagang,
+
+hartanya tumbuh melalui laba dan usaha.
+
+Jika seseorang jatuh tak berdaya karena gangguan jin,
+
+[frasa terakhir memuat fragmen «نصب حميم» dan «جنة العون»; bagian akhirnya tidak dapat diterjemahkan dengan pasti.]
+
+**[Syarah]**
+
+> (830) «بها الأسرار» terbaca, tetapi kata setelahnya dan penutup tidak stabil. Seluruh baris dicatat sebagai bacaan tentatif dan tidak dijadikan kalimat baku.
+>
+> (831) «وبعد صلى الله ربي دائما» adalah formula salawat; «بعد» menandai peralihan ke penutup nazham.
+>
+> (832) «على المصطفى ما طار طير ورفرفت» menyatakan keberlanjutan salawat selama burung terbang dan mengepakkan sayap. «ما» berfungsi sebagai penanda durasi.
+>
+> (833) «وآله الطهر كرام أئمة» menyebut keluarga Nabi yang suci dan mulia; susunan iḍafah/predikasi dipadatkan oleh nazham.
+>
+> (834) «بهم زالت الأكدار عنا وزحزحت» terbaca; kedua verba feminin tunggal «زالت» dan «زحزحت» cocok dengan «الأكدار» sebagai jamak tak berakal. «زحزحت» adalah bentuk pasif dari «زحزح», bermakna “dijauhkan/diusir.”
+>
+> (835) «فهذا هو اسم الله يا قارئ اعتقد» merupakan pernyataan dan seruan: «اعتقد» fi'il amr.
+>
+> (836) «واحرص وصن» dua verba amr yang terbaca; kata berikutnya hanya menyerupai «سرابه», sehingga objek penjagaan tidak dinormalkan.
+>
+> (837) «وكن عارف اسم الله الذي جل قدره» menganjurkan pembaca mengenali Nama Allah yang agung; «جل قدره» klausa sifat/penjelas.
+>
+> (838) «فلرب كان مع أنثى» terbaca, tetapi akhir baris samar. Terjemahan menandai kekosongan alih-alih mengisi janji/fungsi yang tidak tercetak jelas.
+>
+> (839) Setelah «وإن كان إنسان» terdapat dua kata yang tidak pasti. Keduanya dicatat sebagai rupa bunyi yang tampak, tanpa menetapkan keadaan orang tersebut.
+>
+> (840) «فلا يخش من بأس الملوك ولو طغت» adalah larangan/penafian rasa takut; «ولو طغت» klausa konsesif.
+>
+> (841) «وإن كان هذا الاسم في مال تاجر» membentuk klausa syarat; «في مال تاجر» menerangkan tempat/lingkup keberadaan nama.
+>
+> (842) «بأمواله بالربح والكسب قد نمت» menyatakan pertumbuhan harta melalui laba dan usaha; «نمت» verba lampau feminin, sesuai dengan «أمواله» sebagai jamak tak berakal.
+>
+> (843) «وإن كان مصروعا من الجن واقعا» menyebut orang yang jatuh/terserang; kata «مصروع» terbaca sebagai ism maf'ul.
+>
+> (844) Larik terakhir memuat fragmen «نصب حميم» dan «جنة العون»; karena bagian-bagiannya tidak membentuk bacaan yang aman, penutup nazham dicatat dengan uraian huruf yang tampak, bukan direka maknanya.
+
+---
+
+# BATCH 35 — Halaman PDF 94–103
+
+## Halaman PDF 94 (= halaman cetak 93)
+
+### Bagian 1 — Teks Arab yang terbaca
+
+**[Teks Arab Asli]**
+
+<div dir="rtl">
+
+مَنْدَلُ أَبِي دِيبَاجَةَ
+
+وهو من ذخائر الأسرار التي قل من وقف عندها وجودت طريقها، يستخدم لكشف الأمور الخافية وجلب السحر وإبطاله وعلاج الأمراض المزمنة العاصية، فإذا أردت شيئاً من ذلك فارسم خاتم أبي ديباجة الآتي بيانه على إبهام صبي دون البلوغ، أو على كفه، ثم ضع فوقه دهناً من العود الطيب [لفظ قصير بعده غير واضح] بالند الهندي، واقرأ العزيمة سبع مرات، والناظر الصبي ينظر إلى الزيت الذي في كفه، وهذه هي العزيمة:
+
+يَعُوشُ يَعُوشُ يَعُوشُ بِعُرُوشٍ بِعُرُوشٍ [تليها ألفاظ متتابعة؛ من الظاهر منها «بطمش، تريش، هبش»، وبقية الحروف متصلة أو مطموسة.]
+
+﴿يَا قَوْمَنَا أَجِيبُوا دَاعِيَ اللهِ وَآمِنُوا بِهِ يَغْفِرْ لَكُمْ مِنْ ذُنُوبِكُمْ وَيُجِرْكُمْ مِنْ عَذَابٍ أَلِيمٍ﴾ ﴿وَمَنْ لَا يُجِبْ دَاعِيَ اللهِ فَلَيْسَ بِمُعْجِزٍ فِي الْأَرْضِ وَلَيْسَ لَهُ مِنْ دُونِهِ أَوْلِيَاءُ أُولَئِكَ فِي ضَلَالٍ مُبِينٍ﴾ [الأحقاف: 29–32]
+
+عَجِّلْ بِالْإِجَابَةِ وَاكْشِفْ لِلنَّاظِرِ حَتَّى يَرَاكَ بِعَيْنِهِ وَيُخَاطِبَكَ بِلِسَانِهِ وَيُبَيِّنَ لَكَ مَا سَأَلْتَ عَنْهُ مِنْ دُونِ تَلْوِيحٍ وَلَا تَأْخِيرٍ [تتمة العبارة غير واضحة].
+
+﴿فَكَشَفْنَا عَنْكَ غِطَاءَكَ فَبَصَرُكَ الْيَوْمَ حَدِيدٌ﴾ [ق: 22]
+
+﴿اللهُ نُورُ السَّمَاوَاتِ وَالْأَرْضِ مَثَلُ نُورِهِ كَمِشْكَاةٍ فِيهَا مِصْبَاحٌ الْمِصْبَاحُ فِي زُجَاجَةٍ الزُّجَاجَةُ كَأَنَّهَا كَوْكَبٌ دُرِّيٌّ يُوقَدُ مِنْ شَجَرَةٍ مُبَارَكَةٍ زَيْتُونَةٍ لَا شَرْقِيَّةٍ وَلَا غَرْبِيَّةٍ يَكَادُ زَيْتُهَا يُضِيءُ وَلَوْ لَمْ تَمْسَسْهُ نَارٌ نُورٌ عَلَى نُورٍ يَهْدِي اللهُ لِنُورِهِ مَنْ يَشَاءُ وَيَضْرِبُ اللهُ الْأَمْثَالَ لِلنَّاسِ وَاللهُ بِكُلِّ شَيْءٍ عَلِيمٌ﴾ [النور: 35]
+
+ويكتب هذا الكشف الذي تقرأه بعد العزيمة في ورقة ويوضع في جيب الصبي فإنه ينظر إلى الموكل في الخاتم ويجيبه عن أي سؤال تريد، تم وكمل والله أعلم.
+
+</div>
+
+### Bagian 2 — Terjemahan Indonesia
+
+**[Terjemahan Indonesia]**
+
+**Mandal Abu Dībājah.** Ini termasuk khazanah rahasia yang hanya sedikit orang mendalaminya, dan caranya telah tersusun dengan baik. Naskah menyebutnya untuk menyingkap perkara tersembunyi, mendatangkan atau membatalkan sihir, serta menangani penyakit kronis yang sulit diatasi. Jika menginginkan hal itu, gambarlah cincin/rajah Abu Dībājah yang akan dijelaskan pada ibu jari seorang anak laki-laki yang belum balig atau pada telapak tangannya. Kemudian oleskan minyak dari kayu gaharu yang baik [ada kata pendek sesudahnya yang tidak jelas] dengan minyak wangi India (nadd al-Hindī). Bacalah mantra tujuh kali sementara anak itu memandang minyak pada telapak tangannya. Inilah mantranya:
+
+Mantra yang tercetak dimulai dengan pengulangan «يعوش» tiga kali dan dua kali «بعروش», lalu rangkaian yang beberapa hurufnya tampak sebagai «بطمش، تريش، هبش». Sisanya saling bertaut atau pudar, sehingga tidak ditransliterasikan sebagai bacaan pasti.
+
+“Wahai kaum kami, sambutlah penyeru Allah dan berimanlah kepadanya; niscaya Dia mengampuni sebagian dosa kalian dan melindungi kalian dari azab yang pedih. Siapa yang tidak memenuhi seruan Allah, ia tidak akan dapat melemahkan-Nya di bumi dan tidak mempunyai pelindung selain Dia. Mereka itu berada dalam kesesatan yang nyata.” (Rujukan pada sumber: Al-Aḥqāf 46:29–32; kutipan yang tampak di sini bersesuaian dengan ayat 31–32.)
+
+Naskah lalu memohon: “Segerakanlah jawaban dan singkapkanlah [yang tersembunyi] kepada orang yang mengamati, agar ia melihatmu dengan matanya, berbicara kepadamu, dan menjelaskan apa yang kutanyakan tanpa isyarat atau penundaan.” Ujung kalimat pada cetakan tidak jelas.
+
+Sesudahnya dikutip ayat Qāf 50:22: “Maka Kami singkapkan penutupmu; penglihatanmu pada hari ini tajam,” lalu ayat Cahaya (An-Nūr 24:35): “Allah adalah cahaya langit dan bumi. Perumpamaan cahaya-Nya seperti sebuah relung yang di dalamnya ada pelita; pelita itu di dalam kaca, dan kaca itu seakan-akan bintang yang bercahaya, dinyalakan dengan minyak dari pohon yang diberkahi, yaitu zaitun yang tidak di timur dan tidak pula di barat. Minyaknya hampir-hampir menerangi walaupun tidak disentuh api. Cahaya di atas cahaya. Allah membimbing kepada cahaya-Nya siapa yang Dia kehendaki; Allah membuat perumpamaan bagi manusia, dan Allah Maha Mengetahui segala sesuatu.”
+
+Di akhir halaman, naskah memerintahkan agar tulisan/rajah yang dibaca sesudah mantra ditulis pada kertas dan dimasukkan ke saku anak. Menurut teks, anak itu akan melihat sosok yang ditugaskan pada cincin/rajah dan menjawab pertanyaan apa pun. Penutupnya: “Selesai dan sempurna; Allah lebih mengetahui.”
+
+## Halaman PDF 95 (= halaman cetak 94)
+
+### Bagian 1 — Rajah pertama
+
+**[Terjemahan Indonesia]**
+
+Di bagian atas halaman terdapat rajah berbentuk bidang empat sisi dengan garis-garis silang dan tanda pada tepi. Di tengahnya tampak seruan yang menyerupai «أجب يا أبي دياج». Keterangan di bawah gambar berbunyi:
+
+“Dan inilah cincin/rajahnya.” Sebagian tulisan kecil di tepi gambar terlalu samar untuk dibaca dengan aman.
+
+### Bagian 2 — «المندل الثاني» — Mandal kedua
+
+**[Teks Arab Asli]**
+
+<div dir="rtl">
+
+الْمَنْدَلُ الثَّانِي
+
+يكتب الوفق الشريف على الكف اليمنى لصبي دون البلوغ
+
+[جدول ٣ × ٣؛ صفوفه كما تظهر من اليمين إلى اليسار: ب ط د / ز هـ ج / و ا ح]
+
+ويكتب على جبهته ﴿فَكَشَفْنَا عَنْكَ غِطَاءَكَ فَبَصَرُكَ الْيَوْمَ حَدِيدٌ﴾ [ق: 22]، ويكتب أيضاً في ورقة ﴿فَقَدْ كُنْتَ فِي غَفْلَةٍ مِنْ هَذَا فَكَشَفْنَا عَنْكَ غِطَاءَكَ فَبَصَرُكَ الْيَوْمَ حَدِيدٌ﴾ [ق: 22].
+
+</div>
+
+**[Terjemahan Indonesia]**
+
+**Terjemahan:** Judulnya “Mandal kedua”. Naskah memerintahkan penulisan *wafq* (susunan kotak huruf/angka) pada telapak tangan kanan seorang anak laki-laki yang belum balig. Kotak 3×3 pada pindaian, dibaca dari kanan ke kiri per baris, berisi: **ب ط د / ز هـ ج / و ا ح**. Ayat yang dikutip dan ditulis pada dahi serta secarik kertas ialah: “Sungguh, engkau dahulu lalai tentang hal ini; maka Kami singkapkan penutupmu, sehingga penglihatanmu pada hari ini tajam.” (Qāf 50:22.) Pada kutipan kedua, kata pembuka ayat tampak disalin dengan tambahan «فقد» dalam sumber.
+
+## Halaman PDF 96 (= halaman cetak 95)
+
+### Bagian 1 — Kelanjutan mandal kedua
+
+**[Teks Arab Asli]**
+
+<div dir="rtl">
+
+وتوضع الورقة على جهة الصبي ثم تتلو القسم إلى أن يرى الناظر الخادم أو علامة الخادم، ويكون الناظر في حالة استرخاء مغمض العينين، وهذا هو القسم:
+
+[تبدأ العزيمة بتكرار ألفاظ مثل «طلق» وأسماء غير مألوفة، ثم تذكر الدعاء وسؤال الخادم عن الحاجة.]
+
+﴿وَأَنَّ مَا تَدْعُونَ مِنْ دُونِ اللهِ لَنْ يَخْلُقُوا ذُبَابًا وَلَوِ اجْتَمَعُوا لَهُ﴾ [الحج: 73]
+
+[ترد آيات وألفاظ أخرى؛ من المقروء منها «إِنَّ اللهَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ»، وإشارات إلى الملائكة والجن.]
+
+</div>
+
+**[Terjemahan Indonesia]**
+
+**Terjemahan:** Letakkan kertas pada sisi anak, kemudian bacakan sumpah/mantra sampai orang yang mengamati melihat pelayan gaib atau tandanya. Naskah mengatakan agar pengamat berada dalam keadaan rileks dengan mata terpejam. Mantranya dimulai dengan pengulangan kata seperti “ṭalq” dan nama-nama yang tidak lazim, lalu berisi doa dan pertanyaan kepada pelayan gaib mengenai kebutuhan. Di dalamnya dikutip pula: “Sesungguhnya segala yang kalian seru selain Allah tidak akan dapat menciptakan seekor lalat sekalipun mereka bersatu untuk itu.” (Al-Ḥajj 22:73.) Bagian sesudahnya memuat ayat dan kata-kata lain; yang masih terbaca antara lain “Sesungguhnya Allah Mahakuasa atas segala sesuatu” serta penyebutan malaikat dan jin. Ejaan mantra yang terhubung dan tidak baku tidak dipulihkan dengan tebakan.
+
+### Bagian 2 — «المندل الثالث» — Mandal ketiga
+
+**[Teks Arab Asli]**
+
+<div dir="rtl">
+
+الْمَنْدَلُ الثَّالِثُ
+
+وهو مندل يكشف في الكف أو في الظفر أو في الفنجان أو في الماء أو في المرآة أو في الرمل، بدائرة سوداء من الزيت الطيب والبخور، وتكتب أعمال [الكلمة غير واضحة] وتكتب على جهة الصبي ﴿فَكَشَفْنَا عَنْكَ غِطَاءَكَ فَبَصَرُكَ الْيَوْمَ حَدِيدٌ﴾ [ق: 22]، ثم تعزم عليه والصبي ينظر إلى موضع الزيت حتى يقول: رأيت كذا وكذا؛ فعند ذلك قل له أن يسلم عليهم، فإذا سلموا عليه يخبرك أنهم ردوا السلام، فاسأله عما تريد فإنهم يجيبونه.
+
+[ثم ترد سلسلة أسماء وتعازيم؛ في أولها تكرار «أعين» وأسماء أخرى متتابعة.]
+
+</div>
+
+**[Terjemahan Indonesia]**
+
+**Terjemahan:** “Mandal ketiga.” Menurut naskah, mandal ini digunakan untuk menyingkap sesuatu pada telapak tangan, kuku, cangkir, air, cermin, atau pasir, dengan lingkaran hitam dari minyak wangi dan dupa. Kata setelah «وتكتب أعمال» tidak jelas. Ayat Qāf 50:22 ditulis pada sisi anak, kemudian mantra dibacakan sementara anak memandang tempat minyak sampai ia berkata bahwa ia melihat sesuatu. Pada saat itu, perintahkan ia menyampaikan salam kepada mereka. Jika mereka membalas salam, anak itu memberitahukan bahwa salam telah dibalas; lalu ajukan pertanyaan yang diinginkan, dan menurut teks mereka akan menjawab. Setelah instruksi ini tercetak sederet nama dan mantra; rangkaiannya dibuka dengan pengulangan yang menyerupai «أعين» (“mata-mata”) dan beberapa nama lain.
+
+## Halaman PDF 97 (= halaman cetak 96)
+
+### Bagian 1 — Teks Arab yang terbaca
+
+**[Teks Arab Asli]**
+
+<div dir="rtl">
+
+وقيل إن الملوك إذا رأوا الناظر يأمرونه بالكنس والرش، وهذا المندل تصاريف كثيرة تدهش الألباب وتبهر القلوب، فاجعل الأمر فيك مستوراً عن الناس مكتوماً حتى تنال منها منفعة وخيراً. فإن أردت العمل في بعض تصاريف هذا المندل فاكتب الطلسم الآتي والخاتم فيما ذكرناه لك من الكشف، واكتب ﴿فَكَشَفْنَا عَنْكَ غِطَاءَكَ فَبَصَرُكَ الْيَوْمَ حَدِيدٌ﴾ [ق: 22]، وتعزم بهذه العزيمة سبع مرات، وهي هذه:
+
+أقسمت عليكم أيها الأرواح الروحانية المطيعون لرب البرية بحق من خلقكم أطواراً، وجعل بأيديكم [لفظ غير واضح] تشعل [لفظ غير واضح] ناراً، وبحق [أسماء متتابعة]، وبحق من تذل الألباب وتبهر القلوب [تتمة فيها أسماء غير مألوفة].
+
+[سلسلة طويلة من أسماء العزيمة غير العربية أو المتصلة؛ تظهر فيها ألفاظ مثل «كموس»، «أنوارش»، «أنابيل»، «آميا»، وأسماء أخرى لا تثبت قراءتها كاملة.]
+
+فإذا تمت قراءة العزيمة سبع مرات فإن الملوك السبعة يحضرون جميعاً، فعليك بتحصين الناظر خوفاً من الفزع والذهول.
+
+</div>
+
+### Bagian 2 — Terjemahan Indonesia
+
+**[Terjemahan Indonesia]**
+
+Disebutkan bahwa apabila para raja melihat orang yang mengamati, mereka menyuruhnya menyapu dan memercikkan air. Mandal ini, menurut teks, mempunyai banyak ragam penggunaan yang mengherankan akal dan memukau hati. Karena itu, rahasiakan perkara tersebut dari orang lain sampai memperoleh manfaat darinya. Jika hendak menggunakan salah satu ragam mandal ini, tulislah rajah dan cincin yang telah dijelaskan pada bagian penyingkapan, tulislah pula ayat Qāf 50:22, lalu ucapkan mantra berikut tujuh kali:
+
+“Aku menyumpah kalian, wahai roh-roh ruhani yang tunduk kepada Tuhan seluruh makhluk, demi Dia yang menciptakan kalian dalam berbagai tahap dan menempatkan di tangan kalian [lafaz tidak jelas] yang menyalakan [lafaz tidak jelas] api; demi [nama-nama berurutan], dan demi Dia yang membuat akal-akal tunduk serta memukau hati…” Sesudahnya terdapat rangkaian nama mantra yang panjang, sebagian bukan kosakata Arab biasa atau hurufnya saling menyambung. Beberapa gugus yang tampak ialah «كموس»، «أنوارش»، «أنابيل» dan «آميا»; bacaan lengkapnya tidak dapat dipastikan.
+
+Teks menyatakan bahwa setelah mantra dibaca tujuh kali, ketujuh raja akan hadir. Teks kemudian menganjurkan agar orang yang mengamati diberi perlindungan dari rasa takut dan terkejut.
+
+## Halaman PDF 98 (= halaman cetak 97)
+
+### Bagian 1 — Rajah dan keterangan
+
+**[Terjemahan Indonesia]**
+
+Halaman ini menampilkan dua baris simbol/tulisan tangan di atas sebuah kotak 3×3 yang berisi angka atau lambang. Keterangan di bawahnya berbunyi «وهذا هو الطلسم والخاتم» — “Inilah rajah dan cincin.” Huruf dan angka pada gambar tangan tidak seluruhnya dapat dibedakan, maka gambar dipertahankan sebagai sumber visual.
+
+### Bagian 2 — «الاختفاء» — Menyembunyikan diri
+
+**[Teks Arab Asli]**
+
+<div dir="rtl">
+
+الِاخْتِفَاءُ
+
+وهو إذا أردت أن لا يراك الناس مع خصمهم تكتب الطلسم الآتي وتربطه بجناح طير، وتكتب معه اسم الخصم أو من لا يسرهم أن تمشي معه، وتنظر الطير فإنهم لا يرونك معه، وهذا ما تكتبه:
+
+[يتلو ذلك طلسم بخط اليد؛ حروفه متصلة ورموزه لا تقرأ بثقة.]
+
+</div>
+
+**[Terjemahan Indonesia]**
+
+**Terjemahan:** “Menyembunyikan diri.” Jika ingin agar orang-orang tidak melihatmu ketika bersama lawan mereka, tulislah rajah berikut dan ikatkan pada sayap seekor burung. Tuliskan bersamanya nama lawan itu atau orang yang tidak ingin mereka lihat berjalan bersamamu. Pandanglah burung itu; menurut teks, mereka tidak akan melihatmu bersamanya. “Inilah yang ditulis.” Setelahnya terdapat rajah tulisan tangan; huruf dan lambangnya bertaut sehingga tidak dapat ditranskripsikan dengan yakin.
+
+## Halaman PDF 99 (= halaman cetak 98)
+
+### Bagian 1 — Teks Arab yang terbaca
+
+**[Teks Arab Asli]**
+
+<div dir="rtl">
+
+قَطْعُ الْحَجَرِ الثَّقِيلِ وَنَقْلُهُ
+
+إذا أردت رفع الصخور ولا يمنعك مانع من أخذ ما وراءها فاكتب المسبع الآتي على رق غزال طاهر بزغفران وحنا، واقرأ عليه الدعوة الجلجلوتية ثلاث مرات يومياً لمدة إحدى وعشرين يوماً وأنت جالس قريباً من الصخرة، ويكون بخورك عند التلاوة الجاوي والصندل والعود، فعند تمام العدد والمدة ترى الصخرة تنزل من ذلك المكان إلى حيث تريد بإذن الله تعالى.
+
+وَهَذَا هُوَ الْمُسَبَّعُ الْمَوْعُودُ بِهِ
+
+</div>
+
+### Bagian 2 — Terjemahan Indonesia
+
+**[Terjemahan Indonesia]**
+
+**Memecah batu berat dan memindahkannya.** Jika ingin mengangkat batu-batu besar agar tidak menghalangi pengambilan sesuatu di baliknya, tulislah *musabba‘* (rajah tujuh) berikut pada kulit rusa yang bersih dengan za‘faran dan henna. Bacakan doa al-Jaljalūtiyyah di atasnya tiga kali setiap hari selama dua puluh satu hari sambil duduk dekat batu. Dupa yang digunakan saat membaca ialah kemenyan Jawa, cendana, dan gaharu. Setelah jumlah bacaan dan masa itu selesai, teks menyatakan bahwa batu akan berpindah dari tempatnya ke tempat yang diinginkan, dengan izin Allah.
+
+Di bawahnya terdapat tabel rajah 7×7. Sel-selnya memuat huruf, tanda berbentuk garis, silang, dan lambang bintang yang berulang. Karena beberapa lambang merupakan tulisan tangan dan tidak dapat dibaca sebagai huruf Arab secara pasti, tabel tidak dialihaksarakan; keterangan cetaknya berbunyi, “Inilah rajah tujuh yang dijanjikan.”
+
+## Halaman PDF 100 (= halaman cetak 99)
+
+### Bagian 1 — «نسف تل قديم» — Meruntuhkan gundukan tua
+
+**[Teks Arab Asli]**
+
+<div dir="rtl">
+
+نَسْفُ تَلٍّ قَدِيمٍ
+
+إذا أردت نسف تل قديم فاكتب أسماء الرؤوس الأربعة مازر وكطم وطلك وقسورة على أربعة أحجار من شواطئ أنهار أربعة، وخذ [لفظ يشبه «خرص»] مصنوعاً من أربعة [كلمات بعده غير واضحة] واجعله في وسط المكان الذي تريد نسخه، واجعل الأحجار الأربعة في أركانه، ثم اقرأ العزيمة الجلجلوتية المطلوبة ثمانية وعشرين مرة وأنت مطلق بخور اللبان والكزبرة، وتكون القراءة في جلسة واحدة ولا تفصلها إلا لتأدية الفرائض من الصلاة، فإذا أتممت العدد فإن التل ينسف وينهار.
+
+</div>
+
+**[Terjemahan Indonesia]**
+
+**Terjemahan:** Jika ingin meruntuhkan sebuah gundukan tua, tulislah nama empat “kepala/penjuru”—«مازر، كطم، طلك، قسورة»—pada empat batu yang diambil dari tepian empat sungai. Ambillah [kata yang tampak seperti «خرص»] yang dibuat dari empat [kata sesudahnya tidak jelas], lalu letakkan di tengah tempat yang hendak diruntuhkan. Taruh empat batu di keempat sudutnya. Bacalah mantra al-Jaljalūtiyyah yang dimaksud dua puluh delapan kali sambil membakar kemenyan dan ketumbar. Pembacaan dilakukan dalam satu sesi, hanya disela untuk menunaikan salat wajib. Setelah jumlah itu selesai, teks menyatakan gundukan akan runtuh. Beberapa nama bahan/perangkat pada cetakan tidak jelas dan dipertahankan dalam bentuk catatan, bukan ditebak.
+
+### Bagian 2 — «لإظهار ضوء النهار بالليل» — Menampakkan cahaya siang pada malam hari
+
+**[Teks Arab Asli]**
+
+<div dir="rtl">
+
+لِإِظْهَارِ ضَوْءِ النَّهَارِ بِاللَّيْلِ
+
+إذا أردت إظهار شيء من الغرائب والعجائب وهو إضاءة الليل بنور النهار، تأخذ من السندروس وزن مثقال، ومن الزعفران المطبوخ مثله، ومن العزة الحمراء وزن مثقال، ومن الصمغ العربي الأحمر بلا بياض فيه وزن مثقال، ومن بزر البيروح مثقالين، وتسحق كل هذه المواد سحقاً ناعماً، ثم يوضع بماء اللقاح وزن مثقال، ثم يوضع بلبن المرأة وزن مثقالين، وإن لم يوجد لبن امرأة يؤخذ لبن ضأن عوضه، ثم تجعله في الشمس نهاراً كاملاً من أول طلوع الشمس إلى غروبها، ثم يوضع في الليل تحت النجوم من أول الليل إلى قرب شروق الشمس.
+
+</div>
+
+**[Terjemahan Indonesia]**
+
+**Terjemahan:** **Menampakkan cahaya siang pada malam hari.** Jika ingin menampilkan salah satu perkara ajaib—yakni menerangi malam dengan cahaya siang—ambil satu mitsqal sandarus, satu mitsqal za‘faran yang dimasak, satu mitsqal «العزة الحمراء» (nama bahan sebagaimana tercetak), satu mitsqal getah Arab merah tanpa bagian putih, dan dua mitsqal biji «البيروح» (nama bahan kurang jelas). Tumbuk semua bahan hingga halus. Tambahkan satu mitsqal air «اللقاح» (istilah bahan sebagaimana tercetak), lalu dua mitsqal susu perempuan; jika tidak ada, gunakan susu domba sebagai gantinya. Letakkan campuran itu di bawah matahari selama satu hari penuh, dari terbit hingga terbenam. Pada malam hari, letakkan di bawah bintang-bintang sejak awal malam sampai mendekati terbit matahari.
+
+## Halaman PDF 101 (= halaman cetak 100)
+
+### Bagian 1 — Kelanjutan resep pada halaman sebelumnya
+
+**[Teks Arab Asli]**
+
+<div dir="rtl">
+
+ثم تأخذ خرقة من ثوب جديد ترسم فيها من مواد الخلطة التي ذكرناها صورة فرس قرن لها قرنان كبيران يكونان في موضع الأجنحة، وذنب طويل، ويكون على شكله لها رأسان وعينان، وله في موضع عرفه شعر كثيف بعضه منسدل وبعضه قائم، ويكون الفرس لونه أخضر، ويكون الطالع وقت رسمه برج القوس.
+
+فإن رسمتها على هذه الصفة فاجعلها في الشمس بعد الفراغ من التصوير من غير تراخ ولا تأخير حتى تجف، ثم خذ أربع قطع من زجاج مصبوغ بصبغ أحمر، وإن كانت الأربع قطع فصوصاً صح أيضاً، ثم تشد في كل زاوية من زوايا الخرقة التي بها الصورة قطعة من القطع الأربعة، ويكون شدها بخيط إبريسم أحمر، ويكون شدها قوياً محكماً، ثم تعلق الخرقة مع ما معها في سقف بيت واسع إما بخيط وإما لصقاً، ثم تضع بخوراً من الأشنة والسندروس وقشور الكندر وقشور الفستق والتوت والجوز من كل واحد وزن درهمين، وتدخن بها البيت، وتغلق الباب غلقاً محكماً حتى ينفذ الدخان، ولا تجعل أحداً يدخل فيه.
+
+</div>
+
+**[Terjemahan Indonesia]**
+
+**Terjemahan:** Setelah itu, ambillah sepotong kain dari pakaian baru. Dengan bahan campuran yang telah disebut, gambarlah sosok kuda bertanduk—pada cetakan disebut «فرس قرن»—dengan dua tanduk besar pada tempat sayap dan ekor panjang. Bentuknya memiliki dua kepala dan dua mata; pada tempat surainya ada rambut tebal, sebagian terurai dan sebagian tegak. Warnai kuda itu hijau. Naskah mensyaratkan bahwa zodiak yang sedang terbit saat menggambar adalah Sagittarius (al-Qaws).
+
+Setelah menggambarnya, letakkan kain itu di bawah matahari tanpa menunda sampai kering. Ambil empat keping kaca yang diberi warna merah; teks menambahkan bahwa empat batu permata juga dapat digunakan. Ikat satu keping pada tiap sudut kain bergambar dengan benang sutra merah, kuat dan rapat. Gantung kain beserta benda-benda yang menyertainya pada langit-langit sebuah ruangan luas, dengan benang atau perekat. Bakar dupa yang terdiri atas lumut «الأشنة», sandarus, kulit kemenyan, kulit pistachio, murbei, dan kenari—masing-masing dua dirham. Asapi ruangan, lalu tutup pintunya rapat-rapat sampai asap memenuhi ruang; jangan biarkan siapa pun masuk.
+
+### Bagian 2 — Kelanjutan
+
+**[Teks Arab Asli]**
+
+<div dir="rtl">
+
+فإذا أظلمت الدنيا فعلق على باب البيت [لفظ قصير غير واضح] أحمر اللون، ويكون الباب مغلقاً بعد انسدال الستر من ورائه، فإنك ترى البيت كأنه يصبح مضيئاً كضوء النهار، وهو لا يشبه ضوء الشمس ولا السراج. فإذا أردت أن تظهر ذلك للناس الذين حضروا البيت فارفع الستر، ثم أغلق الباب من الداخل فإنهم يرون الضوء في جوف البيت.
+
+</div>
+
+**[Terjemahan Indonesia]**
+
+**Terjemahan:** Ketika suasana telah gelap, gantungkan pada pintu ruangan [ada kata pendek yang tidak jelas] berwarna merah. Pintu dibiarkan tertutup setelah tirai diturunkan di belakangnya. Naskah menyatakan bahwa ruangan akan tampak bercahaya seperti siang, tetapi bukan seperti cahaya matahari atau lampu. Jika ingin memperlihatkannya kepada orang-orang yang hadir, angkat tirainya, lalu tutup pintu dari dalam; mereka akan melihat cahaya di dalam ruangan. Kata pendek setelah «على باب البيت» samar pada cetakan.
+
+### Bagian 3 — «معرفة الأخبار» — Mengetahui berita
+
+**[Teks Arab Asli]**
+
+<div dir="rtl">
+
+مَعْرِفَةُ الْأَخْبَارِ
+
+وهو طلسم نافع لجلب الأخبار أن تكتبه وتتركه تحت رأسك وأنت طاهر البدن والثياب، وتتركه تحت رأسك وأنت طاهر البدن والثياب وكذلك المكان، وترقد على يمينك، فإنك ترى في المنام من يخبرك بكل ما تريد، وهذا هو الطلسم:
+
+[رسم مستطيل، وحوله حروف/أعداد، وداخل المستطيل عبارة بخط اليد؛ القراءة الأقرب: «تكتب اسم الجامع الذي تريد أن تعلمه عنها»؛ بعض الكلمات غير واضحة.]
+
+</div>
+
+**[Terjemahan Indonesia]**
+
+**Terjemahan:** **Mengetahui berita.** Ini adalah rajah yang, menurut naskah, berguna untuk memperoleh berita: tulislah, letakkan di bawah kepala, dan lakukan dalam keadaan badan serta pakaian suci; tempatnya juga hendaknya suci. Berbaringlah pada sisi kanan. Naskah menyatakan bahwa dalam mimpi akan datang seseorang yang memberitahukan segala hal yang diinginkan. Gambar di bawahnya berupa persegi panjang dengan huruf/angka di sekeliling dan tulisan tangan di dalamnya. Bacaan terdekat untuk tulisan di bagian dalam ialah “tulislah nama orang yang ingin engkau ketahui tentangnya”; beberapa kata tidak terbaca dengan pasti.
+
+## Halaman PDF 102 (= halaman cetak 101)
+
+### Bagian 1 — Teks Arab
+
+**[Teks Arab Asli]**
+
+<div dir="rtl">
+
+الْأَمَانُ وَالْحِفْظُ مِنَ الْأَعْدَاءِ
+
+وهو من قال الآتي عند ملاقاة الأعداء أمن شرهم ومكرهم وكان في حفظ الله تعالى ورعايته، وهذا ما تقوله:
+
+بِسْمِ اللهِ الرَّحْمَنِ الرَّحِيمِ، تَحَصَّنْتُ بِحِمَى لُطْفِ اللهِ، بِلُطْفِ صُنْعِ اللهِ، بِجَمِيلِ سَتْرِ اللهِ، دَخَلْتُ فِي كَنَفِ اللهِ، وَتَشَفَّعْتُ بِرَسُولِ اللهِ، بِدَوَامِ مُلْكِ اللهِ، بِلا حَوْلٍ وَلَا قُوَّةٍ إِلَّا بِاللهِ الْعَلِيِّ الْعَظِيمِ.
+
+هَا هَا يَا أَهْلِيلُ أَهْمَاشُ أَهْمَاشُ، حَجَبْتُ نَفْسِي بِحِجَابِ اللهِ وَمَنَعِهِ، بِآيَاتِ اللهِ الْبَيِّنَاتِ مِنْ كُلِّ سُوءٍ، بِحَقِّ مَنْ يُحْيِي النِّظَامَ [لفظ غير واضح] وَهُوَ رَحِيمٌ، جِبْرَائِيلُ عَنْ يَمِينِي وَإِسْرَافِيلُ عَنْ يَسَارِي، وَمُحَمَّدٌ ﷺ أَمَامِي، وَعَصَا مُوسَى فِي يَدِي، مَنْ رَآنِي هَابَنِي، وَخَاتَمُ سُلَيْمَانَ عَلَى لِسَانِي، فَمَنْ تَكَلَّمْتُ مَعَهُ تُقْضَى حَاجَتِي، وَنُورُ يُوسُفَ عَلَى وَجْهِي، فَمَنْ رَآنِي أَحَبَّنِي، وَاللهُ مُحِيطٌ بِي وَهُوَ الْمُسْتَعَانُ بِهِ عَلَى الْأَعْدَاءِ، لَا إِلَهَ إِلَّا اللهُ الْكَبِيرُ الْمُتَعَالُ، وَصَلَّى اللهُ عَلَى سَيِّدِنَا مُحَمَّدٍ نَبِيِّ الرَّحْمَةِ وَكَاشِفِ الْغُمَّةِ وَآلِهِ الطَّاهِرِينَ.
+
+</div>
+
+### Bagian 2 — Terjemahan Indonesia
+
+**[Terjemahan Indonesia]**
+
+**Rasa aman dan perlindungan dari musuh.** Naskah menyebut doa berikut untuk dibaca ketika berhadapan dengan musuh, agar aman dari kejahatan dan tipu daya mereka serta berada dalam penjagaan dan pemeliharaan Allah. Inilah bacaannya:
+
+“Dengan nama Allah Yang Maha Pengasih, Maha Penyayang. Aku berlindung dalam naungan kelembutan Allah, dengan kelembutan karya Allah dan keindahan perlindungan Allah. Aku masuk ke dalam penjagaan Allah dan memohon syafaat melalui Rasulullah, demi kekalnya kerajaan Allah. Tiada daya dan kekuatan kecuali dengan Allah Yang Mahatinggi lagi Mahaagung.
+
+Wahai, wahai, «Ahlīl, Ahmāsh, Ahmāsh» [rangkaian nama sebagaimana tercetak], aku melindungi diriku dengan hijab Allah dan penjagaan-Nya, dengan ayat-ayat Allah yang nyata dari segala keburukan. Demi Dia yang menghidupkan tatanan [satu lafaz tidak jelas] dan Maha Penyayang; Jibril berada di sebelah kananku, Isrāfīl di sebelah kiriku, Muḥammad ﷺ di hadapanku, dan tongkat Musa di tanganku. Siapa yang melihatku akan segan kepadaku; cincin Sulaiman berada di lisanku. Siapa pun yang kuajak bicara, kebutuhanku akan dipenuhi. Cahaya Yusuf berada di wajahku; siapa yang melihatku akan menyukaiku. Allah meliputi diriku, dan kepada-Nya dimohon pertolongan menghadapi para musuh. Tiada tuhan selain Allah Yang Mahabesar lagi Mahatinggi. Semoga Allah melimpahkan salawat kepada junjungan kami Muḥammad, Nabi pembawa rahmat dan penghapus kesusahan, serta kepada keluarga beliau yang suci.”
+
+Catatan: nama-nama invokatif pada awal paragraf dan satu kata sesudah «من يحيي النظام» tidak cukup jelas untuk dipastikan; bentuknya dipertahankan secara deskriptif.
+
+### Bagian 3 — Penutup halaman pada sumber
+
+**[Teks Arab Asli]**
+
+<div dir="rtl">
+
+تَمَّ بِحَمْدِ اللهِ
+
+</div>
+
+**[Terjemahan Indonesia]**
+
+“Selesai dengan puji syukur kepada Allah.”
+
+## Halaman PDF 103 (= halaman cetak 102)
+
+### Bagian 1 — «الفهرس» (Indeks)
+
+**[Terjemahan Indonesia]**
+
+Halaman terakhir memuat daftar isi, bukan lanjutan prosa. Terjemahan judul dan nomor halaman yang tercetak:
+
+| Halaman cetak | Judul pada indeks | Terjemahan Indonesia |
+|---:|---|---|
+| 1 | تعريف المؤلف | Riwayat/pengenalan penulis |
+| 2 | أسرار الأسماء المكتوبة على جبين جبرائيل عليه السلام | Rahasia nama-nama yang tertulis pada dahi Jibril, ‘alaihis-salām |
+| 3 | أسرار تسبيح ميكائيل عليه السلام | Rahasia tasbih Mikail, ‘alaihis-salām |
+| 3 | أسرار أسماء أصحاب البطن | Rahasia nama-nama para pemilik perut [judul sebagaimana tercetak; maknanya tidak jelas] |
+| 4 | صناعة خاتم لميططرون | Pembuatan cincin untuk «ميططرون» [nama khusus, transliterasi tentatif] |
+| 5 | الدعوة العظمى لجمع الأرواح | Doa agung untuk menghimpun roh-roh |
+| 7 | قسم من أقسام ميططرون | Salah satu sumpah/mantra «ميططرون» |
+| 8 | الكلام على أولاد صخر | Pembahasan tentang anak-anak Ṣakhr |
+| 8 | صفة خاتم صخر | Bentuk/cara cincin Ṣakhr |
+| 8 | صفة عمل | Tata cara amalan |
+| 9 | أسماء النفر التي تكتب بين عيني المصاب | Nama-nama yang ditulis di antara kedua mata orang yang terkena gangguan |
+| 10 | أسماء تقتل جميع الملوك | Nama-nama yang menurut judul digunakan untuk menundukkan semua raja |
+| 10 | تقييد الجان وصلبه واستنطاقه | Mengikat, menahan, dan menginterogasi jin [kata pertama pada cetakan agak samar] |
+| 10 | استنطاق | Meminta keterangan/menginterogasi |
+| 11 | شرح البلاطة | Penjelasan tentang papan/lempeng |
+| 16 | الجلب السرياني | Pemanggilan/penarikan berbahasa Suryani |
+| 19 | الأسماء الذي خلق الله بهم الريح وسخره لسيدنا سليمان | Nama-nama yang dengannya Allah menciptakan angin dan menundukkannya bagi junjungan kita Sulaiman [struktur judul dipertahankan] |
+| 21 | حجاب سليمان بن داود عليهما السلام | Hijab Sulaiman bin Dawud, ‘alaihimā as-salām |
+| 22 | حجاب تخاف الجن | Hijab yang ditakuti jin |
+| 22 | تحصين الإحاطة | Perlindungan/pengepungan menyeluruh |
+| 23 | حجاب القوة | Hijab kekuatan |
+| 23 | لمن خاف ضرب الجن | Bagi orang yang takut dipukul jin |
+| 23 | حصن عظيم | Benteng/perlindungan yang agung |
+| 25 | أسماء الطهاطيل الثمانية | Nama-nama delapan «ṭahāṭīl» [istilah khusus] |
+| 26 | أسماء التيجان | Nama-nama mahkota |
+| 29 | العزيمة البرهتية | Mantra al-Barhatiyyah |
+| 37 | دعوة السبع الصغرى | Doa tujuh yang kecil |
+| 38 | القسم السليماني | Sumpah/mantra Sulaiman |
+| 39 | قسم الدر النضير | Sumpah «ad-Durr an-Naḍīr» |
+| 43 | العزيمة الجلجلوتية | Mantra al-Jaljalūtiyyah |
+| 44 | الطريقة الصغرى للجلجلوتية | Cara kecil/ringkas al-Jaljalūtiyyah |
+| 51 | الطريقة الكبرى للجلجلوتية | Cara besar/lengkap al-Jaljalūtiyyah |
+| 93 | مندل أبو ديباجة | Mandal Abu Dībājah |
+| 94 | مندل ثاني | Mandal kedua |
+| 95 | مندل ثالث | Mandal ketiga |
+| 97 | الاختفاء | Menyembunyikan diri |
+| 98 | قطع الحجر الثقيل ونقله | Memecah dan memindahkan batu berat |
+| 99 | نسف تل قديم | Meruntuhkan gundukan tua |
+| 99 | لإظهار ضوء النهار بالليل | Menampakkan cahaya siang pada malam hari |
+| 100 | معرفة الأخبار | Mengetahui berita |
+| 101 | الأمان والحفظ من الأعداء | Rasa aman dan perlindungan dari musuh |
+
+**[Terjemahan Indonesia]**
+
+**Penutup sumber:** halaman PDF 102 (cetak 101) berakhir dengan «تم بحمد الله» — “Selesai, dengan puji syukur kepada Allah.” Halaman PDF 103 adalah indeks, sehingga tidak ada teks kitab sesudahnya.

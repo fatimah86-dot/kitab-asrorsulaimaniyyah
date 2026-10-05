@@ -58,7 +58,7 @@
 
 *Naruddu bika al-a'da'a min kulli jihatin*
 
-*Wa-bil-ismi narmihim min al-bu'di [the final printed word is faint; it resembles “bishatat”]*
+*Wa-bil-ismi narmihim minal-bu'di [the final printed word is faint; it resembles “bishatat”]*
 
 *Fa-anta raja'i ya ilahi wa-sayyidi*
 

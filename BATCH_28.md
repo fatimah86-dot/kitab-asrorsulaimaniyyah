@@ -82,7 +82,7 @@ Maka Engkaulah harapan seluruh alam, sekalipun [kata setelah «walau» tidak jel
 
 *Wa-subba 'alayya ar-rizqa sabban rahmatan*
 
-*Wa-arsil li al-arzaqa bil-khayri ursilat [the final verb is read tentatively]*
+*Wa-arsil lil-arzaqa bil-khayri ursilat [the final verb is read tentatively]*
 
 *Wa-bil-ismi mani'in kulla man'in wa-mani'in [the repeated form follows the print; syntax is uncertain]*
 
@@ -94,7 +94,7 @@ Maka Engkaulah harapan seluruh alam, sekalipun [kata setelah «walau» tidak jel
 
 *Nafya khusumin [short fragments unclear] wa-bi-tarasima [line ending obscured]*
 
-*Tahassantu bil-ismi al-'azhimi min al-falati [the last form is uncertain]*
+*Tahassantu bil-ismi al-'azhimi minal-falati [the last form is uncertain]*
 
 *Wa-ya [vocative word unclear] asri' bi-sirrin [following fragments unreadable]*
 

@@ -140,7 +140,7 @@ Dengan Alif dan Lām, kemudian Mīm dan bagian belakang/kelanjutannya. [Lafaz «
 
 *Bi-Qafin wa-Nunin thumma Sadin wa-ma intawa*
 
-*Min as-sirri wa-al-asrari fiha wa-ma hawat*
+*Minas-sirri wa-al-asrari fiha wa-ma hawat*
 
 *Bi-ma fi Kitabi Allahi min kulli suratin*
 

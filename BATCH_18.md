@@ -45,9 +45,9 @@
 
 *Wa bil-ismi tahfazuni bihisnin tahassantu*
 
-*Wa-sakhkhir li al-arwaha was-suhubi wal-hawa*
+*Wa-sakhkhir lil-arwaha was-suhubi wal-hawa*
 
-*Wa-arsil li al-amtara bil-faydi arsaltu*
+*Wa-arsil lil-amtara bil-faydi arsaltu*
 
 *Wa-bismika fal-bahru al-muhitu wa-ma hawa*
 
@@ -57,7 +57,7 @@
 
 *Wa-subhana Jahjan [the non-Arabic name is tentative; printed consonants retained] bismika sakhkhartu*
 
-*Wa bil-ismi fajlib li al-khala'iqa kullaha*
+*Wa bil-ismi fajlib lil-khala'iqa kullaha*
 
 *Bi-bahri wa-barrin fal-qaba'ilu aqbalat*
 

@@ -30,7 +30,7 @@
 
 **[Transliterasi Latin Fonetik]**
 
-*Wa-thahhir bihi qalbi min ar-rijsi wal-ghilli*
+*Wa-thahhir bihi qalbi minar-rijsi wal-ghilli*
 
 *Wa-zidni yaqinan thabitan bika wa-ikhlasan*
 
@@ -122,7 +122,7 @@ Curahkanlah hujan rahmat ke atas hatiku.
 
 *Wa-ya khayra khallaqin lahu al-khalqu [short printed fragment unclear] amintu [tentative reading of the final word]*
 
-*Afidh li min al-anwari faydatan mushriqatan [mushriqatan follows the visible print tentatively]*
+*Afidh li minal-anwari faydatan mushriqatan [mushriqatan follows the visible print tentatively]*
 
 *'Alayya wa-ahyi mayyita qalbi bi-lutfika*
 
