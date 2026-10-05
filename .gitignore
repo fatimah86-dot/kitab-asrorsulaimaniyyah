@@ -1,5 +1,6 @@
 # lingkungan Python lokal yang dibuat otomatis oleh mulai_malam.sh
 .venv-kitab/
+.venv/
 __pycache__/
 *.pyc
 
