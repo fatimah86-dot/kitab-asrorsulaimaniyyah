@@ -7,9 +7,9 @@
 
 - Penomoran: 1 halaman PDF = 1 halaman cetak. PDF hal. 1 = sampul; PDF hal. 2 = cetak 1; dan seterusnya (cetak = PDF − 1). Header berjalan dan footer (nomor telepon penulis) bukan isi kitab dan tidak diterjemahkan.
 - Teks cetak tidak berharakat. Harakat, tanda baca, dan transliterasi ditambahkan oleh AI, bukan dari naskah; mohon dikoreksi nahwu/sharaf.
-- Ejaan cetak yang tidak baku (ى/ه/ا) disesuaikan ke ejaan baku agar harakat bisa diberikan. Salah cetak tidak diperbaiki diam-diam: ditandai `[المطبوع: …]` (= yang tercetak) atau `[كذا]` (= demikian adanya).
+- Ejaan cetak yang tidak baku (ى/ه/ا) disesuaikan ke ejaan baku agar harakat bisa diberikan. Salah cetak atau susunan janggal tidak diperbaiki diam-diam: lafaz dipertahankan menurut cetakan dan disertai catatan deskriptif.
 - Transliterasi mengikuti bacaan washal (sambung): i'rab dibaca di tengah kalimat, waqf (tanpa i'rab/tanwin) di akhir kalimat atau koma. ث=ts, ذ=dz, ظ=zh, ض=dh, ص=sh, ط=th, ش=sy; tanda ' = hamzah/'ain.
-- Nama-nama non-Arab (nama malaikat/seruan) tidak diterjemahkan; harakat dan bacaannya dugaan, ditandai (؟) pada teks Arab dan (?) pada teks Latin.
+- Nama-nama non-Arab (nama malaikat/seruan) tidak diterjemahkan; harakat atau pelafalan yang belum pasti diberi keterangan, sementara konsonan cetak dipertahankan.
 - Edisi kajian: teks diterjemahkan sebagai dokumen; klaim kitab disampaikan sebagai klaim penulis, bukan anjuran praktik.
 - Perhalus batch (sama dengan BATCH 01): teks Arab dinormalisasi NFKC, lalu `arabic_reshaper` (`delete_harakat=False`) dan `bidi.get_display` dipakai sebagai pemeriksa — huruf Arab tersambung 100% (bentuk kontekstual utuh, harakat tidak hilang); potongan rajah disimpan 300 DPI (metadata) berlatar putih dengan bingkai emas `#c59b27`.
 
@@ -125,21 +125,21 @@ Wahai Hiya Syura Hiya Adunay Ashba'ut Il Syadday, cahaya di atas cahaya, uu uu �
 
 <div dir="rtl">
 
-… غَشْيَالْ هَدْرِيَالْ لَهْفَيَالْ بَرْقِيَالْ نُورِيَالْ عَشْيَالْ غَشْيَالْ فَلَايَالْ عَنْ تِرْيَالْ سَرْحِيَالْ (؟). تَبَارَكَ رَبُّنَا، مَا أَعَزَّ عِزَّهُ، الَّذِي أَلْجَمَ الجَانَ بِكَلِمَاتِهِ، لَا إِلَهَ إِلَّا هُوَ. عَجِّلُوا بِكَافٍ مِنْ كَافٍ، وَبِصَادٍ مِنْ صَادٍ، أَوْ أُوهِي شُوصَهْ، شَرَمَهْ بِشُطُورٍ شُطُورٍ، حمعست الم المص [كذا] رَبِّ يَا جَلِيلَ الأَجَلِّ، أَجِبْنِي يَا مَيْطَطْرُونُ أَنْتَ وَجَمِيعُ أَعْوَانِكَ، الطَّاعَةَ لِلَّهِ وَلِأَسْمَائِهِ.
+… غَشْيَالْ هَدْرِيَالْ لَهْفَيَالْ بَرْقِيَالْ نُورِيَالْ عَشْيَالْ غَشْيَالْ فَلَايَالْ عَنْ تِرْيَالْ سَرْحِيَالْ [ضبط الاسم غير محسوم؛ حروفه محفوظة وفق الطباعة]. تَبَارَكَ رَبُّنَا، مَا أَعَزَّ عِزَّهُ، الَّذِي أَلْجَمَ الجَانَ بِكَلِمَاتِهِ، لَا إِلَهَ إِلَّا هُوَ. عَجِّلُوا بِكَافٍ مِنْ كَافٍ، وَبِصَادٍ مِنْ صَادٍ، أَوْ أُوهِي شُوصَهْ، شَرَمَهْ بِشُطُورٍ شُطُورٍ، حمعست الم المص [الصيغة مطابقة للمطبوع مع غرابة تركيبها؛ لا تُصحح بلا شاهد أوضح] رَبِّ يَا جَلِيلَ الأَجَلِّ، أَجِبْنِي يَا مَيْطَطْرُونُ أَنْتَ وَجَمِيعُ أَعْوَانِكَ، الطَّاعَةَ لِلَّهِ وَلِأَسْمَائِهِ.
 
 </div>
 
 **[Transliterasi Latin Fonetik]**
 
-*… Ghasyyaal Hadriyaal Lahfayaal Barqiyaal Nuuriyaal 'Asyyaal Ghasyyaal Falaayaal 'an Tiriyaal Sarhiyaal (?). Tabaaraka rabbunaa, maa a'azza 'izzah, alladzii aljamal-jaana bikalimaatih, laa ilaaha illaa huw. 'Ajjiluu bikaafin min kaaf, wa bishaadin min shaad, au Uuhii Syuushah, Syaramah bisyuthuurin syuthuur, ham'asat Alif-Laam-Mim Alif-Laam-Shaad [kadzaa] Rabbi yaa Jaliilal-ajal, ajibnii yaa Maithathruunu anta wa jamii'u a'waanik, ath-thaa'ata lillaahi wa li-asmaa-ih.*
+*… Ghasyyaal Hadriyaal Lahfayaal Barqiyaal Nuuriyaal 'Asyyaal Ghasyyaal Falaayaal 'an Tiriyaal Sarhiyaal [phonetic reading is tentative; printed consonants are retained]. Tabaaraka rabbunaa, maa a'azza 'izzah, alladzii aljamal-jaana bikalimaatih, laa ilaaha illaa huw. 'Ajjiluu bikaafin min kaaf, wa bishaadin min shaad, au Uuhii Syuushah, Syaramah bisyuthuurin syuthuur, ham'asat Alif-Laam-Mim Alif-Laam-Shaad [irregular printed letter sequence retained without emendation] Rabbi yaa Jaliilal-ajal, ajibnii yaa Maithathruunu anta wa jamii'u a'waanik, ath-thaa'ata lillaahi wa li-asmaa-ih.*
 
 **[Terjemahan Indonesia]**
 
-… Ghasyyal, Hadriyal, Lahfayal, Barqiyal, Nuriyal, 'Asyyal, Ghasyyal, Falayal, 'an Tiriyal, Sarhiyal (?). Mahasuci Tuhan kami; betapa perkasa keperkasaan-Nya; Dzat yang membungkam jin dengan kalimat-kalimat-Nya; tiada tuhan selain Dia. Segeralah dengan kaf dari kaf, dan dengan shad dari shad, atau Uhi Shushah, Syaramah dengan syuthur syuthur, ham'asat Alif-Lam-Mim Alif-Lam-Shad [demikian adanya]; Tuhanku, wahai Yang Mahamulia ajal, jawablah aku, wahai Mithathrun — engkau dan seluruh penolongmu — taat kepada Allah dan kepada nama-nama-Nya.
+… Ghasyyal, Hadriyal, Lahfayal, Barqiyal, Nuriyal, 'Asyyal, Ghasyyal, Falayal, 'an Tiriyal, Sarhiyal [pelafalan nama non-Arab bersifat tentatif; konsonan cetak dipertahankan]. Mahasuci Tuhan kami; betapa perkasa keperkasaan-Nya; Dzat yang membungkam jin dengan kalimat-kalimat-Nya; tiada tuhan selain Dia. Segeralah dengan kaf dari kaf, dan dengan shad dari shad, atau Uhi Shushah, Syaramah dengan syuthur syuthur, ham'asat Alif-Lam-Mim Alif-Lam-Shad [rangkaian huruf ini dipertahankan sesuai cetakan; bentuknya tidak baku]; Tuhanku, wahai Yang Mahamulia ajal, jawablah aku, wahai Mithathrun — engkau dan seluruh penolongmu — taat kepada Allah dan kepada nama-nama-Nya.
 
 **[Syarah]**
 
-> Rantai nama malaikat dari halaman sebelumnya ditutup (diakhiri tanda (؟) karena bacaan dugaan), lalu doa ditutup dengan pujian: «Dia yang membungkam jin dengan kalimat-kalimat-Nya». Seruan «kaf dari kaf dan shad dari shad» memakai pola ilmu huruf (penggalan huruf sebagai kunci), umum dalam literatur wafaq; rangkaian «حمعست الم المص» tidak jelas maknanya — «الم المص» berupa huruf muqaththa'ah (banding pembuka surat al-Baqarah dan al-A'raf) — sehingga dibiarkan tanpa harakat dan ditandai [كذا]. Permintaan ditutup dengan tuntutan taat «kepada Allah dan nama-nama-Nya».
+> Rantai nama malaikat dari halaman sebelumnya ditutup (nama penutup dibaca secara tentatif; konsonan cetaknya dipertahankan), lalu doa ditutup dengan pujian: «Dia yang membungkam jin dengan kalimat-kalimat-Nya». Seruan «kaf dari kaf dan shad dari shad» memakai pola ilmu huruf (penggalan huruf sebagai kunci), umum dalam literatur wafaq; rangkaian «حمعست الم المص» tidak jelas maknanya — «الم المص» berupa huruf muqaththa'ah (banding pembuka surat al-Baqarah dan al-A'raf) — sehingga dibiarkan tanpa harakat dan dicatat bahwa susunan cetaknya tidak lazim dan dipertahankan tanpa normalisasi. Permintaan ditutup dengan tuntutan taat «kepada Allah dan nama-nama-Nya».
 
 ### Bagian 2 — Judul: sebagian dari sumpah-sumpah Mithathrun
 
