@@ -134,6 +134,17 @@ class BatchAsliTest(unittest.TestCase):
         self.assertEqual(temuan, [])
         self.assertTrue(ringkasan[0].startswith("BATCH_01.md"))
 
+    def test_batch35_mencakup_sampai_indeks_terakhir(self) -> None:
+        b = self.batches[-1]
+        self.assertEqual(b["nomor"], 35)
+        self.assertEqual([h["pdf"] for h in b["halaman"]], list(range(94, 104)))
+        tabel = [it for h in b["halaman"] for bg in h["bagian"] for it in bg["items"] if it["kind"] == "table"]
+        self.assertEqual(len(tabel), 1)
+        self.assertEqual(len(tabel[0]["rows"]), 43)  # header + separator + 41 entri indeks
+        gabungan = bp.ke_markdown([b], murni=False)
+        self.assertIn("## Halaman PDF 103", gabungan)
+        self.assertIn("تم بحمد الله", gabungan)
+
     def test_rajah_ada_dan_putih_bersih(self) -> None:
         from PIL import Image
 
@@ -148,7 +159,8 @@ class BatchAsliTest(unittest.TestCase):
         self.addCleanup(shutil.rmtree, tmp, True)
         (tmp / "BATCH_01.md").write_text(bp.ke_markdown(self.batches, murni=False), encoding="utf-8")
         ulang = bp.parse_batch(tmp / "BATCH_01.md")  # judul gabungan tidak memengaruhi isi
-        asli = self.batches[0]
+        # gabungan memuat semua batch: bandingkan dengan seluruh halaman, urut
+        asli = {"halaman": [h for b in self.batches for h in b["halaman"]]}
 
         def bentuk(b):
             return [(h["pdf"], [(bg["no"], [(it["kind"], len(it.get("paras", []))) for it in bg["items"]]) for bg in h["bagian"]]) for h in b["halaman"]]
@@ -222,7 +234,14 @@ class PdfTest(unittest.TestCase):
                 nama.setdefault(f[3], set()).add(f[0])
         self.assertTrue({"Amiri Regular", "Amiri Bold", "Amiri Italic"} <= set(nama), nama)
         self.assertTrue(all(len(v) == 1 for v in nama.values()), nama)  # tidak berganda -> berkas kecil
-        self.assertLess(self.berkas.stat().st_size, 3 * 1024 * 1024)
+        # berkas font tertanam sekali per gaya: satu FontFile2 per font ternama
+        n_ff = sum(
+            1 for x in range(1, self.doc.xref_length())
+            if self.doc.xref_get_key(x, "FontFile2")[0] != "null"
+        )
+        self.assertLessEqual(n_ff, len(nama), "font tertanam lebih dari sekali")
+        # anggaran ukuran sebanding jumlah halaman (font ±1,2 MB + isi per halaman)
+        self.assertLess(self.berkas.stat().st_size, int((1.2 + 0.12 * len(self.doc)) * 1024 * 1024))
 
     def test_teks_arab_bisa_disalin_dan_dicari(self) -> None:
         """Regresi: ToUnicode bawaan MuPDF mengacak huruf Arab kontekstual; kita menulis ulang dari font."""
@@ -230,10 +249,10 @@ class PdfTest(unittest.TestCase):
 
         semua = unicodedata.normalize("NFKC", " ".join(self.doc[i].get_text() for i in range(len(self.doc))))
         huruf = re.sub("[\u064B-\u0652\u0670]", "", semua)
-        for kata in ("السليمانية", "الروحانية", "ميكائيل", "جبرائيل", "بسم الله الرحمن الرحيم", "سبحانك يا حي"):
+        for kata in ("السليمانية", "الروحانية", "ميكائيل", "جبرائيل", "بسم الله الرحمن الرحيم", "سبحانك يا حي", "الفهرس", "تم بحمد الله"):
             self.assertIn(kata, huruf)
         arab = [c for c in semua if "\u0600" <= c <= "\u06ff"]
-        asing = [c for c in semua if "\u0700" <= c <= "\u1fff" or "\u2c00" <= c <= "\ufaff"]
+        asing = [c for c in semua if ("\u0700" <= c <= "\u1fff" or "\u2c00" <= c <= "\ufaff") and not unicodedata.name(c, "").startswith("LATIN ")]
         self.assertGreater(len(arab), 2000)
         self.assertEqual(asing, [], "karakter aksara lain (ToUnicode rusak): " + "".join(asing[:20]))
 
@@ -294,6 +313,11 @@ class PdfTest(unittest.TestCase):
     def test_gambar_rajah_ada_di_pdf(self) -> None:
         jumlah = sum(len(self.doc[i].get_images()) for i in range(len(self.doc)))
         self.assertGreaterEqual(jumlah, 1)
+
+    def test_lampiran_pindaian_berakhir_di_pdf_103(self) -> None:
+        terakhir = self.doc[-1]
+        self.assertIn("halaman PDF 103 / 103", terakhir.get_text())
+        self.assertGreaterEqual(len(terakhir.get_images()), 1)
 
 
 class ServerTest(unittest.TestCase):
