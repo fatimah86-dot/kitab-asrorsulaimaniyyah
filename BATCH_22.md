@@ -1,0 +1,202 @@
+# BATCH 22 — Kajian teks: 20 larik (PDF 79–80)
+
+> **الأسرار السليمانية في العلوم الروحانية** — Dr. Abdullah al-Jundi · al-Mathba'ah ats-Tsaqafiyyah, Bairut
+> Sumber: `kitab/asrorul-sulaimaniyah.pdf` · pindaian halaman penuh 079–080 · edisi kajian
+>
+> Cakupan: 20 larik lanjutan setelah BATCH 21, yaitu PDF 79 larik 2–17 dan PDF 80 larik 1–4 (nomor nazham 588–607). Pada beberapa lafaz halaman 79–80, cetakan kecil atau kurang jelas; bacaan yang belum mantap disertai catatan deskriptif, tanpa normalisasi atau tebakan diam-diam.
+
+---
+
+## Halaman PDF 79 (= cetak 78)
+
+### Bagian 1 — Sambungan nazham: nama dan seruan (larik 588–603)
+
+**[Teks Arab Asli]**
+
+<div dir="rtl">
+
+لِيَاشِشُ بِالِاسْمِ سَعْدِي أَقْبَلَتْ [«لياشش» اسم غير مألوف وضبطه تقريبي؛ بقية العبارة محفوظة كما في المطبوع]
+
+بِرَوَا [الكلمة التالية باهتة] بِزَهْرِهِ بِسِرِّهِ [«بزهره» و«بسره» ظاهرتان؛ الصلة بين الألفاظ غير محسومة]
+
+بِمَاءٍ كَثِيرٍ [لفظ قصير بينهما غير جلي] عِزَّةٌ عَلَتْ [تركيب السطر كما في الطباعة، واللفظ الفاصل لا يتضح]
+
+[بداية السطر باهتة] عَظِيمٌ مُعَظَّمٌ [«عظيم معظم» ظاهرتان؛ لا يُستكمل أول السطر بالتخمين]
+
+إِلَهِي بِطُورَانَ بِالِاسْمِ سَعْدِي قَدْ نَبَتْ [«طوران» و«قد نبت» قراءة تقريبية وفق الرسم؛ لا تُسوّى الصياغة دون قرينة]
+
+سَأَلْتُكَ يَا اللَّهُ سِرًّا [خاتمة قصيرة بعد «سرّاً» مطموسة] [تُحفظ العبارة الظاهرة كما في الطباعة]
+
+وَيَا [لفظ النداء غير واضح] بِالِاسْمِ عَوْنِي تَسَخَّرَتْ [«بالاسم عوني تسخرت» هي أقرب قراءة للرسم؛ لا يُفترض اسم النداء]
+
+وَيَا [لفظ النداء باهت] عَزْمِي قَوِيٌّ [خاتمة قصيرة غير مقروءة] [«عزمي قوي» محفوظة؛ موضعا الاسم والخاتمة غير واضحين]
+
+وَيَا [لفظ النداء غير جلي] [كلمة تالية مطموسة] قَدَرَتْ [نهاية الفعل تقرأ تقريبياً «قدرت»؛ يُحفظ رسمها دون إصلاح]
+
+بِعِزَّةٍ [لفظ قصير بينهما غير واضح] لَهُ الْمَجْدُ وَالسَّنَا [«له المجد والسنا» ظاهرة؛ اللفظ بعد «بعزة» باهت]
+
+وَيَا [اسم النداء غير مقروء] الْجِنَّ إِذَا عَصَتْ [«الجن إذا عصت» محفوظة كما في المطبوع؛ صدر السطر غير واضح]
+
+بِسَطْوَةٍ [اسم بعده غير جلي] قَوِيٌّ [تتمة قصيرة باهتة] [«بسطوة» و«قوي» ظاهرتان؛ لا تُستكمل الأسماء المطموسة بالتخمين]
+
+لَهُ الْمُلْكُ وَالْأَمْلَاكُ جَمْعًا تَوَاضَعَتْ
+
+وَيَا [اسم النداء غير واضح] يَا إِلَهِي بِجَاهِهِ [«يا إلهي بجاهه» ظاهرة؛ الاسم السابق غير مقروء]
+
+بِعِزٍّ [لفظ قصير بعده مطموس] بِالنَّفْخِ السَّعْدُ أَقْبَلَتْ [«بالنفخ السعد أقبلت» قراءة تقريبية؛ التركيب محفوظ كما في الطباعة]
+
+بِاسْمِ جَلِيلٍ بِزَهْوٍ لَا قَاهِرَ [«بزهو لا قاهر» كما في المطبوع؛ ترتيب العبارة غير مألوف ولا يُعاد بناؤه]
+
+</div>
+
+**[Transliterasi Latin Fonetik]**
+
+*Liyashishu bil-ismi sa'di aqbalat [the name “Liyashishu” is tentative; printed consonants are retained]*
+
+*Bi-rawa [following word unclear] bi-zahrihi bisirrihi [the printed fragments are retained; the connector is illegible]*
+
+*Bi-ma'in kathirin [short middle word unclear] 'izzatun 'alat [the visible wording is retained; the middle reading is uncertain]*
+
+*[opening word unreadable] 'azhimun mu'azzamun [the two visible epithets are retained; the line opening is obscured]*
+
+*Ilahi bi-Thuran bil-ismi sa'di qad nabat [“Thuran” and the final phrase are tentative readings of the print]*
+
+*Sa'altuka ya Allah sirran [short ending unclear] [the visible phrase is retained; final reading remains uncertain]*
+
+*Wa-ya [vocative name unreadable] bil-ismi 'awni taskharat [the visible phrase is retained; the opening name is obscured]*
+
+*Wa-ya [vocative name faint] 'azmi qawiyyun [short ending unclear] [“azmi qawiyyun” is visible; the surrounding words are uncertain]*
+
+*Wa-ya [vocative name unreadable] [following word obscured] qadarat [the printed ending resembles “qadarat”; reading is tentative]*
+
+*Bi-'izzatin [short middle word unclear] lahu al-majdu was-sana [the final phrase is visible; the middle word is obscured]*
+
+*Wa-ya [vocative name unreadable] al-jinna idza 'asat [the latter phrase is retained; opening name is obscured]*
+
+*Bi-satwatin [name-like word unclear] qawiyyun [short ending obscured] [the visible words are retained; the name fragments are uncertain]*
+
+*Lahu al-mulku wal-amlaku jam'an tawada'at*
+
+*Wa-ya [vocative name unclear] ya ilahi bijahihi [the visible invocation is retained; the opening name is unreadable]*
+
+*Bi-'izzin [short word unclear] bin-nafkhi as-sa'du aqbalat [the final words are tentative readings of the print]*
+
+*Bi-ismi Jalilin bi-zahwin la qahira [the printed wording is retained; the syntax is unusual]*
+
+**[Terjemahan Indonesia]**
+
+«Liyāshish» (bacaan tidak pasti) disebut bersama Nama dan «sa'di»; akhir larik tampak berbunyi «أقبلت». [Susunan tidak jelas.]
+
+Beberapa lafaz pada baris ini tidak cukup jelas untuk diterjemahkan dengan pasti; tampak bagian «بزهره» dan «بسره».
+
+Disebut air dalam jumlah banyak dan kemuliaan yang meningkat; bagian penghubungnya tidak jelas.
+
+Lafaz awal tidak terbaca dengan pasti; tampak kata «عظيم» dan «معظم».
+
+Seruan «إلهي» (“Tuhanku”) dan bagian «بالاسم سعدي» tampak; lafaz «بطوران» serta penutupnya meragukan.
+
+Aku memohon kepada-Mu, wahai Allah, secara rahasia; sambungan akhir tidak terbaca pasti.
+
+Nama/lafaz panggilan tidak terbaca pasti; baris menyebut «بالاسم عوني» dan «تسخرت».
+
+Lafaz panggilan dan penutup tidak jelas; bagian «عزمي قوي» tampak pada cetakan.
+
+Lafaz baris ini sebagian besar tidak terbaca pasti; kata akhir tampak seperti «قدرت».
+
+Dengan kemuliaan [lafaz tidak jelas], bagi-Nya kemegahan dan cahaya. [Susunan awal meragukan.]
+
+Wahai [lafaz tidak jelas], para jin jika mereka durhaka. [Kalimat terputus/tidak jelas pada cetakan.]
+
+Dengan kekuatan [lafaz tidak jelas], [bagian berikutnya tidak terbaca pasti].
+
+Kekuasaan adalah milik-Nya; seluruh malaikat pun tunduk bersama-sama.
+
+Wahai [lafaz tidak jelas], wahai Tuhanku, demi kemuliaan-Nya.
+
+Dengan keagungan [lafaz tidak jelas], melalui embusan keberuntungan [lafaz penutup meragukan].
+
+Dengan nama Yang Agung, dengan kebesaran; tiada penakluk. [Susunan pada cetakan janggal.]
+
+**[Syarah]**
+
+> (588) «لياشش» tampak sebagai nama/lafaz khusus; bentuk dan kaitannya dengan «بالاسم سعدي أقبلت» tidak dapat dipastikan dari cetakan.
+
+> (589) Beberapa kata di larik ini tidak terbaca dengan cukup pasti. Fragmen «بزهره» dan «بسره» dipertahankan tanpa ditafsirkan berlebihan.
+
+> (590) «بماء كثير» dan «عزة علت» relatif terbaca, tetapi kata penghubung di antaranya meragukan.
+
+> (591) Hanya «عظيم معظم» yang terbaca cukup jelas; lafaz awal baris ditandai tidak terbaca.
+
+> (592) «إلهي» dan «بالاسم سعدي» terbaca; «بطوران» serta «قد نبت» dipertahankan sebagai bacaan sementara.
+
+> (593) Seruan kepada Allah dan kata «سرًّا» (secara rahasia) tampak, sementara bagian akhir larik tidak jelas.
+
+> (594) «بالاسم عوني» serta «تسخرت» terbaca; nama/lafaz sebelum itu tidak dipastikan.
+
+> (595) Fragmen «عزمي قوي» tampak; susunan selebihnya tidak cukup jelas untuk dinormalkan.
+
+> (596) Sebagian besar larik tidak dapat dibaca dengan pasti; bentuk akhir ditandai sebagai dugaan.
+
+> (597) «له المجد والسنا» berarti bagi-Nya kemegahan dan cahaya; bagian awal tidak jelas.
+
+> (598) «الجن إذا عصت» menyebut jin yang durhaka; lafaz seruan sebelumnya tidak terbaca dengan pasti.
+
+> (599) «بسطوة» terbaca sebagai ungkapan kekuatan, tetapi nama dan kelanjutan frasa tidak jelas.
+
+> (600) «له الملك والأملاك» menyatakan kekuasaan bagi-Nya dan menyebut para malaikat; verba «تواضعت» menggambarkan ketundukan.
+
+> (601) Bagian «يا إلهي بجاهه» merupakan seruan kepada Tuhan; lafaz yang mendahuluinya tidak jelas.
+
+> (602) Beberapa kata pada larik ini meragukan; «السعد» dan «أقبلت» tampak pada cetakan dan dipertahankan.
+
+> (603) «باسم جليل» berarti “dengan nama yang agung”; susunan «بزهو لا قاهر» terasa tidak lazim dan tetap disalin sesuai cetakan tanpa penataan ulang.
+
+---
+
+## Halaman PDF 80 (= cetak 79)
+
+### Bagian 1 — Sambungan nazham: permohonan agar tujuan tercapai (larik 604–607)
+
+**[Teks Arab Asli]**
+
+<div dir="rtl">
+
+[صدر السطر مطموس] نَارُ الْجِنِّ تَمَرَّدَتْ [«نار الجن تمردت» أقرب قراءة للرسم؛ يبقى أول السطر غير محسوم]
+
+وَيَا [اسم النداء غير مقروء] أَسْرِعْ بِنَجْحِ مَقَاصِدِي [«بنجح مقاصدي» محفوظة حسب الطباعة رغم غرابة اللفظ]
+
+[صدر السطر باهت] فَالْمُلُوكُ تَسَارَعَتْ [«فالملوك تسارعت» ظاهرة؛ يُترك صدر السطر دون تخمين]
+
+[صدر السطر غير مقروء] يَا إِلَهِي وَالْمَالِكِي [«يا إلهي والمالكي» محفوظة وفق الرسم؛ الاسم/الصفة الأخيرة غير محسومة]
+
+</div>
+
+**[Transliterasi Latin Fonetik]**
+
+*[opening word unreadable] narul-jinni tamarradat [the visible phrase is retained; the line opening is obscured]*
+
+*Wa-ya [vocative name unreadable] asri' binajhi maqasidi [the printed phrase is retained despite unusual wording]*
+
+*[opening word unclear] fal-muluku tasara'at [the visible phrase is retained; opening reading is uncertain]*
+
+*[opening word unreadable] ya ilahi wal-maliki [the visible invocation is retained; opening is obscured]*
+
+**[Terjemahan Indonesia]**
+
+Lafaz awal tidak terbaca pasti; bagian akhir menyebut api/jin yang memberontak.
+
+Wahai [lafaz tidak jelas], percepatlah keberhasilan tujuan-tujuanku. [Bacaan «بنجح» dipertahankan meski tidak lazim.]
+
+[Lafaz awal tidak jelas]; para raja pun bersegera.
+
+[Lafaz awal tidak jelas]; tampak seruan «يا إلهي» dan penyebutan «المالكي».
+
+**[Syarah]**
+
+> (604) Bagian awal larik sulit dibaca; fragmen «نار الجن تمردت» dipertahankan secara literal tanpa menyusun ulang maknanya.
+
+> (605) «أسرع» dan «مقاصدي» terbaca; lafaz panggilan di antaranya tidak pasti.
+
+> (606) «فالملوك تسارعت» tampak pada cetakan; bagian awal tidak cukup jelas untuk diterjemahkan dengan aman.
+
+> (607) «يا إلهي» dan «المالكي» terbaca, tetapi awal larik dan hubungan katanya meragukan.
