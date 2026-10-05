@@ -7,9 +7,9 @@
 
 - Penomoran: 1 halaman PDF = 1 halaman cetak. PDF hal. 1 = sampul; PDF hal. 2 = cetak 1; dan seterusnya (cetak = PDF − 1). Header berjalan dan footer (nomor telepon penulis) bukan isi kitab dan tidak diterjemahkan.
 - Teks cetak tidak berharakat. Harakat, tanda baca, dan transliterasi ditambahkan oleh AI, bukan dari naskah; mohon dikoreksi nahwu/sharaf.
-- Ejaan cetak yang tidak baku (ى/ه/ا) disesuaikan ke ejaan baku agar harakat bisa diberikan. Salah cetak tidak diperbaiki diam-diam: ditandai `[المطبوع: …]` (= yang tercetak) atau `[كذا]` (= demikian adanya).
+- Ejaan cetak yang tidak baku (ى/ه/ا) disesuaikan ke ejaan baku agar harakat bisa diberikan. Salah cetak atau susunan janggal tidak diperbaiki diam-diam: lafaz dipertahankan menurut cetakan dan disertai catatan deskriptif.
 - Transliterasi mengikuti bacaan washal (sambung): i'rab dibaca di tengah kalimat, waqf (tanpa i'rab/tanwin) di akhir kalimat atau koma. ث=ts, ذ=dz, ظ=zh, ض=dh, ص=sh, ط=th, ش=sy; tanda ' = hamzah/'ain.
-- Nama-nama non-Arab (nama malaikat/seruan) tidak diterjemahkan; harakat dan bacaannya dugaan, ditandai (؟) pada teks Arab dan (?) pada teks Latin.
+- Nama-nama non-Arab (nama malaikat/seruan) tidak diterjemahkan; harakat atau pelafalan yang belum pasti diberi keterangan, sementara konsonan cetak dipertahankan.
 - Edisi kajian: teks diterjemahkan sebagai dokumen; klaim kitab disampaikan sebagai klaim penulis, bukan anjuran praktik.
 
 ---
@@ -178,7 +178,7 @@ Beliau adalah ahli ilmu ruhani yang agung, Dr. Abdullah al-Jundi, berkebangsaan 
 
 **أَسْرَارُ الأَسْمَاءِ المَكْتُوبَةِ عَلَى جَبِينِ جِبْرَائِيلَ عَلَيْهِ السَّلَامُ**
 
-فِي الأَسْمَاءِ المَكْتُوبَاتِ عَلَى جَبِينِ جِبْرَائِيلَ عَلَيْهِ السَّلَامُ، الوَاقِفِ عَلَى شِمَالِ القُدْرَةِ مُنْتَظِرًا مَا يُؤْمَرُ بِهِ مِنَ الوَحْيِ الإِلَهِيِّ. وَهِيَ عَلَى المَلَائِكَةِ المُخْتَصِّينَ بِاللَّوْحِ المُحِيطِ بِكُلِّ عِلْمٍ وَالعِلْمِ الرَّفِيعِ، مَتَى دَعَوْتَهُمْ بِهَا أَجَابُوا سَمْعًا وَطَاعَةَ اللَّهِ عَزَّ وَجَلَّ، وَبِأَسْمَائِهِ وَبِهَا خَلَقَهُمْ، وَهِيَ مَكْتُوبَةٌ عَلَى جَبِينِ جِبْرِيلَ عَلَيْهِ السَّلَامُ، وَهِيَ الَّتِي كَانَ يَتَكَلَّمُ بِهَا عِيسَى بْنُ مَرْيَمَ عَلَيْهِ السَّلَامُ عِنْدَ مُهِمَّاتِ الأَمْرِ، وَهِيَ هَذِهِ: طَشْ طَشْ طَشْطْ طَشَهْ يُوهَنِيطْ هُومِيَاطْ هُوثَاوُطْ (؟)، جَلَّ اللَّهُ عَزَّ وَجَلَّ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ.
+فِي الأَسْمَاءِ المَكْتُوبَاتِ عَلَى جَبِينِ جِبْرَائِيلَ عَلَيْهِ السَّلَامُ، الوَاقِفِ عَلَى شِمَالِ القُدْرَةِ مُنْتَظِرًا مَا يُؤْمَرُ بِهِ مِنَ الوَحْيِ الإِلَهِيِّ. وَهِيَ عَلَى المَلَائِكَةِ المُخْتَصِّينَ بِاللَّوْحِ المُحِيطِ بِكُلِّ عِلْمٍ وَالعِلْمِ الرَّفِيعِ، مَتَى دَعَوْتَهُمْ بِهَا أَجَابُوا سَمْعًا وَطَاعَةَ اللَّهِ عَزَّ وَجَلَّ، وَبِأَسْمَائِهِ وَبِهَا خَلَقَهُمْ، وَهِيَ مَكْتُوبَةٌ عَلَى جَبِينِ جِبْرِيلَ عَلَيْهِ السَّلَامُ، وَهِيَ الَّتِي كَانَ يَتَكَلَّمُ بِهَا عِيسَى بْنُ مَرْيَمَ عَلَيْهِ السَّلَامُ عِنْدَ مُهِمَّاتِ الأَمْرِ، وَهِيَ هَذِهِ: طَشْ طَشْ طَشْطْ طَشَهْ يُوهَنِيطْ هُومِيَاطْ هُوثَاوُطْ [ضبط الاسم غير محسوم؛ حروفه محفوظة وفق الطباعة]، جَلَّ اللَّهُ عَزَّ وَجَلَّ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ.
 
 </div>
 
@@ -186,13 +186,13 @@ Beliau adalah ahli ilmu ruhani yang agung, Dr. Abdullah al-Jundi, berkebangsaan 
 
 **Asraarul-asmaa'il-maktuubati 'alaa jabiini Jibraa'iila 'alaihis-salaam**
 
-*Fil-asmaa'il-maktuubaati 'alaa jabiini Jibraa'iila 'alaihis-salaam, al-waaqifi 'alaa syimaalil-qudrati muntazhiran maa yu'maru bihi minal-wahyil-ilaahiyy. Wa hiya 'alal-malaa'ikatil-mukhtashshiina bil-lauhil-muhiithi bikulli 'ilmin wal-'ilmir-rafii', mataa da'autahum bihaa ajaabuu sam'an wa thaa'atallaahi 'azza wa jalla, wa bi-asmaa'ihi wa bihaa khalaqahum, wa hiya maktuubatun 'alaa jabiini Jibriila 'alaihis-salaam, wa hiyallatii kaana yatakallamu bihaa 'Iisabnu Maryama 'alaihis-salaam 'inda muhimmaatil-amr, wa hiya haadzihi: Thasy thasy thasyth thasyah yuuhaniith huumiyaath huutsaawuth (?), jallallaahu 'azza wa jalla, wa huwa 'alaa kulli syai'in qadiir.*
+*Fil-asmaa'il-maktuubaati 'alaa jabiini Jibraa'iila 'alaihis-salaam, al-waaqifi 'alaa syimaalil-qudrati muntazhiran maa yu'maru bihi minal-wahyil-ilaahiyy. Wa hiya 'alal-malaa'ikatil-mukhtashshiina bil-lauhil-muhiithi bikulli 'ilmin wal-'ilmir-rafii', mataa da'autahum bihaa ajaabuu sam'an wa thaa'atallaahi 'azza wa jalla, wa bi-asmaa'ihi wa bihaa khalaqahum, wa hiya maktuubatun 'alaa jabiini Jibriila 'alaihis-salaam, wa hiyallatii kaana yatakallamu bihaa 'Iisabnu Maryama 'alaihis-salaam 'inda muhimmaatil-amr, wa hiya haadzihi: Thasy thasy thasyth thasyah yuuhaniith huumiyaath huutsaawuth [phonetic reading of the non-Arabic name is tentative; printed consonants are retained], jallallaahu 'azza wa jalla, wa huwa 'alaa kulli syai'in qadiir.*
 
 **[Terjemahan Indonesia]**
 
 **Rahasia Nama-Nama yang Tertulis di Dahi Jibril 'alaihis-salam**
 
-Tentang nama-nama yang tertulis di dahi Jibril 'alaihis-salam, yang berdiri di sisi kiri Qudrah (Kekuasaan Ilahi) seraya menanti apa yang diperintahkan kepadanya dari wahyu Ilahi. Nama-nama itu berkaitan dengan para malaikat yang dikhususkan pada Lauh yang meliputi segala ilmu dan ilmu yang luhur: apabila engkau menyeru mereka dengan nama-nama itu, mereka menyahut dengan patuh dan taat kepada Allah 'Azza wa Jalla, dan dengan nama-nama-Nya pula; dan dengan nama-nama itulah Dia menciptakan mereka. Nama-nama itu tertulis di dahi Jibril 'alaihis-salam, dan itulah yang diucapkan 'Isa putra Maryam 'alaihis-salam ketika menghadapi urusan-urusan penting. Nama-nama itu ialah: Thasy thasy thasyth thasyah yuuhaniith huumiyaath huutsaawuth (?) (nama-nama non-Arab, tidak diterjemahkan). Mahaagung Allah 'Azza wa Jalla, dan Dia Mahakuasa atas segala sesuatu.
+Tentang nama-nama yang tertulis di dahi Jibril 'alaihis-salam, yang berdiri di sisi kiri Qudrah (Kekuasaan Ilahi) seraya menanti apa yang diperintahkan kepadanya dari wahyu Ilahi. Nama-nama itu berkaitan dengan para malaikat yang dikhususkan pada Lauh yang meliputi segala ilmu dan ilmu yang luhur: apabila engkau menyeru mereka dengan nama-nama itu, mereka menyahut dengan patuh dan taat kepada Allah 'Azza wa Jalla, dan dengan nama-nama-Nya pula; dan dengan nama-nama itulah Dia menciptakan mereka. Nama-nama itu tertulis di dahi Jibril 'alaihis-salam, dan itulah yang diucapkan 'Isa putra Maryam 'alaihis-salam ketika menghadapi urusan-urusan penting. Nama-nama itu ialah: Thasy thasy thasyth thasyah yuuhaniith huumiyaath huutsaawuth [pelafalan nama non-Arab bersifat tentatif; konsonan cetak dipertahankan] (nama-nama non-Arab, tidak diterjemahkan). Mahaagung Allah 'Azza wa Jalla, dan Dia Mahakuasa atas segala sesuatu.
 
 **[Syarah]**
 
@@ -260,7 +260,7 @@ Ia terdiri dari tujuh nama yang diajarkan Allah Ta'ala kepada Mikail 'alaihis-sa
 
 … شَيْءٍ مِنْ أَعْمَالِ البِرِّ وَالتَّقْوَى، وَاسْتِنْزَالِ الشَّاقُوفَاتِ الَّتِي بِأَقْطَارِ الأَرْضِ. وَهِيَ هَذِهِ الأَسْمَاءُ الطَّاهِرَةُ الشَّرِيفَةُ، المُطَهَّرَةُ المَكْتُوبَةُ عَلَى جَبْهَةِ مِيكَائِيلَ عَلَيْهِ السَّلَامُ:
 
-شَهَا شُوِينْ كُنُوفِشْ لُونِيمْ كِيلِيمْ يَعْطِيشْ بَالَهْ (؟).
+شَهَا شُوِينْ كُنُوفِشْ لُونِيمْ كِيلِيمْ يَعْطِيشْ بَالَهْ [ضبط الاسم غير محسوم؛ حروفه محفوظة وفق الطباعة].
 
 </div>
 
@@ -268,7 +268,7 @@ Ia terdiri dari tujuh nama yang diajarkan Allah Ta'ala kepada Mikail 'alaihis-sa
 
 *… syai'in min a'maalil-birri wat-taqwaa, wastinzaalisy-Syaaquufaatillatii bi-aqthaaril-ardh. Wa hiya haadzihil-asmaa'uth-thaahiratusy-syariifah, al-muthahharatul-maktuubatu 'alaa jabhati Miikaa'iila 'alaihis-salaam:*
 
-*Syahaa Syuwiin Kunuufisy Luuniim Kiiliim Ya'thiisy Baalah (?).*
+*Syahaa Syuwiin Kunuufisy Luuniim Kiiliim Ya'thiisy Baalah [phonetic reading of the non-Arabic name is tentative; printed consonants are retained].*
 
 **[Terjemahan Indonesia]**
 
@@ -332,7 +332,7 @@ Ketahuilah — semoga Allah memberimu taufik — bahwa apabila engkau mengucapka
 
 **أَسْرَارُ أَسْمَاءِ أَصْحَابِ البَطْشِ**
 
-بَخْطَا صِيطَا عَجَا عَلْيُونْ هَانِيطْ سَمْعَا شَعِيتَا (؟).
+بَخْطَا صِيطَا عَجَا عَلْيُونْ هَانِيطْ سَمْعَا شَعِيتَا [ضبط الاسم غير محسوم؛ حروفه محفوظة وفق الطباعة].
 
 </div>
 
@@ -340,7 +340,7 @@ Ketahuilah — semoga Allah memberimu taufik — bahwa apabila engkau mengucapka
 
 **Asraaru asmaa'i ash-haabil-bathsy**
 
-*Bakhthaa Shiithaa 'Ajaa 'Alyuun Haaniith Sam'aa Sya'iitaa (?).*
+*Bakhthaa Shiithaa 'Ajaa 'Alyuun Haaniith Sam'aa Sya'iitaa [phonetic reading of the non-Arabic name is tentative; printed consonants are retained].*
 
 **[Terjemahan Indonesia]**
 
@@ -386,7 +386,7 @@ Tafsirnya dalam bahasa Arab: Mahasuci Engkau, wahai Pembebas leher-leher (para h
 
 **صِنَاعَةُ خَاتَمٍ لِمِيطَرُونَ**
 
-إِذَا أَرَدْتَ اسْتِخْدَامَ هَذَا المَلَكِ، فَاصْنَعْ خَاتَمًا مِنْ ذَهَبٍ فَصُّهُ مِنْ عَقِيقٍ أَحْمَرَ، يَكُونُ صِيَاغَتُهُ وَنَقْشُهُ فِي يَوْمِ الجُمُعَةِ، وَالزُّهَرَةُ فِي شَرَفِهَا وَهُوَ الحُوتُ فِي شَرَفِهِ، أَوْ يَوْمِ السَّبْتِ وَزُحَلُ فِي المِيزَانِ، أَوْ يَوْمِ الأَحَدِ وَالشَّمْسُ فِي الحَمَلِ، أَوْ يَوْمِ الِاثْنَيْنِ وَالقَمَرُ فِي الثَّوْرِ، أَوْ يَوْمِ الخَمِيسِ وَالمُشْتَرِي فِي السَّرَطَانِ خَالٍ مِنَ الجَوْزَهَرِ. وأيما دار ما درى [كذا] صَنَعْتَ ذَلِكَ فِي وَقْتِهِ يَكُونُ خَالِيًا مِنَ النُّحُوسِ، وَيَكُونُ ذَلِكَ فِي أَشْهُرِ العَرَبِ خَالِيًا مِنْ أَشْهُرِ الحُرُمِ، ثُمَّ تَنْقُشُهُ نَقْشًا حَسَنًا، وَتَغْسِلُهُ بَعْدَ ذَلِكَ بِمَاءٍ جَارٍ وَمِلْحٍ، ثُمَّ بِمَاءِ وَرْدٍ وَمِسْكٍ، ثُمَّ تَصْنَعُ لَهُ مَحْفَظَةً مِنْ حَرِيرٍ أَخْضَرَ. وَتَأَهَّبْ بِإِذْنِ اللَّهِ فِي الوُقُوفِ إِلَيْهِ.
+إِذَا أَرَدْتَ اسْتِخْدَامَ هَذَا المَلَكِ، فَاصْنَعْ خَاتَمًا مِنْ ذَهَبٍ فَصُّهُ مِنْ عَقِيقٍ أَحْمَرَ، يَكُونُ صِيَاغَتُهُ وَنَقْشُهُ فِي يَوْمِ الجُمُعَةِ، وَالزُّهَرَةُ فِي شَرَفِهَا وَهُوَ الحُوتُ فِي شَرَفِهِ، أَوْ يَوْمِ السَّبْتِ وَزُحَلُ فِي المِيزَانِ، أَوْ يَوْمِ الأَحَدِ وَالشَّمْسُ فِي الحَمَلِ، أَوْ يَوْمِ الِاثْنَيْنِ وَالقَمَرُ فِي الثَّوْرِ، أَوْ يَوْمِ الخَمِيسِ وَالمُشْتَرِي فِي السَّرَطَانِ خَالٍ مِنَ الجَوْزَهَرِ. وأيما دار ما درى [الصيغة كما في المطبوع مع غرابة تركيبها؛ لا تُصحح بلا شاهد أوضح] صَنَعْتَ ذَلِكَ فِي وَقْتِهِ يَكُونُ خَالِيًا مِنَ النُّحُوسِ، وَيَكُونُ ذَلِكَ فِي أَشْهُرِ العَرَبِ خَالِيًا مِنْ أَشْهُرِ الحُرُمِ، ثُمَّ تَنْقُشُهُ نَقْشًا حَسَنًا، وَتَغْسِلُهُ بَعْدَ ذَلِكَ بِمَاءٍ جَارٍ وَمِلْحٍ، ثُمَّ بِمَاءِ وَرْدٍ وَمِسْكٍ، ثُمَّ تَصْنَعُ لَهُ مَحْفَظَةً مِنْ حَرِيرٍ أَخْضَرَ. وَتَأَهَّبْ بِإِذْنِ اللَّهِ فِي الوُقُوفِ إِلَيْهِ.
 
 </div>
 
@@ -404,7 +404,7 @@ Apabila engkau hendak memanfaatkan malaikat ini, buatlah sebuah cincin dari emas
 
 **[Syarah]**
 
-> Istilah falak: «الشرف» (*syaraf*) = kedudukan puncak planet pada buruj tertentu (Venus di Hut/Pisces, Saturnus di Mizan/Libra, Matahari di Hamal/Aries, Bulan di Tsaur/Taurus, Jupiter di Saratan/Cancer); «الجوزهر» (*al-Jawzahar*) = titik simpul orbit Bulan (kepala dan ekor naga); «النحوس» = saat atau pengaruh yang dianggap sial; «أشهر الحرم» = Muharram, Rajab, Dzulqa'dah, dan Dzulhijjah. «ميطرون» kemungkinan padanan «Metatron» (nama malaikat dalam tradisi mistik Yahudi); teks tidak menjelaskan. Kalimat «وأيما دار ما درى» tampak rusak dalam cetakan sehingga dibiarkan tanpa harakat dan ditandai [كذا]; arti umum kalimat sesudahnya: bila dibuat pada waktu yang tepat, cincin bebas dari kesialan.
+> Istilah falak: «الشرف» (*syaraf*) = kedudukan puncak planet pada buruj tertentu (Venus di Hut/Pisces, Saturnus di Mizan/Libra, Matahari di Hamal/Aries, Bulan di Tsaur/Taurus, Jupiter di Saratan/Cancer); «الجوزهر» (*al-Jawzahar*) = titik simpul orbit Bulan (kepala dan ekor naga); «النحوس» = saat atau pengaruh yang dianggap sial; «أشهر الحرم» = Muharram, Rajab, Dzulqa'dah, dan Dzulhijjah. «ميطرون» kemungkinan padanan «Metatron» (nama malaikat dalam tradisi mistik Yahudi); teks tidak menjelaskan. Kalimat «وأيما دار ما درى» tampak rusak dalam cetakan sehingga dibiarkan tanpa harakat dan ditandai [الصيغة كما في المطبوع مع غرابة تركيبها؛ لا تُصحح بلا شاهد أوضح]; arti umum kalimat sesudahnya: bila dibuat pada waktu yang tepat, cincin bebas dari kesialan.
 
 **[Faedah]**
 
