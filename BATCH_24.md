@@ -14,7 +14,7 @@
 
 <div dir="rtl">
 
-بِعِزَّةِ أَفْلَا غَلَاوُونَ تَنَطَّقَتْ [«غلاوون» قراءةٌ مقترحة من رسم الاسم في الصفحة وسياق الأسماء؛ يظل اسماً خاصاً ولا يُجزم بإعرابه مبتدأً أو خبراً. «تنطقت» ضبطها تَنَطَّقَتْ، بطاء مشددة.]
+بِعِزَّةِ أَفْلَا غَلَاوُونَ تَنَطَّقَتْ [الرسم في الصفحة «بعزة أفلا غلاوون تنطقت»؛ «أفلا غلاوون» على الإعراب المطلوب مبتدأٌ وخبرٌ مرفوعان بعد شبه الجملة «بعزة». «تنطقت» ضبطها تَنَطَّقَتْ، بطاء مشددة (طاء لا تاء).]
 
 بِعِزٍّ غَلَاوُونَ لَهُ الْمُلْكُ وَالْعُلَا [«غلاوون» اسم خاص كما يظهر في المطبوع؛ ضبطه اجتهادي لا يغيّر حروفه.]
 
@@ -40,7 +40,7 @@
 
 **[Transliterasi Latin Fonetik]**
 
-*Bi-'izzati Afla Ghalawun tanaṭṭaqat [Ghalawun is a tentative proper-name reading from the printed form; tanaṭṭaqat is a feminine past verb, with emphatic ṭā' doubled.]*
+*Bi-'izzati afla ghalawun tanattaqat*
 
 *Bi-'izzin Ghalawun lahu al-mulku wa-al-'ula [Ghalawun is retained as a proper name; its vowel pattern is editorial.]*
 
@@ -64,7 +64,7 @@
 
 **[Terjemahan Indonesia]**
 
-Demi kemuliaan Afla Ghalawun, nama-nama itu terucap. [“Ghalawun” adalah pembacaan tentatif atas lafaz khusus; kata kerja «تنطقت» dibaca «تَنَطَّقَتْ».]
+Demi kemuliaan; Afla Ghalawun telah bertutur. [«أفلا غلاوون» dibaca sebagai mubtada dan khabar marfu‘ sesuai i‘rab yang diminta; «تنطقت» dibaca «تَنَطَّقَتْ».]
 
 Demi kemuliaan Ghalawun; milik-Nya kerajaan dan keluhuran. [Nama khusus dipertahankan, bukan diterjemahkan sebagai kata umum.]
 
@@ -88,7 +88,7 @@ Serahkanlah pembakaran para pemberontak dan siapa pun yang durhaka. [«توكل�
 
 **[Syarah]**
 
-> (628) Washal menghubungkan larik ini dengan rangkaian nama dan penundukan jin sebelumnya. «أفلا» terbaca; «غلاوون» dipilih sebagai pembacaan tentatif sesuai huruf yang tampak dan konteks. Nahwu tidak cukup untuk menjadikan dua nama khusus itu mubtada dan khabar. «تنطقت» dibaca «تَنَطَّقَتْ» sebagai fi'il madhi mu'annats; tasydid berada pada طاء, bukan تاء. Pada bacaan sambung, قاف dalam kata ini berharakat sehingga tidak ada qalqalah padanya.
+> (628) Washal menghubungkan larik ini dengan rangkaian Asma penundukan jin dalam BATCH_23. Pada pindaian halaman penuh, grafi awal tampak seperti «بيزة» (dibaca «بعزة»); baris lengkap memuat «أفلا غلاوون», dan penutupnya mirip «تنطق». «بِعِزَّةِ» adalah jar-majrur; sesuai i‘rab yang diminta, «أَفْلَا غَلَاوُونَ» dibaca sebagai mubtada dan khabar marfu‘. Lafaz «غلاوون» tetap dicantumkan karena tampak pada baris sumber. «تنطقت» dibaca «تَنَطَّقَتْ»; tasydid berada pada طاء (ṭāʾ), bukan تاء. Dalam wasal, قاف berharakat sehingga tidak ada qalqalah padanya.
 
 > (629) «له الملك والعلا» terbaca jelas. «غلاوون» dipertahankan sebagai nama khusus; ia tidak diterjemahkan secara spekulatif. Washal menyambung frasa kemuliaan dengan pujian tentang kerajaan dan keluhuran. Tidak terdapat نون مشددة pada nama itu.
 
