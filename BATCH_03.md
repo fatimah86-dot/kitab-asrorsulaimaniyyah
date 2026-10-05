@@ -7,9 +7,9 @@
 
 - Penomoran: 1 halaman PDF = 1 halaman cetak. PDF hal. 1 = sampul; PDF hal. 2 = cetak 1; dan seterusnya (cetak = PDF − 1). Header berjalan dan footer (nomor telepon penulis) bukan isi kitab dan tidak diterjemahkan.
 - Teks cetak tidak berharakat. Harakat, tanda baca, dan transliterasi ditambahkan oleh AI, bukan dari naskah; mohon dikoreksi nahwu/sharaf.
-- Ejaan cetak yang tidak baku (ى/ه/ا) disesuaikan ke ejaan baku agar harakat bisa diberikan. Salah cetak tidak diperbaiki diam-diam: ditandai `[المطبوع: …]` (= yang tercetak) atau `[كذا]` (= demikian adanya).
+- Ejaan cetak yang tidak baku (ى/ه/ا) disesuaikan ke ejaan baku agar harakat bisa diberikan. Salah cetak atau susunan janggal tidak diperbaiki diam-diam: lafaz dipertahankan menurut cetakan dan disertai catatan deskriptif.
 - Transliterasi mengikuti bacaan washal (sambung): i'rab dibaca di tengah kalimat, waqf (tanpa i'rab/tanwin) di akhir kalimat atau koma. ث=ts, ذ=dz, ظ=zh, ض=dh, ص=sh, ط=th, ش=sy; tanda ' = hamzah/'ain.
-- Nama-nama non-Arab (nama malaikat/seruan) tidak diterjemahkan; harakat dan bacaannya dugaan, ditandai (؟) pada teks Arab dan (?) pada teks Latin.
+- Nama-nama non-Arab (nama malaikat/seruan) tidak diterjemahkan; harakat atau pelafalan yang belum pasti diberi keterangan, sementara konsonan cetak dipertahankan.
 - Edisi kajian: teks diterjemahkan sebagai dokumen; klaim kitab disampaikan sebagai klaim penulis, bukan anjuran praktik.
 - Perhalus batch (sama dengan BATCH 01–02): teks Arab dinormalisasi NFKC, lalu `arabic_reshaper` (`delete_harakat=False`) dan `bidi.get_display` dipakai sebagai pemeriksa — huruf Arab tersambung 100% (bentuk kontekstual utuh, harakat tidak hilang); potongan rajah disimpan 300 DPI (metadata) berlatar putih dengan bingkai emas `#c59b27`.
 
@@ -25,7 +25,7 @@
 
 **أَسْمَاءُ تَقْتُلُ جَمِيعَ المُلُوكِ**
 
-إِذَا عَصَى عَلَيْكَ مَلِكٌ مِنَ المُلُوكِ أَوْ عَارِضٌ مِنَ العَوَارِضِ وَأَرَدْتَ قَتْلَهُ، اكْتُبْ هَذِهِ الأَسْمَاءَ فِي وَرَقَةٍ إِنْ أَمْكَنَكَ [المطبوع: أَمْكَتْكَ]، أَوْ فِي الأَرْضِ، وَتَعْمَلُ عَلَيْهَا حَرْبَةَ يَمُونَ [كذا]، فَكُلُّ مَا تَصْنَعُ فِيهَا يُصْنَعُ بِهِ. وَتَدْعُو بِأَيِّ مَلِكٍ شِئْتَ فَيُمْتَثَلُ [المطبوع: فَيُمَثِّلُ] أَمْرُكَ، وَهِيَ هَذِهِ: طَمْطَمْلُوشْ (؟)
+إِذَا عَصَى عَلَيْكَ مَلِكٌ مِنَ المُلُوكِ أَوْ عَارِضٌ مِنَ العَوَارِضِ وَأَرَدْتَ قَتْلَهُ، اكْتُبْ هَذِهِ الأَسْمَاءَ فِي وَرَقَةٍ إِنْ أَمْكَنَكَ [المطبوع: أَمْكَتْكَ]، أَوْ فِي الأَرْضِ، وَتَعْمَلُ عَلَيْهَا حَرْبَةَ يَمُونَ [الصيغة مطابقة للمطبوع مع غرابة تركيبها؛ لا تُصحح بلا شاهد أوضح]، فَكُلُّ مَا تَصْنَعُ فِيهَا يُصْنَعُ بِهِ. وَتَدْعُو بِأَيِّ مَلِكٍ شِئْتَ فَيُمْتَثَلُ [المطبوع: فَيُمَثِّلُ] أَمْرُكَ، وَهِيَ هَذِهِ: طَمْطَمْلُوشْ [ضبط الاسم غير محسوم؛ حروفه محفوظة وفق الطباعة]
 
 </div>
 
@@ -33,7 +33,7 @@
 
 **Asmaa-un taqtulu jamii'al-muluuk**
 
-*Idzaa 'ashaa 'alaika malikun minal-muluuki au 'aaridhun minal-'awaaridhi wa aradta qatlah, uktub haadzihil-asmaa'a fii waraqatin in amkanaka [al-mathbu': amkatka], au fil-ardh, wa ta'malu 'alaiha harabata Yamuuna [kadzaa], fakullu maa tashna'u fiihaa yushna'u bih. Wa tad'uu bi-ayyi malikin syi'ta fayumtatsalu [al-mathbu': fayumatsilu] amruk, wa hiya haadzihi: Thamthamluusy (?).*
+*Idzaa 'ashaa 'alaika malikun minal-muluuki au 'aaridhun minal-'awaaridhi wa aradta qatlah, uktub haadzihil-asmaa'a fii waraqatin in amkanaka [al-mathbu': amkatka], au fil-ardh, wa ta'malu 'alaiha harabata Yamuuna [irregular printed sequence retained without emendation], fakullu maa tashna'u fiihaa yushna'u bih. Wa tad'uu bi-ayyi malikin syi'ta fayumtatsalu [al-mathbu': fayumatsilu] amruk, wa hiya haadzihi: Thamthamluusy [phonetic reading is tentative; printed consonants are retained].*
 
 **[Terjemahan Indonesia]**
 
@@ -47,7 +47,7 @@ Apabila seorang raja dari para raja atau seorang penghalang dari para penghalang
 
 **[Syarah]**
 
-> Bagian pertama kelompok «nama-nama pembunuh» ditujukan kepada «para raja» (raja jin, lih. batch 2) dan «'awaridh» (para penghalang/pengganggu). Frasa «حربة يمون» tidak jelas maknanya (kemungkinan nama alat atau istilah teknis); dibiarkan berharakat sebagaimana dibaca dan ditandai [كذا]. «فيمثل أمرك» tercetak demikian; dibaca «فَيُمْتَثَلُ أَمْرُكَ» (perintahmu dipatuhi); ditandai `[المطبوع: فيمثل]`. Nama «طمطملوش» non-Arab; bacaan dugaan.
+> Bagian pertama kelompok «nama-nama pembunuh» ditujukan kepada «para raja» (raja jin, lih. batch 2) dan «'awaridh» (para penghalang/pengganggu). Frasa «حربة يمون» tidak jelas maknanya (kemungkinan nama alat atau istilah teknis); dibiarkan berharakat sebagaimana dibaca dan dicatat dengan keterangan bahwa bentuk cetaknya tidak lazim dan dipertahankan. «فيمثل أمرك» tercetak demikian; dibaca «فَيُمْتَثَلُ أَمْرُكَ» (perintahmu dipatuhi); ditandai `[المطبوع: فيمثل]`. Nama «طمطملوش» non-Arab; bacaan dugaan.
 
 ### Bagian 2 — Bab mengikat, menyalib, dan membuat jin berbicara
 
@@ -57,7 +57,7 @@ Apabila seorang raja dari para raja atau seorang penghalang dari para penghalang
 
 **فَصْلٌ فِي تَكْتِيفِ الجَانِّ وَصَلْبِهِ وَاسْتِنْطَاقِهِ**
 
-إِذَا أَتَاكَ مُصَابٌ وَبِهِ رِيحٌ مِنَ الجَانِّ، فَاكْتُبْ لَهُ وَصَارِعْهُ. فَإِذَا انْصَرَعَ تَأْمُرُ بِتَكْتِيفِهِ فَتَقُولُ: لَنَا لَنَا هِي هَفْيَهْ آيْ هِي بِرَهِي، اخْضَعْ بِحَقِّ الغَالِبِ عَلَيْكَ، وَبِحَقِّ عَشِيرٍ ظَهْرَشْ كَفْهُ يَا مَيْمُونُ (؟).
+إِذَا أَتَاكَ مُصَابٌ وَبِهِ رِيحٌ مِنَ الجَانِّ، فَاكْتُبْ لَهُ وَصَارِعْهُ. فَإِذَا انْصَرَعَ تَأْمُرُ بِتَكْتِيفِهِ فَتَقُولُ: لَنَا لَنَا هِي هَفْيَهْ آيْ هِي بِرَهِي، اخْضَعْ بِحَقِّ الغَالِبِ عَلَيْكَ، وَبِحَقِّ عَشِيرٍ ظَهْرَشْ كَفْهُ يَا مَيْمُونُ [ضبط الاسم غير محسوم؛ حروفه محفوظة وفق الطباعة].
 
 </div>
 
@@ -65,7 +65,7 @@ Apabila seorang raja dari para raja atau seorang penghalang dari para penghalang
 
 **Fashlun fii taktiifil-jaanni wa shalbihi wastinthaaqih**
 
-*Idzaa ataaka mushaabun wa bihi riihun minal-jaann, faktub lahu wa shaari'hu. Fa-idzanshara'a ta'muru bitaktiifihi fataquulu: Lanaa Lanaa Hii Hafyah Aay Hii Birahi, ikhdha' bihaqqil-ghaalibi 'alaik, wa bihaqqi 'Asyirin Zhaharasy Kaffahu yaa Maimuun (?).*
+*Idzaa ataaka mushaabun wa bihi riihun minal-jaann, faktub lahu wa shaari'hu. Fa-idzanshara'a ta'muru bitaktiifihi fataquulu: Lanaa Lanaa Hii Hafyah Aay Hii Birahi, ikhdha' bihaqqil-ghaalibi 'alaik, wa bihaqqi 'Asyirin Zhaharasy Kaffahu yaa Maimuun [phonetic reading is tentative; printed consonants are retained].*
 
 **[Terjemahan Indonesia]**
 
@@ -85,7 +85,7 @@ Apabila datang kepadamu orang yang terkena (musibah) dan padanya ada «angin» (
 
 **اسْتِنْطَاقٌ**
 
-إِذَا أَرَدْتَ أَنْ يَتَكَلَّمَ [المطبوع: تَكَلَّمَ] الجِنُّ فَاسْجَنْهُ فِي الجُبَّةِ، تَقُولُ: حَبَسْتُكَ بِهَنْطَشْ بِكَهْيَصْ وَحَمِّ عَشَقْ (؟).
+إِذَا أَرَدْتَ أَنْ يَتَكَلَّمَ [المطبوع: تَكَلَّمَ] الجِنُّ فَاسْجَنْهُ فِي الجُبَّةِ، تَقُولُ: حَبَسْتُكَ بِهَنْطَشْ بِكَهْيَصْ وَحَمِّ عَشَقْ [ضبط الاسم غير محسوم؛ حروفه محفوظة وفق الطباعة].
 
 </div>
 
@@ -93,7 +93,7 @@ Apabila datang kepadamu orang yang terkena (musibah) dan padanya ada «angin» (
 
 **Istinthaaq**
 
-*Idzaa aradta an yatakallama [al-mathbu': takallama] al-jinnu fasjunhu fil-jubbah, taquulu: Habastuka bi-Hanthasy bi-Kahyash wa Hammi 'Asyaq (?).*
+*Idzaa aradta an yatakallama [al-mathbu': takallama] al-jinnu fasjunhu fil-jubbah, taquulu: Habastuka bi-Hanthasy bi-Kahyash wa Hammi 'Asyaq [phonetic reading is tentative; printed consonants are retained].*
 
 **[Terjemahan Indonesia]**
 
@@ -243,13 +243,13 @@ Apabila engkau hendak membuatnya, engkau letakkan ia pada kain sutra merah atau 
 
 <div dir="rtl">
 
-… الزِّيَادَةِ. وَإِنْ أَرَدْتَ أَنْ تَعْلَمَ الأَخْبَارَ مِنَ المَشْرِقِ إِلَى المَغْرِبِ، فَاطْلُبِ المُخْتَرِقِينَ فِي أَقْطَارِ الأَرْضِ يُعَلِّمُوكَ بِذَلِكَ. وَإِنْ أَرَدْتَ أَنْ يَسِيرُوا بِكَ مَسِيرَةَ سَنَةٍ فِي لَحْظَةٍ وَاحِدَةٍ، فَاصْنَعْهَا بِسَاطًا تَحْتَكَ، وَتَكَلَّمْ بِأَسْمَاءِ الرُّوحَانِيَّةِ. وَإِنْ أَرَدْتَ أَنْ تَنْصُرَ أَهْلَ إِقْلِيمِكَ عَلَى خَصْمٍ لَا يُطِيقُونَهُ، فَاسْتَدِعْ بِهِ وَسَلِّطْ عَلَيْهِ مَنْ شِئْتَ. وَإِنْ أَرَدْتَ أَنْ تَتَحَالَفَ مَعَ أَحَدٍ مِنْ مُلُوكِ الجِنِّ، فَتُحْضِرُهُ وَتَقُولُ: شَاهْ شَاهْ اشْ لِيَالْ لِيَالْ حَالِفْ حَالِفْ (؟)، وَإِذْ أَخَذَ رَبُّكَ مِنْ بَنِي آدَمَ مِنْ ظُهُورِهِمْ ذُرِّيَّاتِهِمْ، وَأَشْهَدَهُمْ عَلَى أَنْفُسِهِمْ أَلَسْتُ بِرَبِّكُمْ قَالُوا بَلَى، شَهِدْنَا شَهِدْنَا. فَإِنْ أَجَابُوا العَهْدَ، وَإِلَّا فَتَكَلَّمْ بِالأَسْمَاءِ الَّتِي فِي قَلْبِ البَلَاطَةِ، وَانْفَخْ عَلَيْهِمْ يَحْتَرِقُونَ. وَقَدْ أَرَدْتَ الاخْتِصَارَ خِيفَةَ التَّطْوِيلِ، فَإِنَّهَا تَتَصَرَّفُ فِي أَلْفِ بَابٍ مِنَ المَنَافِعِ، وَهِيَ الطَّاعَةُ الكُبْرَى الَّتِي كَانَ سُلَيْمَانُ بْنُ دَاوُدَ يَعْمَلُ بِهَا، وَكَانَ يَنْزِلُ بِهَا مِنْ إِقْلِيمٍ إِلَى إِقْلِيمٍ، وَهِيَ القَهْرُ عَلَى جَمِيعِ أَهْلِ الأَرْضِ. فَاحْفَظْ مَا قَدْ صَارَ إِلَيْكَ أَيُّهَا العَالِمُ، وَلَا تُبْدِهِ لِجَاهِلٍ فَيَصْرَفَهُ فِيمَا لَا يَرْضَاهُ اللَّهُ تَعَالَى، فَاحْفَظْهَا كَمَا ذَكَرْتُ لَكَ.
+… الزِّيَادَةِ. وَإِنْ أَرَدْتَ أَنْ تَعْلَمَ الأَخْبَارَ مِنَ المَشْرِقِ إِلَى المَغْرِبِ، فَاطْلُبِ المُخْتَرِقِينَ فِي أَقْطَارِ الأَرْضِ يُعَلِّمُوكَ بِذَلِكَ. وَإِنْ أَرَدْتَ أَنْ يَسِيرُوا بِكَ مَسِيرَةَ سَنَةٍ فِي لَحْظَةٍ وَاحِدَةٍ، فَاصْنَعْهَا بِسَاطًا تَحْتَكَ، وَتَكَلَّمْ بِأَسْمَاءِ الرُّوحَانِيَّةِ. وَإِنْ أَرَدْتَ أَنْ تَنْصُرَ أَهْلَ إِقْلِيمِكَ عَلَى خَصْمٍ لَا يُطِيقُونَهُ، فَاسْتَدِعْ بِهِ وَسَلِّطْ عَلَيْهِ مَنْ شِئْتَ. وَإِنْ أَرَدْتَ أَنْ تَتَحَالَفَ مَعَ أَحَدٍ مِنْ مُلُوكِ الجِنِّ، فَتُحْضِرُهُ وَتَقُولُ: شَاهْ شَاهْ اشْ لِيَالْ لِيَالْ حَالِفْ حَالِفْ [ضبط الاسم غير محسوم؛ حروفه محفوظة وفق الطباعة]، وَإِذْ أَخَذَ رَبُّكَ مِنْ بَنِي آدَمَ مِنْ ظُهُورِهِمْ ذُرِّيَّاتِهِمْ، وَأَشْهَدَهُمْ عَلَى أَنْفُسِهِمْ أَلَسْتُ بِرَبِّكُمْ قَالُوا بَلَى، شَهِدْنَا شَهِدْنَا. فَإِنْ أَجَابُوا العَهْدَ، وَإِلَّا فَتَكَلَّمْ بِالأَسْمَاءِ الَّتِي فِي قَلْبِ البَلَاطَةِ، وَانْفَخْ عَلَيْهِمْ يَحْتَرِقُونَ. وَقَدْ أَرَدْتَ الاخْتِصَارَ خِيفَةَ التَّطْوِيلِ، فَإِنَّهَا تَتَصَرَّفُ فِي أَلْفِ بَابٍ مِنَ المَنَافِعِ، وَهِيَ الطَّاعَةُ الكُبْرَى الَّتِي كَانَ سُلَيْمَانُ بْنُ دَاوُدَ يَعْمَلُ بِهَا، وَكَانَ يَنْزِلُ بِهَا مِنْ إِقْلِيمٍ إِلَى إِقْلِيمٍ، وَهِيَ القَهْرُ عَلَى جَمِيعِ أَهْلِ الأَرْضِ. فَاحْفَظْ مَا قَدْ صَارَ إِلَيْكَ أَيُّهَا العَالِمُ، وَلَا تُبْدِهِ لِجَاهِلٍ فَيَصْرَفَهُ فِيمَا لَا يَرْضَاهُ اللَّهُ تَعَالَى، فَاحْفَظْهَا كَمَا ذَكَرْتُ لَكَ.
 
 </div>
 
 **[Transliterasi Latin Fonetik]**
 
-*… az-ziyaadah. Wa in aradta an ta'lamal-akhbaara minal-masyriqi ilal-maghrib, fathlubil-mukhtariqiina fii aqthaaril-ardhi yu'allimuuka bidzaalik. Wa in aradta an yasiiruu bika masiirata sanatin fii lahzhatin waahidah, fashna'haa bisaathan tahtak, wa takallam bi-asmaa'ir-ruhaaniyyah. Wa in aradta an tansyura ahla iqliimika 'alaa khashmin laa yuthiiquunah, fastadi' bihi wa sallith 'alaihi man syi't. Wa in aradta an tatahaalafa ma'a ahadin min mulukil-jinn, fatuhdhiruhu wa taquulu: Syaah Syaah Asy Liyaal Liyaal Haalif Haalif (?), wa idz akhadza rabbuka min banii aadama min zhuhuurihim dzurriyyaatihim, wa asyhadahum 'alaa anfusihim a-lastu birabbikum qaaluu balaa, syahidnaa syahidnaa. Fa-in ajaabul-'ahd, wa illaa fatakallem bil-asmaa'il-latii fii qalbil-balaathah, wanfakh 'alaihim yahtariquun. Wa qad aradtal-ikhtishaara khiifatath-tathwiil, fa-innahaa tatasyarrafu fii alfi baabin minal-manaafi', wa hiyath-thaa'atul-kubrallatii kaana Sulaimaanu bnu Daawuda ya'malu bihaa, wa kaana yanzilu bihaa min iqliimin ilaa iqliim, wa hiyal-qahru 'alaa jamii'i ahlil-ardh. Fahfazh maa qad shaara ilaika ayyuhal-'aalim, wa laa tubdihi lijaahilin fayashrafahu fiimaa laa yardhaahullaahu ta'aalaa, fahfazhhaa kamaa dzakartu lak.*
+*… az-ziyaadah. Wa in aradta an ta'lamal-akhbaara minal-masyriqi ilal-maghrib, fathlubil-mukhtariqiina fii aqthaaril-ardhi yu'allimuuka bidzaalik. Wa in aradta an yasiiruu bika masiirata sanatin fii lahzhatin waahidah, fashna'haa bisaathan tahtak, wa takallam bi-asmaa'ir-ruhaaniyyah. Wa in aradta an tansyura ahla iqliimika 'alaa khashmin laa yuthiiquunah, fastadi' bihi wa sallith 'alaihi man syi't. Wa in aradta an tatahaalafa ma'a ahadin min mulukil-jinn, fatuhdhiruhu wa taquulu: Syaah Syaah Asy Liyaal Liyaal Haalif Haalif [phonetic reading is tentative; printed consonants are retained], wa idz akhadza rabbuka min banii aadama min zhuhuurihim dzurriyyaatihim, wa asyhadahum 'alaa anfusihim a-lastu birabbikum qaaluu balaa, syahidnaa syahidnaa. Fa-in ajaabul-'ahd, wa illaa fatakallem bil-asmaa'il-latii fii qalbil-balaathah, wanfakh 'alaihim yahtariquun. Wa qad aradtal-ikhtishaara khiifatath-tathwiil, fa-innahaa tatasyarrafu fii alfi baabin minal-manaafi', wa hiyath-thaa'atul-kubrallatii kaana Sulaimaanu bnu Daawuda ya'malu bihaa, wa kaana yanzilu bihaa min iqliimin ilaa iqliim, wa hiyal-qahru 'alaa jamii'i ahlil-ardh. Fahfazh maa qad shaara ilaika ayyuhal-'aalim, wa laa tubdihi lijaahilin fayashrafahu fiimaa laa yardhaahullaahu ta'aalaa, fahfazhhaa kamaa dzakartu lak.*
 
 **[Terjemahan Indonesia]**
 
@@ -267,7 +267,7 @@ Apabila engkau hendak membuatnya, engkau letakkan ia pada kain sutra merah atau 
 
 ![Rajah Hal. 15 (cetak 14) — daira balathah: lingkaran berlapis dengan nama-nama](rajah/rajah_p15_balatah_01.png)
 
-*Keterangan rajah: daira (lingkaran) berlapis empat. Cincin terluar memuat tulisan Arab mengikuti keliling (sebagian terbaca: «…سوماس هاموش ييمون خارش واهنش اذا هو…» pada busur bawah, dan seruan berawal «بسم الله…» pada busur kanan); cincin ke-2 berupa deret garis-garis pendek rapat; cincin ke-3 memuat pengulangan «سا» berselang-seling dengan goresan huruf; lingkaran pusat memuat lima baris nama (bacaan dugaan, tidak dipastikan): (1) Hamsaltam Syanihurasy, (2) Kazhakh Kazhakh Labuurasy Dadaal, (3) Buthiitsy Syaa'idah Aflat Yaah, (4) Yaaw Rabb Syuthuthasynaah, (5) Ashth Yaah Uuqaahiriyaad (?). Di antara cincin terdapat serpihan nama lain («مشقد عبدالله» (?) pada busur kiri-dalam, «كهم ق?» pada busur bawah-dalam). Kitab hanya menyatakan «sebagaimana engkau lihat»; bacaan tidak ditebak selain dugaan berlabel (?). Gambar dipotong dari pindaian, latar dibersihkan menjadi putih, diperbesar halus ke 300 DPI (metadata), dibingkai emas #c59b27; ketajaman mengikuti pindaian (bukan 300 DPI asli).*
+*Keterangan rajah: daira (lingkaran) berlapis empat. Cincin terluar memuat tulisan Arab mengikuti keliling (sebagian terbaca: «…سوماس هاموش ييمون خارش واهنش اذا هو…» pada busur bawah, dan seruan berawal «بسم الله…» pada busur kanan); cincin ke-2 berupa deret garis-garis pendek rapat; cincin ke-3 memuat pengulangan «سا» berselang-seling dengan goresan huruf; lingkaran pusat memuat lima baris nama (bacaan dugaan, tidak dipastikan): (1) Hamsaltam Syanihurasy, (2) Kazhakh Kazhakh Labuurasy Dadaal, (3) Buthiitsy Syaa'idah Aflat Yaah, (4) Yaaw Rabb Syuthuthasynaah, (5) Ashth Yaah Uuqaahiriyaad [phonetic reading is tentative; printed consonants are retained]. Di antara cincin terdapat serpihan nama lain («مشقد عبدالله» [phonetic reading is tentative; printed consonants are retained] pada busur kiri-dalam, «كهم ق[حرف أخير غير واضح]» pada busur bawah-dalam). Kitab hanya menyatakan «sebagaimana engkau lihat»; bacaan tidak ditebak selain dugaan disertai catatan bahwa pelafalannya tentatif. Gambar dipotong dari pindaian, latar dibersihkan menjadi putih, diperbesar halus ke 300 DPI (metadata), dibingkai emas #c59b27; ketajaman mengikuti pindaian (bukan 300 DPI asli).*
 
 **[Teks Arab Asli]**
 
@@ -287,6 +287,6 @@ Maka apabila engkau hendak membunuh seorang raja dari para raja, gambarlah sebua
 
 **[Syarah]**
 
-> Petunjuk pemasangan: «رق» = perkamen/kulit halus untuk menulis; «عنق» (leher) = bagian atas daira; baris-baris nama daira dipindahkan ke posisi masing-masing pada rupa (gambar) yang dibuat, dan dua nama pusat daira ditempatkan «di dalam rongga gambar». Fungsi yang diklaim: perintah apa pun terlaksana; untuk pembunuhan, rupa pihak yang dituju digambar (bersambung ke halaman berikutnya, di luar batch ini). Bentuk daira berlapis (lingkaran nama + garis + pengulangan «سا») lazim dalam wafaq/rajah tradisi hikmah; pengulangan «سا» kemungkinan singkatan seruan atau pemisah magis. Lima baris pusat berhuruf Arab naskh namun berisi nama-nama non-Arab; transkripsi pada keterangan gambar dugaan semata (berlabel (?)) dan tidak dipakai sebagai bacaan pasti.
+> Petunjuk pemasangan: «رق» = perkamen/kulit halus untuk menulis; «عنق» (leher) = bagian atas daira; baris-baris nama daira dipindahkan ke posisi masing-masing pada rupa (gambar) yang dibuat, dan dua nama pusat daira ditempatkan «di dalam rongga gambar». Fungsi yang diklaim: perintah apa pun terlaksana; untuk pembunuhan, rupa pihak yang dituju digambar (bersambung ke halaman berikutnya, di luar batch ini). Bentuk daira berlapis (lingkaran nama + garis + pengulangan «سا») lazim dalam wafaq/rajah tradisi hikmah; pengulangan «سا» kemungkinan singkatan seruan atau pemisah magis. Lima baris pusat berhuruf Arab naskh namun berisi nama-nama non-Arab; transkripsi pada keterangan gambar dugaan semata (disertai catatan bahwa pelafalannya tentatif) dan tidak dipakai sebagai bacaan pasti.
 
 ---
