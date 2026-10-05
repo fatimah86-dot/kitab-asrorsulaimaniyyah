@@ -7122,7 +7122,7 @@ Demi para penghalau dan para «saharat», bagi siapa pun yang durhaka. [Bentuk �
 
 وَبِالرُّسُلِ وَالْأَحْزَابِ حِزْبِي تَحَرَّرَتْ [«تحررت» مطبوعة بهذه الصيغة؛ فاعلها وعلاقتها بـ«حزبي» غير محسومين]
 
-وَبِالنُّورِ وَالْأَنْوَارِ أَحْرِقْ مَعَانِي [«أحرق معاني» مطابق للمطبوع؛ المفعول المراد غير واضح]
+وَبِالنُّورِ وَالْأَنْوَارِ فَأَحْرَقَ مُعَانِدِي [tercetak: «وبالنور والأنوار فأحرق معاندي» pada folio 77]
 
 وَبِالْمَلِكِ وَالْفُرْقَانِ مُلْكِي تَكَوَّنَتْ [«ملكي تكونت» محفوظة كما في المطبوع؛ المطابقة بين الاسم والفعل غير مألوفة]
 
@@ -7160,7 +7160,7 @@ Demi para penghalau dan para «saharat», bagi siapa pun yang durhaka. [Bentuk �
 
 *Wa-bir-rusuli wal-ahzabi hizbi taharrarat [الفعل المطبوع محفوظ، وفاعله وعلاقته بـ«حزبي» غير محققين]*
 
-*Wa-bin-nuri wal-anwari ahriq ma'ani [العبارة المطبوعة محفوظة، والمفعول المقصود غير واضح]*
+*Wa-bin-nuri wal-anwari fa-ahraqa mu'anidi*
 
 *Wa-bil-maliki wal-furqani mulki takawwanat [العبارة المطبوعة محفوظة، والمطابقة غير مألوفة]*
 
@@ -7196,7 +7196,7 @@ Demi para penebar dan para pemisah, beserta apa yang menyertainya.
 
 Demi para rasul dan kelompok-kelompok; kelompokku pun terbebaskan. [Susunan penutup kurang jelas.]
 
-Demi cahaya dan segala cahaya; bakarlah makna-makna. [Hubungan antarkata meragukan.]
+Demi cahaya dan segala cahaya, maka ia membakar para penentangku.
 
 Demi Sang Raja dan Pembeda; kerajaanku pun terbentuk. [Susunan pada cetakan janggal.]
 
