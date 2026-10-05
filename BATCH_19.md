@@ -37,11 +37,11 @@
 
 *Wa-ya malika an-nirani arsil mulukaha*
 
-*Bi-waylin wa-sijillin sari'an tasara'at [the printed verb is retained; its attachment is unclear]*
+*Bi-waylin wa-sijillin sari'an tasara'at [الفعل المطبوع محفوظ، ووصله غير واضح]*
 
 *Wa-arsil jami'an bis-sa'iri wa-bil-lazha*
 
-*Li-ihraqi ahwalin li-ismika qad 'asat [the printed syntax and verb are retained; the referent is unclear]*
+*Li-ihraqi ahwalin li-ismika qad 'asat [التركيب والفعل المطبوعان محفوظان، والمرجع غير واضح]*
 
 *Wa-'adzdzib jami'al-jinni in lam yusari'u*
 
@@ -49,7 +49,7 @@
 
 *Wa-arsil 'afarit al-jahimi wa-naraha*
 
-*Bi-aghlali sijillin 'adhaban tawashalat [the printed verb is retained; its relation to the phrase is uncertain]*
+*Bi-aghlali sijillin 'adhaban tawashalat [الفعل المطبوع محفوظ، وعلاقته بالعبارة غير محققة]*
 
 **[Terjemahan Indonesia]**
 
@@ -127,7 +127,7 @@ dengan belenggu dari sijil; azab itu pun terus berlanjut. [Lafaz “sijil” dan
 
 *Salasila aghlalin bi-a'naqi man 'asa*
 
-*Ijabata asma'i al-ilahi tasalsalat [the printed form is retained; its syntax is uncertain]*
+*Ijabata asma'i al-ilahi tasalsalat [الصيغة المطبوعة محفوظة، وإعرابها غير محقق]*
 
 *Zabaniyata at-ta'dhibi billahi asri'u*
 
@@ -147,7 +147,7 @@ dengan belenggu dari sijil; azab itu pun terus berlanjut. [Lafaz “sijil” dan
 
 *Ahatat bihim narul-jahimi biharriha*
 
-*Wa-amlakuha bil-harqi jami'an tawakkaltu [the printed form is retained; the sentence structure is unclear]*
+*Wa-amlakuha bil-harqi jami'an tawakkaltu [الصيغة المطبوعة محفوظة، وتركيب الجملة غير واضح]*
 
 **[Terjemahan Indonesia]**
 

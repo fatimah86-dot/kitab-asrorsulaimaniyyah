@@ -25,7 +25,7 @@
 
 *Wa-ya rabbi bis-saffati saffan bisirriha*
 
-*Wa-biz-zajirati as-saharat liman 'asat [the printed noun “as-saharat” is retained; its sense is uncertain]*
+*Wa-biz-zajirati as-saharat liman 'asat [الاسم المطبوع «السحرة» محفوظ، ومعناه غير محقق]*
 
 **[Terjemahan Indonesia]**
 
@@ -87,17 +87,17 @@ Demi para penghalau dan para «saharat», bagi siapa pun yang durhaka. [Bentuk �
 
 **[Transliterasi Latin Fonetik]**
 
-*Wa-bil-ghayati adh-dhikri rabbi bijahiha [the printed word order is retained; the grammatical relation is unclear]*
+*Wa-bil-ghayati adh-dhikri rabbi bijahiha [ترتيب الكلمات المطبوع محفوظ، والعلاقة النحوية غير واضحة]*
 
 *Wa-bil-mursalati al-'asifati wa-ma hawat*
 
 *Wa-bin-nashirati al-fariqati bijanbiha*
 
-*Wa-bir-rusuli wal-ahzabi hizbi taharrarat [the printed verb is retained; its subject and relation to “hizbi” are uncertain]*
+*Wa-bir-rusuli wal-ahzabi hizbi taharrarat [الفعل المطبوع محفوظ، وفاعله وعلاقته بـ«حزبي» غير محققين]*
 
-*Wa-bin-nuri wal-anwari ahriq ma'ani [the printed phrase is retained; the intended object is unclear]*
+*Wa-bin-nuri wal-anwari ahriq ma'ani [العبارة المطبوعة محفوظة، والمفعول المقصود غير واضح]*
 
-*Wa-bil-maliki wal-furqani mulki takawwanat [the printed phrase is retained; agreement is unusual]*
+*Wa-bil-maliki wal-furqani mulki takawwanat [العبارة المطبوعة محفوظة، والمطابقة غير مألوفة]*
 
 *Wa-bil-amlaki azhir man 'asa*
 
@@ -105,21 +105,21 @@ Demi para penghalau dan para «saharat», bagi siapa pun yang durhaka. [Bentuk �
 
 *Sa'altuka ya Qahharu liman tagha*
 
-*Wa-batshan bi-a'da'i sari'an idha i'tadat [the printed verb is retained; its subject is unstated]*
+*Wa-batshan bi-a'da'i sari'an idha i'tadat [الفعل المطبوع محفوظ، وفاعله غير مذكور]*
 
-*Wa-khayla qulubil-mu'anidina bijam'ihim [the printed construction is retained; its attachment is unclear]*
+*Wa-khayla qulubil-mu'anidina bijam'ihim [التركيب المطبوع محفوظ، ووصله غير واضح]*
 
-*Wa-asri' bi-nasril-baghidhina wa-man baghat [the printed wording is retained; the referent of “man” is unclear]*
+*Wa-asri' bi-nasril-baghidhina wa-man baghat [اللفظ المطبوع محفوظ، ومرجع «من» غير واضح]*
 
 *Sami'un sari'u al-ijabati sayyidi*
 
-*Bi-haqqi li-ya'khudhahum bihi azh-zhulmatu injalat [the printed syntax is retained; the clause relation is unclear]*
+*Bi-haqqi li-ya'khudhahum bihi azh-zhulmatu injalat [التركيب المطبوع محفوظ، وعلاقة الجملة غير واضحة]*
 
 *Bi-jahi al-lawhi jalabtu maqasidi*
 
-*Bi-haqqi ya nuru 'ala al-fawri 'ajjalta [the printed verb is retained; its vocalization is uncertain]*
+*Bi-haqqi ya nuru 'ala al-fawri 'ajjalta [الفعل المطبوع محفوظ، وضبطه غير محقق]*
 
-*Bi-ismi Liyarushi bisatwati qahrihi [the name and phrase follow the print; the full sense is uncertain]*
+*Bi-ismi Liyarushi bisatwati qahrihi [الاسم والعبارة تبعان للمطبوع، والمعنى الكامل غير محقق]*
 
 **[Terjemahan Indonesia]**
 
@@ -209,7 +209,7 @@ Dengan nama Liyārūsh, dengan kekuatan penaklukan-Nya. [Nama ini dipertahankan 
 
 **[Transliterasi Latin Fonetik]**
 
-*Bi-suri Liyarushi bi-shiddati batshihi [the printed word “sur” is retained; its sense in context is uncertain]*
+*Bi-suri Liyarushi bi-shiddati batshihi [الكلمة المطبوعة «سور» محفوظة، ومعناها في السياق غير محقق]*
 
 **[Terjemahan Indonesia]**
 

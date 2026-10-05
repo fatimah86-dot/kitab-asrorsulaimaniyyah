@@ -131,7 +131,7 @@ Wahai Hiyan Syara Hiyan Adunayya Ashba'uuti Ali Syadayya, cahaya di atas cahaya,
 
 **[Transliterasi Latin Fonetik]**
 
-*… Ghasyyaal Hadriyaal Lahfayaal Barqiyaal Nuuriyaal 'Asyyaal Ghasyyaal Falaayaal 'an Tiriyaal Sarhiyaal [phonetic reading is tentative; printed consonants are retained]. Tabaaraka rabbunaa, maa a'azza 'izzah, alladzii aljamal-jaana bikalimaatih, laa ilaaha illaa huw. 'Ajjiluu bikaafin min kaaf, wa bishaadin min shaad, au Uuhii Syuushah, Syaramah bisyuthuurin syuthuur, ham'asat Alif-Laam-Mim Alif-Laam-Shaad [irregular printed letter sequence retained without emendation] Rabbi yaa Jaliilal-ajal, ajibnii yaa Maithathruunu anta wa jamii'u a'waanik, ath-thaa'ata lillaahi wa li-asmaa-ih.*
+*… Ghasyyaal Hadriyaal Lahfayaal Barqiyaal Nuuriyaal 'Asyyaal Ghasyyaal Falaayaal 'an Tiriyaal Sarhiyaal [القراءة محتملة، والحروف محفوظة على رسم المطبوع - qiraatuhu muhtamalah]. Tabaaraka rabbunaa, maa a'azza 'izzah, alladzii aljamal-jaana bikalimaatih, laa ilaaha illaa huw. 'Ajjiluu bikaafin min kaaf, wa bishaadin min shaad, au Uuhii Syuushah, Syaramah bisyuthuurin syuthuur, ham'asat Alif-Laam-Mim Alif-Laam-Shaad [تسلسل حروف مطبوع غير منتظم، محفوظ بلا تصحيح] Rabbi yaa Jaliilal-ajal, ajibnii yaa Maithathruunu anta wa jamii'u a'waanik, ath-thaa'ata lillaahi wa li-asmaa-ih.*
 
 **[Terjemahan Indonesia]**
 

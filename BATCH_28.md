@@ -20,7 +20,7 @@
 
 **[Transliterasi Latin Fonetik]**
 
-*Fa-anta raja'u al-'alamina wa-law [short word after wa-law unclear] thami'at [the ending is obscured; the verb is tentative]*
+*Fa-anta raja'u al-'alamina wa-law [كلمة قصيرة بعد «ولو» غير واضحة] thami'at [الآخر مطموس، والفعل محتمل]*
 
 **[Terjemahan Indonesia]**
 
@@ -82,39 +82,39 @@ Maka Engkaulah harapan seluruh alam, sekalipun [kata setelah «walau» tidak jel
 
 *Wa-subba 'alayya ar-rizqa sabban rahmatan*
 
-*Wa-arsil lil-arzaqa bil-khayri ursilat [the final verb is read tentatively]*
+*Wa-arsil lil-arzaqa bil-khayri ursilat [الفعل الأخير مقروء باحتمال]*
 
-*Wa-bil-ismi mani'in kulla man'in wa-mani'in [the repeated form follows the print; syntax is uncertain]*
+*Wa-bil-ismi mani'in kulla man'in wa-mani'in [الصيغة المكررة تابعة للمطبوع، وإعرابها غير محقق]*
 
-*Fa-anta raja'u as-sa'ilina idha da'at [the ending is tentative]*
+*Fa-anta raja'u as-sa'ilina idha da'at [الآخر محتمل]*
 
-*Wa-asimma [short word unclear] wa-abkim [short word unclear] thumma asimma [ending obscured]*
+*Wa-asimma [كلمة قصيرة غير واضحة] wa-abkim [كلمة قصيرة غير واضحة] thumma asimma [آخر الكلمة مطموس]*
 
-*Wa-akhrishum ya dha al-jalali [fragment unclear] bi-hujjati [ending unreadable]*
+*Wa-akhrishum ya dha al-jalali [الشظية غير واضحة] bi-hujjati [آخر الكلمة غير مقروء]*
 
-*Nafya khusumin [short fragments unclear] wa-bi-tarasima [line ending obscured]*
+*Nafya khusumin [شظايا قصيرة غير واضحة] wa-bi-tarasima [آخر السطر مطموس]*
 
-*Tahassantu bil-ismi al-'azhimi minal-falati [the last form is uncertain]*
+*Tahassantu bil-ismi al-'azhimi minal-falati [الصيغة الأخيرة غير محققة]*
 
-*Wa-ya [vocative word unclear] asri' bi-sirrin [following fragments unreadable]*
+*Wa-ya [كلمة النداء غير واضحة] asri' bi-sirrin [الشظايا التالية غير مقروءة]*
 
-*Bi-maq'adi [following word unclear] lisani as-sa'ilina fa-a'aqadat [tentative ending]*
+*Bi-maq'adi [الكلمة التالية غير واضحة] lisani as-sa'ilina fa-a'aqadat [آخر محتمل]*
 
 *Wa-a'mi 'uyuna an-nazhirina jami'ahum*
 
-*Wa-asimma wa-abkim kulla qawmin takallamat [ending unclear]*
+*Wa-asimma wa-abkim kulla qawmin takallamat [آخر الكلمة غير واضح]*
 
 *Wa-akhris bi-sirri al-ismi qawman takallamu*
 
-*Wa-asimma jami'a al-kulli bil-ismi ashmata [final form tentative]*
+*Wa-asimma jami'a al-kulli bil-ismi ashmata [الصيغة الأخيرة محتملة]*
 
-*Wa-awqif bi-asma'i al-jalali aydiyan [short ending unclear]*
+*Wa-awqif bi-asma'i al-jalali aydiyan [آخر قصير غير واضح]*
 
-*Tamuddu bi-batshin bil-jalali tawaqqafat [continuation obscured]*
+*Tamuddu bi-batshin bil-jalali tawaqqafat [التتمة مطموسة]*
 
 *Wa-'attif quluba al-'alamina jami'ahum*
 
-*'Alayya wa-albisni qabulan [short word unclear] bi-shamlin [ending unreadable]*
+*'Alayya wa-albisni qabulan [كلمة قصيرة غير واضحة] bi-shamlin [آخر الكلمة غير مقروء]*
 
 **[Terjemahan Indonesia]**
 
@@ -208,7 +208,7 @@ Kepadaku, kenakanlah penerimaan [lafaz pendek tidak jelas] secara menyeluruh [pe
 
 **[Transliterasi Latin Fonetik]**
 
-*Wa-barik lana Allahumma fi jam'i kasbina [a short closing fragment is obscured]*
+*Wa-barik lana Allahumma fi jam'i kasbina [شظية ختامية قصيرة مطموسة]*
 
 **[Terjemahan Indonesia]**
 

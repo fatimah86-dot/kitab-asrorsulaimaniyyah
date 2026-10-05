@@ -53,9 +53,9 @@
 
 *Wa-amlaku ya dza al-jalali tasakhkharat*
 
-*Wa-Dijlata Baghdada wa-nila furatiha [the printed phrase is retained; its grammatical connection is unclear].*
+*Wa-Dijlata Baghdada wa-nila furatiha [العبارة المطبوعة محفوظة، وصلها النحوي غير واضح].*
 
-*Wa-subhana Jahjan [the non-Arabic name is tentative; printed consonants retained] bismika sakhkhartu*
+*Wa-subhana Jahjan [القراءة محتملة، والحروف محفوظة على رسم المطبوع - qiraatuhu muhtamalah] bismika sakhkhartu*
 
 *Wa bil-ismi fajlib lil-khala'iqa kullaha*
 
@@ -159,7 +159,7 @@ Aku memohon kepada-Mu, wahai Yang Maha Perkasa, dengan Nama itu: segerakanlah.
 
 *Tasallata mulukul-intiqami bijam'ihim*
 
-*'Ala man 'asa min khasmi da'in bil-asma'i tazallamtu [the printed verb is retained; syntax is uncertain]*
+*'Ala man 'asa min khasmi da'in bil-asma'i tazallamtu [الفعل المطبوع محفوظ، وإعرابه غير محقق]*
 
 **[Terjemahan Indonesia]**
 

@@ -22,9 +22,9 @@
 
 **[Transliterasi Latin Fonetik]**
 
-*Wa-bi-l-miski wa-al-kafuri [following word resembles “an-nadhkh/an-nafih”] khutimat*
+*Wa-bi-l-miski wa-al-kafuri [الكلمة التالية تشبه «النذخ/النفخ»] khutimat*
 
-*Wa-bi-ayati [word resembles “shamsayn”] wa-sinin tashaffa'at*
+*Wa-bi-ayati [الكلمة تشبه «شمسين»] wa-sinin tashaffa'at*
 
 **[Terjemahan Indonesia]**
 
@@ -82,7 +82,7 @@ Dengan ayat-ayat [lafaz menyerupai «Shamsayn»] dan Sīn, ia memohon syafaat. [
 
 **[Transliterasi Latin Fonetik]**
 
-*Biha al-asraru [following word resembles “a'zham”] [ending resembles “tasajamat”]*
+*Biha al-asraru [الكلمة التالية تشبه «أعظم»] [الآخر يشبه «تسجمت»]*
 
 *Wa-ba'du salla Allahu Rabbi da'iman*
 
@@ -94,13 +94,13 @@ Dengan ayat-ayat [lafaz menyerupai «Shamsayn»] dan Sīn, ia memohon syafaat. [
 
 *Fa-hadha huwa ismu Allahi ya qari'u i'taqid*
 
-*Wa-hris wa-sun [following word resembles “sarabahu”] [ending tentatively “qad 'alat”]*
+*Wa-hris wa-sun [الكلمة التالية تشبه «سربه»] [الآخر باحتمال «قد علت»]*
 
 *Wa-kun 'arifa ismi Allahi alladhi jalla qadruhu*
 
-*Fa-rubba kana ma'a untha la-kanat bihi [short continuation unclear]*
+*Fa-rubba kana ma'a untha la-kanat bihi [تتمة قصيرة غير واضحة]*
 
-*Wa-in kana insanun [two following words unclear; resemble “yaskhan wa-'abduh”]*
+*Wa-in kana insanun [الكلمتان التاليتان غير واضحتين وتشبهان «يسخن وعبدُه»]*
 
 *Fa-la yakhsha min ba'si al-muluki wa-law taghat*
 
@@ -110,7 +110,7 @@ Dengan ayat-ayat [lafaz menyerupai «Shamsayn»] dan Sīn, ia memohon syafaat. [
 
 *Wa-in kana masru'an mina al-jinni waqi'an*
 
-*[after “nasaba hamim,” the phrase is unclear; “jannata al-'awn” and an ending resembling “tanṭamat” are visible]*
+*[بعد «نصب حميم» العبارة غير واضحة؛ ويظهر «جنة العون» وآخر يشبه «تنطمت»]*
 
 **[Terjemahan Indonesia]**
 

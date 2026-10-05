@@ -44,31 +44,31 @@
 
 **[Transliterasi Latin Fonetik]**
 
-*Wa-ya [talismanic word read tentatively as “thabarat”; middle letters unclear] shamikhin qad tashakhkhasat [line ending uncertain]*
+*Wa-ya [كلمة طلسمية تُقرأ باحتمال «ثبرت»، وحروفها الوسطى غير واضحة] shamikhin qad tashakhkhasat [آخر السطر غير محقق]*
 
-*Bi-sirri [name-like word resembling “ghiyaha”] [short token resembling “kand”] [token resembling “mawla”] bi-sirrihi [ending unclear]*
+*Bi-sirri [كلمة شبيهة باسم، تشبه «غياهه»] [مقطع قصير يشبه «كند»] [مقطع يشبه «مولى»] bi-sirrihi [آخر الكلمة غير واضح]*
 
-*Bi-shankhin [name-like fragment unclear] lahu al-majdu [remainder obscured]*
+*Bi-shankhin [شظية شبيهة باسم غير واضحة] lahu al-majdu [البقية مطموسة]*
 
-*Ilahi laqad [the next printed word appears to be “anta”] bismika da'iyan [short ending unclear]*
+*Ilahi laqad [الكلمة المطبوعة التالية تبدو «أنت»] bismika da'iyan [آخر قصير غير واضح]*
 
-*Bi-sirri hurufin fi kitabika unzilat [line-ending mark unreadable]*
+*Bi-sirri hurufin fi kitabika unzilat [علامة آخر السطر غير مقروءة]*
 
-*Qaribun [middle word appears to be “qawiyy”] mujibun liman da'a [line edge unclear]*
+*Qaribun [الكلمة الوسطى تبدو «قويّ»] mujibun liman da'a [حرف السطر غير واضح]*
 
-*Ka-hayjin bahijin ka-hayjin bima hawat [talismanic words retained as printed]*
+*Ka-hayjin bahijin ka-hayjin bima hawat [كلمات طلسمية محفوظة وفق المطبوع]*
 
-*'Azizun [short separator or word between the epithets unclear] majidun qad amintu [ending unclear]*
+*'Azizun [فاصل أو كلمة قصيرة بين النعوت غير واضح] majidun qad amintu [آخر الكلمة غير واضح]*
 
-*Bi-khidmati al-amlaki li-amri tasara'at [line ending uncertain]*
+*Bi-khidmati al-amlaki li-amri tasara'at [آخر السطر غير محقق]*
 
-*Bi-ismi al-'arshi [short printed connector unclear] fal-kullu yakhda'u [verb form retained as printed]*
+*Bi-ismi al-'arshi [رابط مطبوع قصير غير واضح] fal-kullu yakhda'u [صيغة الفعل محفوظة وفق المطبوع]*
 
-*Li-ta'ati asma'in 'izhamin tasallatat [faint line ending]*
+*Li-ta'ati asma'in 'izhamin tasallatat [آخر سطر باهت]*
 
-*[A line of talismanic names; connected letters are too indistinct for a safe phonetic transcription.]*
+*[سطر من أسماء طلسمية، وحروفه المتصلة غير متمايزة بما لا يسمح بنقل صوتي موثوق]*
 
-*Bi-ismi [name resembling “shankh/shunukh”] ya 'azhimu [remaining strokes resemble “tashakhkhasat”; tentative]*
+*Bi-ismi [اسم يشبه «شنخ/شنوخ»] ya 'azhimu [الآثار الباقية تشبه «تشخصت» باحتمال]*
 
 **[Terjemahan Indonesia]**
 
@@ -154,19 +154,19 @@ Dengan nama [lafaz yang kira-kira terbaca «Shankh/Shunukh»], wahai Yang Mahaag
 
 **[Transliterasi Latin Fonetik]**
 
-*Bi-kafkhin [following name has letters resembling “tantanj”] [connected fragment unclear] bi-sharishin [vowels unknown]*
+*Bi-kafkhin [الاسم التالي حروفه تشبه «تنتنج»] [شظية متصلة غير واضحة] bi-sharishin [الحركات مجهولة]*
 
-*Bathushin bathushin thuwayshin [line ending appears to read “tasallatat”]*
+*Bathushin bathushin thuwayshin [يظهر آخر السطر مقروءًا «تسلطت»]*
 
-*Bi-'izzatin [short middle word uncertain] qawiyyun wa-qahirun [line edge faint]*
+*Bi-'izzatin [كلمة وسطى قصيرة غير محققة] qawiyyun wa-qahirun [حرف السطر باهت]*
 
 *Qahartu jami'a al-maridina wa-man 'asat*
 
-*Bi-than [following short tokens are indistinct through the line ending]*
+*Bi-than [المقاطع القصيرة التالية غير متمايزة حتى آخر السطر]*
 
-*Bi-shankhin [following name unclear] bil-qahri man 'asat [faint ending]*
+*Bi-shankhin [الاسم التالي غير واضح] bil-qahri man 'asat [آخر باهت]*
 
-*Bi-than [short name-like token obscured] ya ilahi [remainder unreadable]*
+*Bi-than [مقطع قصير شبيه باسم مطموس] ya ilahi [البقية غير مقروءة]*
 
 **[Terjemahan Indonesia]**
 

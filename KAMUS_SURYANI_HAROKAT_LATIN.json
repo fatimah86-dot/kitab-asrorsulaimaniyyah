@@ -1404,5 +1404,28 @@
     "Nama-nama Haikal (بعلشاقش، أقشامقش، dst., BATCH_07.md:368) — cocokkan dengan rantai §3.5.",
     "جَبَرُوت (jabaruut) — cek akar Aram g'vurta; belum dirujuk repo.",
     "Rumus «Syallim Namuwaah» (BATCH_02.md:108) — mengingatkan syallamun (§1 entri 9), tetapi repo tidak menghubungkan keduanya."
-  ]
+  ],
+  "normalisasi_nahwu_falak_2026_10_05": {
+    "berkas_tool": "tools/normalisasi_nahwu_falak.py",
+    "perintah_terapkan": "python tools/normalisasi_nahwu_falak.py",
+    "perintah_periksa": "python tools/normalisasi_nahwu_falak.py --cek   # harus BERSIH (0)",
+    "kaidah": "Seluruh catatan editorial berbahasa Inggris pada kolom Latin diganti catatan Arab; kaidah baku: «القراءة محتملة، والحروف محفوظة على رسم المطبوع - qiraatuhu muhtamalah».",
+    "jumlah_catatan_inggris_diganti": 289,
+    "jumlah_berkas_tersentuh": 28,
+    "jumlah_suntingan_emendasi_hal_4": 4,
+    "jumlah_penggantian_total": 293,
+    "emendasi_hal_4_cetak": {
+      "sebelum": "وأيما دار ما درى — Wa ayyumaa daara maa daraa",
+      "sesudah": "وَأَيْنَمَا دَارَ — Wa aynamaa daara (dimanapun beredar)",
+      "dasar": "Nahwu & falak: «أينما» + «دار»؛ bentuk cetak «ما درى» محرَّف. Arti: حيثما دار الفلك في برجه (di manapun benda langit beredar pada burujnya).",
+      "letak": "BATCH_01.md:389 (Arab), :397 (Latin), :403 (terjemahan), :407 (syarah)",
+      "kaidah_cetak": "Bentuk cetak tetap dicatat: [في المطبوع «أيما دار ما درى» وهو محرَّف؛ وصوابه ... «وَأَيْنَمَا دَارَ»]"
+    },
+    "verifikasi": {
+      "grep_0_inggris": "0 catatan Inggris di BATCH_01–35, KAMUS_SURYANI_ASROR_35_BATCH.md, TERJEMAHAN.md, TERJEMAHAN_MATAN_MURNI.md, preview.html, dan MASTER_PANEL_Batch_01-35.pdf; grep -i \"phonetic reading|printed phrase|construction is unclear\" -> BERSIH",
+      "tes_panel": "29 tes OK (python -m unittest tools.test_panel)",
+      "master_pdf": "408 halaman",
+      "nama_baku": "Adunayya pada 7 halaman MASTER (19, 68, 77, 83, 101, 115, 116); Ali Syadayya pada 2 halaman (19, 52) — tetap, tidak tersentuh normalisasi ini"
+    }
+  }
 }

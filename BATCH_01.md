@@ -186,7 +186,7 @@ Beliau adalah ahli ilmu ruhani yang agung, Dr. Abdullah al-Jundi, berkebangsaan 
 
 **Asraarul-asmaa'il-maktuubati 'alaa jabiini Jibraa'iila 'alaihis-salaam**
 
-*Fil-asmaa'il-maktuubaati 'alaa jabiini Jibraa'iila 'alaihis-salaam, al-waaqifi 'alaa syimaalil-qudrati muntazhiran maa yu'maru bihi minal-wahyil-ilaahiyy. Wa hiya 'alal-malaa'ikatil-mukhtashshiina bil-lauhil-muhiithi bikulli 'ilmin wal-'ilmir-rafii', mataa da'autahum bihaa ajaabuu sam'an wa thaa'atallaahi 'azza wa jalla, wa bi-asmaa'ihi wa bihaa khalaqahum, wa hiya maktuubatun 'alaa jabiini Jibriila 'alaihis-salaam, wa hiyallatii kaana yatakallamu bihaa 'Iisabnu Maryama 'alaihis-salaam 'inda muhimmaatil-amr, wa hiya haadzihi: Thasy thasy thasyth thasyah yuuhaniith huumiyaath huutsaawuth [phonetic reading of the non-Arabic name is tentative; printed consonants are retained], jallallaahu 'azza wa jalla, wa huwa 'alaa kulli syai'in qadiir.*
+*Fil-asmaa'il-maktuubaati 'alaa jabiini Jibraa'iila 'alaihis-salaam, al-waaqifi 'alaa syimaalil-qudrati muntazhiran maa yu'maru bihi minal-wahyil-ilaahiyy. Wa hiya 'alal-malaa'ikatil-mukhtashshiina bil-lauhil-muhiithi bikulli 'ilmin wal-'ilmir-rafii', mataa da'autahum bihaa ajaabuu sam'an wa thaa'atallaahi 'azza wa jalla, wa bi-asmaa'ihi wa bihaa khalaqahum, wa hiya maktuubatun 'alaa jabiini Jibriila 'alaihis-salaam, wa hiyallatii kaana yatakallamu bihaa 'Iisabnu Maryama 'alaihis-salaam 'inda muhimmaatil-amr, wa hiya haadzihi: Thasy thasy thasyth thasyah yuuhaniith huumiyaath huutsaawuth [القراءة محتملة، والحروف محفوظة على رسم المطبوع - qiraatuhu muhtamalah], jallallaahu 'azza wa jalla, wa huwa 'alaa kulli syai'in qadiir.*
 
 **[Terjemahan Indonesia]**
 
@@ -268,7 +268,7 @@ Ia terdiri dari tujuh nama yang diajarkan Allah Ta'ala kepada Mikail 'alaihis-sa
 
 *… syai'in min a'maalil-birri wat-taqwaa, wastinzaalisy-Syaaquufaatillatii bi-aqthaaril-ardh. Wa hiya haadzihil-asmaa'uth-thaahiratusy-syariifah, al-muthahharatul-maktuubatu 'alaa jabhati Miikaa'iila 'alaihis-salaam:*
 
-*Syahaa Syuwiin Kunuufisy Luuniim Kiiliim Ya'thiisy Baalah [phonetic reading of the non-Arabic name is tentative; printed consonants are retained].*
+*Syahaa Syuwiin Kunuufisy Luuniim Kiiliim Ya'thiisy Baalah [القراءة محتملة، والحروف محفوظة على رسم المطبوع - qiraatuhu muhtamalah].*
 
 **[Terjemahan Indonesia]**
 
@@ -340,7 +340,7 @@ Ketahuilah — semoga Allah memberimu taufik — bahwa apabila engkau mengucapka
 
 **Asraaru asmaa'i ash-haabil-bathsy**
 
-*Bakhthaa Shiithaa 'Ajaa 'Alyuun Haaniith Sam'aa Sya'iitaa [phonetic reading of the non-Arabic name is tentative; printed consonants are retained].*
+*Bakhthaa Shiithaa 'Ajaa 'Alyuun Haaniith Sam'aa Sya'iitaa [القراءة محتملة، والحروف محفوظة على رسم المطبوع - qiraatuhu muhtamalah].*
 
 **[Terjemahan Indonesia]**
 
@@ -386,7 +386,7 @@ Tafsirnya dalam bahasa Arab: Mahasuci Engkau, wahai Pembebas leher-leher (para h
 
 **صِنَاعَةُ خَاتَمٍ لِمِيطَرُونَ**
 
-إِذَا أَرَدْتَ اسْتِخْدَامَ هَذَا المَلَكِ، فَاصْنَعْ خَاتَمًا مِنْ ذَهَبٍ فَصُّهُ مِنْ عَقِيقٍ أَحْمَرَ، يَكُونُ صِيَاغَتُهُ وَنَقْشُهُ فِي يَوْمِ الجُمُعَةِ، وَالزُّهَرَةُ فِي شَرَفِهَا وَهُوَ الحُوتُ فِي شَرَفِهِ، أَوْ يَوْمِ السَّبْتِ وَزُحَلُ فِي المِيزَانِ، أَوْ يَوْمِ الأَحَدِ وَالشَّمْسُ فِي الحَمَلِ، أَوْ يَوْمِ الِاثْنَيْنِ وَالقَمَرُ فِي الثَّوْرِ، أَوْ يَوْمِ الخَمِيسِ وَالمُشْتَرِي فِي السَّرَطَانِ خَالٍ مِنَ الجَوْزَهَرِ. وأيما دار ما درى [الصيغة كما في المطبوع مع غرابة تركيبها؛ لا تُصحح بلا شاهد أوضح] صَنَعْتَ ذَلِكَ فِي وَقْتِهِ يَكُونُ خَالِيًا مِنَ النُّحُوسِ، وَيَكُونُ ذَلِكَ فِي أَشْهُرِ العَرَبِ خَالِيًا مِنْ أَشْهُرِ الحُرُمِ، ثُمَّ تَنْقُشُهُ نَقْشًا حَسَنًا، وَتَغْسِلُهُ بَعْدَ ذَلِكَ بِمَاءٍ جَارٍ وَمِلْحٍ، ثُمَّ بِمَاءِ وَرْدٍ وَمِسْكٍ، ثُمَّ تَصْنَعُ لَهُ مَحْفَظَةً مِنْ حَرِيرٍ أَخْضَرَ. وَتَأَهَّبْ بِإِذْنِ اللَّهِ فِي الوُقُوفِ إِلَيْهِ.
+إِذَا أَرَدْتَ اسْتِخْدَامَ هَذَا المَلَكِ، فَاصْنَعْ خَاتَمًا مِنْ ذَهَبٍ فَصُّهُ مِنْ عَقِيقٍ أَحْمَرَ، يَكُونُ صِيَاغَتُهُ وَنَقْشُهُ فِي يَوْمِ الجُمُعَةِ، وَالزُّهَرَةُ فِي شَرَفِهَا وَهُوَ الحُوتُ فِي شَرَفِهِ، أَوْ يَوْمِ السَّبْتِ وَزُحَلُ فِي المِيزَانِ، أَوْ يَوْمِ الأَحَدِ وَالشَّمْسُ فِي الحَمَلِ، أَوْ يَوْمِ الِاثْنَيْنِ وَالقَمَرُ فِي الثَّوْرِ، أَوْ يَوْمِ الخَمِيسِ وَالمُشْتَرِي فِي السَّرَطَانِ خَالٍ مِنَ الجَوْزَهَرِ. وَأَيْنَمَا دَارَ [في المطبوع «أيما دار ما درى» وهو محرَّف؛ وصوابه على مقتضى النحو والفلك «وَأَيْنَمَا دَارَ» أي حيثما دار الفلك في برجه] صَنَعْتَ ذَلِكَ فِي وَقْتِهِ يَكُونُ خَالِيًا مِنَ النُّحُوسِ، وَيَكُونُ ذَلِكَ فِي أَشْهُرِ العَرَبِ خَالِيًا مِنْ أَشْهُرِ الحُرُمِ، ثُمَّ تَنْقُشُهُ نَقْشًا حَسَنًا، وَتَغْسِلُهُ بَعْدَ ذَلِكَ بِمَاءٍ جَارٍ وَمِلْحٍ، ثُمَّ بِمَاءِ وَرْدٍ وَمِسْكٍ، ثُمَّ تَصْنَعُ لَهُ مَحْفَظَةً مِنْ حَرِيرٍ أَخْضَرَ. وَتَأَهَّبْ بِإِذْنِ اللَّهِ فِي الوُقُوفِ إِلَيْهِ.
 
 </div>
 
@@ -394,17 +394,17 @@ Tafsirnya dalam bahasa Arab: Mahasuci Engkau, wahai Pembebas leher-leher (para h
 
 **Shinaa'atu khaatamin li-Miitharuun**
 
-*Idzaa aradtastikhdaama haadzal-malaki, fashna' khaatiman min dzahabin fashshuhu min 'aqiiqin ahmara, yakuunu shiyaaghatuhu wa naqsyuhu fii yaumil-jumu'ati, waz-Zuharatu fii syarafihaa wa huwal-huutu fii syarafihi, au yaumis-sabti wa Zuhalu fil-miizaani, au yaumil-ahadi wasy-Syamsu fil-hamali, au yaumil-itsnaini wal-Qamaru fits-Tsauri, au yaumil-khamiisi wal-Musytarii fis-saratani khaalin minal-jauzahar. Wa ayyumaa daara maa daraa [the printed phrase “ayyu maa daraa” is retained; its construction is unclear] shana'ta dzaalika fii waqtihi yakuunu khaaliyan minan-nuhuus, wa yakuunu dzaalika fii asyhuril-'arabi khaaliyan min asyhuril-hurumi, tsumma tanqusyuhu naqsyan hasanan, wa taghsiluhu ba'da dzaalika bimaa'in jaarin wa milhin, tsumma bimaa'i wardin wa miskin, tsumma tashna'u lahu mahfazhatan min hariirin akhdhar. Wa ta'ahhab bi-idznillaahi fil-wuquufi ilaihi.*
+*Idzaa aradtastikhdaama haadzal-malaki, fashna' khaatiman min dzahabin fashshuhu min 'aqiiqin ahmara, yakuunu shiyaaghatuhu wa naqsyuhu fii yaumil-jumu'ati, waz-Zuharatu fii syarafihaa wa huwal-huutu fii syarafihi, au yaumis-sabti wa Zuhalu fil-miizaani, au yaumil-ahadi wasy-Syamsu fil-hamali, au yaumil-itsnaini wal-Qamaru fits-Tsauri, au yaumil-khamiisi wal-Musytarii fis-saratani khaalin minal-jauzahar. Wa aynamaa daara [في المطبوع «أي ما درى» وهو محرف، وصوابه على مقتضى النحو والفلك «وَأَيْنَمَا دَارَ» أي حيثما دار الفلك في برجه — dimanapun beredar] shana'ta dzaalika fii waqtihi yakuunu khaaliyan minan-nuhuus, wa yakuunu dzaalika fii asyhuril-'arabi khaaliyan min asyhuril-hurumi, tsumma tanqusyuhu naqsyan hasanan, wa taghsiluhu ba'da dzaalika bimaa'in jaarin wa milhin, tsumma bimaa'i wardin wa miskin, tsumma tashna'u lahu mahfazhatan min hariirin akhdhar. Wa ta'ahhab bi-idznillaahi fil-wuquufi ilaihi.*
 
 **[Terjemahan Indonesia]**
 
 **Pembuatan Cincin untuk Mitharun (kemungkinan Metatron)**
 
-Apabila engkau hendak memanfaatkan malaikat ini, buatlah sebuah cincin dari emas dengan mata cincin dari akik merah. Pembuatan dan pengukirannya dilakukan pada hari Jumat ketika Venus (*az-Zuharah*) berada pada kedudukan puncaknya (*syaraf*), yaitu di buruj Hut (Pisces) pada puncaknya; atau pada hari Sabtu ketika Saturnus (*Zuhal*) di buruj Mizan (Libra); atau hari Ahad ketika Matahari di buruj Hamal (Aries); atau hari Senin ketika Bulan di buruj Tsaur (Taurus); atau hari Kamis ketika Jupiter (*al-Musytari*) di buruj Saratan (Cancer), dalam keadaan bebas dari *al-Jawzahar* (titik simpul Bulan). Dan [kalimat «wa ayyumaa daara maa daraa» tidak jelas, tampaknya rusak dalam cetakan]; bila engkau membuatnya pada waktunya, ia bebas dari kesialan-kesialan; dan hendaknya itu dilakukan pada bulan-bulan (kalender) Arab, di luar bulan-bulan haram. Kemudian ukirlah dengan ukiran yang baik; lalu cuci setelah itu dengan air mengalir dan garam, kemudian dengan air mawar dan misik; kemudian buatlah untuknya sebuah wadah dari sutra hijau. Dan bersiaplah — dengan izin Allah — untuk menghadap kepadanya.
+Apabila engkau hendak memanfaatkan malaikat ini, buatlah sebuah cincin dari emas dengan mata cincin dari akik merah. Pembuatan dan pengukirannya dilakukan pada hari Jumat ketika Venus (*az-Zuharah*) berada pada kedudukan puncaknya (*syaraf*), yaitu di buruj Hut (Pisces) pada puncaknya; atau pada hari Sabtu ketika Saturnus (*Zuhal*) di buruj Mizan (Libra); atau hari Ahad ketika Matahari di buruj Hamal (Aries); atau hari Senin ketika Bulan di buruj Tsaur (Taurus); atau hari Kamis ketika Jupiter (*al-Musytari*) di buruj Saratan (Cancer), dalam keadaan bebas dari *al-Jawzahar* (titik simpul Bulan). Dan «dimanapun beredar» (yakni di manapun benda langit itu beredar pada burujnya); bila engkau membuatnya pada waktunya, ia bebas dari kesialan-kesialan; dan hendaknya itu dilakukan pada bulan-bulan (kalender) Arab, di luar bulan-bulan haram. Kemudian ukirlah dengan ukiran yang baik; lalu cuci setelah itu dengan air mengalir dan garam, kemudian dengan air mawar dan misik; kemudian buatlah untuknya sebuah wadah dari sutra hijau. Dan bersiaplah — dengan izin Allah — untuk menghadap kepadanya.
 
 **[Syarah]**
 
-> Istilah falak: «الشرف» (*syaraf*) = kedudukan puncak planet pada buruj tertentu (Venus di Hut/Pisces, Saturnus di Mizan/Libra, Matahari di Hamal/Aries, Bulan di Tsaur/Taurus, Jupiter di Saratan/Cancer); «الجوزهر» (*al-Jawzahar*) = titik simpul orbit Bulan (kepala dan ekor naga); «النحوس» = saat atau pengaruh yang dianggap sial; «أشهر الحرم» = Muharram, Rajab, Dzulqa'dah, dan Dzulhijjah. «ميطرون» kemungkinan padanan «Metatron» (nama malaikat dalam tradisi mistik Yahudi); teks tidak menjelaskan. Kalimat «وأيما دار ما درى» tampak rusak dalam cetakan sehingga dibiarkan tanpa harakat dan ditandai [الصيغة كما في المطبوع مع غرابة تركيبها؛ لا تُصحح بلا شاهد أوضح]; arti umum kalimat sesudahnya: bila dibuat pada waktu yang tepat, cincin bebas dari kesialan.
+> Istilah falak: «الشرف» (*syaraf*) = kedudukan puncak planet pada buruj tertentu (Venus di Hut/Pisces, Saturnus di Mizan/Libra, Matahari di Hamal/Aries, Bulan di Tsaur/Taurus, Jupiter di Saratan/Cancer); «الجوزهر» (*al-Jawzahar*) = titik simpul orbit Bulan (kepala dan ekor naga); «النحوس» = saat atau pengaruh yang dianggap sial; «أشهر الحرم» = Muharram, Rajab, Dzulqa'dah, dan Dzulhijjah. «ميطرون» kemungkinan padanan «Metatron» (nama malaikat dalam tradisi mistik Yahudi); teks tidak menjelaskan. Kalimat «أيما دار ما درى» pada cetakan tampak salah tulis (محرَّف); atas pertimbangan nahwu dan falak dibaca «وَأَيْنَمَا دَارَ» — «dimanapun beredar» (yakni di manapun benda langit itu beredar pada burujnya), dan bentuk cetaknya tetap dicatat; arti umum kalimat sesudahnya: bila dibuat pada waktu yang tepat, cincin bebas dari kesialan.
 
 **[Faedah]**
 
