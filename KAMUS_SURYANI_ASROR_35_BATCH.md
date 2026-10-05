@@ -105,19 +105,19 @@ Kitab membuka bagian ini dengan kalimat: *“Dan untuk menyempurnakan faedah, ka
 | 16 | بَازَخُ | Baazakh | الجَلِيلُ | Yang Mahaagung | BATCH_09.md:453 · PDF 44 = cetak 43 |
 | 17 | شَرْنْطَخُ | Syarnthakh | الحَيُّ البَاقِي | Yang Mahahidup lagi Mahakekal | BATCH_09.md:453 · PDF 44 = cetak 43 |
 | 18 | بَهُوثْتُ | Bahauts | الرَّحِيمُ — riwayat lain: وفِي رِوَايَةٍ شَدِيدُ العَذَابِ | Yang Mahapenyayang — dan dalam satu riwayat: Yang Keras siksa-Nya | BATCH_09.md:453 · PDF 44 = cetak 43 |
-| 19 | يَاوِ | Yaruw | هُوَ اللهُ | Dialah Allah | BATCH_09.md:453 · PDF 44 = cetak 43 |
-| 20 | يَرُو | Namuu-u | الأَوَّلُ والآخِرُ | Yang Pertama dan Yang Terakhir | BATCH_09.md:453 · PDF 44 = cetak 43 |
-| 21 | نَمُوءُ | Ashaalyaa | الظَّاهِرُ | Yang Mahanyata | BATCH_09.md:453 · PDF 44 = cetak 43 |
-| 22 | أَصَالْيَا | Najaa 'Aalyaa | البَاطِنُ | Yang Mahabatin | BATCH_09.md:453 · PDF 44 = cetak 43 |
-| 23 | نَجَا عَالْيَا | Shalshalt | الوَكِيلُ | Yang Maha Memelihara | BATCH_09.md:453 · PDF 44 = cetak 43 |
-| 24 | صَلْصَلَتْ | Hasamats | الكَافِي | Yang Mencukupi | BATCH_09.md:453 · PDF 44 = cetak 43 |
-| 25 | حَسْمَثُ | Hausam | القَابِضُ | Yang Menggenggam | BATCH_09.md:453 · PDF 44 = cetak 43 |
-| 26 | حَوْسَمُ | Darasam | الرَّحْمَنُ | Yang Mahapengasih | BATCH_09.md:453 · PDF 44 = cetak 43 |
-| 27 | دَرْسَمُ | Baraasam | الرَّحِيمُ | Yang Mahapenyayang | BATCH_09.md:453 · PDF 44 = cetak 43 |
-| 28 | بَرَاسَمُ | Syalmahats | الظَّهِيرُ | Yang Menolong | BATCH_09.md:453 · PDF 44 = cetak 43 |
-| 29 | شَلْمَهَثُ | Azmakht | الفَتَّاحُ | Yang Membuka | BATCH_09.md:453 · PDF 44 = cetak 43 |
-| 30 | أَزْمَخْتُ | Ta'daad | الغَنِيُّ المُغْنِي | Yang Mahakaya lagi Memperkaya | BATCH_09.md:453 · PDF 44 = cetak 43 |
-| 31 | تَعْدَادُ | — | القَوِيُّ | Yang Mahakuat — … | BATCH_09.md:453 · PDF 44 = cetak 43 |
+| 19 | يَاوِ | Yaaw | هُوَ اللهُ | Dialah Allah | BATCH_09.md:453 · PDF 44 = cetak 43 |
+| 20 | يَرُو | Yaruw | الأَوَّلُ والآخِرُ | Yang Pertama dan Yang Terakhir | BATCH_09.md:453 · PDF 44 = cetak 43 |
+| 21 | نَمُوءُ | Namuu-u | الظَّاهِرُ | Yang Mahanyata | BATCH_09.md:453 · PDF 44 = cetak 43 |
+| 22 | أَصَالْيَا | Ashaalyaa | البَاطِنُ | Yang Mahabatin | BATCH_09.md:453 · PDF 44 = cetak 43 |
+| 23 | نَجَا عَالْيَا | Najaa 'Aalyaa | الوَكِيلُ | Yang Maha Memelihara | BATCH_09.md:453 · PDF 44 = cetak 43 |
+| 24 | صَلْصَلَتْ | Shalshalt | الكَافِي | Yang Mencukupi | BATCH_09.md:453 · PDF 44 = cetak 43 |
+| 25 | حَسْمَثُ | Hasamats | القَابِضُ | Yang Menggenggam | BATCH_09.md:453 · PDF 44 = cetak 43 |
+| 26 | حَوْسَمُ | Hausam | الرَّحْمَنُ | Yang Mahapengasih | BATCH_09.md:453 · PDF 44 = cetak 43 |
+| 27 | دَرْسَمُ | Darasam | الرَّحِيمُ | Yang Mahapenyayang | BATCH_09.md:453 · PDF 44 = cetak 43 |
+| 28 | بَرَاسَمُ | Baraasam | الظَّهِيرُ | Yang Menolong | BATCH_09.md:453 · PDF 44 = cetak 43 |
+| 29 | شَلْمَهَثُ | Syalmahats | الفَتَّاحُ | Yang Membuka | BATCH_09.md:453 · PDF 44 = cetak 43 |
+| 30 | أَزْمَخْتُ | Azmakht | الغَنِيُّ المُغْنِي | Yang Mahakaya lagi Memperkaya | BATCH_09.md:453 · PDF 44 = cetak 43 |
+| 31 | تَعْدَادُ | Ta'daad | القَوِيُّ | Yang Mahakuat — … | BATCH_09.md:453 · PDF 44 = cetak 43 |
 
 ### 2.2 Halaman PDF 45 (= cetak 44) — dari «Abram» sampai «'Aithla»
 
@@ -153,6 +153,7 @@ Kitab membuka bagian ini dengan kalimat: *“Dan untuk menyempurnakan faedah, ka
 ### 2.3 Catatan atas leksikon
 
 - **†** Entri nomor 17 pada tabel 2.2 (`عَلَى مَا نَرِمُ حَفَّاً يَرُونَ بِقَنْصَبَ`) bukan satu nama, melainkan **frasa** yang diterjemahkan kitab sebagai “Allah Maha Mengalahkan atas urusan-Nya”. Repo menandainya sebagai rangkaian yang perlu kehati-hatian.
+- **Koreksi kolom Latin §2.1 (19–31) — 2026-10-05.** Pada tabel 2.1, kolom Latin semula **bergeser satu baris** mulai nomor 19 (`يَاوِ` tertulis *Yaruw*, padahal *Yaruw* milik `يَرُو`, dan seterusnya); baris 31 semula bertanda “—” padahal Latinya *Ta'daad*. Kolom Latin nomor 19–31 telah **dikoreksi** mengikuti sumber `BATCH_09.md:459` (`Yaaw, Yaruw, Namuu-u, Ashaalyaa, Najaa 'Aalyaa, Shalshalt, Hasamats, Hausam, Darasam, Baraasam, Syalmahats, Azmakht, Ta'daad`). Tabel 2.2 tidak mengalami pergeseran. Rincian riwayat: lihat catatan revisi berkas ini.
 - **Salah cetak yang dicatat repo:** kata pengantar bagian ini tercetak `ولتنميم` dan dianggap seharusnya `ولِتَتْمِيمِ` (BATCH_09.md:441/445).
 - **Riwayat ganda:** entri `بَهُوثْتُ` (Bahauts) punya dua makna menurut riwayat: “Yang Mahapenyayang” dan “Yang Keras siksa-Nya” (BATCH_09.md:453/463).
 - **Tanda “…” pada entri terakhir halaman 44** (`تَعْدَادُ`: “Yang Mahakuat — …”) menunjukkan daftar **bersambung** ke halaman berikutnya, bukan terputus.

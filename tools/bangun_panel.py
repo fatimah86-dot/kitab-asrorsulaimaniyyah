@@ -10,9 +10,11 @@ Membaca BATCH_*.md di akar repo, lalu membangun:
   TERJEMAHAN_MATAN_MURNI.md      gabungan: Arab + Latin + Indonesia + gambar rajah saja
 
 Pemakaian:
-  python tools/bangun_panel.py              # bangun semuanya
-  python tools/bangun_panel.py --cek        # hanya periksa mutu (tanpa membangun apa pun)
-  python tools/bangun_panel.py --tanpa-pdf  # lewati PDF (tanpa PyMuPDF)
+  python tools/bangun_panel.py                     # bangun semuanya
+  python tools/bangun_panel.py --cek               # hanya periksa mutu (tanpa membangun apa pun)
+  python tools/bangun_panel.py --check-only        # alias --cek
+  python tools/bangun_panel.py --batch BATCH_02    # cek cepat satu batch saja (tanpa membangun)
+  python tools/bangun_panel.py --tanpa-pdf         # lewati PDF (tanpa PyMuPDF)
 
 Kode keluar: 0 baik; 1 ada temuan pemeriksaan; 2 galat fatal.
 """
@@ -971,7 +973,9 @@ def periksa(batches: list[dict], root: Path = ROOT) -> tuple[list[str], list[str
 # --------------------------------------------------------------------------- CLI
 def main(argv: list[str] | None = None) -> int:
     ap = argparse.ArgumentParser(description="Bangun Edisi Panel (preview.html, PDF, TERJEMAHAN*.md) dari BATCH_*.md")
-    ap.add_argument("--cek", action="store_true", help="hanya periksa mutu, tanpa membangun")
+    ap.add_argument("--cek", "--check-only", action="store_true", help="hanya periksa mutu, tanpa membangun")
+    ap.add_argument("--batch", default=None, metavar="NN",
+                    help="batasi cakupan ke satu batch, mis. --batch BATCH_02; tanpa aksi lain otomatis mode periksa")
     ap.add_argument("--tanpa-pdf", action="store_true", help="lewati pembuatan PDF")
     ap.add_argument("--akar", default=str(ROOT), help="folder repo (bawaan: induk tools/)")
     args = ap.parse_args(argv)
@@ -984,6 +988,20 @@ def main(argv: list[str] | None = None) -> int:
     if not batches:
         print("GALAT: tidak ada BATCH_NN.md di " + str(akar), file=sys.stderr)
         return 2
+    if args.batch:
+        m = re.match(r"^(?:BATCH[_-]?)?0*(\d+)(?:\.md)?$", args.batch.strip(), flags=re.IGNORECASE)
+        if not m:
+            print(f"GALAT: nama batch '{args.batch}' tidak dikenali (contoh: --batch BATCH_02 atau --batch 2)", file=sys.stderr)
+            return 2
+        nomor = int(m.group(1))
+        dipilih = [b for b in batches if re.match(rf"^BATCH_0*{nomor}\.md$", b["berkas"], flags=re.IGNORECASE)]
+        if not dipilih:
+            print(f"GALAT: batch nomor {nomor} tidak ditemukan di {akar}", file=sys.stderr)
+            return 2
+        batches = dipilih
+        if not args.cek:
+            args.cek = True
+            print("  catatan: --batch tanpa aksi lain -> mode periksa saja (tanpa membangun apa pun)")
     temuan, ringkasan = periksa(batches, akar)
     for r in ringkasan:
         print("  " + r)
