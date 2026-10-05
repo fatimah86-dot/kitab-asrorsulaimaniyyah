@@ -456,7 +456,7 @@ Dan untuk menyempurnakan [tercetak: wa-litamnim] faedah, kami sebutkan makna nam
 
 **[Transliterasi Latin Fonetik]**
 
-*Aaj ma'naahullaah, Auh ma'naahul-Ahad, Jal Jalyuuts: Al-Badii', Jaljalats: Al-Qaadir, Hay: Al-Kaafi, Hall: Al-Waduud, Halhalt: Al-Baasith, Thaithaft: Al-Hay, Ghalamats: Al-Qahhaar dzul-bathsyisy-syadiid, Syamaakh: Al-Haliim, Asymakh: Al-Khaaliq, Salmatu Samat: As-Salaam, Shamshaam: Al-Baari, Mihraasy: Ats-Tsaabit, Thamthaam: Al-Qawiyyul-Matiin, Baazakh: Al-Jaliil, Syarnthakh: Al-Hayyul-Baaqi, Bahauts: Ar-Rahiim. Wa fii riwaayatin syadiidul-'adzaab. Yaaw: Huwallaah, Yaruw: Al-Awwalu wal-Aakhir, Namuu-u: Azh-Zhaahir, Ashaalyaa: Al-Baathin, Najaa 'Aalyaa: Al-Wakiil, Shalshalt: Al-Kaafi, Hasamats: Al-Qaabidh, Hausam: Ar-Rahmaan, Darasam: Ar-Rahiim, Baraasam: Azh-Zhahiir, Syalmahats: Al-Fattaah, Azmakht: Al-Ghaniyyul-Mughni, Ta'daad: Al-Qawi,*
+*Aaj ma'naahullaah, Auh ma'naahul-Ahad, Jal Jalyuuts: Al-Badii', Jaljalats: Al-Qaadir, Hay: Al-Kaafi, Hall: Al-Waduud, Halhalt: Al-Baasith, Thaithaft: Al-Hayy, Ghalamats: Al-Qahhaar dzul-bathsyisy-syadiid, Syamaakh: Al-Haliim, Asymakh: Al-Khaaliq, Salmatu Samat: As-Salaam, Shamshaam: Al-Baari, Mihraasy: Ats-Tsaabit, Thamthaam: Al-Qawiyyul-Matiin, Baazakh: Al-Jaliil, Syarnthakh: Al-Hayyul-Baaqi, Bahauts: Ar-Rahiim. Wa fii riwaayatin syadiidul-'adzaab. Yaaw: Huwallaah, Yaruw: Al-Awwalu wal-Aakhir, Namuu-u: Azh-Zhaahir, Ashaalyaa: Al-Baathin, Najaa 'Aalyaa: Al-Wakiil, Shalshalt: Al-Kaafi, Hasamats: Al-Qaabidh, Hausam: Ar-Rahmaan, Darasam: Ar-Rahiim, Baraasam: Azh-Zhahiir, Syalmahats: Al-Fattaah, Azmakht: Al-Ghaniyyul-Mughni, Ta'daad: Al-Qawi,*
 
 **[Terjemahan Indonesia]**
 
