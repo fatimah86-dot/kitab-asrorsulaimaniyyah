@@ -7,9 +7,9 @@
 
 - Penomoran: 1 halaman PDF = 1 halaman cetak. PDF hal. 1 = sampul; PDF hal. 2 = cetak 1; dan seterusnya (cetak = PDF − 1). Header berjalan dan footer (nomor telepon penulis) bukan isi kitab dan tidak diterjemahkan.
 - Teks cetak tidak berharakat. Harakat, tanda baca, dan transliterasi ditambahkan oleh AI, bukan dari naskah; mohon dikoreksi nahwu/sharaf.
-- Ejaan cetak tidak baku (ى/ه/ا) disesuaikan ke ejaan baku agar harakat bisa diberikan. Salah cetak tidak diperbaiki diam-diam: ditandai `[المطبوع: …]` (= yang tercetak) atau `[كذا]` (= demikian adanya).
+- Ejaan cetak tidak baku (ى/ه/ا) disesuaikan ke ejaan baku agar harakat bisa diberikan. Salah cetak atau susunan janggal tidak diperbaiki diam-diam: lafaz dipertahankan menurut cetakan dan disertai catatan deskriptif.
 - Transliterasi mengikuti bacaan washal (sambung): i'rab dibaca di tengah kalimat, waqf (tanpa i'rab/tanwin) di akhir kalimat atau koma. ث=ts, ذ=dz, ظ=zh, ض=dh, ص=sh, ط=th, ش=sy; tanda ' = hamzah/'ain.
-- Nama-nama non-Arab (nama malaikat/seruan) tidak diterjemahkan; harakat dan bacaannya dugaan, ditandai (؟) pada teks Arab dan (?) pada teks Latin.
+- Nama-nama non-Arab (nama malaikat/seruan) tidak diterjemahkan; harakat atau pelafalan yang belum pasti diberi keterangan, sementara konsonan cetak dipertahankan.
 - Edisi kajian: teks diterjemahkan sebagai dokumen; klaim kitab disampaikan sebagai klaim penulis, bukan anjuran praktik.
 - Perhalus batch (sama dengan BATCH 01–06): teks Arab dinormalisasi NFKC, lalu `arabic_reshaper` (`delete_harakat=False`) dan `bidi.get_display` dipakai sebagai pemeriksa — huruf Arab tersambung 100% (bentuk kontekstual utuh, harakat tidak hilang); potongan rajah disimpan 300 DPI (metadata) berlatar putih dengan bingkai emas `#c59b27`.
 
@@ -127,7 +127,7 @@ Nama keenam: Bizjil, setimbangan «kaukab»; ia mempunyai huruf waw dan, dari ma
 
 الاسْمُ الرَّابِعُ عَشَرَ: نُمُوشْلَخُ بِوَزْنِ بَنُو قَمَرٍ، لَهُ مِنَ الحُرُوفِ حَرْفُ النُّونِ وَمِنَ المَنَازِلِ السِّمَاكُ وَمَعْنَاهُ بِاللُّغَةِ العَرَبِيَّةِ (يَا اللهُ يَا هُوَ) وَفِي نُسْخَةٍ (الوَكِيلُ).
 
-الاسْمُ الخَامِسُ عَشَرَ: بِرْهِيُولَا بِوَزْنِ أَنْ تَزُولَا، لَهُ مِنَ الحُرُوفِ حَرْفُ السِّينِ وَمِنَ المَنَازِلِ الغَفْرُ وَمَعْنَاهُ بِالعَرَبِيَّةِ (يَا كَافِي) وَفِي نُسْخَةٍ (يَا كَافِي) [كذا] وَقِيلَ (يَا سَمِيعُ).
+الاسْمُ الخَامِسُ عَشَرَ: بِرْهِيُولَا بِوَزْنِ أَنْ تَزُولَا، لَهُ مِنَ الحُرُوفِ حَرْفُ السِّينِ وَمِنَ المَنَازِلِ الغَفْرُ وَمَعْنَاهُ بِالعَرَبِيَّةِ (يَا كَافِي) وَفِي نُسْخَةٍ (يَا كَافِي) [الصيغة مطابقة للمطبوع مع غرابة تركيبها؛ لا تُصحح بلا شاهد أوضح] وَقِيلَ (يَا سَمِيعُ).
 
 الاسْمُ السَّادِسُ عَشَرَ: بَشْكِيلَخُ بِوَزْنِ مَفْعِيلٍ، لَهُ مِنَ الحُرُوفِ حَرْفُ العَيْنِ وَمِنَ المَنَازِلِ الزَّبَانَا، وَمَعْنَاهُ بِاللُّغَةِ العَرَبِيَّةِ (يَا مُؤْمِنُ) وَقِيلَ (يَا لَطِيفُ).
 
@@ -151,7 +151,7 @@ Nama keenam: Bizjil, setimbangan «kaukab»; ia mempunyai huruf waw dan, dari ma
 
 *Al-Ismur-raabi'u 'asyar: Numuusyalakhu biwazni banuu qamar, lahuu minal-huruufi harfun-nuuni wa minal-manaazilis-simaaku wa ma'naahu bil-lughatil-'arabiyyati (Yaa Allaahu yaa Huu) wa fii nuskhatin (Al-Wakiil).*
 
-*Al-Ismul-khaamisu 'asyar: Birhyuulaa biwazni an tazuulaa, lahuu minal-huruufi harfus-siini wa minal-manaazilil-ghafru wa ma'naahu bil-'arabiyyati (Yaa Kaafi) wa fii nuskhatin (Yaa Kaafi) [kadzaa] wa qiila (Yaa Samii').*
+*Al-Ismul-khaamisu 'asyar: Birhyuulaa biwazni an tazuulaa, lahuu minal-huruufi harfus-siini wa minal-manaazilil-ghafru wa ma'naahu bil-'arabiyyati (Yaa Kaafi) wa fii nuskhatin (Yaa Kaafi) [unusual printed sequence retained without emendation] wa qiila (Yaa Samii').*
 
 *Al-Ismus-saadisu 'asyar: Basykiilakhu biwazni maf'iil, lahuu minal-huruufi harful-'aini wa minal-manaaziliz-zabaanaa, wa ma'naahu bil-lughatil-'arabiyyati (Yaa Mu'min) wa qiila (Yaa Lathiif).*
 
