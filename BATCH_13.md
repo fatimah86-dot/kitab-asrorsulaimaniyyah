@@ -7,9 +7,9 @@
 
 - Penomoran: 1 halaman PDF = 1 halaman cetak. PDF hal. 1 = sampul; PDF hal. 2 = cetak 1; dan seterusnya (cetak = PDF − 1). Header berjalan dan footer (nomor telepon penulis) bukan isi kitab dan tidak diterjemahkan.
 - Teks cetak tidak berharakat; harakat, tanda baca, dan transliterasi ditambahkan oleh AI, bukan dari naskah; mohon dikoreksi nahwu/sharaf.
-- Ejaan cetak tidak baku (ى/ه/ا) disesuaikan ke ejaan baku agar harakat bisa diberikan. Salah cetak tidak diperbaiki diam-diam: ditandai `[المطبوع: …]` (= yang tercetak) atau `[كذا]` (= demikian adanya).
+- Ejaan cetak tidak baku (ى/ه/ا) disesuaikan ke ejaan baku agar harakat bisa diberikan. Salah cetak atau susunan janggal tidak diperbaiki diam-diam: lafaz dipertahankan menurut cetakan dan disertai catatan deskriptif.
 - Transliterasi mengikuti bacaan washal (sambung): i'rab dibaca di tengah kalimat, waqf (tanpa i'rab/tanwin) di akhir kalimat atau koma. ث=ts, ذ=dz, ظ=zh, ض=dh, ص=sh, ط=th, ش=sy; tanda ' = hamzah/'ain.
-- Nama-nama non-Arab (nama malaikat/seruan) tidak diterjemahkan; harakat dan bacaannya dugaan, ditandai (؟) pada teks Arab dan (?) pada teks Latin.
+- Nama-nama non-Arab (nama malaikat/seruan) tidak diterjemahkan; harakat atau pelafalan yang belum pasti diberi keterangan, sementara konsonan cetak dipertahankan.
 - Nazham (bait bersajak) dicetak per larik; setiap larik cetak dijadikan satu paragraf sendiri pada ketiga blok, dan kata yang terpenggal antarlarik cetak disambung kembali.
 - Edisi kajian: teks diterjemahkan sebagai dokumen; klaim kitab disampaikan sebagai klaim penulis, bukan anjuran praktik.
 - Perhalus batch (sama dengan BATCH 01–12): teks Arab dinormalisasi NFKC, lalu `arabic_reshaper` (`delete_harakat=False`) dan `bidi.get_display` dipakai sebagai pemeriksa — huruf Arab tersambung 100% (bentuk kontekstual utuh, harakat tidak hilang); potongan rajah disimpan 300 DPI (metadata) berlatar putih dengan bingkai emas `#c59b27`.
@@ -398,7 +398,7 @@ dan aku mengalahkan dengan nama-nama itu bala tentara yang bersekutu.
 
 بِسَيْفِكَ يَا جَبَّارُ فَاقْتُلْ عَدُوَّنَا
 
-ويَا ذَابِحُ اذْبَحْ كُلَّ قَوْمٍ نَجْبَرْتُ [كذا]
+ويَا ذَابِحُ اذْبَحْ كُلَّ قَوْمٍ نَجْبَرْتُ [الصيغة مطابقة للمطبوع مع غرابة تركيبها؛ لا تُصحح بلا شاهد أوضح]
 
 ويَا قَاتِلَ الأَعْدَاءِ أَسْرِعْ بِفَنِّهَا
 
