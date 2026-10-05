@@ -42,23 +42,23 @@
 
 *Bi-'izzati afla ghalawun tanattaqat*
 
-*Bi-'izzin Ghalawun lahu al-mulku wa-al-'ula [Ghalawun is retained as a proper name; its vowel pattern is editorial.]*
+*Bi-'izzin Ghalawun lahu al-mulku wa-al-'ula [«غلون» محفوظ اسم علم، وضبط حركاته اجتهادي]*
 
-*Bi-satwati Ṭarum bil-jinni taskharat [Ṭarum is a tentative reading of the non-Arabic name after “might”.]*
+*Bi-satwati Ṭarum bil-jinni taskharat [«طارم» قراءة محتملة للاسم غير العربي بعد «العزة»]*
 
-*Wa-ya Jahramish Jahramish bi-jahihi [The printed name is repeated; vowels are approximate.]*
+*Wa-ya Jahramish Jahramish bi-jahihi [الاسم المطبوع مكرر، وحركاته تقريبية]*
 
-*Wa-ya Ḍarmaghush bil-jinni ahraqtu [The name is tentatively read from the print; ahraqtu is first-person active.]*
+*Wa-ya Ḍarmaghush bil-jinni ahraqtu [الاسم مقروء من المطبوع باحتمال، و«أحرقتُ» مبني للمعلوم للمتكلم]*
 
-*Bi-dhamirin Zarafakhun bi-sirri Khulujah [Both names are tentative readings of the printed forms.]*
+*Bi-dhamirin Zarafakhun bi-sirri Khulujah [الاسمان قراءتان محتملتان للصيغتين المطبوعتين]*
 
-*Wa-ya Mankhalukh Mankhalukh tasabat [Names and final verb follow the visible consonants; no silent normalization.]*
+*Wa-ya Mankhalukh Mankhalukh tasabat [الأسماء والفعل الأخير تتبع الحروف الظاهرة، بلا تسوية صامتة]*
 
-*Wa-ya Ṭanṭalukh Maṭlukh bi-sirrihi [The two names are read tentatively from print.]*
+*Wa-ya Ṭanṭalukh Maṭlukh bi-sirrihi [الاسمان مقروءان من المطبوع باحتمال]*
 
-*Wa-ya Mandarish an-nufusu qad sallat [Mandarish is a proper name; the final phrase follows the printed letters.]*
+*Wa-ya Mandarish an-nufusu qad sallat [«مندرش» اسم علم، والعبارة الأخيرة تابعة لحروف المطبوع]*
 
-*Wa-ya Sifsanil bi-'izzati Hindaras [Both names are approximate readings of the printed forms.]*
+*Wa-ya Sifsanil bi-'izzati Hindaras [الاسمان قراءتان تقريبيتان للصيغتين المطبوعتين]*
 
 *Tawakkal bi-harqi al-maridina wa-man 'asat*
 
@@ -142,15 +142,15 @@ Serahkanlah pembakaran para pemberontak dan siapa pun yang durhaka. [«توكل�
 
 **[Transliterasi Latin Fonetik]**
 
-*Bi-qahrika ya naru fantahir sanaya [the final printed word appears to be sanaya; its vowel pattern is tentative.]*
+*Bi-qahrika ya naru fantahir sanaya [الكلمة المطبوعة الأخيرة تبدو «سنيا»، وضبط حركاتها محتمل]*
 
-*Bismika ya Jabbaru fal-jinna ahriq [ahriq is read as an imperative in this supplication; the print has no vowel marks.]*
+*Bismika ya Jabbaru fal-jinna ahriq [«أحرق» يُقرأ فعل أمر في هذا الدعاء، والمطبوع بلا حركات]*
 
 *Bi-batshika ya dha al-batshi fabtish biman 'asa*
 
-*Ijabata asma'in 'izhamin tanaṭṭaqat [tanaṭṭaqat follows the printed consonants; emphatic ṭā' is doubled.]*
+*Ijabata asma'in 'izhamin tanaṭṭaqat [«تنطّقت» تتبع حروف المطبوع، والطاء المهملة مشددة]*
 
-*Ya rabbi ma la yutaqu intiqami [the print reads ma; it is not silently changed to man.]*
+*Ya rabbi ma la yutaqu intiqami [المطبوع «ما»، ولم يُغيَّر صامتًا إلى «من»]*
 
 *Sa'altuka ihraqa al-'usati idha 'asat*
 

@@ -179,7 +179,7 @@ Status: ⚠️ pelafalan tentatif; kitab tidak memberi makna. Nama berakhiran `-
 
 Judul cetak: **«وَهَذَا هُوَ الجَلْبُ السُّرْيَانِيُّ»** (“Inilah al-Jalb as-Suryani”), dibaca setelah “penyucian diri (tanzih) ruhani yang pertama”. Teks Arab rantai ini ada di BATCH_04.md:142; rantai Latin menurut repo (BATCH_04.md:152):
 
-> *Taquulu ba'dat-tanziihil-awwalir-ruuhaaniyy: Araa araa kafiitaa kafiitaa syalsyiisy syalsyiisy malsyiisy malsyiisy ahiliil ahiliil haibuul haibuul maltiin maltiin kalkiyaam kalkiyaam ahiil ahiil kalkatsum kalkatsum ariiri ariiri ajbini ajbini akyaahuum akyaa-huum kalkiaa-iil kalkiaa-iil bidamlaakh baraakh baraakh haithaa-iil haithaa-iil arbaab biyaarab bahaitanaakh haitanaakh multiyaahuukh multiyaahuukh baaqithah 'aithalah ajriyaa-iil thailahuub thailahuub thaithuub thail'uub haibaa-uuth [phonetic reading is tentative; printed consonants are retained]* …
+> *Taquulu ba'dat-tanziihil-awwalir-ruuhaaniyy: Araa araa kafiitaa kafiitaa syalsyiisy syalsyiisy malsyiisy malsyiisy ahiliil ahiliil haibuul haibuul maltiin maltiin kalkiyaam kalkiyaam ahiil ahiil kalkatsum kalkatsum ariiri ariiri ajbini ajbini akyaahuum akyaa-huum kalkiaa-iil kalkiaa-iil bidamlaakh baraakh baraakh haithaa-iil haithaa-iil arbaab biyaarab bahaitanaakh haitanaakh multiyaahuukh multiyaahuukh baaqithah 'aithalah ajriyaa-iil thailahuub thailahuub thaithuub thail'uub haibaa-uuth [القراءة محتملة، والحروف محفوظة على رسم المطبوع - qiraatuhu muhtamalah]* …
 
 Status: ⚠️ “pelafalan nama atau istilah belum pasti; bentuk cetak dipertahankan”. Kitab tidak memberi makna satu pun.
 

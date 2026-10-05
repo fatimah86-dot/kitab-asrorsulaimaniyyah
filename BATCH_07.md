@@ -151,7 +151,7 @@ Nama keenam: Bizjil, setimbangan «kaukab»; ia mempunyai huruf waw dan, dari ma
 
 *Al-Ismur-raabi'u 'asyar: Numuusyalakhu biwazni banuu qamar, lahuu minal-huruufi harfun-nuuni wa minal-manaazilis-simaaku wa ma'naahu bil-lughatil-'arabiyyati (Yaa Allaahu yaa Huu) wa fii nuskhatin (Al-Wakiil).*
 
-*Al-Ismul-khaamisu 'asyar: Birhyuulaa biwazni an tazuulaa, lahuu minal-huruufi harfus-siini wa minal-manaazilil-ghafru wa ma'naahu bil-'arabiyyati (Yaa Kaafi) wa fii nuskhatin (Yaa Kaafi) [unusual printed sequence retained without emendation] wa qiila (Yaa Samii').*
+*Al-Ismul-khaamisu 'asyar: Birhyuulaa biwazni an tazuulaa, lahuu minal-huruufi harfus-siini wa minal-manaazilil-ghafru wa ma'naahu bil-'arabiyyati (Yaa Kaafi) wa fii nuskhatin (Yaa Kaafi) [ترتيب مطبوع غير مألوف، محفوظ بلا تصحيح] wa qiila (Yaa Samii').*
 
 *Al-Ismus-saadisu 'asyar: Basykiilakhu biwazni maf'iil, lahuu minal-huruufi harful-'aini wa minal-manaaziliz-zabaanaa, wa ma'naahu bil-lughatil-'arabiyyati (Yaa Mu'min) wa qiila (Yaa Lathiif).*
 

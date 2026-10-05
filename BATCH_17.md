@@ -167,7 +167,7 @@ dengan hardikan dan pembakaran; telah kuutus mereka kepada golongan jin.
 
 *Wa-arsil lil-arhata taw'an bi-dhillatin*
 
-*Kadha kullu zhabyin wa-ghulin tafawwalat [the printed verb is read tentatively; its contextual meaning is unclear].*
+*Kadha kullu zhabyin wa-ghulin tafawwalat [الفعل المطبوع مقروء باحتمال، ومعناه السياقي غير واضح].*
 
 *Wa-wakkil bihifzhi ya Hafiz mulukaha*
 

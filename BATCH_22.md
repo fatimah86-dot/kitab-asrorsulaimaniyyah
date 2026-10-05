@@ -51,37 +51,37 @@
 
 **[Transliterasi Latin Fonetik]**
 
-*Liyashishu bil-ismi sa'di aqbalat [the name “Liyashishu” is tentative; printed consonants are retained]*
+*Liyashishu bil-ismi sa'di aqbalat [اسم «ليشيشو» محتمل، والحروف محفوظة على رسم المطبوع]*
 
-*Bi-rawa [following word unclear] bi-zahrihi bisirrihi [the printed fragments are retained; the connector is illegible]*
+*Bi-rawa [الكلمة التالية غير واضحة] bi-zahrihi bisirrihi [الشظايا المطبوعة محفوظة، والرابط غير مقروء]*
 
-*Bi-ma'in kathirin [short middle word unclear] 'izzatun 'alat [the visible wording is retained; the middle reading is uncertain]*
+*Bi-ma'in kathirin [كلمة وسطى قصيرة غير واضحة] 'izzatun 'alat [اللفظ الظاهر محفوظ، والقراءة الوسطى غير محققة]*
 
-*[opening word unreadable] 'azhimun mu'azzamun [the two visible epithets are retained; the line opening is obscured]*
+*[أول الكلمة غير مقروء] 'azhimun mu'azzamun [النعتان الظاهران محفوظان، وأول السطر مطموس]*
 
-*Ilahi bi-Thuran bil-ismi sa'di qad nabat [“Thuran” and the final phrase are tentative readings of the print]*
+*Ilahi bi-Thuran bil-ismi sa'di qad nabat [«ثوران» والعبارة الأخيرة قراءتان محتملتان للمطبوع]*
 
-*Sa'altuka ya Allah sirran [short ending unclear] [the visible phrase is retained; final reading remains uncertain]*
+*Sa'altuka ya Allah sirran [آخر قصير غير واضح] [العبارة الظاهرة محفوظة، والقراءة الأخيرة غير محققة]*
 
-*Wa-ya [vocative name unreadable] bil-ismi 'awni taskharat [the visible phrase is retained; the opening name is obscured]*
+*Wa-ya [اسم النداء غير مقروء] bil-ismi 'awni taskharat [العبارة الظاهرة محفوظة، واسم الافتتاح مطموس]*
 
-*Wa-ya [vocative name faint] 'azmi qawiyyun [short ending unclear] [“azmi qawiyyun” is visible; the surrounding words are uncertain]*
+*Wa-ya [اسم النداء باهت] 'azmi qawiyyun [آخر قصير غير واضح] [يظهر «عزم قوي»، والكلمات المحيطة غير محققة]*
 
-*Wa-ya [vocative name unreadable] [following word obscured] qadarat [the printed ending resembles “qadarat”; reading is tentative]*
+*Wa-ya [اسم النداء غير مقروء] [الكلمة التالية مطموسة] qadarat [الآخر المطبوع يشبه «قدرت»، والقراءة محتملة]*
 
-*Bi-'izzatin [short middle word unclear] lahu al-majdu was-sana [the final phrase is visible; the middle word is obscured]*
+*Bi-'izzatin [كلمة وسطى قصيرة غير واضحة] lahu al-majdu was-sana [العبارة الأخيرة ظاهرة، والكلمة الوسطى مطموسة]*
 
-*Wa-ya [vocative name unreadable] al-jinna idza 'asat [the latter phrase is retained; opening name is obscured]*
+*Wa-ya [اسم النداء غير مقروء] al-jinna idza 'asat [العبارة الأخيرة محفوظة، واسم الافتتاح مطموس]*
 
-*Bi-satwatin [name-like word unclear] qawiyyun [short ending obscured] [the visible words are retained; the name fragments are uncertain]*
+*Bi-satwatin [كلمة شبيهة باسم غير واضحة] qawiyyun [آخر قصير مطموس] [الكلمات الظاهرة محفوظة، وشظايا الاسم غير محققة]*
 
 *Lahu al-mulku wal-amlaku jam'an tawada'at*
 
-*Wa-ya [vocative name unclear] ya ilahi bijahihi [the visible invocation is retained; the opening name is unreadable]*
+*Wa-ya [اسم النداء غير واضح] ya ilahi bijahihi [الدعاء الظاهر محفوظ، واسم الافتتاح غير مقروء]*
 
-*Bi-'izzin [short word unclear] bin-nafkhi as-sa'du aqbalat [the final words are tentative readings of the print]*
+*Bi-'izzin [كلمة قصيرة غير واضحة] bin-nafkhi as-sa'du aqbalat [الكلمات الأخيرة قراءات محتملة للمطبوع]*
 
-*Bi-ismi Jalilin bi-zahwin la qahira [the printed wording is retained; the syntax is unusual]*
+*Bi-ismi Jalilin bi-zahwin la qahira [اللفظ المطبوع محفوظ، والإعراب غير مألوف]*
 
 **[Terjemahan Indonesia]**
 
@@ -173,13 +173,13 @@ Dengan nama Yang Agung, dengan kebesaran; tiada penakluk. [Susunan pada cetakan 
 
 **[Transliterasi Latin Fonetik]**
 
-*[opening word unreadable] narul-jinni tamarradat [the visible phrase is retained; the line opening is obscured]*
+*[أول الكلمة غير مقروء] narul-jinni tamarradat [العبارة الظاهرة محفوظة، وأول السطر مطموس]*
 
-*Wa-ya [vocative name unreadable] asri' binajhi maqasidi [the printed phrase is retained despite unusual wording]*
+*Wa-ya [اسم النداء غير مقروء] asri' binajhi maqasidi [العبارة المطبوعة محفوظة مع غرابة اللفظ]*
 
-*[opening word unclear] fal-muluku tasara'at [the visible phrase is retained; opening reading is uncertain]*
+*[أول الكلمة غير واضح] fal-muluku tasara'at [العبارة الظاهرة محفوظة، وقراءة الافتتاح غير محققة]*
 
-*[opening word unreadable] ya ilahi wal-maliki [the visible invocation is retained; opening is obscured]*
+*[أول الكلمة غير مقروء] ya ilahi wal-maliki [الدعاء الظاهر محفوظ، والافتتاح مطموس]*
 
 **[Terjemahan Indonesia]**
 

@@ -36,23 +36,23 @@
 
 **[Transliterasi Latin Fonetik]**
 
-*Bi-tuhfati Marza'il fa-al-jinnu inbaharat [Marza'il is a proper name; its vowels are editorial.]*
+*Bi-tuhfati Marza'il fa-al-jinnu inbaharat [«مرزائيل» اسم علم، وحركاته اجتهادية]*
 
-*Bi-Tawrati Musa bil-Injili [a short printed fragment after al-Injil is unclear] katabat [katabat is a tentative reading of the final verb.]*
+*Bi-Tawrati Musa bil-Injili [شظية مطبوعة قصيرة بعد «الإنجيل» غير واضحة] katabat [«كتبت» قراءة محتملة للفعل الأخير]*
 
 *Bi-Injili 'Isa biz-Zaburi wa-ma hawat*
 
 *Sa'altuka bil-ismi al-mu'azzami qadruhu*
 
-*Bi-taji Amuj jalla [printed fragment unreadable] Jalilat [Amuj and Jalilat are tentative readings of proper names.]*
+*Bi-taji Amuj jalla [شظية مطبوعة غير مقروءة] Jalilat [«أموج» و«جليلات» قراءتان محتملتان لاسمين علمين]*
 
-*Bi-hubbi wa-Qayyumin Halimin wa-'Alimin [the sequence follows the visible letters; its syntax is not forced.]*
+*Bi-hubbi wa-Qayyumin Halimin wa-'Alimin [التسلسل تابع للحروف الظاهرة، وإعرابه غير متكلف]*
 
 *Bi-siyadatin fal-muluku tawada'at*
 
-*Bi-alin wa-bi-alin jalabtu maqsidi [the two forms after al are uncertain proper-name readings.]*
+*Bi-alin wa-bi-alin jalabtu maqsidi [الصيغتان بعد «ال» قراءتان غير محققتين لاسم علم]*
 
-*Ya [the words after the vocative are obscured] tanazarat [the final verb is a tentative reading.]*
+*Ya [الكلمات بعد النداء مطموسة] tanazarat [الفعل الأخير قراءة محتملة]*
 
 **[Terjemahan Indonesia]**
 
@@ -130,25 +130,25 @@ Wahai [lafaz seruan tidak terbaca jelas], mereka saling berhadapan/berpandangan.
 
 **[Transliterasi Latin Fonetik]**
 
-*Anwakh anwakh ya ilahi bisirrihi [Anwakh is a tentative reading of the printed proper name.]*
+*Anwakh anwakh ya ilahi bisirrihi [«أنوخ» قراءة محتملة للاسم العلم المطبوع]*
 
 *'Azhimun lahu al-amlaku haqqan tasara'at*
 
-*Badansuh [proper name, approximate] fa-[two printed fragments after fa are unclear] ba'daha*
+*Badansuh [اسم علم، تقريبي] fa-[شظيتان مطبوعتان بعد الفاء غير واضحتين] ba'daha*
 
-*Wa-tadliju [following word unreadable] biha as-sa'du aqbalat [the line ending is unclear.]*
+*Wa-tadliju [الكلمة التالية غير مقروءة] biha as-sa'du aqbalat [آخر السطر غير واضح]*
 
-*Bi-nak [short name unclear] bi-kanfal bisirri hurufiha [the line continuation is obscured.]*
+*Bi-nak [اسم قصير غير واضح] bi-kanfal bisirri hurufiha [تتمة السطر مطموسة]*
 
-*Bi-aflali [following name/word unreadable] li bihi an-nuru ashraqat [ending unclear.]*
+*Bi-aflali [الاسم/الكلمة التالية غير مقروءة] li bihi an-nuru ashraqat [آخر الكلمة غير واضح]*
 
 *Nakun ya ilahi kashifa adh-dhurri wal-bala'*
 
-*Bi-hammi [two fragments unclear] bi-qalbin biha [continuation unreadable]*
+*Bi-hammi [شظيتان غير واضحتين] bi-qalbin biha [التتمة غير مقروءة]*
 
 *Wa-ahyi ilahi al-qalba min ba'di mawtihi*
 
-*Bi-dhikrika ya Qayyumu haqqan tanaffasat [tanaffasat is a tentative reading of the visible ending.]*
+*Bi-dhikrika ya Qayyumu haqqan tanaffasat [«تنفست» قراءة محتملة للآخر الظاهر]*
 
 *Ajid ya ilahi fihi 'ilman wa-hikmatan*
 

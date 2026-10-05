@@ -44,25 +44,25 @@
 
 **[Transliterasi Latin Fonetik]**
 
-*Wa-damukhu [following word resembles “yanshukh”] biha al-kawnu [ending resembles “'athurat”]*
+*Wa-damukhu [الكلمة التالية تشبه «ينشخ»] biha al-kawnu [الآخر يشبه «عثرت»]*
 
 *Balikhu shalayu wa-qanulukhu ba'daha*
 
 *Wa-ramukhu anmukhu biha az-zulmatu injalat*
 
-*'Ala ma [short phrase after ma unclear] [remainder faint]*
+*'Ala ma [عبارة قصيرة بعد «ما» غير واضحة] [البقية باهتة]*
 
-*Bi-haqqi [unclear name/word] [the line ending resembles “zahamat”]*
+*Bi-haqqi [اسم/كلمة غير واضحة] [آخر السطر يشبه «زحمت»]*
 
-*Kama [unclear word] bi-babin [unclear fragment] jami'uha*
+*Kama [كلمة غير واضحة] bi-babin [شظية غير واضحة] jami'uha*
 
-*Bi-shakhkhin mashakhkhin [following word resembles “kawn”] [ending unclear]*
+*Bi-shakhkhin mashakhkhin [الكلمة التالية تشبه «كون»] [آخر الكلمة غير واضح]*
 
-*Bi-ali [two names appear as “ahil” and “shala'] [faint continuation]*
+*Bi-ali [يظهر الاسمان «أهل» و«شلع»] [تتمة باهتة]*
 
-*Tahṭi tahṭubu tafaṭubu [final word resembles “tasamat”]*
+*Tahṭi tahṭubu tafaṭubu [الكلمة الأخيرة تشبه «تسمت»]*
 
-*Hurufun [following fragment resembles “labahram”] [connected, unclear ending]*
+*Hurufun [الشظية التالية تشبه «لبهرم»] [آخر متصل غير واضح]*
 
 *Wa-asma'u 'asa Musa biha az-zulmatu injalat*
 
@@ -156,15 +156,15 @@ Aku memohon kepada Yang Maha Mulia; dengannya manusia mendapat petunjuk.
 
 *Naqdun kawkabiyyun bi-l-ismi nuran bahjatan*
 
-*Sada ad-dahri wa-al-ayyam ya nuru [ending resembles “jallalat”]*
+*Sada ad-dahri wa-al-ayyam ya nuru [الآخر يشبه «جللت»]*
 
-*Fa-ya [unclear talismanic words] ya [unclear name] anta [remainder unreadable]*
+*Fa-ya [كلمات طلسمية غير واضحة] ya [اسم غير واضح] anta [البقية غير مقروءة]*
 
-*Wa-ya [talismanic name] ghawtha ar-riyahi [unclear connected ending]*
+*Wa-ya [اسم طلسمي] ghawtha ar-riyahi [آخر متصل غير واضح]*
 
-*Bana [short word unclear] adrinani 'arana*
+*Bana [كلمة قصيرة غير واضحة] adrinani 'arana*
 
-*Bi-ali [unclear name/fragment] bi-s-sibali [following word unreadable] nasarat*
+*Bi-ali [اسم/شظية غير واضحة] bi-s-sibali [الكلمة التالية غير مقروءة] nasarat*
 
 *Fa-ya Hayyu ya Qayyumu asri' bi-hajati*
 

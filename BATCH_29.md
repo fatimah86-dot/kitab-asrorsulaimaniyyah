@@ -50,37 +50,37 @@
 
 **[Transliterasi Latin Fonetik]**
 
-*Wa-hul 'uquda as-sihri ya [vocative name unclear; final letters resemble “arnakht”]*
+*Wa-hul 'uquda as-sihri ya [اسم النداء غير واضح، وحروفه الأخيرة تشبه «أرنخت»]*
 
-*[a line of connected talismanic names; the letter sequence is too indistinct for a reliable phonetic rendering]*
+*[سطر من أسماء طلسمية متصلة، وتسلسل حروفه غير متمايز بما لا يسمح بنقل صوتي موثوق]*
 
 *Wa-ya man lana al-arzaqu min judihi namat*
 
 *Naruddu bika al-a'da'a min kulli jihatin*
 
-*Wa-bil-ismi narmihim minal-bu'di [the final printed word is faint; it resembles “bishatat”]*
+*Wa-bil-ismi narmihim minal-bu'di [الكلمة المطبوعة الأخيرة باهتة وتشبه «بشطط»]*
 
 *Fa-anta raja'i ya ilahi wa-sayyidi*
 
-*Nufarriqu [unclear name-like sequence] [the ending resembles “admarat”]*
+*Nufarriqu [تسلسل شبيه باسم غير واضح] [الآخر يشبه «أضمرت»]*
 
-*[unreadable talismanic name] ya ilahi [remainder obscured]*
+*[اسم طلسمي غير مقروء] ya ilahi [البقية مطموسة]*
 
-*Bi-ismi [word resembles “'azhim”] [following name unclear] [ending unreadable]*
+*Bi-ismi [الكلمة تشبه «عظيم»] [الاسم التالي غير واضح] [آخر الكلمة غير مقروء]*
 
 *Fa-ya khayra mas'ulin wa-akrama man da'a*
 
-*Wa-ya khayra ma'mulin bihi al-khayru [the final verb is tentative]*
+*Wa-ya khayra ma'mulin bihi al-khayru [الفعل الأخير محتمل]*
 
-*[connected talismanic names; middle letters cannot be read confidently]*
+*[أسماء طلسمية متصلة، وحروفها الوسطى لا تُقرأ بثقة]*
 
-*[unclear name-like fragment] [short continuation faint]*
+*[شظية شبيهة باسم غير واضحة] [تتمة قصيرة باهتة]*
 
-*Siraju [following word unclear] [line ending unreadable]*
+*Siraju [الكلمة التالية غير واضحة] [آخر السطر غير مقروء]*
 
-*Bi-qadadi [following name-like fragment unclear] [remainder obscured]*
+*Bi-qadadi [الشظية التالية الشبيهة باسم غير واضحة] [البقية مطموسة]*
 
-*[line of talismanic names; the ending only tentatively resembles “ash-shadhikh” and “banukh”]*
+*[سطر من أسماء طلسمية، وآخره يشبه باحتمال «الشذيخ» و«بنوخ»]*
 
 **[Terjemahan Indonesia]**
 
@@ -174,9 +174,9 @@ Baris penutup memuat nama-nama talismanik; beberapa huruf menyerupai «al-shadhi
 
 *Bi-shankhin shumukhin shayikhin qad tashakhkhasat*
 
-*Abariju banukhin [following name resembles “wayishrah”] [ending tentatively “barakhu”]*
+*Abariju banukhin [الاسم التالي يشبه «ويشره»] [الآخر باحتمال «برخ»]*
 
-*Shamarikhu bisharahi shuruhin [the final verb resembles “tashalakhat”; tentative]*
+*Shamarikhu bisharahi shuruhin [الفعل الأخير يشبه «تشلخت» باحتمال]*
 
 *Banjalikhu shanana wa-banukhu ba'daha*
 
