@@ -7366,7 +7366,7 @@ Dengan nama Yang Agung, dengan kebesaran; tiada penakluk. [Susunan pada cetakan 
 
 [صدر السطر مطموس] نَارُ الْجِنِّ تَمَرَّدَتْ [«نار الجن تمردت» أقرب قراءة للرسم؛ يبقى أول السطر غير محسوم]
 
-وَيَا [اسم النداء غير مقروء] أَسْرِعْ بِنَجْحِ مَقَاصِدِي [«بنجح مقاصدي» محفوظة حسب الطباعة رغم غرابة اللفظ]
+وَيَا قرمز أَسْرِعْ بِنَجْحِ مَقَاصِدِي [«بنجح مقاصدي» محفوظة حسب الطباعة رغم غرابة اللفظ]
 
 [صدر السطر باهت] فَالْمُلُوكُ تَسَارَعَتْ [«فالملوك تسارعت» ظاهرة؛ يُترك صدر السطر دون تخمين]
 
@@ -7378,7 +7378,7 @@ Dengan nama Yang Agung, dengan kebesaran; tiada penakluk. [Susunan pada cetakan 
 
 *[أول الكلمة غير مقروء] narul-jinni tamarradat [العبارة الظاهرة محفوظة، وأول السطر مطموس]*
 
-*Wa-ya [اسم النداء غير مقروء] asri' binajhi maqasidi [العبارة المطبوعة محفوظة مع غرابة اللفظ]*
+*Wa-ya قرمز asri' binajhi maqasidi [tercetak: «قرمز» - nama non-Arab, belum pasti pelafalannya - lihat catatan (605)] [العبارة المطبوعة محفوظة مع غرابة اللفظ]*
 
 *[أول الكلمة غير واضح] fal-muluku tasara'at [العبارة الظاهرة محفوظة، وقراءة الافتتاح غير محققة]*
 
@@ -7388,7 +7388,7 @@ Dengan nama Yang Agung, dengan kebesaran; tiada penakluk. [Susunan pada cetakan 
 
 Lafaz awal tidak terbaca pasti; bagian akhir menyebut api/jin yang memberontak.
 
-Wahai [lafaz tidak jelas], percepatlah keberhasilan tujuan-tujuanku. [Bacaan «بنجح» dipertahankan meski tidak lazim.]
+Wahai «قرمز», percepatlah keberhasilan tujuan-tujuanku. [Nama non-Arab; pelafalannya belum pasti (lihat catatan 605). Bacaan «بنجح» dipertahankan meski tidak lazim.]
 
 [Lafaz awal tidak jelas]; para raja pun bersegera.
 
