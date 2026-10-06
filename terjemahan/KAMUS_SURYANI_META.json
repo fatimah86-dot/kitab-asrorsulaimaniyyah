@@ -1,0 +1,653 @@
+{
+  "_judul": "KAMUS SURYANI META — acuan Ism Suryani Batch 41++",
+  "_berkas": "terjemahan/KAMUS_SURYANI_META.json",
+  "_dibangun": "2026-10-06",
+  "_format_kolom": {
+    "no": "nomor urut entri (mengikuti KAMUS_SURYANI_HAROKAT_LATIN.json)",
+    "arab_asli": "Arab (Asli) — bentuk gundul/cetak",
+    "arab_berharokat": "Arab Berharokat (Sesuai Latin) — harokat hasil penyunting AI, mengikuti bacaan Latin",
+    "latin_bacaan": "Latin (Bacaan) — transliterasi washal; 'baca cepat' dicantumkan bila ada",
+    "makna": "Makna / Terjemahan Indonesia menurut repo",
+    "keterangan": "Keterangan — headword, kelompok, akar, status, rujukan baris repo, catatan, varian cetak"
+  },
+  "_sumber": "Disusun ulang dari KAMUS_SURYANI_HAROKAT_LATIN.json (main 771bc3d, 78 entri, sudah termasuk koreksi_2026_10_05 kolom Latin no. 19–31). BUKAN salinan kamus 799 baris milik pengguna.",
+  "_catatan_status": [
+    "PERINGATAN: berkas ini berisi 78 entri terverifikasi, BUKAN 799 baris. Berkas KAMUS_SURYANI_META.json 799 baris milik pengguna TIDAK tersedia di lingkungan Arena (/mnt/data kosong) dan tidak ada di seluruh ref remote (main, PR 1–20, cabang arena). Perintah cp /mnt/data/KAMUS_SURYANI_META.json karena itu gagal.",
+    "Kaidah sama dengan KAMUS_SURYANI_ASROR_35_BATCH.md: hanya entri yang punya rujukan baris di repo; tidak ada entri karangan; arti yang tidak dinyatakan repo tidak diklaim.",
+    "Empat contoh Ism Suryani di PANDUAN_SURYANI_META.md aturan no. 1 (هَيّا/HAYYA, الْوْحًا/ALUHAAN, حَاجَ طَخُوْجَ/HAAJA THOKHUUJA, هَيَالٍ/HAYALIN) TIDAK ADA di berkas ini. Kalau ketemu di batch: jangan tebak, dan jangan pakai berkas ini sebagai dasar menebak — tandai perlu kamus 799 baris.",
+    "Cara mengganti: lampirkan (attach) berkas KAMUS_SURYANI_META.json 799 baris di chat; berkas akan disalin ke path ini menggantikan subset 78 entri. Sampai itu terjadi, angka '799' di PANDUAN_SURYANI_META.md tidak berlaku untuk berkas ini.",
+    "Bentuk cetak Arab dipertahankan apa adanya (termasuk harokat hasil AI dan salah cetak); koreksi hanya dicatat, tidak diubah diam-diam."
+  ],
+  "_jumlah_entri": {
+    "inti_akar_ibrani": 16,
+    "leksikon_suryani": 57,
+    "rantai_tanpa_makna": 5,
+    "total": 78
+  },
+  "entri": [
+    {
+      "no": 1,
+      "arab_asli": "أدوناي",
+      "arab_berharokat": "أَدُونَيَّا",
+      "latin_bacaan": "Adunayya / Adunai / Ali Syadayya (dalam: Yaa Hiyan Syaraa Hiyan Adunayya Ashba-uuti Ali Syadayya) · baca cepat: Yahin Yahin",
+      "makna": "Tuhan (Ibrani Adonai). Dalam «أدوناي أصباؤوت إل شداي» = Adonai Tseva'ot El Shaddai: “Tuhan semesta kuasa, Allah Yang Mahakuasa”.",
+      "keterangan": "Headword: Adunayya · Adonai · Kelompok: inti_akar_ibrani · Akar Ibrani/Aram: Adonay · Status: ✅ dinyatakan di repo · Rujukan: BATCH_02.md:102,108,116 · BATCH_05.md:262,272,280 · Catatan: Dua ejaan cetak tercatat. Repo menyatakan padanan Ibraninya, tetapi tidak menurunkan akar hurufnya. Bacaan halaman PDF 7 = cetak 6 dibakukan pada PR #3. · Varian cetak: أَدُونَيَّا (BATCH_02.md:102, harakat hasil AI) ; أدوناي (BATCH_02.md:116) ; Adunaay / Adunai (BATCH_05.md:262,272 — varian Latin cetak, dipertahankan)"
+    },
+    {
+      "no": 2,
+      "arab_asli": "أصباؤوت",
+      "arab_berharokat": "أَصْبَاؤُوتِي",
+      "latin_bacaan": "Ashba-uuti Ali Syadayya / Ashbaa'uta Aala Syaddaay / arkaadh ashbaawta aal syaddaay",
+      "makna": "Semesta kuasa (Ibrani Tseva'ot); unsur kedua rumus Adonai Tseva'ot El Shaddai.",
+      "keterangan": "Headword: Ashba-uuti · Tseva'ot · Kelompok: inti_akar_ibrani · Akar Ibrani/Aram: Tseva'ot · Status: ✅ dinyatakan di repo · Rujukan: BATCH_02.md:102,116 · BATCH_04.md:242 · BATCH_05.md:128,272 · Catatan: Tiga ejaan cetak Arab tercatat di repo; arti “semesta kuasa” dinyatakan. · Varian cetak: أَصْبَاؤُوتِي (BATCH_02.md:102) ; أَصْبَاؤُوت (BATCH_06.md:248) ; صَبَاوُوتَ (BATCH_04.md:242) ; Asybaa'uta Aala Syaddaay (BATCH_05.md:272)"
+    },
+    {
+      "no": 3,
+      "arab_asli": "إل",
+      "arab_berharokat": "إِلْ",
+      "latin_bacaan": "El (El Shaddai · El Metatron)",
+      "makna": "Unsur nama ilahi; «إِلْ شَدَّاي» = El Shaddai “Allah Yang Mahakuasa”; «إله ميططرون» = El Metatron.",
+      "keterangan": "Headword: El · Kelompok: inti_akar_ibrani · Akar Ibrani/Aram: El · Status: ✅ dinyatakan di repo · Rujukan: BATCH_04.md:242 · BATCH_06.md:248 · Catatan: Muncul sebagai unsur pertama El Shaddai dan pada El Metatron."
+    },
+    {
+      "no": 4,
+      "arab_asli": "شداي",
+      "arab_berharokat": "شَدَّاي",
+      "latin_bacaan": "Ali Syadayya / Aal Syaddaay / Al Syaddai",
+      "makna": "Allah Yang Mahakuasa (Ibrani Shaddai).",
+      "keterangan": "Headword: Syadayya · Shaddai · Kelompok: inti_akar_ibrani · Akar Ibrani/Aram: Shaddai · Status: ✅ dinyatakan di repo · Rujukan: BATCH_02.md:102,116 · BATCH_04.md:242 · BATCH_05.md:128,272,280 · Catatan: Bentuk cetak bervariasi antara شَدَّاي dan شَدَايَّا. · Varian cetak: إِلْ شَدَّاي (BATCH_04.md:242) ; شَدَايَّا (BATCH_02.md:102) ; Syaddaay / Al Syaddai (BATCH_05.md:272,280) ; أَرْكَاضِ أَصْبَاوْتَ آلَ شَدَّاي (BATCH_05.md:128)"
+    },
+    {
+      "no": 5,
+      "arab_asli": "آهيا",
+      "arab_berharokat": "أَهْيَا",
+      "latin_bacaan": "Ah-yaa Saraah-yaa / Aahya Syaahya",
+      "makna": "Unsur rumus «آهيا شراهيا أدوناي أصباؤت» = Ehyeh Syerehyah Adonai Tseva'ot (nama diri ilahi; makna harfiah tidak dinyatakan repo).",
+      "keterangan": "Headword: Ahya · Ehyeh · Kelompok: inti_akar_ibrani · Akar Ibrani/Aram: Ehyeh · Status: ✅ dinyatakan di repo · Rujukan: BATCH_02.md:108 · BATCH_04.md:206,212 · BATCH_06.md:248 · Catatan: Hanya padanan Latin/Ibrani yang dinyatakan; arti harfiah tidak diklaim. · Varian cetak: أَهْيَا شَرَاهْيَا (BATCH_04.md:206) ; آهيا (BATCH_06.md:248) ; Aahya Syaahya (BATCH_02.md:108)"
+    },
+    {
+      "no": 6,
+      "arab_asli": "شراهيا",
+      "arab_berharokat": "شَرَاهْيَا",
+      "latin_bacaan": "Saraah-yaa / Syaahya (dalam rumus Ehyeh Syerehyah Adonai Tseva'ot)",
+      "makna": "Menyertai Ehyeh dalam rumus «آهيا شراهيا أدوناي أصباؤت»; makna harfiah tidak dinyatakan repo.",
+      "keterangan": "Headword: Saraah-yaa · Syerehyah · Kelompok: inti_akar_ibrani · Akar Ibrani/Aram: Syerehyah · Status: ✅ dinyatakan di repo · Rujukan: BATCH_04.md:206,212 · BATCH_06.md:248 · Catatan: Tercatat sebagai pasangan tetap Ehyeh dalam rumus."
+    },
+    {
+      "no": 7,
+      "arab_asli": "ميططرون",
+      "arab_berharokat": "مَيْطَطْرُون",
+      "latin_bacaan": "Maithathruunu / Mithathrun / Maithathruun · baca cepat: Maithathruun",
+      "makna": "Metatron — nama panggilan dalam doa; kitab hanya menyebut “lih. catatan hal. 5”, tanpa makna harfiah.",
+      "keterangan": "Headword: Mithathrun · Metatron · Kelompok: inti_akar_ibrani · Akar Ibrani/Aram: Metatron · Status: ✅ dinyatakan di repo (padanan) — makna ❔ · Rujukan: BATCH_02.md:116,134,138 · BATCH_06.md:248 · Catatan: Disebut juga «إله ميططرون» = El Metatron. · Varian cetak: ميططرون (BATCH_06.md:248) ; مَيْطَطْرُونْ / مَيْطَطْرُونُ (BATCH_02.md:134,138) ; Maithathruunu / Mithathrun (BATCH_02.md:134,138)"
+    },
+    {
+      "no": 8,
+      "arab_asli": "ملكوتا",
+      "arab_berharokat": null,
+      "latin_bacaan": "malkutha / Malkhutsa",
+      "makna": "kerajaan (Aram/Suryani).",
+      "keterangan": "Headword: malkutha · Kelompok: inti_akar_ibrani · Status: ✅ dinyatakan di repo (makna) · Rujukan: BATCH_06.md:248 · Catatan: Makna dinyatakan langsung oleh repo; padanan huruf Aram (מַלְכוּתָא) baru usulan §1.3 kamus, belum dirujuk."
+    },
+    {
+      "no": 9,
+      "arab_asli": "مشلامون",
+      "arab_berharokat": null,
+      "latin_bacaan": "mesy-lamun / syallamun / Masy-lamun",
+      "makna": "damai.",
+      "keterangan": "Headword: mesy-lamun · syallamun · Kelompok: inti_akar_ibrani · Status: ✅ dinyatakan di repo (makna) · Rujukan: BATCH_06.md:248 · Catatan: Rumus «Syallim Namuwaah» (BATCH_02.md:108) mengingatkan syallamun, tetapi repo tidak menghubungkan keduanya (❔ butir 6 §4 kamus)."
+    },
+    {
+      "no": 10,
+      "arab_asli": "سبوح قدوس",
+      "arab_berharokat": "سُبُّوحٌ قُدُّوسٌ",
+      "latin_bacaan": "Subbuuh Qudduus (Subbuuh Subbuuh Qudduus Qudduus)",
+      "makna": "Mahasuci lagi Mahakudus — pujian liturgis Ibrani/Aram.",
+      "keterangan": "Headword: subbuh quddus · Kelompok: inti_akar_ibrani · Status: ✅ dinyatakan di repo · Rujukan: BATCH_04.md:242 · Catatan: Dinyatakan sebagai pujian liturgis, bukan nama tunggal."
+    },
+    {
+      "no": 11,
+      "arab_asli": "مصرابيم",
+      "arab_berharokat": "مِصْرَابِيمَ",
+      "latin_bacaan": "mishraabiim",
+      "makna": "“Mengingatkan pada ma'arabim/baratan” (barat) — dugaan, bukan penetapan.",
+      "keterangan": "Headword: mishraabim · mishrabim · Kelompok: inti_akar_ibrani · Status: ⚠️ dugaan/tentatif · Rujukan: BATCH_04.md:242 · Catatan: Repo memakai kata “mengingatkan pada”, jadi padanan barat tidak diklaim pasti."
+    },
+    {
+      "no": 12,
+      "arab_asli": "عليون",
+      "arab_berharokat": null,
+      "latin_bacaan": "'Aliyun (Elyon? 'Illiyyun?)",
+      "makna": "Bisa menyerupai Elyon (Ibrani: “Yang Mahatinggi”) atau 'Illiyyun (QS. al-Muthaffifin: 18–19); tidak dapat dipastikan.",
+      "keterangan": "Headword: 'Aliyun · Elyon / 'Illiyyun · Kelompok: inti_akar_ibrani · Status: ⚠️ dugaan/tentatif — tidak dapat dipastikan · Rujukan: BATCH_01.md:353 (PDF 4 = cetak 3) · Catatan: Jangan dikutip seolah pasti; harakat dan bacaan berupa dugaan."
+    },
+    {
+      "no": 13,
+      "arab_asli": "دهحيثا دهليلوا",
+      "arab_berharokat": null,
+      "latin_bacaan": "deh-hitha / dehlilwa",
+      "makna": "“Mengingatkan pada” — belum pasti; kitab tidak memberi makna.",
+      "keterangan": "Headword: deh-hitha · dehlilwa · Kelompok: inti_akar_ibrani · Status: ⚠️ dugaan/tentatif · Rujukan: BATCH_06.md:248 · Catatan: Tercatat sebagai rangkaian yang mengingatkan pada bentuk Aram/Suryani."
+    },
+    {
+      "no": 14,
+      "arab_asli": "أبجد هوز حطي بكد زهج",
+      "arab_berharokat": null,
+      "latin_bacaan": "abjad alef-bet (pasangan: بدوح أجهزط)",
+      "makna": "Ejaan abjad Ibrani/Aram urutan alef-bet yang lazim dalam literatur hikmah.",
+      "keterangan": "Headword: Abjad alef-bet · Kelompok: inti_akar_ibrani · Status: ✅ dinyatakan di repo · Rujukan: BATCH_07.md:368 (PDF 35 = cetak 34) · Catatan: Bukan nama tunggal, melainkan rangkaian abjad/huruf."
+    },
+    {
+      "no": 15,
+      "arab_asli": "بخيطانا خيطانا",
+      "arab_berharokat": "بِخَيْطَانَا خَيْطَانَا",
+      "latin_bacaan": "bikhaythaanaa khaythaanaa · bisylaamiin sylaamiin · bishafiif shafiif",
+      "makna": "Pola prefiks Aram/Suryani: pasangan kata berawalan ب (b-) meniru prefiks b-; contoh terbanyak pada rantai al-Jalb as-Suryani.",
+      "keterangan": "Headword: Prefiks b- (Aram/Suryani) · Kelompok: inti_akar_ibrani · Status: ✅ dinyatakan di repo (pola) · Rujukan: BATCH_04.md:168,176,242 · Catatan: Pola ini dipakai sebagai bukti identifikasi Aram/Suryani, bukan sebagai entri leksikon."
+    },
+    {
+      "no": 16,
+      "arab_asli": "جبروت",
+      "arab_berharokat": "جَبَرُوت",
+      "latin_bacaan": "jabaruut",
+      "makna": "Dipakai kitab dalam «العَزِيزُ فِي جَبَرُوتِهِ» = “Yang Mahaperkasa dalam jabarut-Nya”.",
+      "keterangan": "Headword: jabaruut · Kelompok: inti_akar_ibrani · Status: ✅ istilah tercatat — ❔ akar Aram (g'vurta) belum dirujuk repo · Rujukan: BATCH_09.md:475 (PDF 45 = cetak 44) · Catatan: Repo tidak menyatakan asal Aram/Suryaninya; usulan pemeriksaan ada di §4 kamus."
+    },
+    {
+      "no": 17,
+      "arab_asli": "آج",
+      "arab_berharokat": "آجِ",
+      "latin_bacaan": "Aaj",
+      "makna": "Allah · Arab cetak: اللهُ",
+      "keterangan": "Headword: Leksikon Suryani #1 (BATCH_09.md:453 · PDF 44 = cetak 43) · Kelompok: leksikon_suryani · Status: ✅ dinyatakan di repo (makna) — akar Semitik ❔ · Rujukan: BATCH_09.md:453 · PDF 44 = cetak 43 · Catatan: Repo hanya memberi makna, bukan akar huruf Semitik — lihat butir 1 daftar periksa lanjutan (§4 kamus)."
+    },
+    {
+      "no": 18,
+      "arab_asli": "أوح",
+      "arab_berharokat": "أوحِ",
+      "latin_bacaan": "Auh ma'naahul-Ahad",
+      "makna": "Yang Esa · Arab cetak: الأَحَدُ",
+      "keterangan": "Headword: Leksikon Suryani #2 (BATCH_09.md:453 · PDF 44 = cetak 43) · Kelompok: leksikon_suryani · Status: ✅ dinyatakan di repo (makna) — akar Semitik ❔ · Rujukan: BATCH_09.md:453 · PDF 44 = cetak 43 · Catatan: Repo hanya memberi makna, bukan akar huruf Semitik — lihat butir 1 daftar periksa lanjutan (§4 kamus)."
+    },
+    {
+      "no": 19,
+      "arab_asli": "جل جليوث",
+      "arab_berharokat": "جَلْ جَلْيُوثُ",
+      "latin_bacaan": "Jal Jalyuuts",
+      "makna": "Yang Maha Pencipta tanpa contoh · Arab cetak: البَدِيعُ",
+      "keterangan": "Headword: Leksikon Suryani #3 (BATCH_09.md:453 · PDF 44 = cetak 43) · Kelompok: leksikon_suryani · Status: ✅ dinyatakan di repo (makna) — akar Semitik ❔ · Rujukan: BATCH_09.md:453 · PDF 44 = cetak 43 · Catatan: Repo hanya memberi makna, bukan akar huruf Semitik — lihat butir 1 daftar periksa lanjutan (§4 kamus)."
+    },
+    {
+      "no": 20,
+      "arab_asli": "جلجلث",
+      "arab_berharokat": "جَلْجَلَثُ",
+      "latin_bacaan": "Jaljalats",
+      "makna": "Yang Mahakuasa · Arab cetak: القَادِرُ",
+      "keterangan": "Headword: Leksikon Suryani #4 (BATCH_09.md:453 · PDF 44 = cetak 43) · Kelompok: leksikon_suryani · Status: ✅ dinyatakan di repo (makna) — akar Semitik ❔ · Rujukan: BATCH_09.md:453 · PDF 44 = cetak 43 · Catatan: Repo hanya memberi makna, bukan akar huruf Semitik — lihat butir 1 daftar periksa lanjutan (§4 kamus)."
+    },
+    {
+      "no": 21,
+      "arab_asli": "هي",
+      "arab_berharokat": "هَيَ",
+      "latin_bacaan": "Hay",
+      "makna": "Yang Mencukupi · Arab cetak: الكَافِي",
+      "keterangan": "Headword: Leksikon Suryani #5 (BATCH_09.md:453 · PDF 44 = cetak 43) · Kelompok: leksikon_suryani · Status: ✅ dinyatakan di repo (makna) — akar Semitik ❔ · Rujukan: BATCH_09.md:453 · PDF 44 = cetak 43 · Catatan: Repo hanya memberi makna, bukan akar huruf Semitik — lihat butir 1 daftar periksa lanjutan (§4 kamus)."
+    },
+    {
+      "no": 22,
+      "arab_asli": "هل",
+      "arab_berharokat": "هَلْ",
+      "latin_bacaan": "Hall",
+      "makna": "Yang Maha Mengasihi · Arab cetak: الوَدُودُ",
+      "keterangan": "Headword: Leksikon Suryani #6 (BATCH_09.md:453 · PDF 44 = cetak 43) · Kelompok: leksikon_suryani · Status: ✅ dinyatakan di repo (makna) — akar Semitik ❔ · Rujukan: BATCH_09.md:453 · PDF 44 = cetak 43 · Catatan: Repo hanya memberi makna, bukan akar huruf Semitik — lihat butir 1 daftar periksa lanjutan (§4 kamus)."
+    },
+    {
+      "no": 23,
+      "arab_asli": "هلهلت",
+      "arab_berharokat": "هَلْهَلْتَ",
+      "latin_bacaan": "Halhalt",
+      "makna": "Yang Melapangkan · Arab cetak: البَاسِطُ",
+      "keterangan": "Headword: Leksikon Suryani #7 (BATCH_09.md:453 · PDF 44 = cetak 43) · Kelompok: leksikon_suryani · Status: ✅ dinyatakan di repo (makna) — akar Semitik ❔ · Rujukan: BATCH_09.md:453 · PDF 44 = cetak 43 · Catatan: Repo hanya memberi makna, bukan akar huruf Semitik — lihat butir 1 daftar periksa lanjutan (§4 kamus)."
+    },
+    {
+      "no": 24,
+      "arab_asli": "طيطفت",
+      "arab_berharokat": "طَيْطَفْتَ",
+      "latin_bacaan": "Thaithaft",
+      "makna": "Yang Mahahidup · Arab cetak: الحَيُّ",
+      "keterangan": "Headword: Leksikon Suryani #8 (BATCH_09.md:453 · PDF 44 = cetak 43) · Kelompok: leksikon_suryani · Status: ✅ dinyatakan di repo (makna) — akar Semitik ❔ · Rujukan: BATCH_09.md:453 · PDF 44 = cetak 43 · Catatan: Repo hanya memberi makna, bukan akar huruf Semitik — lihat butir 1 daftar periksa lanjutan (§4 kamus)."
+    },
+    {
+      "no": 25,
+      "arab_asli": "غلمهث",
+      "arab_berharokat": "غَلْمَهَثُ",
+      "latin_bacaan": "Ghalamats",
+      "makna": "Yang Mahamenundukkan, pemilik kekerasan yang hebat · Arab cetak: القَهَّارُ ذُو البَطْشِ الشَّدِيدِ",
+      "keterangan": "Headword: Leksikon Suryani #9 (BATCH_09.md:453 · PDF 44 = cetak 43) · Kelompok: leksikon_suryani · Status: ✅ dinyatakan di repo (makna) — akar Semitik ❔ · Rujukan: BATCH_09.md:453 · PDF 44 = cetak 43 · Catatan: Repo hanya memberi makna, bukan akar huruf Semitik — lihat butir 1 daftar periksa lanjutan (§4 kamus)."
+    },
+    {
+      "no": 26,
+      "arab_asli": "شماخ",
+      "arab_berharokat": "شَمَاخُ",
+      "latin_bacaan": "Syamaakh",
+      "makna": "Yang Mahapenyantun · Arab cetak: الحَلِيمُ",
+      "keterangan": "Headword: Leksikon Suryani #10 (BATCH_09.md:453 · PDF 44 = cetak 43) · Kelompok: leksikon_suryani · Status: ✅ dinyatakan di repo (makna) — akar Semitik ❔ · Rujukan: BATCH_09.md:453 · PDF 44 = cetak 43 · Catatan: Repo hanya memberi makna, bukan akar huruf Semitik — lihat butir 1 daftar periksa lanjutan (§4 kamus)."
+    },
+    {
+      "no": 27,
+      "arab_asli": "أشمخ",
+      "arab_berharokat": "أَشْمَخُ",
+      "latin_bacaan": "Asymakh",
+      "makna": "Yang Maha Mencipta · Arab cetak: الخَالِقُ",
+      "keterangan": "Headword: Leksikon Suryani #11 (BATCH_09.md:453 · PDF 44 = cetak 43) · Kelompok: leksikon_suryani · Status: ✅ dinyatakan di repo (makna) — akar Semitik ❔ · Rujukan: BATCH_09.md:453 · PDF 44 = cetak 43 · Catatan: Repo hanya memberi makna, bukan akar huruf Semitik — lihat butir 1 daftar periksa lanjutan (§4 kamus)."
+    },
+    {
+      "no": 28,
+      "arab_asli": "سلمة سمت",
+      "arab_berharokat": "سَلْمَةُ سَمْتُ",
+      "latin_bacaan": "Salmatu Samat",
+      "makna": "Yang Mahasejahtera · Arab cetak: السَّلَامُ",
+      "keterangan": "Headword: Leksikon Suryani #12 (BATCH_09.md:453 · PDF 44 = cetak 43) · Kelompok: leksikon_suryani · Status: ✅ dinyatakan di repo (makna) — akar Semitik ❔ · Rujukan: BATCH_09.md:453 · PDF 44 = cetak 43 · Catatan: Repo hanya memberi makna, bukan akar huruf Semitik — lihat butir 1 daftar periksa lanjutan (§4 kamus)."
+    },
+    {
+      "no": 29,
+      "arab_asli": "صمصام",
+      "arab_berharokat": "صَمْصَامُ",
+      "latin_bacaan": "Shamshaam",
+      "makna": "Yang Maha Mengadakan · Arab cetak: البَارِي",
+      "keterangan": "Headword: Leksikon Suryani #13 (BATCH_09.md:453 · PDF 44 = cetak 43) · Kelompok: leksikon_suryani · Status: ✅ dinyatakan di repo (makna) — akar Semitik ❔ · Rujukan: BATCH_09.md:453 · PDF 44 = cetak 43 · Catatan: Repo hanya memberi makna, bukan akar huruf Semitik — lihat butir 1 daftar periksa lanjutan (§4 kamus)."
+    },
+    {
+      "no": 30,
+      "arab_asli": "مهراش",
+      "arab_berharokat": "مِهْرَاشُ",
+      "latin_bacaan": "Mihraasy",
+      "makna": "Yang Mahatetap · Arab cetak: الثَّابِتُ",
+      "keterangan": "Headword: Leksikon Suryani #14 (BATCH_09.md:453 · PDF 44 = cetak 43) · Kelompok: leksikon_suryani · Status: ✅ dinyatakan di repo (makna) — akar Semitik ❔ · Rujukan: BATCH_09.md:453 · PDF 44 = cetak 43 · Catatan: Repo hanya memberi makna, bukan akar huruf Semitik — lihat butir 1 daftar periksa lanjutan (§4 kamus)."
+    },
+    {
+      "no": 31,
+      "arab_asli": "طمطام",
+      "arab_berharokat": "طَمْطَامُ",
+      "latin_bacaan": "Thamthaam",
+      "makna": "Yang Mahakuat lagi Mahakokoh · Arab cetak: القَوِيُّ المَتِينُ",
+      "keterangan": "Headword: Leksikon Suryani #15 (BATCH_09.md:453 · PDF 44 = cetak 43) · Kelompok: leksikon_suryani · Status: ✅ dinyatakan di repo (makna) — akar Semitik ❔ · Rujukan: BATCH_09.md:453 · PDF 44 = cetak 43 · Catatan: Repo hanya memberi makna, bukan akar huruf Semitik — lihat butir 1 daftar periksa lanjutan (§4 kamus)."
+    },
+    {
+      "no": 32,
+      "arab_asli": "بازخ",
+      "arab_berharokat": "بَازَخُ",
+      "latin_bacaan": "Baazakh",
+      "makna": "Yang Mahaagung · Arab cetak: الجَلِيلُ",
+      "keterangan": "Headword: Leksikon Suryani #16 (BATCH_09.md:453 · PDF 44 = cetak 43) · Kelompok: leksikon_suryani · Status: ✅ dinyatakan di repo (makna) — akar Semitik ❔ · Rujukan: BATCH_09.md:453 · PDF 44 = cetak 43 · Catatan: Repo hanya memberi makna, bukan akar huruf Semitik — lihat butir 1 daftar periksa lanjutan (§4 kamus)."
+    },
+    {
+      "no": 33,
+      "arab_asli": "شرنطخ",
+      "arab_berharokat": "شَرْنْطَخُ",
+      "latin_bacaan": "Syarnthakh",
+      "makna": "Yang Mahahidup lagi Mahakekal · Arab cetak: الحَيُّ البَاقِي",
+      "keterangan": "Headword: Leksikon Suryani #17 (BATCH_09.md:453 · PDF 44 = cetak 43) · Kelompok: leksikon_suryani · Status: ✅ dinyatakan di repo (makna) — akar Semitik ❔ · Rujukan: BATCH_09.md:453 · PDF 44 = cetak 43 · Catatan: Repo hanya memberi makna, bukan akar huruf Semitik — lihat butir 1 daftar periksa lanjutan (§4 kamus)."
+    },
+    {
+      "no": 34,
+      "arab_asli": "بهوثت",
+      "arab_berharokat": "بَهُوثْتُ",
+      "latin_bacaan": "Bahauts",
+      "makna": "Yang Mahapenyayang — dan dalam satu riwayat: Yang Keras siksa-Nya · Arab cetak: الرَّحِيمُ — riwayat lain: وفِي رِوَايَةٍ شَدِيدُ العَذَابِ",
+      "keterangan": "Headword: Leksikon Suryani #18 (BATCH_09.md:453 · PDF 44 = cetak 43) · Kelompok: leksikon_suryani · Status: ✅ dinyatakan di repo (makna) — akar Semitik ❔ · Rujukan: BATCH_09.md:453 · PDF 44 = cetak 43 · Catatan: Riwayat ganda: makna pertama dalam teks utama, makna kedua dalam riwayat lain (BATCH_09.md:453/463). Repo hanya memberi makna, bukan akar huruf Semitik — lihat butir 1 daftar periksa lanjutan (§4 kamus)."
+    },
+    {
+      "no": 35,
+      "arab_asli": "ياو",
+      "arab_berharokat": "يَاوِ",
+      "latin_bacaan": "Yaaw",
+      "makna": "Dialah Allah · Arab cetak: هُوَ اللهُ",
+      "keterangan": "Headword: Leksikon Suryani #19 (BATCH_09.md:453 · PDF 44 = cetak 43) · Kelompok: leksikon_suryani · Status: ✅ dinyatakan di repo (makna) — akar Semitik ❔ · Rujukan: BATCH_09.md:453 · PDF 44 = cetak 43 · Catatan: Repo hanya memberi makna, bukan akar huruf Semitik — lihat butir 1 daftar periksa lanjutan (§4 kamus). Kolom Latin pada tabel kamus §2.1 semula bergeser satu baris (nomor 19–31); telah dikoreksi 2026-10-05 mengikuti BATCH_09.md:459 — lihat catatan koreksi §2.3 kamus."
+    },
+    {
+      "no": 36,
+      "arab_asli": "يرو",
+      "arab_berharokat": "يَرُو",
+      "latin_bacaan": "Yaruw",
+      "makna": "Yang Pertama dan Yang Terakhir · Arab cetak: الأَوَّلُ والآخِرُ",
+      "keterangan": "Headword: Leksikon Suryani #20 (BATCH_09.md:453 · PDF 44 = cetak 43) · Kelompok: leksikon_suryani · Status: ✅ dinyatakan di repo (makna) — akar Semitik ❔ · Rujukan: BATCH_09.md:453 · PDF 44 = cetak 43 · Catatan: Repo hanya memberi makna, bukan akar huruf Semitik — lihat butir 1 daftar periksa lanjutan (§4 kamus). Kolom Latin pada tabel kamus §2.1 semula bergeser satu baris (nomor 19–31); telah dikoreksi 2026-10-05 mengikuti BATCH_09.md:459 — lihat catatan koreksi §2.3 kamus."
+    },
+    {
+      "no": 37,
+      "arab_asli": "نموء",
+      "arab_berharokat": "نَمُوءُ",
+      "latin_bacaan": "Namuu-u",
+      "makna": "Yang Mahanyata · Arab cetak: الظَّاهِرُ",
+      "keterangan": "Headword: Leksikon Suryani #21 (BATCH_09.md:453 · PDF 44 = cetak 43) · Kelompok: leksikon_suryani · Status: ✅ dinyatakan di repo (makna) — akar Semitik ❔ · Rujukan: BATCH_09.md:453 · PDF 44 = cetak 43 · Catatan: Repo hanya memberi makna, bukan akar huruf Semitik — lihat butir 1 daftar periksa lanjutan (§4 kamus). Kolom Latin pada tabel kamus §2.1 semula bergeser satu baris (nomor 19–31); telah dikoreksi 2026-10-05 mengikuti BATCH_09.md:459 — lihat catatan koreksi §2.3 kamus."
+    },
+    {
+      "no": 38,
+      "arab_asli": "أصاليا",
+      "arab_berharokat": "أَصَالْيَا",
+      "latin_bacaan": "Ashaalyaa",
+      "makna": "Yang Mahabatin · Arab cetak: البَاطِنُ",
+      "keterangan": "Headword: Leksikon Suryani #22 (BATCH_09.md:453 · PDF 44 = cetak 43) · Kelompok: leksikon_suryani · Status: ✅ dinyatakan di repo (makna) — akar Semitik ❔ · Rujukan: BATCH_09.md:453 · PDF 44 = cetak 43 · Catatan: Repo hanya memberi makna, bukan akar huruf Semitik — lihat butir 1 daftar periksa lanjutan (§4 kamus). Kolom Latin pada tabel kamus §2.1 semula bergeser satu baris (nomor 19–31); telah dikoreksi 2026-10-05 mengikuti BATCH_09.md:459 — lihat catatan koreksi §2.3 kamus."
+    },
+    {
+      "no": 39,
+      "arab_asli": "نجا عاليا",
+      "arab_berharokat": "نَجَا عَالْيَا",
+      "latin_bacaan": "Najaa 'Aalyaa",
+      "makna": "Yang Maha Memelihara · Arab cetak: الوَكِيلُ",
+      "keterangan": "Headword: Leksikon Suryani #23 (BATCH_09.md:453 · PDF 44 = cetak 43) · Kelompok: leksikon_suryani · Status: ✅ dinyatakan di repo (makna) — akar Semitik ❔ · Rujukan: BATCH_09.md:453 · PDF 44 = cetak 43 · Catatan: Repo hanya memberi makna, bukan akar huruf Semitik — lihat butir 1 daftar periksa lanjutan (§4 kamus). Kolom Latin pada tabel kamus §2.1 semula bergeser satu baris (nomor 19–31); telah dikoreksi 2026-10-05 mengikuti BATCH_09.md:459 — lihat catatan koreksi §2.3 kamus."
+    },
+    {
+      "no": 40,
+      "arab_asli": "صلصلت",
+      "arab_berharokat": "صَلْصَلَتْ",
+      "latin_bacaan": "Shalshalt",
+      "makna": "Yang Mencukupi · Arab cetak: الكَافِي",
+      "keterangan": "Headword: Leksikon Suryani #24 (BATCH_09.md:453 · PDF 44 = cetak 43) · Kelompok: leksikon_suryani · Status: ✅ dinyatakan di repo (makna) — akar Semitik ❔ · Rujukan: BATCH_09.md:453 · PDF 44 = cetak 43 · Catatan: Repo hanya memberi makna, bukan akar huruf Semitik — lihat butir 1 daftar periksa lanjutan (§4 kamus). Kolom Latin pada tabel kamus §2.1 semula bergeser satu baris (nomor 19–31); telah dikoreksi 2026-10-05 mengikuti BATCH_09.md:459 — lihat catatan koreksi §2.3 kamus."
+    },
+    {
+      "no": 41,
+      "arab_asli": "حسمث",
+      "arab_berharokat": "حَسْمَثُ",
+      "latin_bacaan": "Hasamats",
+      "makna": "Yang Menggenggam · Arab cetak: القَابِضُ",
+      "keterangan": "Headword: Leksikon Suryani #25 (BATCH_09.md:453 · PDF 44 = cetak 43) · Kelompok: leksikon_suryani · Status: ✅ dinyatakan di repo (makna) — akar Semitik ❔ · Rujukan: BATCH_09.md:453 · PDF 44 = cetak 43 · Catatan: Repo hanya memberi makna, bukan akar huruf Semitik — lihat butir 1 daftar periksa lanjutan (§4 kamus). Kolom Latin pada tabel kamus §2.1 semula bergeser satu baris (nomor 19–31); telah dikoreksi 2026-10-05 mengikuti BATCH_09.md:459 — lihat catatan koreksi §2.3 kamus."
+    },
+    {
+      "no": 42,
+      "arab_asli": "حوسم",
+      "arab_berharokat": "حَوْسَمُ",
+      "latin_bacaan": "Hausam",
+      "makna": "Yang Mahapengasih · Arab cetak: الرَّحْمَنُ",
+      "keterangan": "Headword: Leksikon Suryani #26 (BATCH_09.md:453 · PDF 44 = cetak 43) · Kelompok: leksikon_suryani · Status: ✅ dinyatakan di repo (makna) — akar Semitik ❔ · Rujukan: BATCH_09.md:453 · PDF 44 = cetak 43 · Catatan: Repo hanya memberi makna, bukan akar huruf Semitik — lihat butir 1 daftar periksa lanjutan (§4 kamus). Kolom Latin pada tabel kamus §2.1 semula bergeser satu baris (nomor 19–31); telah dikoreksi 2026-10-05 mengikuti BATCH_09.md:459 — lihat catatan koreksi §2.3 kamus."
+    },
+    {
+      "no": 43,
+      "arab_asli": "درسم",
+      "arab_berharokat": "دَرْسَمُ",
+      "latin_bacaan": "Darasam",
+      "makna": "Yang Mahapenyayang · Arab cetak: الرَّحِيمُ",
+      "keterangan": "Headword: Leksikon Suryani #27 (BATCH_09.md:453 · PDF 44 = cetak 43) · Kelompok: leksikon_suryani · Status: ✅ dinyatakan di repo (makna) — akar Semitik ❔ · Rujukan: BATCH_09.md:453 · PDF 44 = cetak 43 · Catatan: Repo hanya memberi makna, bukan akar huruf Semitik — lihat butir 1 daftar periksa lanjutan (§4 kamus). Kolom Latin pada tabel kamus §2.1 semula bergeser satu baris (nomor 19–31); telah dikoreksi 2026-10-05 mengikuti BATCH_09.md:459 — lihat catatan koreksi §2.3 kamus."
+    },
+    {
+      "no": 44,
+      "arab_asli": "براسم",
+      "arab_berharokat": "بَرَاسَمُ",
+      "latin_bacaan": "Baraasam",
+      "makna": "Yang Menolong · Arab cetak: الظَّهِيرُ",
+      "keterangan": "Headword: Leksikon Suryani #28 (BATCH_09.md:453 · PDF 44 = cetak 43) · Kelompok: leksikon_suryani · Status: ✅ dinyatakan di repo (makna) — akar Semitik ❔ · Rujukan: BATCH_09.md:453 · PDF 44 = cetak 43 · Catatan: Repo hanya memberi makna, bukan akar huruf Semitik — lihat butir 1 daftar periksa lanjutan (§4 kamus). Kolom Latin pada tabel kamus §2.1 semula bergeser satu baris (nomor 19–31); telah dikoreksi 2026-10-05 mengikuti BATCH_09.md:459 — lihat catatan koreksi §2.3 kamus."
+    },
+    {
+      "no": 45,
+      "arab_asli": "شلمهث",
+      "arab_berharokat": "شَلْمَهَثُ",
+      "latin_bacaan": "Syalmahats",
+      "makna": "Yang Membuka · Arab cetak: الفَتَّاحُ",
+      "keterangan": "Headword: Leksikon Suryani #29 (BATCH_09.md:453 · PDF 44 = cetak 43) · Kelompok: leksikon_suryani · Status: ✅ dinyatakan di repo (makna) — akar Semitik ❔ · Rujukan: BATCH_09.md:453 · PDF 44 = cetak 43 · Catatan: Repo hanya memberi makna, bukan akar huruf Semitik — lihat butir 1 daftar periksa lanjutan (§4 kamus). Kolom Latin pada tabel kamus §2.1 semula bergeser satu baris (nomor 19–31); telah dikoreksi 2026-10-05 mengikuti BATCH_09.md:459 — lihat catatan koreksi §2.3 kamus."
+    },
+    {
+      "no": 46,
+      "arab_asli": "أزمخت",
+      "arab_berharokat": "أَزْمَخْتُ",
+      "latin_bacaan": "Azmakht",
+      "makna": "Yang Mahakaya lagi Memperkaya · Arab cetak: الغَنِيُّ المُغْنِي",
+      "keterangan": "Headword: Leksikon Suryani #30 (BATCH_09.md:453 · PDF 44 = cetak 43) · Kelompok: leksikon_suryani · Status: ✅ dinyatakan di repo (makna) — akar Semitik ❔ · Rujukan: BATCH_09.md:453 · PDF 44 = cetak 43 · Catatan: Repo hanya memberi makna, bukan akar huruf Semitik — lihat butir 1 daftar periksa lanjutan (§4 kamus). Kolom Latin pada tabel kamus §2.1 semula bergeser satu baris (nomor 19–31); telah dikoreksi 2026-10-05 mengikuti BATCH_09.md:459 — lihat catatan koreksi §2.3 kamus."
+    },
+    {
+      "no": 47,
+      "arab_asli": "تعداد",
+      "arab_berharokat": "تَعْدَادُ",
+      "latin_bacaan": "Ta'daad",
+      "makna": "Yang Mahakuat — … · Arab cetak: القَوِيُّ",
+      "keterangan": "Headword: Leksikon Suryani #31 (BATCH_09.md:453 · PDF 44 = cetak 43) · Kelompok: leksikon_suryani · Status: ✅ dinyatakan di repo (makna) — akar Semitik ❔ · Rujukan: BATCH_09.md:453 · PDF 44 = cetak 43 · Catatan: Repo hanya memberi makna, bukan akar huruf Semitik — lihat butir 1 daftar periksa lanjutan (§4 kamus). Kolom Latin pada tabel kamus §2.1 semula bergeser satu baris (nomor 19–31); telah dikoreksi 2026-10-05 mengikuti BATCH_09.md:459 — lihat catatan koreksi §2.3 kamus."
+    },
+    {
+      "no": 48,
+      "arab_asli": "أبرام",
+      "arab_berharokat": "أَبْرَامُ",
+      "latin_bacaan": "Abraam",
+      "makna": "Yang Mahakokoh · Arab cetak: المَتِينُ",
+      "keterangan": "Headword: Leksikon Suryani #1 (BATCH_09.md:475 · PDF 45 = cetak 44) · Kelompok: leksikon_suryani · Status: ✅ dinyatakan di repo (makna) — akar Semitik ❔ · Rujukan: BATCH_09.md:475 · PDF 45 = cetak 44 · Catatan: Repo hanya memberi makna, bukan akar huruf Semitik — lihat butir 1 daftar periksa lanjutan (§4 kamus)."
+    },
+    {
+      "no": 49,
+      "arab_asli": "سناد كاهر",
+      "arab_berharokat": "سَنَادُ كَاهِرَ",
+      "latin_bacaan": "Sanaad Kaahir",
+      "makna": "Yang Mengabulkan · Arab cetak: المُجِيبُ",
+      "keterangan": "Headword: Leksikon Suryani #2 (BATCH_09.md:475 · PDF 45 = cetak 44) · Kelompok: leksikon_suryani · Status: ✅ dinyatakan di repo (makna) — akar Semitik ❔ · Rujukan: BATCH_09.md:475 · PDF 45 = cetak 44 · Catatan: Repo hanya memberi makna, bukan akar huruf Semitik — lihat butir 1 daftar periksa lanjutan (§4 kamus)."
+    },
+    {
+      "no": 50,
+      "arab_asli": "بهراة تبريز",
+      "arab_berharokat": "بَهْرَاةُ تَبْرِيزَ",
+      "latin_bacaan": "Bahraatu Tabriiz",
+      "makna": "Yang Pertama dan Yang Terakhir · Arab cetak: الأَوَّلُ والآخِرُ",
+      "keterangan": "Headword: Leksikon Suryani #3 (BATCH_09.md:475 · PDF 45 = cetak 44) · Kelompok: leksikon_suryani · Status: ✅ dinyatakan di repo (makna) — akar Semitik ❔ · Rujukan: BATCH_09.md:475 · PDF 45 = cetak 44 · Catatan: Repo hanya memberi makna, bukan akar huruf Semitik — lihat butir 1 daftar periksa lanjutan (§4 kamus)."
+    },
+    {
+      "no": 51,
+      "arab_asli": "تاكر",
+      "arab_berharokat": "تَاكِرُ",
+      "latin_bacaan": "Taakir",
+      "makna": "Cahaya · Arab cetak: النُّورُ",
+      "keterangan": "Headword: Leksikon Suryani #4 (BATCH_09.md:475 · PDF 45 = cetak 44) · Kelompok: leksikon_suryani · Status: ✅ dinyatakan di repo (makna) — akar Semitik ❔ · Rujukan: BATCH_09.md:475 · PDF 45 = cetak 44 · Catatan: Repo hanya memberi makna, bukan akar huruf Semitik — lihat butir 1 daftar periksa lanjutan (§4 kamus)."
+    },
+    {
+      "no": 52,
+      "arab_asli": "أباريخ",
+      "arab_berharokat": "أَبَارِيخُ",
+      "latin_bacaan": "Abaariikh",
+      "makna": "Yang Mahamenetapkan hukum · Arab cetak: الحَكَمُ",
+      "keterangan": "Headword: Leksikon Suryani #5 (BATCH_09.md:475 · PDF 45 = cetak 44) · Kelompok: leksikon_suryani · Status: ✅ dinyatakan di repo (makna) — akar Semitik ❔ · Rujukan: BATCH_09.md:475 · PDF 45 = cetak 44 · Catatan: Repo hanya memberi makna, bukan akar huruf Semitik — lihat butir 1 daftar periksa lanjutan (§4 kamus)."
+    },
+    {
+      "no": 53,
+      "arab_asli": "بيروخ",
+      "arab_berharokat": "بَيْرُوخُ",
+      "latin_bacaan": "Bairuukh",
+      "makna": "Yang Mahaadil · Arab cetak: العَدْلُ",
+      "keterangan": "Headword: Leksikon Suryani #6 (BATCH_09.md:475 · PDF 45 = cetak 44) · Kelompok: leksikon_suryani · Status: ✅ dinyatakan di repo (makna) — akar Semitik ❔ · Rujukan: BATCH_09.md:475 · PDF 45 = cetak 44 · Catatan: Repo hanya memberi makna, bukan akar huruf Semitik — lihat butir 1 daftar periksa lanjutan (§4 kamus)."
+    },
+    {
+      "no": 54,
+      "arab_asli": "بيروح",
+      "arab_berharokat": "بَيْرُوحُ",
+      "latin_bacaan": "Bairuuh",
+      "makna": "Yang Mahaperkasa dalam jabarut-Nya · Arab cetak: العَزِيزُ فِي جَبَرُوتِهِ",
+      "keterangan": "Headword: Leksikon Suryani #7 (BATCH_09.md:475 · PDF 45 = cetak 44) · Kelompok: leksikon_suryani · Status: ✅ dinyatakan di repo (makna) — akar Semitik ❔ · Rujukan: BATCH_09.md:475 · PDF 45 = cetak 44 · Catatan: Repo hanya memberi makna, bukan akar huruf Semitik — lihat butir 1 daftar periksa lanjutan (§4 kamus)."
+    },
+    {
+      "no": 55,
+      "arab_asli": "برخوا",
+      "arab_berharokat": "بَرْخُوَا",
+      "latin_bacaan": "Barakhwaa",
+      "makna": "Yang Memuliakan · Arab cetak: المُعِزُّ",
+      "keterangan": "Headword: Leksikon Suryani #8 (BATCH_09.md:475 · PDF 45 = cetak 44) · Kelompok: leksikon_suryani · Status: ✅ dinyatakan di repo (makna) — akar Semitik ❔ · Rujukan: BATCH_09.md:475 · PDF 45 = cetak 44 · Catatan: Repo hanya memberi makna, bukan akar huruf Semitik — lihat butir 1 daftar periksa lanjutan (§4 kamus)."
+    },
+    {
+      "no": 56,
+      "arab_asli": "شماريخ",
+      "arab_berharokat": "شَمَارِيخُ",
+      "latin_bacaan": "Syamaariikh",
+      "makna": "Yang Memulai · Arab cetak: المُبْدِئُ",
+      "keterangan": "Headword: Leksikon Suryani #9 (BATCH_09.md:475 · PDF 45 = cetak 44) · Kelompok: leksikon_suryani · Status: ✅ dinyatakan di repo (makna) — akar Semitik ❔ · Rujukan: BATCH_09.md:475 · PDF 45 = cetak 44 · Catatan: Repo hanya memberi makna, bukan akar huruf Semitik — lihat butir 1 daftar periksa lanjutan (§4 kamus)."
+    },
+    {
+      "no": 57,
+      "arab_asli": "شيراخ",
+      "arab_berharokat": "شَيْرَاخُ",
+      "latin_bacaan": "Syairaakh",
+      "makna": "Yang Mahadekat · Arab cetak: القَرِيبُ",
+      "keterangan": "Headword: Leksikon Suryani #10 (BATCH_09.md:475 · PDF 45 = cetak 44) · Kelompok: leksikon_suryani · Status: ✅ dinyatakan di repo (makna) — akar Semitik ❔ · Rujukan: BATCH_09.md:475 · PDF 45 = cetak 44 · Catatan: Repo hanya memberi makna, bukan akar huruf Semitik — lihat butir 1 daftar periksa lanjutan (§4 kamus)."
+    },
+    {
+      "no": 58,
+      "arab_asli": "نشمخت",
+      "arab_berharokat": "نَشْمَخْتُ",
+      "latin_bacaan": "Nasyamakht",
+      "makna": "Yang Mengetahui rahasia · Arab cetak: عَالِمُ السِّرِّ",
+      "keterangan": "Headword: Leksikon Suryani #11 (BATCH_09.md:475 · PDF 45 = cetak 44) · Kelompok: leksikon_suryani · Status: ✅ dinyatakan di repo (makna) — akar Semitik ❔ · Rujukan: BATCH_09.md:475 · PDF 45 = cetak 44 · Catatan: Repo hanya memberi makna, bukan akar huruf Semitik — lihat butir 1 daftar periksa lanjutan (§4 kamus)."
+    },
+    {
+      "no": 59,
+      "arab_asli": "يمليخ",
+      "arab_berharokat": "يَمْلِيخُ",
+      "latin_bacaan": "Yamliikh",
+      "makna": "Yang Mahamengurus · Arab cetak: القَيُّومُ",
+      "keterangan": "Headword: Leksikon Suryani #12 (BATCH_09.md:475 · PDF 45 = cetak 44) · Kelompok: leksikon_suryani · Status: ✅ dinyatakan di repo (makna) — akar Semitik ❔ · Rujukan: BATCH_09.md:475 · PDF 45 = cetak 44 · Catatan: Repo hanya memberi makna, bukan akar huruf Semitik — lihat butir 1 daftar periksa lanjutan (§4 kamus)."
+    },
+    {
+      "no": 60,
+      "arab_asli": "شميانا",
+      "arab_berharokat": "شَمْيَانَا",
+      "latin_bacaan": "Syamyaanaa",
+      "makna": "Yang Mahabenar · Arab cetak: الحَقُّ",
+      "keterangan": "Headword: Leksikon Suryani #13 (BATCH_09.md:475 · PDF 45 = cetak 44) · Kelompok: leksikon_suryani · Status: ✅ dinyatakan di repo (makna) — akar Semitik ❔ · Rujukan: BATCH_09.md:475 · PDF 45 = cetak 44 · Catatan: Repo hanya memberi makna, bukan akar huruf Semitik — lihat butir 1 daftar periksa lanjutan (§4 kamus)."
+    },
+    {
+      "no": 61,
+      "arab_asli": "يانوخ",
+      "arab_berharokat": "يَانُوخُ",
+      "latin_bacaan": "Yaanukh",
+      "makna": "Yang Maha Memelihara · Arab cetak: الوَكِيلُ",
+      "keterangan": "Headword: Leksikon Suryani #14 (BATCH_09.md:475 · PDF 45 = cetak 44) · Kelompok: leksikon_suryani · Status: ✅ dinyatakan di repo (makna) — akar Semitik ❔ · Rujukan: BATCH_09.md:475 · PDF 45 = cetak 44 · Catatan: Repo hanya memberi makna, bukan akar huruf Semitik — lihat butir 1 daftar periksa lanjutan (§4 kamus)."
+    },
+    {
+      "no": 62,
+      "arab_asli": "داميخ",
+      "arab_berharokat": "دَامِيخُ",
+      "latin_bacaan": "Daamiikh",
+      "makna": "Yang Mahamulia · Arab cetak: الكَرِيمُ",
+      "keterangan": "Headword: Leksikon Suryani #15 (BATCH_09.md:475 · PDF 45 = cetak 44) · Kelompok: leksikon_suryani · Status: ✅ dinyatakan di repo (makna) — akar Semitik ❔ · Rujukan: BATCH_09.md:475 · PDF 45 = cetak 44 · Catatan: Repo hanya memberi makna, bukan akar huruf Semitik — lihat butir 1 daftar periksa lanjutan (§4 kamus)."
+    },
+    {
+      "no": 63,
+      "arab_asli": "يشموخ",
+      "arab_berharokat": "يَشْمُوخُ",
+      "latin_bacaan": "Yasymuukh",
+      "makna": "Yang Maha Mengasih · Arab cetak: الحَنَانُ",
+      "keterangan": "Headword: Leksikon Suryani #16 (BATCH_09.md:475 · PDF 45 = cetak 44) · Kelompok: leksikon_suryani · Status: ✅ dinyatakan di repo (makna) — akar Semitik ❔ · Rujukan: BATCH_09.md:475 · PDF 45 = cetak 44 · Catatan: Repo hanya memberi makna, bukan akar huruf Semitik — lihat butir 1 daftar periksa lanjutan (§4 kamus)."
+    },
+    {
+      "no": 64,
+      "arab_asli": "على ما نرم حفا يرون بقنصب",
+      "arab_berharokat": "عَلَى مَا نَرِمُ حَفَّاً يَرُونَ بِقَنْصَبَ",
+      "latin_bacaan": "'alaa maa narmu haffan yaruuna biqanashab",
+      "makna": "Allah Maha Mengalahkan atas urusan-Nya · Arab cetak: اللهُ غَالِبٌ عَلَى أَمْرِهِ",
+      "keterangan": "Headword: Leksikon Suryani #17 (BATCH_09.md:475 · PDF 45 = cetak 44) · Kelompok: leksikon_suryani · Status: ✅ dinyatakan di repo (makna) — akar Semitik ❔ · Rujukan: BATCH_09.md:475 · PDF 45 = cetak 44 · Catatan: Bukan satu nama, melainkan frasa yang diterjemahkan kitab (ditandai † pada tabel kamus §2.2). Repo hanya memberi makna, bukan akar huruf Semitik — lihat butir 1 daftar periksa lanjutan (§4 kamus)."
+    },
+    {
+      "no": 65,
+      "arab_asli": "تان",
+      "arab_berharokat": "تَانٍ",
+      "latin_bacaan": "Taan",
+      "makna": "Yang Maha Menghitung · Arab cetak: الحَسِيبُ",
+      "keterangan": "Headword: Leksikon Suryani #18 (BATCH_09.md:475 · PDF 45 = cetak 44) · Kelompok: leksikon_suryani · Status: ✅ dinyatakan di repo (makna) — akar Semitik ❔ · Rujukan: BATCH_09.md:475 · PDF 45 = cetak 44 · Catatan: Repo hanya memberi makna, bukan akar huruf Semitik — lihat butir 1 daftar periksa lanjutan (§4 kamus)."
+    },
+    {
+      "no": 66,
+      "arab_asli": "كماه",
+      "arab_berharokat": "كَمَاهْ",
+      "latin_bacaan": "Kamaah",
+      "makna": "Tuhanku · Arab cetak: رَبِّي",
+      "keterangan": "Headword: Leksikon Suryani #19 (BATCH_09.md:475 · PDF 45 = cetak 44) · Kelompok: leksikon_suryani · Status: ✅ dinyatakan di repo (makna) — akar Semitik ❔ · Rujukan: BATCH_09.md:475 · PDF 45 = cetak 44 · Catatan: Repo hanya memberi makna, bukan akar huruf Semitik — lihat butir 1 daftar periksa lanjutan (§4 kamus)."
+    },
+    {
+      "no": 67,
+      "arab_asli": "أواه",
+      "arab_berharokat": "أَوَاهْ",
+      "latin_bacaan": "Awaah",
+      "makna": "Yang Menghidupkan · Arab cetak: المُحْيِي",
+      "keterangan": "Headword: Leksikon Suryani #20 (BATCH_09.md:475 · PDF 45 = cetak 44) · Kelompok: leksikon_suryani · Status: ✅ dinyatakan di repo (makna) — akar Semitik ❔ · Rujukan: BATCH_09.md:475 · PDF 45 = cetak 44 · Catatan: Repo hanya memberi makna, bukan akar huruf Semitik — lihat butir 1 daftar periksa lanjutan (§4 kamus)."
+    },
+    {
+      "no": 68,
+      "arab_asli": "هشكاخ هشكاخ",
+      "arab_berharokat": "هِشْكَاخُ هِشْكَاخُ",
+      "latin_bacaan": "Hisykaakh Hisykaakh",
+      "makna": "Yang Menguasai lagi Mahatinggi · Arab cetak: الوَالِي المُتَعَالِ",
+      "keterangan": "Headword: Leksikon Suryani #21 (BATCH_09.md:475 · PDF 45 = cetak 44) · Kelompok: leksikon_suryani · Status: ✅ dinyatakan di repo (makna) — akar Semitik ❔ · Rujukan: BATCH_09.md:475 · PDF 45 = cetak 44 · Catatan: Repo hanya memberi makna, bukan akar huruf Semitik — lihat butir 1 daftar periksa lanjutan (§4 kamus)."
+    },
+    {
+      "no": 69,
+      "arab_asli": "بهرام",
+      "arab_berharokat": "بَهْرَامُ",
+      "latin_bacaan": "Bahraam",
+      "makna": "Yang Mahaperkasa · Arab cetak: العَزِيزُ",
+      "keterangan": "Headword: Leksikon Suryani #22 (BATCH_09.md:475 · PDF 45 = cetak 44) · Kelompok: leksikon_suryani · Status: ✅ dinyatakan di repo (makna) — akar Semitik ❔ · Rujukan: BATCH_09.md:475 · PDF 45 = cetak 44 · Catatan: Repo hanya memberi makna, bukan akar huruf Semitik — lihat butir 1 daftar periksa lanjutan (§4 kamus)."
+    },
+    {
+      "no": 70,
+      "arab_asli": "سمخثا",
+      "arab_berharokat": "سَمْخَثَا",
+      "latin_bacaan": "Samakh-tsaa",
+      "makna": "Yang Mahapengasih · Arab cetak: الرَّحْمَنُ",
+      "keterangan": "Headword: Leksikon Suryani #23 (BATCH_09.md:475 · PDF 45 = cetak 44) · Kelompok: leksikon_suryani · Status: ✅ dinyatakan di repo (makna) — akar Semitik ❔ · Rujukan: BATCH_09.md:475 · PDF 45 = cetak 44 · Catatan: Repo hanya memberi makna, bukan akar huruf Semitik — lihat butir 1 daftar periksa lanjutan (§4 kamus)."
+    },
+    {
+      "no": 71,
+      "arab_asli": "شلمخا",
+      "arab_berharokat": "شَلْمَخَا",
+      "latin_bacaan": "Syalmakhaa",
+      "makna": "Yang Memperkaya · Arab cetak: المُغْنِي",
+      "keterangan": "Headword: Leksikon Suryani #24 (BATCH_09.md:475 · PDF 45 = cetak 44) · Kelompok: leksikon_suryani · Status: ✅ dinyatakan di repo (makna) — akar Semitik ❔ · Rujukan: BATCH_09.md:475 · PDF 45 = cetak 44 · Catatan: Repo hanya memberi makna, bukan akar huruf Semitik — lihat butir 1 daftar periksa lanjutan (§4 kamus)."
+    },
+    {
+      "no": 72,
+      "arab_asli": "شلمخ",
+      "arab_berharokat": "شَلْمَخُ",
+      "latin_bacaan": "Syalmakh",
+      "makna": "Yang Memuliakan · Arab cetak: المُعِزُّ",
+      "keterangan": "Headword: Leksikon Suryani #25 (BATCH_09.md:475 · PDF 45 = cetak 44) · Kelompok: leksikon_suryani · Status: ✅ dinyatakan di repo (makna) — akar Semitik ❔ · Rujukan: BATCH_09.md:475 · PDF 45 = cetak 44 · Catatan: Repo hanya memberi makna, bukan akar huruf Semitik — lihat butir 1 daftar periksa lanjutan (§4 kamus)."
+    },
+    {
+      "no": 73,
+      "arab_asli": "عيطلا",
+      "arab_berharokat": "عَيْطَلَا",
+      "latin_bacaan": "'Aithlaa",
+      "makna": "Yang Mahakuat lagi Mahamenundukkan. · Arab cetak: القَوِيُّ القَهَّارُ",
+      "keterangan": "Headword: Leksikon Suryani #26 (BATCH_09.md:475 · PDF 45 = cetak 44) · Kelompok: leksikon_suryani · Status: ✅ dinyatakan di repo (makna) — akar Semitik ❔ · Rujukan: BATCH_09.md:475 · PDF 45 = cetak 44 · Catatan: Repo hanya memberi makna, bukan akar huruf Semitik — lihat butir 1 daftar periksa lanjutan (§4 kamus)."
+    },
+    {
+      "no": 74,
+      "arab_asli": "بِحَقِّ أَرْكَاضِ أَصْبَاوْتَ آلَ شَدَّاي",
+      "arab_berharokat": "بِحَقِّ أَرْكَاضِ أَصْبَاوْتَ آلَ شَدَّاي",
+      "latin_bacaan": "Ta'thira Yaayilu Ta'thira Yaayilu, Tharthayaaiil Tharthayaaiil, Zanqith Zanqith, Muthaahuusy Muthaahuusy, Jaljamiisy Jaljamiisy, Raahim Raahim, Jirjayaaiil Jirjayaaiil",
+      "makna": "Kitab tidak memberi makna; nama seruan pada hijab (nama berakhiran -yaa-iil berpola nama malaikat, tetapi identifikasi tidak dinyatakan repo).",
+      "keterangan": "Headword: Hijab Sulaiman — nama seruan (BATCH_05.md:126–130) · Kelompok: rantai_tanpa_makna · Status: ⚠️ pelafalan tentatif (bentuk cetak dipertahankan) · Rujukan: BATCH_05.md:126,128,130 (PDF 22 = cetak 21) · Catatan: Frasa kunci «بِحَقِّ أَرْكَاضِ أَصْبَاوْتَ آلَ شَدَّاي» menghubungkan hijab ini ke §1 entri 2 & 4."
+    },
+    {
+      "no": 75,
+      "arab_asli": "هذا هو الجلب السرياني: أرى أرى كفيتا كفيتا شلشيش شلشيش",
+      "arab_berharokat": "وَهَذَا هُوَ الجَلْبُ السُّرْيَانِيُّ: أَرَى أَرَى كَفِيتَا كَفِيتَا شَلْشِيشْ شَلْشِيشْ",
+      "latin_bacaan": "Araa araa kafiitaa kafiitaa syalsyiisy syalsyiisy malsyiisy malsyiisy ahiliil ahiliil haibuul haibuul maltiin maltiin kalkiyaam kalkiyaam ahiil ahiil kalkatsum kalkatsum ariiri ariiri ajbini ajbini akyaahuum akyaahuum kalkiaa-iil kalkiaa-iil bidamlaakh baraakh baraakh haithaa-iil haithaa-iil arbaab biyaarab bahaitanaakh haitanaakh multiyaahuukh multiyaahuukh baaqithah 'aithalah ajriyaa-iil thailahuub thailahuub thaithuub thail'uub haibaa-uuth …",
+      "makna": "Kitab tidak memberi makna satu pun; pelafalan nama/istilah belum pasti, bentuk cetak dipertahankan.",
+      "keterangan": "Headword: Rantai utama al-Jalb as-Suryani (BATCH_04.md:142,152) · Kelompok: rantai_tanpa_makna · Status: ⚠️ pelafalan tentatif (bentuk cetak dipertahankan) · Rujukan: BATCH_04.md:138,142,152 (PDF 17 = cetak 16) · Catatan: Dibaca setelah “penyucian diri (tanzih) ruhani yang pertama”."
+    },
+    {
+      "no": 76,
+      "arab_asli": "هَيْبَاوُطْ كِيلْيَانَئِيلْ كَلْمِيَائِيلْ بِدَمْلَاخْ دَمْلَاخْ بَرَاخْ بَرَاخْ",
+      "arab_berharokat": "هَيْبَاوُطْ كِيلْيَانَئِيلْ كَلْمِيَائِيلْ بِدَمْلَاخْ دَمْلَاخْ بَرَاخْ بَرَاخْ",
+      "latin_bacaan": "Haibaa-uuth kiilyaa-iil kalmiyaa-iil bidamlaakh damlaakh baraakh baraakh juulaa hiilaa syamlaa bistathaaf sathaaf bishafiif shafiif bimathuuf mathuuf … bikhaythaanaa khaythaanaa … bisylaamiin sylaamiin … bithaqsyar taqsyar … (rantai penuh: lihat KAMUS_SURYANI_ASROR_35_BATCH.md §3.3)",
+      "makna": "Kitab tidak memberi makna; pasangan bi-… / … memperlihatkan pola prefiks b- Aram/Suryani.",
+      "keterangan": "Headword: Sambungan rantai + pola prefiks b- (BATCH_04.md:168,176) · Kelompok: rantai_tanpa_makna · Status: ⚠️ pelafalan tentatif (bentuk cetak dipertahankan) · Rujukan: BATCH_04.md:164,168,176,242 (PDF 18 = cetak 17) · Catatan: Sumber terkuat pola prefiks b- yang dicatat repo."
+    },
+    {
+      "no": 77,
+      "arab_asli": "يُوهِ يُوهِ بِهْيَهْلِيُوهِ هْيَهْلِيُوهِ الأَرْكِيَاظْ الأَرْكِيَاظْ هَيْبُورْ هَيْبُورْ كَسْرِيَاوُبْ",
+      "arab_berharokat": "يُوهِ يُوهِ بِهْيَهْلِيُوهِ هْيَهْلِيُوهِ الأَرْكِيَاظْ الأَرْكِيَاظْ هَيْبُورْ هَيْبُورْ كَسْرِيَاوُبْ",
+      "latin_bacaan": "Yuuhi yuuhi bihyahliyuhi hyahliyuhi al-arkiyaazh al-arkiyaazh haibuur haibuur kasriyaaub kasriyaaub 'alsyqaum 'alsyqaum 'alsyaafasy 'alsyaafasy mihraaqasy mihraaqasy",
+      "makna": "Kitab menyebut “yang disebut oleh para ulama (ahli)”; tidak ada makna.",
+      "keterangan": "Headword: «Nama yang cepat lagi tersimpan» (BATCH_04.md:188,194) · Kelompok: rantai_tanpa_makna · Status: ⚠️ tanpa makna — pelafalan tentatif · Rujukan: BATCH_04.md:186,188,194 (PDF 18 = cetak 17) · Catatan: Judul cetak: «الاسم السريع المكنون»."
+    },
+    {
+      "no": 78,
+      "arab_asli": "أَقْشَامَقَشْ عَقَشْ طَهْشِيزْ أَهْيَا شَرَاهْيَا قُدُّوسٌ قُدُّوسٌ رَبُّ المَلَائِكَةِ وَالرُّوحِ",
+      "arab_berharokat": "أَقْشَامَقَشْ عَقَشْ طَهْشِيزْ أَهْيَا شَرَاهْيَا قُدُّوسٌ قُدُّوسٌ رَبُّ المَلَائِكَةِ وَالرُّوحِ",
+      "latin_bacaan": "Aqsyaamaqasy 'aqasy thahsyiiz Ah-yaa Saraah-yaa Qudduus Qudduus rabbul-malaa-ikati war-ruuh … 'Alyaa-ham Wahaayim Thalthiyaakh Ah-yaakam Rifyaadiim 'Asyaaram Bij-ryaakam Bij-baruut jabaruut",
+      "makna": "Kitab tidak memberi makna satu pun; sebagian unsur bersinggungan dengan rumus Ahya Saraah-yaa (§1 entri 5–6) dan jabaruut (§1 entri 16).",
+      "keterangan": "Headword: «Akhir nama yang tersimpan» (BATCH_04.md:206,212) · Kelompok: rantai_tanpa_makna · Status: ⚠️ tanpa makna — pelafalan tentatif · Rujukan: BATCH_04.md:202,206,212 (PDF 18 = cetak 17) · Catatan: Judul cetak: «آخر الاسم المكنون»."
+    }
+  ]
+}
