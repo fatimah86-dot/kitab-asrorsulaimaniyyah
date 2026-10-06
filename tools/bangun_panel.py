@@ -34,7 +34,7 @@ RAJAH_DIR = ROOT / "rajah"
 JUDUL_AR = "كتاب أسرار سليمانية"
 JUDUL_ID = "Terjemahan Kitab Asraru Sulaimaniyyah"
 JUDUL_KITAB_AR = "الأسرار السليمانية في العلوم الروحانية"
-TOTAL_BATCH = 21
+TOTAL_BATCH = 35
 NAMA_KHATAM = "KHATAM_TERJEMAHAN_Kitab_Asraru_Sulaimaniyyah.pdf"
 
 HIJAU, EMAS, KREM = "#0d4a36", "#c59b27", "#f4eee2"
