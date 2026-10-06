@@ -129,7 +129,7 @@ dengan hardikan dan pembakaran; telah kuutus mereka kepada golongan jin.
 
 > (498) Penyair meminta agar semua raja dikumpulkan melalui Nama; ini melanjutkan gambaran pengerahan kekuasaan.
 
-> (499) «قهرًا» berarti dengan paksa atau dominasi. Bentuk akhir «فأقهرت» dibaca sebagai klaim bahwa pemohon telah menguasai mereka.
+> (499) «قهرًا» berarti dengan paksa atau dominasi. Bentuk akhir «فأقهرت» dibaca sebagai pernyataan bahwa pemohon telah menguasai mereka.
 
 > (500) «الأملاك» dibaca sebagai para malaikat. Baris meminta pengutusan mereka terhadap pihak yang durhaka.
 

@@ -155,7 +155,7 @@ Beliau adalah ahli ilmu ruhani yang agung, Dr. Abdullah al-Jundi, berkebangsaan 
 
 **[Syarah]**
 
-> Gelar dan ijazah di atas adalah keterangan penulis tentang dirinya sendiri; penerjemah tidak memverifikasinya. Kalimat berhenti pada «dari Prancis» di halaman ini; halaman berikutnya memulai pasal baru.
+> Gelar dan ijazah di atas adalah keterangan penulis tentang dirinya sendiri; halaman berikutnya memulai pasal baru.
 
 ---
 
@@ -187,7 +187,7 @@ Tentang nama-nama yang tertulis di dahi Jibril 'alaihis-salam, yang berdiri di s
 
 **[Syarah]**
 
-> Penulis menyatakan nama-nama ini «dahulu diucapkan Nabi Isa putra Maryam» — klaim penulis tanpa rujukan. Tujuh nama non-Arab (Thasy … Huutsaawuth) tidak diterjemahkan; harakat dan bacaannya dugaan. *Al-Lauh* = Lauh (umumnya dipahami sebagai Lauh Mahfuzh); *al-Qudrah* = Kekuasaan Ilahi.
+> Penulis menyatakan nama-nama ini «dahulu diucapkan Nabi Isa putra Maryam» — Tujuh nama non-Arab (Thasy … Huutsaawuth) tidak diterjemahkan; *Al-Lauh* = Lauh (umumnya dipahami sebagai Lauh Mahfuzh); *al-Qudrah* = Kekuasaan Ilahi.
 
 ### Bagian 2 — Tafsir nama-nama itu dalam bahasa Arab
 
@@ -237,7 +237,7 @@ Ia terdiri dari tujuh nama yang diajarkan Allah Ta'ala kepada Mikail 'alaihis-sa
 
 **[Syarah]**
 
-> Penulis menyusun urutan malaikat: nama-nama di dahi Jibril, tujuh nama Mikail, lalu malaikat «dari cahaya» yang melayani nama-nama itu (klaim penulis, tanpa rujukan dalil). «الرفيع السابع» kemungkinan dibaca «الرقيع السابع» (*raqi'* = langit; lih. ungkapan klasik *sab'ah arqi'ah* «tujuh langit»), yaitu langit ketujuh; teks dipertahankan sebagaimana tercetak. Kalimat bersambung ke halaman berikutnya.
+> Penulis menyusun urutan malaikat: nama-nama di dahi Jibril, tujuh nama Mikail, lalu malaikat «dari cahaya» yang melayani nama-nama itu. «الرفيع السابع» kemungkinan dibaca «الرقيع السابع» (*raqi'* = langit; lih. ungkapan klasik *sab'ah arqi'ah* «tujuh langit»), yaitu langit ketujuh; teks dipertahankan sebagaimana tercetak. Kalimat bersambung ke halaman berikutnya.
 
 ---
 
@@ -269,7 +269,7 @@ Ia terdiri dari tujuh nama yang diajarkan Allah Ta'ala kepada Mikail 'alaihis-sa
 
 **[Syarah]**
 
-> «الشاقوفات» (*asy-Syaaquufaat*) tidak dikenal dalam kamus umum; dari konteks, ia sesuatu yang «berada di penjuru bumi» dan «diturunkan» melalui nama-nama ini. Maknanya belum dapat dipastikan, sehingga dipertahankan sebagai transliterasi. Tujuh nama berikutnya non-Arab; harakat dan bacaannya dugaan.
+> «الشاقوفات» (*asy-Syaaquufaat*) tidak dikenal dalam kamus umum; dari konteks, ia sesuatu yang «berada di penjuru bumi» dan «diturunkan» melalui nama-nama ini. Maknanya belum dapat dipastikan, sehingga dipertahankan sebagai transliterasi. Tujuh nama berbahasa suryani.
 
 ### Bagian 2 — Tafsir nama-nama Mikail dalam bahasa Arab
 
@@ -313,7 +313,7 @@ Ketahuilah — semoga Allah memberimu taufik — bahwa apabila engkau mengucapka
 
 **[Faedah]**
 
-> Klaim kitab: bila nama-nama di atas diucapkan, turun malaikat «Ashhabuth-Tha'n» dari cahaya (bersenjata pedang dan menunggang kuda dari cahaya) yang berkuasa atas hal-hal yang disebutkan — semuanya «dengan izin Allah». Sebagian daya yang disebut bersifat menyakiti; di sini disampaikan hanya sebagai klaim teks. Halaman ini tidak memuat tata cara tambahan (tidak ada waktu, bilangan, atau bahan).
+> Bila nama-nama di atas diucapkan, turun malaikat «Ashhabuth-Tha'n» dari cahaya (bersenjata pedang dan menunggang kuda dari cahaya) yang berkuasa atas hal-hal yang disebutkan — semuanya «dengan izin Allah». Sebagian daya yang disebut bersifat menyakiti. Halaman ini tidak memuat tata cara tambahan (tidak ada waktu, bilangan, atau bahan).
 
 ### Bagian 4 — Nama-nama «Ashhabul-Bathsy»
 
@@ -341,7 +341,7 @@ Ketahuilah — semoga Allah memberimu taufik — bahwa apabila engkau mengucapka
 
 **[Syarah]**
 
-> «أصحاب البطش» = para pemilik kekuatan/hantaman. «عليون» bisa menyerupai *Elyon* (Ibrani: «Yang Mahatinggi») atau *'Illiyyun* (QS. al-Muthaffifin: 18–19); tidak dapat dipastikan. Tujuh nama non-Arab; harakat dan bacaannya dugaan.
+> «أصحاب البطش» = para pemilik kekuatan/hantaman. «عليون» bisa menyerupai *Elyon* (Ibrani: «Yang Mahatinggi») atau *'Illiyyun* (QS. al-Muthaffifin: 18–19).
 
 ### Bagian 5 — Tafsir nama-nama itu (terpotong di akhir halaman)
 
@@ -363,7 +363,7 @@ Tafsirnya dalam bahasa Arab: Mahasuci Engkau, wahai Pembebas leher-leher (para h
 
 **[Syarah]**
 
-> «الناسوت» (*an-nasut*) = alam/sifat kemanusiaan (lawan *lahut*, sifat ketuhanan) dalam istilah tasawuf; «إله الناسوت» diterjemahkan «Tuhan alam manusia». Kalimat terpotong di akhir halaman («خلقتني …»); lanjutannya ada di halaman berikutnya (di luar batch ini).
+> «الناسوت» (*an-nasut*) = alam/sifat kemanusiaan (lawan *lahut*, sifat ketuhanan) dalam istilah tasawuf; «إله الناسوت» diterjemahkan «Tuhan alam manusia». Kalimat terpotong di akhir halaman («خلقتني …»); lanjutannya ada di halaman berikutnya (di luar jilid ini).
 
 ---
 
@@ -385,13 +385,13 @@ Tafsirnya dalam bahasa Arab: Mahasuci Engkau, wahai Pembebas leher-leher (para h
 
 **Shinaa'atu khaatamin li-Miitharuun**
 
-*Idzaa aradtastikhdaama haadzal-malaki, fashna' khaatiman min dzahabin fashshuhu min 'aqiiqin ahmara, yakuunu shiyaaghatuhu wa naqsyuhu fii yaumil-jumu'ati, waz-Zuharatu fii syarafihaa wa huwal-huutu fii syarafihi, au yaumis-sabti wa Zuhalu fil-miizaani, au yaumil-ahadi wasy-Syamsu fil-hamali, au yaumil-itsnaini wal-Qamaru fits-Tsauri, au yaumil-khamiisi wal-Musytarii fis-saratani khaalin minal-jauzahar. Wa aymaa daara maa daraa [tercetak وَأَيْمَا دَارَ مَا دَرَى, terbaca *aymā dāra mā darā*; dibaca apa adanya — *aymā* partikel penegas yang sah, meski rangkaiannya tetap janggal] shana'ta dzaalika fii waqtihi yakuunu khaaliyan minan-nuhuus, wa yakuunu dzaalika fii asyhuril-'arabi khaaliyan min asyhuril-hurumi, tsumma tanqusyuhu naqsyan hasanan, wa taghsiluhu ba'da dzaalika bimaa'in jaarin wa milhin, tsumma bimaa'i wardin wa miskin, tsumma tashna'u lahu mahfazhatan min hariirin akhdhar. Wa ta'ahhab bi-idznillaahi fil-wuquufi ilaihi.*
+*Idzaa aradtastikhdaama haadzal-malaki, fashna' khaatiman min dzahabin fashshuhu min 'aqiiqin ahmara, yakuunu shiyaaghatuhu wa naqsyuhu fii yaumil-jumu'ati, waz-Zuharatu fii syarafihaa wa huwal-huutu fii syarafihi, au yaumis-sabti wa Zuhalu fil-miizaani, au yaumil-ahadi wasy-Syamsu fil-hamali, au yaumil-itsnaini wal-Qamaru fits-Tsauri, au yaumil-khamiisi wal-Musytarii fis-saratani khaalin minal-jauzahar. Wa aymaa daara maa daraa shana'ta dzaalika fii waqtihi yakuunu khaaliyan minan-nuhuus, wa yakuunu dzaalika fii asyhuril-'arabi khaaliyan min asyhuril-hurumi, tsumma tanqusyuhu naqsyan hasanan, wa taghsiluhu ba'da dzaalika bimaa'in jaarin wa milhin, tsumma bimaa'i wardin wa miskin, tsumma tashna'u lahu mahfazhatan min hariirin akhdhar. Wa ta'ahhab bi-idznillaahi fil-wuquufi ilaihi.*
 
 **[Terjemahan Indonesia]**
 
 **Pembuatan Cincin untuk Mitharun (kemungkinan Metatron)**
 
-Apabila engkau hendak memanfaatkan malaikat ini, buatlah sebuah cincin dari emas dengan mata cincin dari akik merah. Pembuatan dan pengukirannya dilakukan pada hari Jumat ketika Venus (*az-Zuharah*) berada pada kedudukan puncaknya (*syaraf*), yaitu di buruj Hut (Pisces) pada puncaknya; atau pada hari Sabtu ketika Saturnus (*Zuhal*) di buruj Mizan (Libra); atau hari Ahad ketika Matahari di buruj Hamal (Aries); atau hari Senin ketika Bulan di buruj Tsaur (Taurus); atau hari Kamis ketika Jupiter (*al-Musytari*) di buruj Saratan (Cancer), dalam keadaan bebas dari *al-Jawzahar* (titik simpul Bulan). Dan [tercetak: «wa aymaa daara maa daraa» (أَيْمَا); dipertahankan apa adanya — *aymā* partikel penegas yang sah, meski rangkaiannya tetap janggal]; bila engkau membuatnya pada waktunya, ia bebas dari kesialan-kesialan; dan hendaknya itu dilakukan pada bulan-bulan (kalender) Arab, di luar bulan-bulan haram. Kemudian ukirlah dengan ukiran yang baik; lalu cuci setelah itu dengan air mengalir dan garam, kemudian dengan air mawar dan misik; kemudian buatlah untuknya sebuah wadah dari sutra hijau. Dan bersiaplah — dengan izin Allah — untuk menghadap kepadanya.
+Apabila engkau hendak memanfaatkan malaikat ini, buatlah sebuah cincin dari emas dengan mata cincin dari akik merah. Pembuatan dan pengukirannya dilakukan pada hari Jumat ketika Venus (*az-Zuharah*) berada pada kedudukan puncaknya (*syaraf*), yaitu di buruj Hut (Pisces) pada puncaknya; atau pada hari Sabtu ketika Saturnus (*Zuhal*) di buruj Mizan (Libra); atau hari Ahad ketika Matahari di buruj Hamal (Aries); atau hari Senin ketika Bulan di buruj Tsaur (Taurus); atau hari Kamis ketika Jupiter (*al-Musytari*) di buruj Saratan (Cancer), dalam keadaan bebas dari *al-Jawzahar* (titik simpul Bulan). Dan bila engkau membuatnya pada waktunya, ia bebas dari kesialan-kesialan; dan hendaknya itu dilakukan pada bulan-bulan (kalender) Arab, di luar bulan-bulan haram. Kemudian ukirlah dengan ukiran yang baik; lalu cuci setelah itu dengan air mengalir dan garam, kemudian dengan air mawar dan misik; kemudian buatlah untuknya sebuah wadah dari sutra hijau. Dan bersiaplah — dengan izin Allah — untuk menghadap kepadanya.
 
 **[Syarah]**
 
@@ -427,4 +427,3 @@ Dan inilah rupa cincin untuk Mitharun, sebagaimana yang engkau lihat:
 
 ![Rajah Hal. 5 (cetak 4) — rupa cincin Mitharun](rajah/rajah_p05_khatam_01.png)
 
-*Keterangan rajah: empat baris tulisan pada permukaan cincin. Baris ke-1 dan ke-4 berhuruf Arab bergaya tulisan tangan (bacaan tidak dipastikan, tidak ditebak); baris ke-2 dan ke-3 berupa aksara simbol yang masing-masing digarisbawahi. Kitab hanya menyatakan «sebagaimana engkau lihat» dan tidak memberi cara baca. Gambar dipotong dari pindaian dengan latar putih; ketajamannya mengikuti pindaian (bukan 300 DPI asli).*
