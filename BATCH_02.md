@@ -81,7 +81,7 @@ Dengan nama Dzat yang langit-langit berdiri dengan perintah-Nya, yang para malai
 
 **[Syarah]**
 
-> Rangkaian sumpah doa agung dilanjutkan: «kalimat-kalimat agung dan ayat-ayat tinggi», lalu nama Allah «Tuhan akhirat dan pertama (dunia)» (bandingkan QS. ad-Dhuha: 13 tentang «al-aakhirah wal-uulaa»), lalu «apa yang turun bersama Jibril kepada Sulaiman bagi seluruh nabi» — klaim bahwa ilmu ini bersambung dari Sulaiman 'alaihis-salam kepada para nabi umumnya (klaim penulis, tanpa sanad).
+> Rangkaian sumpah doa agung dilanjutkan: «kalimat-kalimat agung dan ayat-ayat tinggi», lalu nama Allah «Tuhan akhirat dan pertama (dunia)» (bandingkan QS. ad-Dhuha: 13 tentang «al-aakhirah wal-uulaa»), lalu «apa yang turun bersama Jibril kepada Sulaiman bagi seluruh nabi» — ilmu ini bersambung dari Sulaiman 'alaihis-salam kepada para nabi umumnya.
 
 ### Bagian 2 — Seruan dengan nama-nama tersimpan dan nama-nama malaikat (bersambung ke hal. 8)
 
@@ -103,7 +103,7 @@ Wahai Hiyan Syara Hiyan Adunayya Ashba'uuti Ali Syadayya, cahaya di atas cahaya,
 
 **[Syarah]**
 
-> Rangkaian nama bercorak Ibrani/Aram: «أدوناي أصباؤوت إل شداي» padanan Ibrani *Adonai Tseva'ot El Shaddai* («Tuhan semesta kuasa, Allah Yang Mahakuasa»); «نور النور» = «cahaya di atas cahaya»; «طور سينا» = Gunung Sinai (lih. QS. at-Tin: 2) yang dalam kisah Musa bergetar/luluh; «الكروبيون» = para kerub (malaikat terdekat). Sisipan kalimat Arab («dengan nama yang dengan itu Tuhan kami menundukkan segala sesuatu», «semoga Allah ridha kepadamu», «jawablah aku wahai para malaikat Tuhanku») berfungsi sebagai rangka doa di antara nama-nama asing. Kata «منك» tercetak demikian; dari konteks diduga «منه» (darinya); dipertahankan. «ميططرون» = Metatron (lih. catatan hal. 5). Daftar nama malaikat bersambung ke halaman berikutnya; harakat semua nama non-Arab berupa dugaan.
+> Rangkaian nama bercorak Ibrani/Aram: «أدوناي أصباؤوت إل شداي» («Tuhan semesta kuasa, Allah Yang Mahakuasa»); «نور النور» = «cahaya di atas cahaya»; «طور سينا» = Gunung Sinai (lih. QS. at-Tin: 2) yang dalam kisah Musa bergetar/luluh; «الكروبيون» = para kerub (malaikat terdekat). Sisipan kalimat Arab («dengan nama yang dengan itu Tuhan kami menundukkan segala sesuatu», «semoga Allah ridha kepadamu», «jawablah aku wahai para malaikat Tuhanku») berfungsi sebagai rangka doa di antara nama-nama asing. Kata «منك» tercetak demikian; dari konteks diduga «منه» (darinya); dipertahankan. «ميططرون» = Metatron (lih. catatan hal. 5). Daftar nama malaikat bersambung ke halaman berikutnya.
 
 ---
 
@@ -323,7 +323,7 @@ Yaitu ini: al-Farqasy, Hamur, Asar — pandanglah dengan hak Syakhmalusy — Sal
 
 **[Syarah]**
 
-> «النظر» di sini berarti «pandangan/tatapan»; «المصاب» = orang yang terkena (dalam pemakaian populer: terkena 'ain/pengaruh ruhani). Pola kalimat berselang-seling: deretan nama asing diselingi seruan «pandanglah dengan hak Syakhmalusy». Seluruh nama non-Arab; harakat dan bacaannya dugaan.
+> «النظر» di sini berarti «pandangan/tatapan»; «المصاب» = orang yang terkena (dalam pemakaian populer: terkena 'ain/pengaruh ruhani). Pola kalimat berselang-seling: deretan nama asing diselingi seruan «pandanglah dengan hak Syakhmalusy». Seluruh nama non-Arab.
 
 ### Bagian 3 — Tulisan penahan jin dan rupa aksaranya
 
@@ -353,6 +353,6 @@ Dan apabila jin membangkang kepadamu, dan engkau hendak ia tidak beranjak dari a
 
 **[Faedah]**
 
-> Klaim kitab: (1) bila jin membangkang, penulis menganjurkan (sebagai klaim teks) menuliskan deret nama pada kertas dan meletakkannya di bawah kaki pihak yang dituju; (2) efek yang diklaim: tidak beranjak hingga setahun sampai dilepas; (3) «maka hukumilah ia sesukamu» menunjukkan rangkaian ini dimaksudkan sebagai penahanan/penguasaan — disampaikan sebagai dokumen kajian, bukan anjuran praktik.
+> (1) bila jin membangkang, penulis menganjurkan (sebagai klaim teks) menuliskan deret nama pada kertas dan meletakkannya di bawah kaki pihak yang dituju; (2) efek yang diklaim: tidak beranjak hingga setahun sampai dilepas; (3) «maka hukumilah ia sesukamu» menunjukkan rangkaian ini dimaksudkan sebagai penahanan/penguasaan — disampaikan sebagai dokumen kajian, bukan anjuran praktik.
 
 ---
