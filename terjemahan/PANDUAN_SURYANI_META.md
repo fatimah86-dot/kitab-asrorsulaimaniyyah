@@ -1,19 +1,19 @@
 # PANDUAN KAMUS SURYANI META - RUJUKAN WAJIB BATCH 41++
 
-> **CATATAN LINGKUNGAN (ditambahkan Arena, 2026-10-06) — baca dulu.**
-> Perintah `cp /mnt/data/KAMUS_SURYANI_META.json terjemahan/` **tidak bisa dijalankan** di sandbox ini:
-> `/mnt/data` kosong — berkas kamus 799 baris tidak ada di lingkungan Arena, dan tidak ada juga di seluruh
-> ref remote (main, PR 1–20, cabang arena). Yang sekarang ada di repo adalah
-> `terjemahan/KAMUS_SURYANI_META.json` berisi **78 entri terverifikasi** (bukan 799), disusun ulang dari
-> `KAMUS_SURYANI_HAROKAT_LATIN.json` ke format kolom di atas — tanpa entri karangan.
-> **Konsekuensi untuk aturan no. 1:** empat contoh Ism Suryani (هَيّا/HAYYA, الْوْحًا/ALUHAAN,
-> حَاجَ طَخُوْجَ/HAAJA THOKHUUJA, هَيَالٍ/HAYALIN) **tidak ada** di berkas 78 entri itu. Kalau ketemu di
-> batch: jangan tebak, dan jangan pakai berkas repo sebagai dasar menebak — tandai perlu kamus 799 baris.
-> Lampirkan (attach) berkas 799 baris di chat untuk menggantinya. Rincian lengkap di bagian
-> "Catatan lingkungan — rincian" di bawah.
+> **CATATAN LINGKUNGAN (Arena, 2026-10-06) — baca dulu.**
+> **Kamus 799 baris LENGKAP sudah masuk.** `terjemahan/KAMUS_SURYANI_META.json` kini berisi
+> **799 entri** (bukan 78) — diambil dari gist pengguna `2b0cc3bc…` lewat API GitHub, ditulis dengan
+> format 5 kolom persis seperti xlsx asli: Arab (Asli) | Arab Berharokat (Sesuai Latin) | Latin (Bacaan) |
+> Makna / Terjemahan Indonesia | Keterangan / Referensi. Verifikasi: `wc -l` = **799**,
+> `jq length` = **799**. Isi entri tidak diubah — hanya penulannya satu objek per baris agar
+> satu baris = satu entri.
+> **Konsekuensi untuk aturan no. 1:** keempat contoh Ism Suryani **sudah ada** di berkas — HAYYA (#62),
+> الْوْحًا (Latin: `ALUHAN`, #326 — dieja ALUHAN di kamus, bukan ALUHAAN), حَاجَ طَخُوْجَ dan rantai
+> Ism Azimah (#443–449), هَيَالٍ (#317). Riwayat singkat: perintah `cp /mnt/data/...` dan lampiran
+> attachment gagal (3x) — berkas akhirnya masuk via gist. Rincian di "Catatan lingkungan — rincian" bawah.
 
 Sumber: KAMUS_SURYANI_META.json 799 baris
-Format: Arab (Asli) | Arab Berharokat (Sesuai Latin) | Latin (Bacaan) | Makna | Keterangan
+Format: Arab (Asli) | Arab Berharokat (Sesuai Latin) | Latin (Bacaan) | Makna / Terjemahan Indonesia | Keterangan / Referensi
 
 ## Aturan pakai (sama kayak Asraru Sulaimaniyyah 17.2 MB 382 hal):
 
@@ -42,25 +42,33 @@ Format: Arab (Asli) | Arab Berharokat (Sesuai Latin) | Latin (Bacaan) | Makna | 
 | Butir | Nilai |
 |---|---|
 | Perintah asli | `cp /mnt/data/KAMUS_SURYANI_META.json terjemahan/KAMUS_SURYANI_META.json` |
-| Hasil | **GAGAL** — `/mnt/data` kosong; berkas 799 baris tidak ada di sandbox, juga tidak di seluruh ref remote |
-| Isi repo sekarang | `terjemahan/KAMUS_SURYANI_META.json` = **78 entri terverifikasi** (16 inti akar Ibrani + 57 leksikon Suryani + 5 rantai tanpa makna) |
-| Sumber isi | `KAMUS_SURYANI_HAROKAT_LATIN.json` (main `771bc3d`), sudah termasuk `koreksi_2026_10_05` (kolom Latin tabel 2.1 no. 19–31) |
-| Kaidah | Sama dengan `KAMUS_SURYANI_ASROR_35_BATCH.md`: hanya entri berrujukan baris repo; tanpa karangan; bentuk cetak dipertahankan |
+| Hasil | **BERHASIL via gist** — `cp` dari `/mnt/data` gagal (direktori kosong), attachment gagal 3x, isi akhirnya diambil dari gist pengguna `2b0cc3bc216c8c6c74652c2fa6a22179` lewat API GitHub (gist secret; raw URL kena blokir SSL dari sandbox) |
+| Isi repo sekarang | `terjemahan/KAMUS_SURYANI_META.json` = **799 entri**, format 5 kolom: Arab (Asli) \| Arab Berharokat (Sesuai Latin) \| Latin (Bacaan) \| Makna / Terjemahan Indonesia \| Keterangan / Referensi |
+| Verifikasi | `wc -l` = 799 · `jq length` = 799 · `json.load` OK · kolom konsisten di semua entri |
+| Sumber isi | Gist pengguna (KAMUS_SURYANI_META.json, 213.900 byte), isi entri tidak diubah — hanya diformat satu objek per baris |
+| Commit | `63c988c` "KAMUS FULL 799 FIX VALID - bukan 78 - acuan Batch 41 Hal 200-204 Qasam Ammari Kabir - 3 hukum washal + nahwu shorof" |
+
+Catatan QA: 0 sel kolom kosong; 13 Latin muncul dua kali (mis. `AL-HAQQI`, `KADZA WA KADZA`) — dipertahankan apa adanya karena itu data kamus pengguna, bukan duplikat penyuntingan.
 
 ### 2. Konsekuensi untuk aturan no. 1
 
-Empat contoh Ism Suryani pada aturan no. 1 — **هَيّا (HAYYA)**, **الْوْحًا (ALUHAAN)**,
-**حَاجَ طَخُوْجَ (HAAJA THOKHUUJA)**, **هَيَالٍ (HAYALIN)** — **tidak terdapat** di berkas 78 entri.
-Kolom Latin (Bacaan) di berkas repo hanya memuat transliterasi washal yang sudah terverifikasi di
-BATCH_01–35 (mis. *Yaa Hiyan Syaraa Hiyan Adunayya Ashba-uuti Ali Syadayya … wa Yahin*).
-Kalau keempat nama itu muncul di batch: **jangan tebak**, dan jangan pakai berkas repo ini sebagai
-alasan menebak — tandai sebagai "perlu kamus 799 baris".
+Keempat contoh Ism Suryani pada aturan no. 1 **sudah terdapat** di berkas 799 entri:
+
+| Contoh | Entri | Latin (Bacaan) | Makna |
+|---|---|---|---|
+| هَيّا | #62 | `HAYYA` | Segeralah / ayo cepat — Ism fi'il amr Suryani |
+| الْوْحًا | #326 | `ALUHAN` | Segera / cepat (Suryani) — ta'jil. **Dieja `ALUHAN` (satu A) di kamus, bukan `ALUHAAN`** |
+| حَاجَ طَخُوْجَ | #443–449 | `HAAJA / HAAJJ`, `THOKHUUJA`, `THOORIJA / TAARIJA`, `THORKHUUJA`, `THOLAJA`, `THOLUUHIN`, `AKHNUUJ` | Ism Azimah Suryani (rantai, satu entri per kata) |
+| هَيَالٍ | #317 | `HAYALIN HAYALIN` | (diikuti `SAYALIN SAYALIN` #318, `MAYALIN MAYALIN` #319) |
+
+Pelengkap lain yang juga sudah masuk: `WA BARHAMUUTSAA` (#102), `WA SYAIMUUTSAA` (#103) — Ism Ibrani/Suryani.
 
 ### 3. Cara mengganti dengan kamus 799 baris
 
-Lampirkan (attach) berkas `KAMUS_SURYANI_META.json` 799 baris di chat Arena; berkas akan disalin ke
-`terjemahan/KAMUS_SURYANI_META.json` menggantikan subset 78 entri, lalu catatan ini diperbarui.
-Sampai itu terjadi, angka "799" pada baris *Sumber* di atas **tidak berlaku** untuk berkas di repo.
+**Sudah terlaksana** (2026-10-06): berkas 799 baris dari gist pengguna menggantikan subset 78 entri
+(`63c988c`). Kalau kelak ada revisi kamus: kirim URL gist baru (sebagai teks polos, jangan dalam
+perintah — perintah kena strip platform) atau paste isinya; berkas akan ditimpa dan catatan ini
+diperbarui. Angka "799" pada baris *Sumber* di atas sekarang **berlakukan** untuk berkas di repo.
 
 ### 4. Lokasi repo
 
