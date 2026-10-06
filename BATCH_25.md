@@ -1,14 +1,14 @@
-# BATCH 25 — Kajian teks: 20 larik (PDF 82–83)
+# BATCH 25 — Kajian teks: 20 Baris (PDF 82–83)
 
 > **الأسرار السليمانية في العلوم الروحانية** — Dr. Abdullah al-Jundi · al-Mathba'ah ats-Tsaqafiyyah, Bairut<br>
 > Sumber: `hasil/gambar/halaman_082.jpg` dan `hasil/gambar/halaman_083.jpg` (pindaian satu halaman penuh).<br>
-> Cakupan: PDF 82 larik 10–18 dan PDF 83 larik 1–11; nomor nazham 648–667. Lafaz khusus yang tidak terang dipertahankan menurut bentuk cetak dan ditandai dengan catatan bacaan tentatif, bukan diganti diam-diam.
+> Cakupan: PDF 82 Baris 10–18 dan PDF 83 Baris 1–11; nomor nazham 648–667. Lafaz khusus yang tidak terang dipertahankan menurut bentuk cetak dan ditandai dengan catatan bacaan tentatif, bukan diganti diam-diam.
 
 ---
 
 ## Halaman PDF 82 (= cetak 81)
 
-### Bagian 1 — Sambungan seruan dan nama, kitab, serta doa (larik 648–656)
+### Bagian 1 — Sambungan seruan dan nama, kitab, serta doa (Baris 648–656)
 
 **[Teks Arab Asli]**
 
@@ -98,7 +98,7 @@ Wahai [lafaz seruan tidak terbaca jelas], mereka saling berhadapan/berpandangan.
 
 ## Halaman PDF 83 (= cetak 82)
 
-### Bagian 1 — Permohonan ilmu, kejernihan, dan kehidupan hati (larik 657–667)
+### Bagian 1 — Permohonan ilmu, kejernihan, dan kehidupan hati (Baris 657–667)
 
 **[Teks Arab Asli]**
 
@@ -178,7 +178,7 @@ Wahai Tuhanku, anugerahkanlah di dalamnya ilmu dan hikmah.
 
 **[Syarah]**
 
-> (657) Washal membawa rangkaian seruan dari nama-nama pada larik sebelumnya menuju permohonan «يا إلهي». «أنوخ» dua kali dipertahankan sebagai lafaz khusus; vokalnya perkiraan. «بسره» jar-majrur dalam susunan yang tercetak.
+> (657) Washal membawa rangkaian seruan dari nama-nama pada Baris sebelumnya menuju permohonan «يا إلهي». «أنوخ» dua kali dipertahankan sebagai lafaz khusus; vokalnya perkiraan. «بسره» jar-majrur dalam susunan yang tercetak.
 
 > (658) «عظيم له الأملاك حقا تسارعت» terbaca jelas. «له الأملاك» adalah susunan khabari; pada wasal, tanwin «عظيمٌ» bertemu lam «له» dan mengalami idgham tanpa ghunnah. Tanwin «حقًّا» sebelum ta pada «تسارعت» dibaca ikhfa dengan ghunnah.
 

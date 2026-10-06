@@ -1,15 +1,15 @@
-# BATCH 16 — Kajian teks: 20 larik (PDF 72–73)
+# BATCH 16 — Kajian teks: 20 Baris (PDF 72–73)
 
 > **الأسرار السليمانية في العلوم الروحانية** — Dr. Abdullah al-Jundi · al-Mathba'ah ats-Tsaqafiyyah, Bairut
 > Sumber: `kitab/asrorul-sulaimaniyah.pdf` · pindaian halaman penuh 072–073 · edisi kajian
 >
-> Cakupan: 20 larik setelah dua larik awal PDF 72 yang ada di BATCH 15, yaitu PDF 72 larik 3–18 dan PDF 73 larik 1–4 (nomor nazham 468–487). Harakat dan transliterasi ditambahkan untuk edisi kajian; terjemahan dan syarah menerangkan klaim teks, bukan anjuran praktik.
+> Cakupan: 20 Baris setelah dua Baris awal PDF 72 yang ada di BATCH 15, yaitu PDF 72 Baris 3–18 dan PDF 73 Baris 1–4 (nomor nazham 468–487). Harakat dan transliterasi ditambahkan untuk edisi kajian; terjemahan dan syarah menerangkan klaim teks, bukan anjuran praktik.
 
 ---
 
 ## Halaman PDF 72 (= cetak 71)
 
-### Bagian 1 — Sambungan nazham: permohonan dan pengerahan kekuatan (larik 468–483)
+### Bagian 1 — Sambungan nazham: permohonan dan pengerahan kekuatan (Baris 468–483)
 
 **[Teks Arab Asli]**
 
@@ -133,7 +133,7 @@ Dengan menggerakkan ruh-ruh yang berangkat menuju para malaikat.
 
 > (474) Nama-nama Ilahi dan rahasia cahaya dipakai sebagai ungkapan pujian sekaligus sandaran permohonan.
 
-> (475) Larik ini menghubungkan rahasia Tuhan dengan penciptaan alam semesta; bentuk «كوّنتَ» dibaca sebagai “Engkau membentuk”.
+> (475) Baris ini menghubungkan rahasia Tuhan dengan penciptaan alam semesta; bentuk «كوّنتَ» dibaca sebagai “Engkau membentuk”.
 
 > (476) «كَوِّنْ مَطْلَبِي» merupakan permintaan agar maksud pemohon diwujudkan, dengan mengacu pada kuasa penciptaan.
 
@@ -155,7 +155,7 @@ Dengan menggerakkan ruh-ruh yang berangkat menuju para malaikat.
 
 ## Halaman PDF 73 (= cetak 72)
 
-### Bagian 1 — Sambungan nazham: pasukan dan ketundukan (larik 484–487)
+### Bagian 1 — Sambungan nazham: pasukan dan ketundukan (Baris 484–487)
 
 **[Teks Arab Asli]**
 
@@ -193,7 +193,7 @@ dan tunduk dengan sukarela kepada Allah tanpa mendurhakai-Nya.
 
 **[Syarah]**
 
-> (484) Pasukan yang bersiap berangkat melanjutkan citra pengerahan kekuatan pada larik sebelumnya; kata «الجهاد» dibaca sesuai konteks sebagai perjuangan bersenjata dalam nazham ini.
+> (484) Pasukan yang bersiap berangkat melanjutkan citra pengerahan kekuatan pada Baris sebelumnya; kata «الجهاد» dibaca sesuai konteks sebagai perjuangan bersenjata dalam nazham ini.
 
 > (485) Pedang terhunus di jalan Tuhan menjadi gambaran kesiapan pasukan, bukan uraian tentang cara penggunaannya.
 

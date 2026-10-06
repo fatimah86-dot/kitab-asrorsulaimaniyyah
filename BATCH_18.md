@@ -1,15 +1,15 @@
-# BATCH 18 — Kajian teks: 20 larik (PDF 74–75)
+# BATCH 18 — Kajian teks: 20 Baris (PDF 74–75)
 
 > **الأسرار السليمانية في العلوم الروحانية** — Dr. Abdullah al-Jundi · al-Mathba'ah ats-Tsaqafiyyah, Bairut
 > Sumber: `kitab/asrorul-sulaimaniyah.pdf` · pindaian halaman penuh 074–075 · edisi kajian
 >
-> Cakupan: 20 larik lanjutan setelah BATCH 17, yaitu PDF 74 larik 7–17 dan PDF 75 larik 1–9 (nomor nazham 508–527). Harakat dan transliterasi ditambahkan untuk edisi kajian; bagian yang bacaan atau susunannya meragukan diberi catatan.
+> Cakupan: 20 Baris lanjutan setelah BATCH 17, yaitu PDF 74 Baris 7–17 dan PDF 75 Baris 1–9 (nomor nazham 508–527). Harakat dan transliterasi ditambahkan untuk edisi kajian; bagian yang bacaan atau susunannya meragukan diberi catatan.
 
 ---
 
 ## Halaman PDF 74 (= cetak 73)
 
-### Bagian 1 — Sambungan nazham: perlindungan, alam, dan pengerahan (larik 508–518)
+### Bagian 1 — Sambungan nazham: perlindungan, alam, dan pengerahan (Baris 508–518)
 
 **[Teks Arab Asli]**
 
@@ -95,13 +95,13 @@ Aku memohon kepada-Mu, wahai Yang Maha Perkasa, dengan Nama itu: segerakanlah.
 
 > (510) «السحب» berarti awan, sedangkan «الهوى» dapat berarti angin atau hawa. Terjemahan memilih “angin” sesuai rangkaian citra langit.
 
-> (511) Larik menyatukan permohonan agar hujan dicurahkan dengan bentuk lampau «أرسلتُ» (“aku telah mengutus”); susunannya padat.
+> (511) Baris menyatukan permohonan agar hujan dicurahkan dengan bentuk lampau «أرسلتُ» (“aku telah mengutus”); susunannya padat.
 
 > (512) Lautan yang melingkupi dan seluruh isinya melambangkan cakupan alam yang luas.
 
 > (513) «يا ذا الجلال» adalah seruan pengagungan kepada Tuhan; para malaikat disebut sebagai makhluk yang ditundukkan dalam klaim teks.
 
-> (514) Larik memuat dua rangkaian idafa: «دِجْلَةُ بَغْدَادَ» (Tigris Baghdad) dan «نِيلُ فُرَاتِهَا» (Nil Furatnya); keduanya menyambung rangkaian marfu‘ sebelumnya («وَأَمْلَاكُ … تَسَخَّرَتْ»). Dengan begitu «دِجْلَةُ» dan «نِيلُ» adalah mudaf marfu‘, sedangkan «بَغْدَادَ» dan «فُرَاتِهَا» mudaf ilaih majrur («بغداد» mamnu‘ min ash-sharf, sehingga berharakat fatah tanpa tanwin). Terdapat selisih i‘rab pada cetakan: transliterasi Latin menulis «Wa-Dijlata Baghdada wa-nila furatiha» (berharakat fatah, terbaca mansub), sedangkan grafi Arab marfu‘. Selisih itu dicatat apa adanya; teks Arab dan Latin cetakan dipertahankan tanpa dinormalkan.
+> (514) Baris memuat dua rangkaian idafa: «دِجْلَةُ بَغْدَادَ» (Tigris Baghdad) dan «نِيلُ فُرَاتِهَا» (Nil Furatnya); keduanya menyambung rangkaian marfu‘ sebelumnya («وَأَمْلَاكُ … تَسَخَّرَتْ»). Dengan begitu «دِجْلَةُ» dan «نِيلُ» adalah mudaf marfu‘, sedangkan «بَغْدَادَ» dan «فُرَاتِهَا» mudaf ilaih majrur («بغداد» mamnu‘ min ash-sharf, sehingga berharakat fatah tanpa tanwin). Terdapat selisih i‘rab pada cetakan: transliterasi Latin menulis «Wa-Dijlata Baghdada wa-nila furatiha» (berharakat fatah, terbaca mansub), sedangkan grafi Arab marfu‘. Selisih itu dicatat apa adanya; teks Arab dan Latin cetakan dipertahankan tanpa dinormalkan.
 
 > (515) «جحجان» tampak sebagai nama seruan yang tidak dikenal; vokalisasi «Jahjan» tentatif, sehingga nama dan konsonan cetaknya dipertahankan tanpa diterjemahkan.
 
@@ -115,7 +115,7 @@ Aku memohon kepada-Mu, wahai Yang Maha Perkasa, dengan Nama itu: segerakanlah.
 
 ## Halaman PDF 75 (= cetak 74)
 
-### Bagian 1 — Sambungan nazham: hukuman dan pengadilan (larik 519–527)
+### Bagian 1 — Sambungan nazham: hukuman dan pengadilan (Baris 519–527)
 
 **[Teks Arab Asli]**
 

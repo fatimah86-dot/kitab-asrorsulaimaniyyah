@@ -1,14 +1,14 @@
-# BATCH 29 — Kajian teks: 20 larik (PDF 87–88)
+# BATCH 29 — Kajian teks: 20 Baris (PDF 87–88)
 
 > **الأسرار السليمانية في العلوم الروحانية** — Dr. Abdullah al-Jundi · al-Mathba'ah ats-Tsaqafiyyah, Bairut<br>
 > Sumber: `hasil/gambar/halaman_087.jpg` dan `hasil/gambar/halaman_088.jpg` (pindaian halaman penuh, ditinjau berurutan).<br>
-> Cakupan: PDF 87 larik 2–17 dan PDF 88 larik 1–4; nomor nazham 728–747. Baris-baris ini memuat sejumlah nama invokatif yang bentuk cetaknya bertaut atau tidak baku; bagian tersebut dicatat sebagai bacaan tentatif, tanpa normalisasi spekulatif.
+> Cakupan: PDF 87 Baris 2–17 dan PDF 88 Baris 1–4; nomor nazham 728–747. Baris-baris ini memuat sejumlah nama invokatif yang bentuk cetaknya bertaut atau tidak baku; bagian tersebut dicatat sebagai bacaan tentatif, tanpa normalisasi spekulatif.
 
 ---
 
 ## Halaman PDF 87 (= cetak 86)
 
-### Bagian 1 — Sambungan doa: pembukaan ikatan dan penolakan musuh (larik 728–743)
+### Bagian 1 — Sambungan doa: pembukaan ikatan dan penolakan musuh (Baris 728–743)
 
 **[Teks Arab Asli]**
 
@@ -110,7 +110,7 @@ Baris ini berisi nama-nama invokatif; bagian tengahnya tidak dapat dipastikan.
 
 [Nama/fragmen pendek tidak terbaca]; [sambungannya samar].
 
-Pelita [lafaz sesudahnya tidak terbaca]. [Ujung larik samar.]
+Pelita [lafaz sesudahnya tidak terbaca]. [Ujung Baris samar.]
 
 Dengan «Qadad» [nama/fragmen sesudahnya tidak jelas]. [Sisa baris tertutup.]
 
@@ -118,7 +118,7 @@ Baris penutup memuat nama-nama talismanik; beberapa huruf menyerupai «al-shadhi
 
 **[Syarah]**
 
-> (728) «حُلَّ» fi'il amr dan «عقود السحر» menjadi objeknya. Seruan sesudah «يا» berupa nama yang kurang jelas; washāl menghubungkan perintah ini dengan rangkaian nama pada larik berikutnya.
+> (728) «حُلَّ» fi'il amr dan «عقود السحر» menjadi objeknya. Seruan sesudah «يا» berupa nama yang kurang jelas; washāl menghubungkan perintah ini dengan rangkaian nama pada Baris berikutnya.
 
 > (729) Baris didominasi nama invokatif. Karena huruf-hurufnya bertaut pada pindaian, tidak dipaksakan i'rab atau makna leksikal.
 
@@ -142,11 +142,11 @@ Baris penutup memuat nama-nama talismanik; beberapa huruf menyerupai «al-shadhi
 
 > (739) Baris memuat nama-nama bertaut yang tidak cukup jelas untuk diurai menjadi kata Arab biasa.
 
-> (740) Fragmen nama dan sambungan larik sama-sama pudar; keduanya dipertahankan sebagai bagian nazham tanpa pengisian.
+> (740) Fragmen nama dan sambungan Baris sama-sama pudar; keduanya dipertahankan sebagai bagian nazham tanpa pengisian.
 
 > (741) «سراج» terbaca, tetapi kata sesudahnya tidak jelas; karena itu makna “pelita” tidak diperluas melampaui lafaz yang tampak.
 
-> (742) «بقداد» merupakan bacaan tentatif dari bentuk huruf; sisa larik tidak cukup jelas untuk analisis nahwu.
+> (742) «بقداد» merupakan bacaan tentatif dari bentuk huruf; sisa Baris tidak cukup jelas untuk analisis nahwu.
 
 > (743) Penutup halaman berupa nama invokatif. Beberapa gugus huruf tampak menyerupai «الشاذخ» dan «بنوخ», tetapi pelafalan lengkap tidak dipastikan.
 
@@ -154,7 +154,7 @@ Baris penutup memuat nama-nama talismanik; beberapa huruf menyerupai «al-shadhi
 
 ## Halaman PDF 88 (= cetak 87)
 
-### Bagian 1 — Sambungan nazham: nama dan penutup seruan (larik 744–747)
+### Bagian 1 — Sambungan nazham: nama dan penutup seruan (Baris 744–747)
 
 **[Teks Arab Asli]**
 

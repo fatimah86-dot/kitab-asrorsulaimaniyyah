@@ -1,14 +1,14 @@
-# BATCH 23 — Kajian teks: 20 larik (PDF 80–81)
+# BATCH 23 — Kajian teks: 20 Baris (PDF 80–81)
 
 > **الأسرار السليمانية في العلوم الروحانية** — Dr. Abdullah al-Jundi · al-Mathba'ah ats-Tsaqafiyyah, Bairut<br>
 > Sumber: `hasil/gambar/halaman_080.jpg` dan `hasil/gambar/halaman_081.jpg` (pindaian satu halaman penuh; ditinjau berurutan).<br>
-> Cakupan: PDF 80 larik 5–17 dan PDF 81 larik 1–7; nomor nazham 608–627. Nama-nama/mantra yang tidak baku tidak dinormalkan; bentuk huruf yang kurang tegas diberi catatan bacaan.
+> Cakupan: PDF 80 Baris 5–17 dan PDF 81 Baris 1–7; nomor nazham 608–627. Nama-nama/mantra yang tidak baku tidak dinormalkan; bentuk huruf yang kurang tegas diberi catatan bacaan.
 
 ---
 
 ## Halaman PDF 80 (= cetak 79)
 
-### Bagian 1 — Seruan nama dan permohonan (larik 608–620)
+### Bagian 1 — Seruan nama dan permohonan (Baris 608–620)
 
 **[Teks Arab Asli]**
 
@@ -92,19 +92,19 @@ Dengan pelayanan para malaikat, mereka bergegas demi urusanku. [Bentuk dan subje
 
 Dengan nama Arasy, [penghubung singkat tidak jelas], maka semua tunduk. [Bentuk verba jamak dipertahankan sebagaimana tercetak.]
 
-Untuk menaati nama-nama agung yang berkuasa. [Ujung larik pudar.]
+Untuk menaati nama-nama agung yang berkuasa. [Ujung Baris pudar.]
 
-Larik ini berisi rangkaian nama/seruan; huruf-hurufnya terlalu bertaut untuk diterjemahkan dengan aman, sehingga dicatat sebagai baris talismanik yang tidak terbaca utuh.
+Baris ini berisi rangkaian nama/seruan; huruf-hurufnya terlalu bertaut untuk diterjemahkan dengan aman, sehingga dicatat sebagai baris talismanik yang tidak terbaca utuh.
 
 Dengan nama [lafaz yang kira-kira terbaca «Shankh/Shunukh»], wahai Yang Mahaagung. [Sisa baris tampak menyerupai «tashakhkhasat», tetapi belum pasti.]
 
 **[Syarah]**
 
-> (608) Seruan «ويا» diikuti nama yang pada pindaian paling dekat dengan «ثبرات», lalu «شامخ» dan «قد تشخصت». Nama itu bukan kata baku yang dapat dipaksakan artinya. «تشخصت» berbentuk verba feminin; subjeknya tidak dinyatakan. Washal meneruskan rangkaian seruan dari larik sebelumnya.
+> (608) Seruan «ويا» diikuti nama yang pada pindaian paling dekat dengan «ثبرات», lalu «شامخ» dan «قد تشخصت». Nama itu bukan kata baku yang dapat dipaksakan artinya. «تشخصت» berbentuk verba feminin; subjeknya tidak dinyatakan. Washal meneruskan rangkaian seruan dari Baris sebelumnya.
 
 > (609) «بسرّ» adalah jar-majrur; sesudahnya tampak beberapa nama yang bentuknya kurang tegas, lalu «بسرّه». Nama-nama itu dicatat menurut rupa cetak dan tidak diberi i'rab atau makna rekaan.
 
-> (610) «بشنخ» tampak sebagai nama/seruan, sedangkan «له المجد» terbaca lebih jelas. Pada «له» jar-majrur mendahului «المجد» sebagai pokok pujian; kelanjutan larik masih samar.
+> (610) «بشنخ» tampak sebagai nama/seruan, sedangkan «له المجد» terbaca lebih jelas. Pada «له» jar-majrur mendahului «المجد» sebagai pokok pujian; kelanjutan Baris masih samar.
 
 > (611) «إلهي» seruan kepada Tuhan; «لقد» memberi penegasan. Kata setelahnya tampak seperti «أنت», tetapi susunan «لقد أنت باسمك داعياً» ganjil, maka tidak diperbaiki diam-diam. «داعياً» dibaca sebagai bentuk mansub yang tampak pada teks.
 
@@ -120,9 +120,9 @@ Dengan nama [lafaz yang kira-kira terbaca «Shankh/Shunukh»], wahai Yang Mahaag
 
 > (617) «باسم العرش» jar-majrur; «فالكل» menjadi pokok kalimat. Bentuk «يخضعوا» dipertahankan persis sesuai cetakan meskipun tidak mengikuti kesesuaian standar yang diharapkan untuk «الكل». Washal menyambungkan penyebutan Arasy dengan ketundukan.
 
-> (618) «لطاعة أسماء عظام» adalah frasa jar-majrur; «تسلطت» verba feminin yang dapat mengikuti «أسماء» sebagai jamak tak berakal. Ujung larik tidak cukup jelas untuk tambahan bacaan.
+> (618) «لطاعة أسماء عظام» adalah frasa jar-majrur; «تسلطت» verba feminin yang dapat mengikuti «أسماء» sebagai jamak tak berakal. Ujung Baris tidak cukup jelas untuk tambahan bacaan.
 
-> (619) Pada baris ini huruf nama-nama talismanik saling bertaut; beberapa bentuk menyerupai «شروح» dan «شبحج», tetapi tidak cukup pasti untuk ditranskripsikan sebagai kata. Satu larik tetap dipertahankan dengan catatan deskriptif, bukan dilengkapi lewat tebakan.
+> (619) Pada baris ini huruf nama-nama talismanik saling bertaut; beberapa bentuk menyerupai «شروح» dan «شبحج», tetapi tidak cukup pasti untuk ditranskripsikan sebagai kata. Satu Baris tetap dipertahankan dengan catatan deskriptif, bukan dilengkapi lewat tebakan.
 
 > (620) «باسم» dan seruan «يا عظيم» terbaca; nama di antara keduanya hanya terbaca tentatif sebagai «شنخ/شنوخ». Sisa bentuk yang menyerupai «تشخصت» juga belum pasti. «باسم» jar-majrur dan «يا عظيم» munada.
 
@@ -130,7 +130,7 @@ Dengan nama [lafaz yang kira-kira terbaca «Shankh/Shunukh»], wahai Yang Mahaag
 
 ## Halaman PDF 81 (= cetak 80)
 
-### Bagian 1 — Nama-nama penundukan (larik 621–627)
+### Bagian 1 — Nama-nama penundukan (Baris 621–627)
 
 **[Teks Arab Asli]**
 
@@ -174,7 +174,7 @@ Dengan «Kafkh» [nama berikutnya tampak seperti «Tantanj»] dan «Sharish» [v
 
 «Bathush, bathush, thuwaysh» [nama-nama yang diulang]; ujungnya tampak berbunyi «tasallatat».
 
-Dengan keagungan [lafaz di tengah kurang pasti], Yang kuat dan Yang menundukkan. [Tepi larik pudar.]
+Dengan keagungan [lafaz di tengah kurang pasti], Yang kuat dan Yang menundukkan. [Tepi Baris pudar.]
 
 Aku telah menundukkan seluruh para pemberontak dan siapa pun yang durhaka.
 
@@ -182,7 +182,7 @@ Dengan «Than» [beberapa lafaz pendek setelahnya tidak terbaca jelas sampai uju
 
 Dengan «Shankh» [nama setelahnya samar], melalui penundukan terhadap siapa pun yang durhaka. [Penutup pudar.]
 
-Dengan «Than» [lafaz nama sesudahnya tertutup], wahai Tuhanku. [Sisa larik tidak terbaca.]
+Dengan «Than» [lafaz nama sesudahnya tertutup], wahai Tuhanku. [Sisa Baris tidak terbaca.]
 
 **[Syarah]**
 
@@ -192,10 +192,10 @@ Dengan «Than» [lafaz nama sesudahnya tertutup], wahai Tuhanku. [Sisa larik tid
 
 > (623) «بعزة» dan «قوي وقاهر» tampak; kata di antara «بعزة» dan sifat-sifat itu kurang pasti. «بعزة» jar-majrur, sementara «قوي» dan «قاهر» terbaca sebagai sifat, tetapi kaitan nahwunya tidak cukup jelas untuk dinormalkan.
 
-> (624) «قهرت جميع الماردين ومن عصت» terbaca jelas. «قهرت» fi'il madhi orang pertama; «جميع الماردين» maf'ul bih, sedangkan «من عصت» menyambung dengan kata relatif «من» dan verba feminin «عصت». Washal menghubungkan permohonan penundukan ini dengan nama-nama pada larik berikutnya.
+> (624) «قهرت جميع الماردين ومن عصت» terbaca jelas. «قهرت» fi'il madhi orang pertama; «جميع الماردين» maf'ul bih, sedangkan «من عصت» menyambung dengan kata relatif «من» dan verba feminin «عصت». Washal menghubungkan permohonan penundukan ini dengan nama-nama pada Baris berikutnya.
 
 > (625) Baris dimulai dengan «بطن» atau nama yang sangat dekat bentuknya; kelompok lafaz sesudahnya terlalu samar untuk ditetapkan. Nama-nama tidak diterjemahkan seolah-olah kata Arab biasa.
 
-> (626) «بشنخ» dan «بالقهر من عصت» tampak; nama di antaranya dan penutupnya pudar. «بالقهر» jar-majrur, sedangkan «من عصت» adalah sambungan relatif yang menyerupai penutup larik 624.
+> (626) «بشنخ» dan «بالقهر من عصت» tampak; nama di antaranya dan penutupnya pudar. «بالقهر» jar-majrur, sedangkan «من عصت» adalah sambungan relatif yang menyerupai penutup Baris 624.
 
 > (627) «يا إلهي» terbaca jelas setelah nama yang tampak seperti «بطن». «يا» huruf nida' dan «إلهي» munada mudaf; kata-kata sisanya terlalu samar untuk dilengkapi. Washal menyambungkan doa ini dengan lanjutan nazham pada BATCH 24.

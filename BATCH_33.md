@@ -1,14 +1,14 @@
-# BATCH 33 — Kajian teks: 20 larik (PDF 91–92)
+# BATCH 33 — Kajian teks: 20 Baris (PDF 91–92)
 
 > **الأسرار السليمانية في العلوم الروحانية** — Dr. Abdullah al-Jundi · al-Mathba'ah ats-Tsaqafiyyah, Bairut<br>
 > Sumber: `hasil/gambar/halaman_091.jpg` dan `hasil/gambar/halaman_092.jpg` (pindaian halaman penuh).<br>
-> Cakupan: PDF 91 larik 13–17 dan PDF 92 larik 1–15; nomor nazham 808–827. Bagian yang memuat nama atau istilah tidak baku ditandai dengan uraian letak dan rupa hurufnya, bukan dengan pengganti spekulatif.
+> Cakupan: PDF 91 Baris 13–17 dan PDF 92 Baris 1–15; nomor nazham 808–827. Bagian yang memuat nama atau istilah tidak baku ditandai dengan uraian letak dan rupa hurufnya, bukan dengan pengganti spekulatif.
 
 ---
 
 ## Halaman PDF 91 (= cetak 90)
 
-### Bagian 1 — Penutup doa dan permohonan ampun (larik 808–812)
+### Bagian 1 — Penutup doa dan permohonan ampun (Baris 808–812)
 
 **[Teks Arab Asli]**
 
@@ -66,7 +66,7 @@ Dan dari setiap dosa dalam catatan [kata terakhir menyerupai «تبت»; makna b
 
 ## Halaman PDF 92 (= cetak 91)
 
-### Bagian 1 — Perlindungan, penundukan, dan doa penutup (larik 813–827)
+### Bagian 1 — Perlindungan, penundukan, dan doa penutup (Baris 813–827)
 
 **[Teks Arab Asli]**
 
@@ -140,7 +140,7 @@ Dan dari setiap dosa dalam catatan [kata terakhir menyerupai «تبت»; makna b
 
 Dan penghapusan dosa-dosaku serta seluruh kesalahan.
 
-Dan ampunan yang tetap di dalam Kitab telah sempurna. [Susunan larik dipadatkan.]
+Dan ampunan yang tetap di dalam Kitab telah sempurna. [Susunan Baris dipadatkan.]
 
 Aku menitipkan permohonanku kepada Allah Yang Maha Menjaga.
 
@@ -148,7 +148,7 @@ Dan penaklukan para raja melalui pembacaan… [penutup hanya tampak menyerupai �
 
 Dan penaklukan para raja jin seluruhnya… [kata sesudahnya samar.]
 
-Dan pembakaran para penolong yang berlaku angkuh terhadapku. [Hubungan sintaksis larik tidak sepenuhnya jelas.]
+Dan pembakaran para penolong yang berlaku angkuh terhadapku. [Hubungan sintaksis Baris tidak sepenuhnya jelas.]
 
 Penghardikan para raja jin seluruhnya agar tunduk pada ketaatanku.
 

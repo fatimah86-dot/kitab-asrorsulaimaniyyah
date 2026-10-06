@@ -7,7 +7,7 @@
 
 ## Halaman PDF 46 (= cetak 45)
 
-### Bagian 1 — Sambungan nazham Cara Kecil (larik 11–28)
+### Bagian 1 — Sambungan nazham Cara Kecil (Baris 11–28)
 
 **[Teks Arab Asli]**
 
@@ -131,7 +131,7 @@ dengan Mihrasy, maka Figham — dengannya api telah dipadamkan.
 
 ## Halaman PDF 47 (= cetak 46)
 
-### Bagian 1 — Sambungan nazham (larik 29–47)
+### Bagian 1 — Sambungan nazham (Baris 29–47)
 
 **[Teks Arab Asli]**
 
@@ -261,7 +261,7 @@ dan curahkanlah atasku rezeki, curahan rahmat.
 
 ## Halaman PDF 48 (= cetak 47)
 
-### Bagian 1 — Sambungan nazham (larik 48–66)
+### Bagian 1 — Sambungan nazham (Baris 48–66)
 
 **[Teks Arab Asli]**
 
@@ -391,7 +391,7 @@ dengan Bahrah Tabriz, dengan salam, semuanya terbentuk.
 
 ## Halaman PDF 49 (= cetak 48)
 
-### Bagian 1 — Sambungan nazham (larik 67–85)
+### Bagian 1 — Sambungan nazham (Baris 67–85)
 
 **[Teks Arab Asli]**
 
@@ -521,7 +521,7 @@ dengan-Mu kelapangan dan daya yang kuat, bagi siapa yang datang.
 
 ## Halaman PDF 50 (= cetak 49)
 
-### Bagian 1 — Sambungan nazham (larik 86–104, bersambung)
+### Bagian 1 — Sambungan nazham (Baris 86–104, bersambung)
 
 **[Teks Arab Asli]**
 

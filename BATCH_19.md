@@ -1,15 +1,15 @@
-# BATCH 19 — Kajian teks: 20 larik (PDF 75–76)
+# BATCH 19 — Kajian teks: 20 Baris (PDF 75–76)
 
 > **الأسرار السليمانية في العلوم الروحانية** — Dr. Abdullah al-Jundi · al-Mathba'ah ats-Tsaqafiyyah, Bairut
 > Sumber: `kitab/asrorul-sulaimaniyah.pdf` · pindaian halaman penuh 075–076 · edisi kajian
 >
-> Cakupan: 20 larik lanjutan setelah BATCH 18, yaitu PDF 75 larik 10–17 dan PDF 76 larik 1–12 (nomor nazham 528–547). Harakat dan transliterasi ditambahkan untuk edisi kajian; lafaz yang bacaan atau susunannya kurang jelas diberi catatan.
+> Cakupan: 20 Baris lanjutan setelah BATCH 18, yaitu PDF 75 Baris 10–17 dan PDF 76 Baris 1–12 (nomor nazham 528–547). Harakat dan transliterasi ditambahkan untuk edisi kajian; lafaz yang bacaan atau susunannya kurang jelas diberi catatan.
 
 ---
 
 ## Halaman PDF 75 (= cetak 74)
 
-### Bagian 1 — Sambungan nazham: para penguasa api dan hukuman (larik 528–535)
+### Bagian 1 — Sambungan nazham: para penguasa api dan hukuman (Baris 528–535)
 
 **[Teks Arab Asli]**
 
@@ -75,7 +75,7 @@ dengan belenggu dari sijil; azab itu pun terus berlanjut. [Lafaz “sijil” dan
 
 > (529) «ويل» dan «سجل» terbaca demikian pada cetakan, tetapi kaitan keduanya dengan «تسارعت» tidak terang; kedua lafaz dipertahankan tanpa menormalkan susunan.
 
-> (530) «السعير» dan «اللظى» sama-sama menggambarkan nyala api yang dahsyat, sehingga larik ini memperkuat citra hukuman.
+> (530) «السعير» dan «اللظى» sama-sama menggambarkan nyala api yang dahsyat, sehingga Baris ini memperkuat citra hukuman.
 
 > (531) Rangkaian «لإحراق أهوال لاسمك قد عصت» sulit dipastikan susunan dan rujukannya; terjemahan mempertahankan makna sedekat mungkin tanpa membetulkan diam-diam.
 
@@ -91,7 +91,7 @@ dengan belenggu dari sijil; azab itu pun terus berlanjut. [Lafaz “sijil” dan
 
 ## Halaman PDF 76 (= cetak 75)
 
-### Bagian 1 — Sambungan nazham: rantai dan api Jahanam (larik 536–547)
+### Bagian 1 — Sambungan nazham: rantai dan api Jahanam (Baris 536–547)
 
 **[Teks Arab Asli]**
 
@@ -183,7 +183,7 @@ Dan para malaikatnya, dengan pembakaran secara bersama—aku bertawakal. [Susuna
 
 > (538) «الزبانية» dikenal sebagai para penjaga atau pelaksana azab Jahanam; di sini mereka diseru agar segera bertindak.
 
-> (539) Larik ini menyandingkan pembakaran dan penyiksaan terhadap kaum yang digambarkan melampaui batas; susunannya padat.
+> (539) Baris ini menyandingkan pembakaran dan penyiksaan terhadap kaum yang digambarkan melampaui batas; susunannya padat.
 
 > (540) «مالك» dipertahankan sebagai nama Mālik, yang dalam tradisi Islam dikenal sebagai penjaga neraka.
 
@@ -191,7 +191,7 @@ Dan para malaikatnya, dengan pembakaran secara bersama—aku bertawakal. [Susuna
 
 > (542) Jahanam dan kobaran apinya digambarkan terus-menerus menghimpun para sasaran hukuman.
 
-> (543) «سعير» berarti api yang menyala-nyala; rantai dan api menjadi dua gambaran hukuman dalam larik ini.
+> (543) «سعير» berarti api yang menyala-nyala; rantai dan api menjadi dua gambaran hukuman dalam Baris ini.
 
 > (544) «أعوان نيران مالك» menggambarkan para pembantu atau pelaksana yang mengumpulkan mereka.
 

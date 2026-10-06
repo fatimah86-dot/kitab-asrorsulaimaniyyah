@@ -1,14 +1,14 @@
-# BATCH 26 — Kajian teks: 20 larik (PDF 83–84)
+# BATCH 26 — Kajian teks: 20 Baris (PDF 83–84)
 
 > **الأسرار السليمانية في العلوم الروحانية** — Dr. Abdullah al-Jundi · al-Mathba'ah ats-Tsaqafiyyah, Bairut<br>
 > Sumber: `hasil/gambar/halaman_083.jpg` dan `hasil/gambar/halaman_084.jpg` (pindaian satu halaman penuh).<br>
-> Cakupan: PDF 83 larik 12–17 dan PDF 84 larik 1–14; nomor nazham 668–687. Nama dan fragmen yang samar dicatat sebagai bacaan tentatif berdasarkan bentuk cetak.
+> Cakupan: PDF 83 Baris 12–17 dan PDF 84 Baris 1–14; nomor nazham 668–687. Nama dan fragmen yang samar dicatat sebagai bacaan tentatif berdasarkan bentuk cetak.
 
 ---
 
 ## Halaman PDF 83 (= cetak 82)
 
-### Bagian 1 — Sambungan doa: penyucian, keyakinan, dan cahaya (larik 668–673)
+### Bagian 1 — Sambungan doa: penyucian, keyakinan, dan cahaya (Baris 668–673)
 
 **[Teks Arab Asli]**
 
@@ -74,7 +74,7 @@ Curahkanlah hujan rahmat ke atas hatiku.
 
 ## Halaman PDF 84 (= cetak 83)
 
-### Bagian 1 — Doa atas hikmah, perlindungan, dan pemadaman api (larik 674–687)
+### Bagian 1 — Doa atas hikmah, perlindungan, dan pemadaman api (Baris 674–687)
 
 **[Teks Arab Asli]**
 
@@ -178,13 +178,13 @@ Dengan «Ḍamām Niẓām», dengan cahaya dan sinar.
 
 > (676) «هيبة مولانا العظيم بنا علت» terbaca. «هيبة» menjadi fa'il bagi «علت»; «مولانا» mudaf ilaih, sedangkan «العظيم» sifatnya.
 
-> (677) «فسبحانك اللهم يا خير بارئ» adalah tasbih dan seruan. «يا خير» munada mudaf; bila disambung ke larik berikutnya, tanwin «بارئٍ» bertemu waw dan dibaca idgham bighunnah.
+> (677) «فسبحانك اللهم يا خير بارئ» adalah tasbih dan seruan. «يا خير» munada mudaf; bila disambung ke Baris berikutnya, tanwin «بارئٍ» bertemu waw dan dibaca idgham bighunnah.
 
 > (678) «ويا خير خلاق له الخلق» terbaca; bacaan «أمنت» dan fragmen pendek sebelumnya tentatif. «له الخلق» susunan khabari; «أمنت» tidak diberi objek tambahan yang tak tercetak.
 
 > (679) «أفض لي من الأنوار فيضة مشرقة» merupakan permohonan. «أفض» fi'il amr; «لي» dan «من الأنوار» jar-majrur, sementara «فيضةً» maf'ul bih dan «مشرقةً» sifatnya.
 
-> (680) «علي وأحي ميت قلبي بلطفك» menyambung «عليّ» dengan limpahan pada larik sebelumnya, lalu memohon kehidupan hati. «أحيِ» fi'il amr; «ميت قلبي» maf'ul bih dalam susunan idafa.
+> (680) «علي وأحي ميت قلبي بلطفك» menyambung «عليّ» dengan limpahan pada Baris sebelumnya, lalu memohon kehidupan hati. «أحيِ» fi'il amr; «ميت قلبي» maf'ul bih dalam susunan idafa.
 
 > (681) «ألا وألبسني هيبة وجلالة» adalah perintah; «هيبة» dan «جلالة» menjadi objek yang dimohonkan.
 

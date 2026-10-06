@@ -1,15 +1,15 @@
-# BATCH 22 — Kajian teks: 20 larik (PDF 79–80)
+# BATCH 22 — Kajian teks: 20 Baris (PDF 79–80)
 
 > **الأسرار السليمانية في العلوم الروحانية** — Dr. Abdullah al-Jundi · al-Mathba'ah ats-Tsaqafiyyah, Bairut
 > Sumber: `kitab/asrorul-sulaimaniyah.pdf` · pindaian halaman penuh 079–080 · edisi kajian
 >
-> Cakupan: 20 larik lanjutan setelah BATCH 21, yaitu PDF 79 larik 2–17 dan PDF 80 larik 1–4 (nomor nazham 588–607). Pada beberapa lafaz halaman 79–80, cetakan kecil atau kurang jelas; bacaan yang belum mantap disertai catatan deskriptif, tanpa normalisasi atau tebakan diam-diam.
+> Cakupan: 20 Baris lanjutan setelah BATCH 21, yaitu PDF 79 Baris 2–17 dan PDF 80 Baris 1–4 (nomor nazham 588–607). Pada beberapa lafaz halaman 79–80, cetakan kecil atau kurang jelas; bacaan yang belum mantap disertai catatan deskriptif, tanpa normalisasi atau tebakan diam-diam.
 
 ---
 
 ## Halaman PDF 79 (= cetak 78)
 
-### Bagian 1 — Sambungan nazham: nama dan seruan (larik 588–603)
+### Bagian 1 — Sambungan nazham: nama dan seruan (Baris 588–603)
 
 **[Teks Arab Asli]**
 
@@ -85,7 +85,7 @@
 
 **[Terjemahan Indonesia]**
 
-«Liyāshish» (bacaan tidak pasti) disebut bersama Nama dan «sa'di»; akhir larik tampak berbunyi «أقبلت». [Susunan tidak jelas.]
+«Liyāshish» (bacaan tidak pasti) disebut bersama Nama dan «sa'di»; akhir Baris tampak berbunyi «أقبلت». [Susunan tidak jelas.]
 
 Beberapa lafaz pada baris ini tidak cukup jelas untuk diterjemahkan dengan pasti; tampak bagian «بزهره» dan «بسره».
 
@@ -121,7 +121,7 @@ Dengan nama Yang Agung, dengan kebesaran; tiada penakluk. [Susunan pada cetakan 
 
 > (588) «لياشش» tampak sebagai nama/lafaz khusus; bentuk dan kaitannya dengan «بالاسم سعدي أقبلت» tidak dapat dipastikan dari cetakan.
 
-> (589) Beberapa kata di larik ini tidak terbaca dengan cukup pasti. Fragmen «بزهره» dan «بسره» dipertahankan tanpa ditafsirkan berlebihan.
+> (589) Beberapa kata di Baris ini tidak terbaca dengan cukup pasti. Fragmen «بزهره» dan «بسره» dipertahankan tanpa ditafsirkan berlebihan.
 
 > (590) «بماء كثير» dan «عزة علت» relatif terbaca, tetapi kata penghubung di antaranya meragukan.
 
@@ -129,13 +129,13 @@ Dengan nama Yang Agung, dengan kebesaran; tiada penakluk. [Susunan pada cetakan 
 
 > (592) «إلهي» dan «بالاسم سعدي» terbaca; «بطوران» serta «قد نبت» dipertahankan sebagai bacaan sementara.
 
-> (593) Seruan kepada Allah dan kata «سرًّا» (secara rahasia) tampak, sementara bagian akhir larik tidak jelas.
+> (593) Seruan kepada Allah dan kata «سرًّا» (secara rahasia) tampak, sementara bagian akhir Baris tidak jelas.
 
 > (594) «بالاسم عوني» serta «تسخرت» terbaca; nama/lafaz sebelum itu tidak dipastikan.
 
 > (595) Fragmen «عزمي قوي» tampak; susunan selebihnya tidak cukup jelas untuk dinormalkan.
 
-> (596) Sebagian besar larik tidak dapat dibaca dengan pasti; bentuk akhir ditandai sebagai dugaan.
+> (596) Sebagian besar Baris tidak dapat dibaca dengan pasti; bentuk akhir ditandai sebagai dugaan.
 
 > (597) «له المجد والسنا» berarti bagi-Nya kemegahan dan cahaya; bagian awal tidak jelas.
 
@@ -147,7 +147,7 @@ Dengan nama Yang Agung, dengan kebesaran; tiada penakluk. [Susunan pada cetakan 
 
 > (601) Bagian «يا إلهي بجاهه» merupakan seruan kepada Tuhan; lafaz yang mendahuluinya tidak jelas.
 
-> (602) Beberapa kata pada larik ini meragukan; «السعد» dan «أقبلت» tampak pada cetakan dan dipertahankan.
+> (602) Beberapa kata pada Baris ini meragukan; «السعد» dan «أقبلت» tampak pada cetakan dan dipertahankan.
 
 > (603) «باسم جليل» berarti “dengan nama yang agung”; susunan «بزهو لا قاهر» terasa tidak lazim dan tetap disalin sesuai cetakan tanpa penataan ulang.
 
@@ -155,7 +155,7 @@ Dengan nama Yang Agung, dengan kebesaran; tiada penakluk. [Susunan pada cetakan 
 
 ## Halaman PDF 80 (= cetak 79)
 
-### Bagian 1 — Sambungan nazham: permohonan agar tujuan tercapai (larik 604–607)
+### Bagian 1 — Sambungan nazham: permohonan agar tujuan tercapai (Baris 604–607)
 
 **[Teks Arab Asli]**
 
@@ -193,10 +193,10 @@ Wahai «قرمز», percepatlah keberhasilan tujuan-tujuanku. [Nama non-Arab; pe
 
 **[Syarah]**
 
-> (604) Bagian awal larik sulit dibaca; fragmen «نار الجن تمردت» dipertahankan secara literal tanpa menyusun ulang maknanya.
+> (604) Bagian awal Baris sulit dibaca; fragmen «نار الجن تمردت» dipertahankan secara literal tanpa menyusun ulang maknanya.
 
 > (605) «قرمز» terbaca di antara «يا» dan «أسرع» pada PDF 80, baris 2. Nama ini non-Arab; pelafalannya belum dapat dipastikan, sehingga bentuk cetak dipertahankan tanpa harakat. «أسرع» dan «مقاصدي» juga terbaca; «بنجح مقاصدي» dipertahankan meski susunannya tidak lazim.
 
 > (606) «فالملوك تسارعت» tampak pada cetakan; bagian awal tidak cukup jelas untuk diterjemahkan dengan aman.
 
-> (607) «يا إلهي» dan «المالكي» terbaca, tetapi awal larik dan hubungan katanya meragukan.
+> (607) «يا إلهي» dan «المالكي» terbaca, tetapi awal Baris dan hubungan katanya meragukan.

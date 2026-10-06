@@ -1,9 +1,9 @@
-# BATCH 15 — Kajian teks: 20 larik (PDF 71–72)
+# BATCH 15 — Kajian teks: 20 Baris (PDF 71–72)
 
 > **الأسرار السليمانية في العلوم الروحانية** — Dr. Abdullah al-Jundi · al-Mathba'ah ats-Tsaqafiyyah, Bairut
 > Sumber: `kitab/asrorul-sulaimaniyah.pdf` · pindaian halaman penuh 071–072 · edisi kajian
 >
-> **Cakupan:** Berkas BATCH_15.md tidak tersedia saat penomoran ini ditetapkan, sehingga posisi “baris 110” tidak dapat diverifikasi. Cakupan mengikuti urutan cetak yang dapat diperiksa: 18 larik PDF 71 dan 2 larik pertama PDF 72; nomor nazham 448–467.
+> **Cakupan:** Berkas BATCH_15.md tidak tersedia saat penomoran ini ditetapkan, sehingga posisi “baris 110” tidak dapat diverifikasi. Cakupan mengikuti urutan cetak yang dapat diperiksa: 18 Baris PDF 71 dan 2 Baris pertama PDF 72; nomor nazham 448–467.
 >
 > Harakat dan transliterasi ditambahkan untuk edisi kajian. Bentuk cetak yang kurang lazim dipertahankan dengan catatan deskriptif; terjemahan menyampaikan klaim teks, bukan anjuran praktik.
 
@@ -11,7 +11,7 @@
 
 ## Halaman PDF 71 (= cetak 70)
 
-### Bagian 1 — Sambungan nazham: permohonan penundukan dan pengerahan (larik 448–465)
+### Bagian 1 — Sambungan nazham: permohonan penundukan dan pengerahan (Baris 448–465)
 
 **[Teks Arab Asli]**
 
@@ -135,7 +135,7 @@ dan guncangkanlah mereka dari segala penjuru hingga semuanya bergetar.
 
 ## Halaman PDF 72 (= cetak 71)
 
-### Bagian 1 — Sambungan nazham (dua larik awal; larik 466–467)
+### Bagian 1 — Sambungan nazham (dua Baris awal; Baris 466–467)
 
 **[Teks Arab Asli]**
 

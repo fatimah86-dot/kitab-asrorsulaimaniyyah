@@ -1,15 +1,15 @@
-# BATCH 21 — Kajian teks: 20 larik (PDF 77–79)
+# BATCH 21 — Kajian teks: 20 Baris (PDF 77–79)
 
 > **الأسرار السليمانية في العلوم الروحانية** — Dr. Abdullah al-Jundi · al-Mathba'ah ats-Tsaqafiyyah, Bairut
 > Sumber: `kitab/asrorul-sulaimaniyah.pdf` · pindaian halaman penuh 077–079 · edisi kajian
 >
-> Cakupan: 20 larik lanjutan setelah BATCH 20, yaitu PDF 77 larik 16–17, PDF 78 larik 1–17, dan PDF 79 larik 1 (nomor nazham 568–587). Harakat dan transliterasi ditambahkan untuk edisi kajian; lafaz yang bacaan atau susunannya meragukan diberi catatan.
+> Cakupan: 20 Baris lanjutan setelah BATCH 20, yaitu PDF 77 Baris 16–17, PDF 78 Baris 1–17, dan PDF 79 Baris 1 (nomor nazham 568–587). Harakat dan transliterasi ditambahkan untuk edisi kajian; lafaz yang bacaan atau susunannya meragukan diberi catatan.
 
 ---
 
 ## Halaman PDF 77 (= cetak 76)
 
-### Bagian 1 — Sambungan nazham: seruan dan pengerahan (larik 568–569)
+### Bagian 1 — Sambungan nazham: seruan dan pengerahan (Baris 568–569)
 
 **[Teks Arab Asli]**
 
@@ -43,7 +43,7 @@ Demi para penghalau dan para «saharat», bagi siapa pun yang durhaka. [Bentuk �
 
 ## Halaman PDF 78 (= cetak 77)
 
-### Bagian 1 — Sambungan nazham: seruan, cahaya, dan penundukan (larik 570–586)
+### Bagian 1 — Sambungan nazham: seruan, cahaya, dan penundukan (Baris 570–586)
 
 **[Teks Arab Asli]**
 
@@ -165,7 +165,7 @@ Dengan nama Liyārūsh, dengan kekuatan penaklukan-Nya. [Nama ini dipertahankan 
 
 > (572) «الناشرات» dan «الفارقات» berarti para penebar dan pemisah; rujukan pronomina pada «بجنبها» tidak jelas.
 
-> (573) Larik menggabungkan para rasul, kelompok-kelompok, dan «حزبي» (“kelompokku”), tetapi bentuk «تحررت» membuat hubungan gramatikalnya tidak pasti.
+> (573) Baris menggabungkan para rasul, kelompok-kelompok, dan «حزبي» (“kelompokku”), tetapi bentuk «تحررت» membuat hubungan gramatikalnya tidak pasti.
 
 > (574) Saksi pada folio 77 berbunyi «وبالنور والأنوار فأحرق معاندي». «معاندي» dipahami sebagai “para penentangku”; pelaku pada verba «أحرق» tidak disebutkan secara eksplisit.
 
@@ -175,7 +175,7 @@ Dengan nama Liyārūsh, dengan kekuatan penaklukan-Nya. [Nama ini dipertahankan 
 
 > (577) Pedang dan pasukan menjadi gambaran pengerahan kekuatan terhadap pihak yang memberontak.
 
-> (578) «القَهَّار» adalah seruan kepada Yang Maha Menundukkan; larik memohon tindakan terhadap orang yang melampaui batas.
+> (578) «القَهَّار» adalah seruan kepada Yang Maha Menundukkan; Baris memohon tindakan terhadap orang yang melampaui batas.
 
 > (579) «بطشًا» menunjuk hantaman atau kekerasan. Kata akhir «اعتدت» terbaca demikian, tetapi subjeknya tidak disebut dengan terang.
 
@@ -197,7 +197,7 @@ Dengan nama Liyārūsh, dengan kekuatan penaklukan-Nya. [Nama ini dipertahankan 
 
 ## Halaman PDF 79 (= cetak 78)
 
-### Bagian 1 — Sambungan nazham: nama Liyārūsh dan kekuatan (larik 587)
+### Bagian 1 — Sambungan nazham: nama Liyārūsh dan kekuatan (Baris 587)
 
 **[Teks Arab Asli]**
 
@@ -217,4 +217,4 @@ Dengan Sūr Liyārūsh, dengan kerasnya daya gempurnya. [Lafaz «سور» dipert
 
 **[Syarah]**
 
-> (587) «لياروش» melanjutkan nama yang muncul pada larik sebelumnya. «سور» terbaca demikian, tetapi maknanya dalam susunan ini tidak pasti; bentuk cetakan tidak diganti.
+> (587) «لياروش» melanjutkan nama yang muncul pada Baris sebelumnya. «سور» terbaca demikian, tetapi maknanya dalam susunan ini tidak pasti; bentuk cetakan tidak diganti.

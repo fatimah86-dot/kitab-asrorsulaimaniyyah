@@ -1,15 +1,15 @@
-# BATCH 17 — Kajian teks: 20 larik (PDF 73–74)
+# BATCH 17 — Kajian teks: 20 Baris (PDF 73–74)
 
 > **الأسرار السليمانية في العلوم الروحانية** — Dr. Abdullah al-Jundi · al-Mathba'ah ats-Tsaqafiyyah, Bairut
 > Sumber: `kitab/asrorul-sulaimaniyah.pdf` · pindaian halaman penuh 073–074 · edisi kajian
 >
-> Cakupan: 20 larik setelah empat larik awal PDF 73 yang ada di BATCH 16, yaitu PDF 73 larik 5–18 dan PDF 74 larik 1–6 (nomor nazham 488–507). Harakat dan transliterasi ditambahkan untuk edisi kajian; terjemahan dan syarah menerangkan klaim teks, bukan anjuran praktik.
+> Cakupan: 20 Baris setelah empat Baris awal PDF 73 yang ada di BATCH 16, yaitu PDF 73 Baris 5–18 dan PDF 74 Baris 1–6 (nomor nazham 488–507). Harakat dan transliterasi ditambahkan untuk edisi kajian; terjemahan dan syarah menerangkan klaim teks, bukan anjuran praktik.
 
 ---
 
 ## Halaman PDF 73 (= cetak 72)
 
-### Bagian 1 — Sambungan nazham: pembakaran, pengerahan, dan penundukan (larik 488–501)
+### Bagian 1 — Sambungan nazham: pembakaran, pengerahan, dan penundukan (Baris 488–501)
 
 **[Teks Arab Asli]**
 
@@ -107,7 +107,7 @@ dengan hardikan dan pembakaran; telah kuutus mereka kepada golongan jin.
 
 **[Syarah]**
 
-> (488) Ungkapan “cahaya pembakaran” dan “rahasia permohonan” bersifat padat dan puitis; larik ini membuka rangkaian citra api.
+> (488) Ungkapan “cahaya pembakaran” dan “rahasia permohonan” bersifat padat dan puitis; Baris ini membuka rangkaian citra api.
 
 > (489) Teks mengklaim nama-nama pembakaran dapat menundukkan jin; ini disajikan sebagai keyakinan yang dinyatakan dalam nazham.
 
@@ -125,13 +125,13 @@ dengan hardikan dan pembakaran; telah kuutus mereka kepada golongan jin.
 
 > (496) Permintaan diperluas dari penguasa hingga seluruh alam semesta, sebuah klaim kuasa yang bersifat retoris.
 
-> (497) Pengulangan akar «هلك» memperkeras nada ancaman; bentuk lampau di akhir larik dibaca sebagai pernyataan “aku telah membinasakan”.
+> (497) Pengulangan akar «هلك» memperkeras nada ancaman; bentuk lampau di akhir Baris dibaca sebagai pernyataan “aku telah membinasakan”.
 
 > (498) Penyair meminta agar semua raja dikumpulkan melalui Nama; ini melanjutkan gambaran pengerahan kekuasaan.
 
 > (499) «قهرًا» berarti dengan paksa atau dominasi. Bentuk akhir «فأقهرت» dibaca sebagai klaim bahwa pemohon telah menguasai mereka.
 
-> (500) «الأملاك» dibaca sebagai para malaikat. Larik meminta pengutusan mereka terhadap pihak yang durhaka.
+> (500) «الأملاك» dibaca sebagai para malaikat. Baris meminta pengutusan mereka terhadap pihak yang durhaka.
 
 > (501) «زجر» berarti teguran atau hardikan. Api dan teguran menjadi gambaran hukuman dalam narasi teks.
 
@@ -139,7 +139,7 @@ dengan hardikan dan pembakaran; telah kuutus mereka kepada golongan jin.
 
 ## Halaman PDF 74 (= cetak 73)
 
-### Bagian 1 — Sambungan nazham: perlindungan dan ketundukan (larik 502–507)
+### Bagian 1 — Sambungan nazham: perlindungan dan ketundukan (Baris 502–507)
 
 **[Teks Arab Asli]**
 

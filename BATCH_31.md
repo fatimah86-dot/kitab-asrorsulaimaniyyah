@@ -1,14 +1,14 @@
-# BATCH 31 — Kajian teks: 20 larik (PDF 89–90)
+# BATCH 31 — Kajian teks: 20 Baris (PDF 89–90)
 
 > **الأسرار السليمانية في العلوم الروحانية** — Dr. Abdullah al-Jundi · al-Mathba'ah ats-Tsaqafiyyah, Bairut<br>
 > Sumber: `hasil/gambar/halaman_089.jpg` dan `hasil/gambar/halaman_090.jpg` (pindaian halaman penuh).<br>
-> Cakupan: PDF 89 larik 8–17 dan PDF 90 larik 1–10; nomor nazham 768–787. Nama-nama huruf dan rangkaian seruan yang samar dicatat secara deskriptif; teks yang terbaca jelas diterjemahkan tanpa mengubah susunan cetak.
+> Cakupan: PDF 89 Baris 8–17 dan PDF 90 Baris 1–10; nomor nazham 768–787. Nama-nama huruf dan rangkaian seruan yang samar dicatat secara deskriptif; teks yang terbaca jelas diterjemahkan tanpa mengubah susunan cetak.
 
 ---
 
 ## Halaman PDF 89 (= cetak 88)
 
-### Bagian 1 — Huruf pembuka dan permohonan perlindungan (larik 768–777)
+### Bagian 1 — Huruf pembuka dan permohonan perlindungan (Baris 768–777)
 
 **[Teks Arab Asli]**
 
@@ -82,7 +82,7 @@ Dengan Alif dan Lām, kemudian Mīm dan bagian belakang/kelanjutannya. [Lafaz «
 
 **[Syarah]**
 
-> (768) «بسبع مثان» merujuk secara leksikal pada “tujuh yang diulang-ulang”; «من كتابك» menerangkan sumbernya. Verba «أحكمت» tampak pada akhir larik.
+> (768) «بسبع مثان» merujuk secara leksikal pada “tujuh yang diulang-ulang”; «من كتابك» menerangkan sumbernya. Verba «أحكمت» tampak pada akhir Baris.
 
 > (769) «طه، طاسين، ياسين» adalah nama huruf/pembuka surah; «كن لنا» merupakan permohonan dengan verba amr «كن».
 
@@ -106,7 +106,7 @@ Dengan Alif dan Lām, kemudian Mīm dan bagian belakang/kelanjutannya. [Lafaz «
 
 ## Halaman PDF 90 (= cetak 89)
 
-### Bagian 1 — Rahasia nama, ayat, dan huruf-huruf Kitab (larik 778–787)
+### Bagian 1 — Rahasia nama, ayat, dan huruf-huruf Kitab (Baris 778–787)
 
 **[Teks Arab Asli]**
 
