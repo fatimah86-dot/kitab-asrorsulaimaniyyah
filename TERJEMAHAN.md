@@ -1,25 +1,14 @@
 # TERJEMAHAN — الأسرار السليمانية في العلوم الروحانية
 
-> Gabungan Batch 01–35, dibangun otomatis oleh `tools/bangun_panel.py`. Jangan disunting di sini; ubah `BATCH_NN.md` lalu bangun ulang.
-
-**Catatan penyunting:**
-
-- Penomoran: 1 halaman PDF = 1 halaman cetak. PDF hal. 1 = sampul; PDF hal. 2 = cetak 1; dan seterusnya (cetak = PDF − 1). Header berjalan dan footer (nomor telepon penulis) bukan isi kitab dan tidak diterjemahkan.
-- Teks cetak tidak berharakat. Harakat, tanda baca, dan transliterasi ditambahkan oleh AI, bukan dari naskah; mohon dikoreksi nahwu/sharaf.
-- Ejaan cetak yang tidak baku (ى/ه/ا) disesuaikan ke ejaan baku agar harakat bisa diberikan. Salah cetak atau susunan janggal tidak diperbaiki diam-diam: lafaz dipertahankan menurut cetakan dan disertai catatan deskriptif.
-- Transliterasi mengikuti bacaan washal (sambung): i'rab dibaca di tengah kalimat, waqf (tanpa i'rab/tanwin) di akhir kalimat atau koma. ث=ts, ذ=dz, ظ=zh, ض=dh, ص=sh, ط=th, ش=sy; tanda ' = hamzah/'ain.
-- Nama-nama non-Arab (nama malaikat/seruan) tidak diterjemahkan; harakat atau pelafalan yang belum pasti diberi keterangan, sementara konsonan cetak dipertahankan.
-- Edisi kajian: teks diterjemahkan sebagai dokumen; klaim kitab disampaikan sebagai klaim penulis, bukan anjuran praktik.
+> Gabungan Jilid 01–35, dibangun otomatis oleh `tools/bangun_panel.py`. Jangan disunting di sini; ubah `BATCH_NN.md` lalu bangun ulang.
 
 ---
 
-# BATCH 01 — Halaman PDF 1–5
+# JILID 01 — Halaman PDF 1–5
 
 ## Halaman PDF 1 (= sampul)
 
 ### Bagian 1 — Judul, pengarang, dan penerbit
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -31,15 +20,11 @@
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 **Al-Asraarus-Sulaimaaniyyatu fil-'uluumir-ruuhaaniyyah**
 
 *Ta'liiful-'aalimir-ruuhaaniyyid-duktuuri 'Abdillaahil-Jundiyy*
 
 *Al-Math-ba'atuts-Tsaqaafiyyah, Bairuut*
-
-**[Terjemahan Indonesia]**
 
 **Rahasia-Rahasia Sulaimaniyah dalam Ilmu-Ilmu Ruhani**
 
@@ -49,13 +34,11 @@ Percetakan Ats-Tsaqafiyyah (Percetakan Kebudayaan), Beirut.
 
 **[Syarah]**
 
-> Nisbat «Sulaimaniyyah» mengaitkan isi kitab dengan Nabi Sulaiman 'alaihis-salam, yang menurut Al-Qur'an dikaruniai kekuasaan atas angin, jin, dan burung (lih. QS. An-Naml: 17; Saba': 12). Dalam tradisi «ilmu hikmah/ruhani» populer, nisbat semacam ini lazim dipakai sebagai klaim asal-usul, bukan sebagai sanad yang teruji; terjemahan ini hanya mendokumentasikan teksnya. Judul pada sampul berupa kaligrafi dekoratif.
+> Nisbat «Sulaimaniyyah» mengaitkan isi kitab dengan Nabi Sulaiman 'alaihis-salam, yang menurut Al-Qur'an dikaruniai kekuasaan atas angin, jin, dan burung (lih. QS. An-Naml: 17; Saba': 12).
 
 ## Halaman PDF 2 (= cetak 1)
 
 ### Bagian 1 — Basmalah
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -63,17 +46,11 @@ Percetakan Ats-Tsaqafiyyah (Percetakan Kebudayaan), Beirut.
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 **Bismillaahir-Rahmaanir-Rahiim**
-
-**[Terjemahan Indonesia]**
 
 **Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang.**
 
 ### Bagian 2 — Hamdalah dan shalawat
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -81,11 +58,7 @@ Percetakan Ats-Tsaqafiyyah (Percetakan Kebudayaan), Beirut.
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Al-hamdu lillaahi rabbil-'aalamiin, hamdan katsiiran yuwaafii ni'amah, qaahiril-jabaabiri wal-mutamarridiin, wa qaathi'i daabirizh-zhaalimiina wal-mu'tadiin, bisaifi jabaruutihi wa sathwatih, wa sihaamiqtidaarihi wa quwwatih. Was-salaamu 'alaa saifillaahil-masluuli sayyidinaa Muhammad, akrami nabiyyin wa rasuul, wa 'alaa aalihi syumuusil-'adaalah, wa ash-haabihi nujuumil-hidaayati wad-dalaalah.*
-
-**[Terjemahan Indonesia]**
 
 Segala puji bagi Allah, Tuhan semesta alam, puji yang banyak yang setimpal dengan nikmat-nikmat-Nya; (Allah) Penakluk para penguasa lalim dan para pembangkang, Pemutus akar orang-orang zalim dan para pelampau batas, dengan pedang keperkasaan dan kedahsyatan-Nya, serta panah-panah kuasa dan kekuatan-Nya. Salam sejahtera atas pedang Allah yang terhunus, junjungan kami Muhammad, nabi dan rasul yang paling mulia; juga atas keluarganya yang bagaikan matahari-matahari keadilan, dan para sahabatnya yang bagaikan bintang-bintang petunjuk dan bimbingan.
 
@@ -95,19 +68,13 @@ Segala puji bagi Allah, Tuhan semesta alam, puji yang banyak yang setimpal denga
 
 ### Bagian 3 — Maksud penulisan kitab
 
-**[Teks Arab Asli]**
-
 <div dir="rtl">
 
 وَبَعْدُ، فَهَذَا كِتَابُ الأَسْرَارِ السُّلَيْمَانِيَّةِ فِي العُلُومِ الرُّوحَانِيَّةِ، جَمَعَ مِنَ الفَوَائِدِ وَالأَبْوَابِ الرُّوحَانِيَّةِ القَدِيمَةِ الَّتِي أَطْلَعَنِي عَلَيْهَا اللَّهُ عَزَّ وَجَلَّ مِنَ الأَسْرَارِ السُّلَيْمَانِيَّةِ القَدِيمَةِ فِي العُلُومِ الرُّوحَانِيَّةِ.
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Wa ba'du, fa-haadzaa kitaabul-asraaris-Sulaimaaniyyati fil-'uluumir-ruuhaaniyyah, jama'a minal-fawaaidi wal-abwaabir-ruuhaaniyyatil-qadiimatillatii ath-la'anii 'alaihallaahu 'azza wa jalla minal-asraaris-Sulaimaaniyyatil-qadiimati fil-'uluumir-ruuhaaniyyah.*
-
-**[Terjemahan Indonesia]**
 
 Amma ba'du: inilah kitab *Al-Asrar as-Sulaimaniyyah fil-'Ulum ar-Ruhaniyyah* (Rahasia-Rahasia Sulaimaniyah dalam Ilmu-Ilmu Ruhani), yang menghimpun sebagian faedah dan bab-bab ruhani kuno yang diperlihatkan Allah 'Azza wa Jalla (Yang Mahaperkasa lagi Mahaagung) kepadaku, dari rahasia-rahasia Sulaimaniyah kuno dalam ilmu-ilmu ruhani.
 
@@ -117,19 +84,13 @@ Amma ba'du: inilah kitab *Al-Asrar as-Sulaimaniyyah fil-'Ulum ar-Ruhaniyyah* (Ra
 
 ### Bagian 4 — Penamaan kitab dan doa penulis
 
-**[Teks Arab Asli]**
-
 <div dir="rtl">
 
 وَقَدْ سَمَّيْتُ هَذَا الكِتَابَ بِالأَسْرَارِ السُّلَيْمَانِيَّةِ فِي العُلُومِ الرُّوحَانِيَّةِ، وَأَنَا الفَقِيرُ الذَّلِيلُ إِلَى اللَّهِ عَزَّ وَجَلَّ، عَبْدُ اللَّهِ الجُنْدِيُّ، وَفَّقَنِي اللَّهُ وَالمُسْلِمِينَ [المطبوع: والملسمين] لِمَا فِيهِ رِضَاهُ.
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Wa qad sammaitu haadzal-kitaaba bil-asraaris-Sulaimaaniyyati fil-'uluumir-ruuhaaniyyah, wa anal-faqiirudz-dzaliilu ilallaahi 'azza wa jalla, 'Abdullaahil-Jundiyy, waffaqanillaahu wal-muslimiina limaa fiihi ridhaah.*
-
-**[Terjemahan Indonesia]**
 
 Dan aku telah menamai kitab ini *Al-Asrar as-Sulaimaniyyah fil-'Ulum ar-Ruhaniyyah*. Aku adalah hamba yang faqir lagi hina di hadapan Allah 'Azza wa Jalla, 'Abdullah al-Jundi. Semoga Allah memberi taufik kepadaku dan kaum muslimin menuju apa yang di dalamnya terdapat keridaan-Nya.
 
@@ -139,8 +100,6 @@ Dan aku telah menamai kitab ini *Al-Asrar as-Sulaimaniyyah fil-'Ulum ar-Ruhaniyy
 
 ### Bagian 5 — Pengenalan penulis
 
-**[Teks Arab Asli]**
-
 <div dir="rtl">
 
 **تَعْرِيفُ المُؤَلِّفِ**
@@ -149,13 +108,9 @@ Dan aku telah menamai kitab ini *Al-Asrar as-Sulaimaniyyah fil-'Ulum ar-Ruhaniyy
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 **Ta'riiful-mu'allif**
 
 *Huwal-'aalimur-ruuhaaniyyul-kabiirud-duktuuru 'Abdullaahil-Jundiyy, al-jinsiyyatu mishriyy. Haashilun 'alaa duktuuraah fii 'uluumil-baaraasiikuuluujii wa 'uluumi maa waraa'ith-thabii'ah, wa haashilun 'alaa aktsara min 'isyriina syahaadata duktuuraah dauliyyatan fii 'uluumil-falaki wat-tanjiimi wath-thaaqati min Faransaa*
-
-**[Terjemahan Indonesia]**
 
 **Pengenalan Penulis**
 
@@ -169,8 +124,6 @@ Beliau adalah ahli ilmu ruhani yang agung, Dr. Abdullah al-Jundi, berkebangsaan 
 
 ### Bagian 1 — Nama-nama yang tertulis di dahi Jibril
 
-**[Teks Arab Asli]**
-
 <div dir="rtl">
 
 **أَسْرَارُ الأَسْمَاءِ المَكْتُوبَةِ عَلَى جَبِينِ جِبْرَائِيلَ عَلَيْهِ السَّلَامُ**
@@ -179,13 +132,9 @@ Beliau adalah ahli ilmu ruhani yang agung, Dr. Abdullah al-Jundi, berkebangsaan 
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 **Asraarul-asmaa'il-maktuubati 'alaa jabiini Jibraa'iila 'alaihis-salaam**
 
 *Fil-asmaa'il-maktuubaati 'alaa jabiini Jibraa'iila 'alaihis-salaam, al-waaqifi 'alaa syimaalil-qudrati muntazhiran maa yu'maru bihi minal-wahyil-ilaahiyy. Wa hiya 'alal-malaa'ikatil-mukhtashshiina bil-lauhil-muhiithi bikulli 'ilmin wal-'ilmir-rafii', mataa da'autahum bihaa ajaabuu sam'an wa thaa'atallaahi 'azza wa jalla, wa bi-asmaa'ihi wa bihaa khalaqahum, wa hiya maktuubatun 'alaa jabiini Jibriila 'alaihis-salaam, wa hiyallatii kaana yatakallamu bihaa 'Iisabnu Maryama 'alaihis-salaam 'inda muhimmaatil-amr, wa hiya haadzihi: Thasy thasy thasyth thasyah yuuhaniith huumiyaath huutsaawuth [القراءة محتملة، والحروف محفوظة على رسم المطبوع - qiraatuhu muhtamalah], jallallaahu 'azza wa jalla, wa huwa 'alaa kulli syai'in qadiir.*
-
-**[Terjemahan Indonesia]**
 
 **Rahasia Nama-Nama yang Tertulis di Dahi Jibril 'alaihis-salam**
 
@@ -197,19 +146,13 @@ Tentang nama-nama yang tertulis di dahi Jibril 'alaihis-salam, yang berdiri di s
 
 ### Bagian 2 — Tafsir nama-nama itu dalam bahasa Arab
 
-**[Teks Arab Asli]**
-
 <div dir="rtl">
 
 تَفْسِيرُهَا بِالعَرَبِيَّةِ: سُبْحَانَكَ يَا حَيُّ، سُبْحَانَكَ يَا قَيُّومُ، سُبْحَانَكَ يَا صَمَدُ [المطبوع: عمد]، سُبْحَانَكَ يَا مَنْ لَمْ يَلِدْ وَلَمْ يُولَدْ، وَلَمْ يَكُنْ لَهُ كُفُوًا أَحَدٌ. لَا إِلَهَ إِلَّا أَنْتَ، وَلَا قَادِرَ غَيْرُكَ، وَلَا مَعْبُودَ سِوَاكَ.
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Tafsiiruhaa bil-'arabiyyah: Subhaanaka yaa Hayy, subhaanaka yaa Qayyuum, subhaanaka yaa Shamad, subhaanaka yaa man lam yalid wa lam yuulad, wa lam yakul-lahuu kufuwan ahad. Laa ilaaha illaa anta, wa laa qaadira ghairuka, wa laa ma'buuda siwaaka.*
-
-**[Terjemahan Indonesia]**
 
 Tafsirnya dalam bahasa Arab: Mahasuci Engkau, wahai Yang Maha Hidup; Mahasuci Engkau, wahai Yang Maha Berdiri Sendiri (*Qayyum*); Mahasuci Engkau, wahai Ash-Shamad (tempat bergantung segala sesuatu) [tercetak: *'amad*]; Mahasuci Engkau, wahai Yang tidak beranak dan tidak diperanakkan, dan tidak ada satu pun yang setara dengan-Nya. Tiada tuhan selain Engkau, tiada yang berkuasa selain Engkau, dan tiada yang disembah selain Engkau.
 
@@ -219,8 +162,6 @@ Tafsirnya dalam bahasa Arab: Mahasuci Engkau, wahai Yang Maha Hidup; Mahasuci En
 
 ### Bagian 3 — Tasbih Mikail (bersambung ke halaman berikutnya)
 
-**[Teks Arab Asli]**
-
 <div dir="rtl">
 
 **أَسْرَارُ تَسْبِيحِ مِيكَائِيلَ عَلَيْهِ السَّلَامُ**
@@ -229,13 +170,9 @@ Tafsirnya dalam bahasa Arab: Mahasuci Engkau, wahai Yang Maha Hidup; Mahasuci En
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 **Asraaru tasbiihi Miikaa'iila 'alaihis-salaam**
 
 *Wa hiya sab'atu asmaa'in, wa 'allamahallaahu ta'aalaa Miikaa'iila 'alaihis-salaam, yusabbihu bihaa huwa wa jamii'ul-malaa'ikatil-waaqifiina 'alar-rafii'is-saabi', bainal-lauhi wal-'arsy. Takhdimuhaa malaa'ikatun minan-nuur, wa hum ahlun-nushrati lijamii'il-anbiyaa', bi-aidiihim hiraabun minan-nuur, tadzhabusyti'aalan 'alaa man 'ashaa minal-malaa'ikatir-ruuhaaniyyiina wal-ardhiyyiin. Mataa da'autahum bihaa ajaabuu, yatasharrafuuna fii kulli …*
-
-**[Terjemahan Indonesia]**
 
 **Rahasia Tasbih Mikail 'alaihis-salam**
 
@@ -249,8 +186,6 @@ Ia terdiri dari tujuh nama yang diajarkan Allah Ta'ala kepada Mikail 'alaihis-sa
 
 ### Bagian 1 — Sambungan tasbih Mikail dan tujuh namanya
 
-**[Teks Arab Asli]**
-
 <div dir="rtl">
 
 … شَيْءٍ مِنْ أَعْمَالِ البِرِّ وَالتَّقْوَى، وَاسْتِنْزَالِ الشَّاقُوفَاتِ الَّتِي بِأَقْطَارِ الأَرْضِ. وَهِيَ هَذِهِ الأَسْمَاءُ الطَّاهِرَةُ الشَّرِيفَةُ، المُطَهَّرَةُ المَكْتُوبَةُ عَلَى جَبْهَةِ مِيكَائِيلَ عَلَيْهِ السَّلَامُ:
@@ -259,13 +194,9 @@ Ia terdiri dari tujuh nama yang diajarkan Allah Ta'ala kepada Mikail 'alaihis-sa
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *… syai'in min a'maalil-birri wat-taqwaa, wastinzaalisy-Syaaquufaatillatii bi-aqthaaril-ardh. Wa hiya haadzihil-asmaa'uth-thaahiratusy-syariifah, al-muthahharatul-maktuubatu 'alaa jabhati Miikaa'iila 'alaihis-salaam:*
 
 *Syahaa Syuwiin Kunuufisy Luuniim Kiiliim Ya'thiisy Baalah [القراءة محتملة، والحروف محفوظة على رسم المطبوع - qiraatuhu muhtamalah].*
-
-**[Terjemahan Indonesia]**
 
 … segala sesuatu berupa amal kebajikan dan ketakwaan, serta menurunkan asy-Syaaquufaat (istilah tidak jelas) yang berada di penjuru-penjuru bumi. Itulah nama-nama yang suci lagi mulia dan disucikan, yang tertulis di dahi Mikail 'alaihis-salam:
 
@@ -277,19 +208,13 @@ Ia terdiri dari tujuh nama yang diajarkan Allah Ta'ala kepada Mikail 'alaihis-sa
 
 ### Bagian 2 — Tafsir nama-nama Mikail dalam bahasa Arab
 
-**[Teks Arab Asli]**
-
 <div dir="rtl">
 
 تَفْسِيرُهَا بِالعَرَبِيَّةِ: سُبْحَانَكَ يَا اللَّهُ يَا جَبَّارُ، سُبْحَانَكَ يَا اللَّهُ يَا قَهَّارُ، سُبْحَانَكَ يَا مَنْ يَعْلَمُ مَا يَتَسَاقَطُ مِنْ وَرَقِ الأَشْجَارِ، سُبْحَانَكَ يَا مَنْ تَرَدَّى بِالكِبْرِيَاءِ وَالوَقَارِ، سُبْحَانَكَ يَا مَنْ أَحْصَى جَمِيعَ الأَعْمَارِ، تَعَالَيْتَ رَبِّي عَمَّا يَقُولُ الظَّالِمُونَ عُلُوًّا كَبِيرًا.
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Tafsiiruhaa bil-'arabiyyah: Subhaanaka yaa Allaahu yaa Jabbaar, subhaanaka yaa Allaahu yaa Qahhaar, subhaanaka yaa man ya'lamu maa yatasaaqathu min waraqil-asyjaar, subhaanaka yaa man taraddaa bil-kibriyaa'i wal-waqaar, subhaanaka yaa man ahshaa jamii'al-a'maar, ta'aalaita rabbii 'ammaa yaquuluzh-zhaalimuuna 'uluwwan kabiiraa.*
-
-**[Terjemahan Indonesia]**
 
 Tafsirnya dalam bahasa Arab: Mahasuci Engkau, wahai Allah, wahai Yang Maha Perkasa (*al-Jabbar*); Mahasuci Engkau, wahai Allah, wahai Yang Maha Menundukkan (*al-Qahhar*); Mahasuci Engkau, wahai Yang mengetahui apa yang berguguran dari daun-daun pepohonan; Mahasuci Engkau, wahai Yang berselimut kebesaran dan kewibawaan; Mahasuci Engkau, wahai Yang menghitung seluruh umur; Mahatinggi Engkau, ya Tuhanku, dari apa yang dikatakan orang-orang zalim, dengan ketinggian yang sangat besar.
 
@@ -299,19 +224,13 @@ Tafsirnya dalam bahasa Arab: Mahasuci Engkau, wahai Allah, wahai Yang Maha Perka
 
 ### Bagian 3 — Malaikat «Ashhabuth-Tha'n» dan daya yang disebutkan
 
-**[Teks Arab Asli]**
-
 <div dir="rtl">
 
 اعْلَمْ، وَفَّقَكَ اللَّهُ، أَنَّكَ إِذَا تَكَلَّمْتَ بِهَا نَزَلَتْ لَكَ مَلَائِكَةٌ مِنَ النُّورِ، بِأَيْدِيهِمْ سُيُوفٌ مِنَ النُّورِ، عَلَى خَيْلٍ مِنَ النُّورِ. وَهُمْ أَصْحَابُ الطَّعْنِ، يَتَصَرَّفُونَ فِي كُلِّ شَيْءٍ مِنَ الزَّجْرِ وَالنَّشْرِ وَالحَجْبِ وَالإِحْرَاقِ وَالخَطْفِ وَعَقْدِ الأَلْسِنَةِ، وَاسْتِحْثَاثِ المَلَائِكَةِ الرُّوحَانِيَّةِ وَالأَرْضِيَّةِ، يَتَصَرَّفُونَ فِي كُلِّ شَيْءٍ بِإِذْنِ اللَّهِ تَعَالَى.
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *I'lam, waffaqakallaahu, annaka idzaa takallamta bihaa nazalat laka malaa'ikatun minan-nuur, bi-aidiihim suyuufun minan-nuur, 'alaa khailin minan-nuur. Wa hum ash-haabuth-tha'ni, yatasharrafuuna fii kulli syai'in minaz-zajri wan-nasyri wal-hajbi wal-ihraaqi wal-khathfi wa 'aqdil-alsinah, wastihtsaatsil-malaa'ikatir-ruuhaaniyyati wal-ardhiyyah, yatasharrafuuna fii kulli syai'in bi-idznillaahi ta'aalaa.*
-
-**[Terjemahan Indonesia]**
 
 Ketahuilah — semoga Allah memberimu taufik — bahwa apabila engkau mengucapkannya, turunlah untukmu malaikat-malaikat dari cahaya, di tangan mereka pedang-pedang dari cahaya, menunggang kuda-kuda dari cahaya. Mereka adalah «para pemilik tikaman» (*Ashhabuth-Tha'n*). Mereka bertindak atas segala hal berupa: *az-zajr* (menghardik/menolak), *an-nasyr* (menyebarkan/menguraikan), *al-hajb* (menutup/menghalangi), *al-ihraq* (membakar), *al-khathf* (menyambar), dan *'aqd al-alsinah* (mengikat lidah), serta menggerakkan malaikat-malaikat ruhani dan malaikat bumi; mereka bertindak atas segala sesuatu dengan izin Allah Ta'ala.
 
@@ -321,8 +240,6 @@ Ketahuilah — semoga Allah memberimu taufik — bahwa apabila engkau mengucapka
 
 ### Bagian 4 — Nama-nama «Ashhabul-Bathsy»
 
-**[Teks Arab Asli]**
-
 <div dir="rtl">
 
 **أَسْرَارُ أَسْمَاءِ أَصْحَابِ البَطْشِ**
@@ -331,13 +248,9 @@ Ketahuilah — semoga Allah memberimu taufik — bahwa apabila engkau mengucapka
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 **Asraaru asmaa'i ash-haabil-bathsy**
 
 *Bakhthaa Shiithaa 'Ajaa 'Alyuun Haaniith Sam'aa Sya'iitaa [القراءة محتملة، والحروف محفوظة على رسم المطبوع - qiraatuhu muhtamalah].*
-
-**[Terjemahan Indonesia]**
 
 **Rahasia Nama-Nama Ashhabul-Bathsy (Para Pemilik Kekuatan Menghantam)**
 
@@ -349,19 +262,13 @@ Ketahuilah — semoga Allah memberimu taufik — bahwa apabila engkau mengucapka
 
 ### Bagian 5 — Tafsir nama-nama itu (terpotong di akhir halaman)
 
-**[Teks Arab Asli]**
-
 <div dir="rtl">
 
 تَفْسِيرُهَا بِالعَرَبِيَّةِ: سُبْحَانَكَ يَا مُعْتِقَ الرِّقَابِ، سُبْحَانَكَ يَا مُسَبِّبَ الأَسْبَابِ، سُبْحَانَكَ يَا مُنَزِّلَ الكِتَابِ، سُبْحَانَكَ يَا كَرِيمُ يَا وَهَّابُ. سُبْحَانَكَ يَا حَيُّ لَا يَمُوتُ، سُبْحَانَكَ يَا إِلَهِي وَإِلَهَ النَّاسُوتِ. خَلَقْتَنِي …
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Tafsiiruhaa bil-'arabiyyah: Subhaanaka yaa Mu'tiqar-riqaab, subhaanaka yaa Musabbibal-asbaab, subhaanaka yaa Munazzilal-kitaab, subhaanaka yaa Kariim yaa Wahhaab. Subhaanaka yaa Hayyu laa yamuut, subhaanaka yaa Ilaahii wa Ilaahan-Naasuut. Khalaqtanii …*
-
-**[Terjemahan Indonesia]**
 
 Tafsirnya dalam bahasa Arab: Mahasuci Engkau, wahai Pembebas leher-leher (para hamba sahaya); Mahasuci Engkau, wahai Penyebab segala sebab; Mahasuci Engkau, wahai Penurun kitab; Mahasuci Engkau, wahai Yang Maha Mulia lagi Maha Pemberi. Mahasuci Engkau, wahai Yang Maha Hidup, yang tidak mati; Mahasuci Engkau, wahai Tuhanku dan Tuhan alam manusia (*an-nasut*). Engkau telah menciptakanku … (terpotong; bersambung ke halaman berikutnya).
 
@@ -373,8 +280,6 @@ Tafsirnya dalam bahasa Arab: Mahasuci Engkau, wahai Pembebas leher-leher (para h
 
 ### Bagian 1 — Pembuatan cincin (khatam) Mitharun
 
-**[Teks Arab Asli]**
-
 <div dir="rtl">
 
 **صِنَاعَةُ خَاتَمٍ لِمِيطَرُونَ**
@@ -383,13 +288,9 @@ Tafsirnya dalam bahasa Arab: Mahasuci Engkau, wahai Pembebas leher-leher (para h
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 **Shinaa'atu khaatamin li-Miitharuun**
 
 *Idzaa aradtastikhdaama haadzal-malaki, fashna' khaatiman min dzahabin fashshuhu min 'aqiiqin ahmara, yakuunu shiyaaghatuhu wa naqsyuhu fii yaumil-jumu'ati, waz-Zuharatu fii syarafihaa wa huwal-huutu fii syarafihi, au yaumis-sabti wa Zuhalu fil-miizaani, au yaumil-ahadi wasy-Syamsu fil-hamali, au yaumil-itsnaini wal-Qamaru fits-Tsauri, au yaumil-khamiisi wal-Musytarii fis-saratani khaalin minal-jauzahar. Wa aymaa daara maa daraa [tercetak وَأَيْمَا دَارَ مَا دَرَى, terbaca *aymā dāra mā darā*; dibaca apa adanya — *aymā* partikel penegas yang sah, meski rangkaiannya tetap janggal] shana'ta dzaalika fii waqtihi yakuunu khaaliyan minan-nuhuus, wa yakuunu dzaalika fii asyhuril-'arabi khaaliyan min asyhuril-hurumi, tsumma tanqusyuhu naqsyan hasanan, wa taghsiluhu ba'da dzaalika bimaa'in jaarin wa milhin, tsumma bimaa'i wardin wa miskin, tsumma tashna'u lahu mahfazhatan min hariirin akhdhar. Wa ta'ahhab bi-idznillaahi fil-wuquufi ilaihi.*
-
-**[Terjemahan Indonesia]**
 
 **Pembuatan Cincin untuk Mitharun (kemungkinan Metatron)**
 
@@ -411,19 +312,13 @@ Apabila engkau hendak memanfaatkan malaikat ini, buatlah sebuah cincin dari emas
 
 ### Bagian 2 — Rupa cincin
 
-**[Teks Arab Asli]**
-
 <div dir="rtl">
 
 وَهَذِهِ صِفَةُ الخَاتَمِ لِمِيطَرُونَ كَمَا تَرَى:
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Wa haadzihi shifatul-khaatami li-Miitharuun kamaa taraa:*
-
-**[Terjemahan Indonesia]**
 
 Dan inilah rupa cincin untuk Mitharun, sebagaimana yang engkau lihat:
 
@@ -433,13 +328,11 @@ Dan inilah rupa cincin untuk Mitharun, sebagaimana yang engkau lihat:
 
 ---
 
-# BATCH 02 — Halaman PDF 6–10
+# JILID 02 — Halaman PDF 6–10
 
 ## Halaman PDF 6 (= cetak 5)
 
 ### Bagian 1 — Judul: doa agung untuk seluruh ruh
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -449,13 +342,9 @@ Dan inilah rupa cincin untuk Mitharun, sebagaimana yang engkau lihat:
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 **Ad-da'watul-'uzhmaa li-jamii'il-arwaah**
 
 *Wa hiyal-malaa'ikatur-ruuhaaniyyatu kaaffah, minal-'arsyi ilal-kursiyy:*
-
-**[Terjemahan Indonesia]**
 
 **Doa Agung untuk Seluruh Ruh**
 
@@ -467,19 +356,13 @@ Yakni seluruh malaikat ruhani, dari 'Arsy sampai Kursi:
 
 ### Bagian 2 — Pujian dan pemanggilan dengan nama-nama terbaik (bersambung ke hal. 7)
 
-**[Teks Arab Asli]**
-
 <div dir="rtl">
 
 بِاسْمِ الَّذِي قَامَتْ بِأَمْرِهِ السَّمَوَاتُ، وَسَبَّحَتْ لَهُ المَلَائِكَةُ بِاخْتِلَافِ اللُّغَاتِ، خَلَقَ السَّمَاءَ بِقُدْرَتِهِ، وَدَحَا الأَرْضَ بِإِرَادَتِهِ، وَخَلَقَ النُّجُومَ بِحِكْمَتِهِ، وَفَجَّرَ البِحَارَ بِمَشِيئَتِهِ، وَاسْتَوَى عَلَى جَمِيعِ الأَشْيَاءِ بِقَهْرِهِ وَقُدْرَتِهِ. أَزَلِيُّ الأَزَلِ قَبْلَ الأَزْمَانِ وَالدُّهُورِ الظَّاهِرَةِ، تَبَارَكَ فِي جَوْهَرِيَّتِهِ النُّورَانِيَّةِ العُنْصُرِيَّةِ الأَزَلِيَّةِ، وَاحْتَجَبَ بِقُدْسِ الأَنْوَارِ اللَّاهُوتِيَّةِ العَلِيَّةِ الأَزَلِيَّةِ، الغَائِبَةِ عَنِ البَشَرِيَّةِ البَرِيَّةِ، الثَّابِتَةِ فِي الأَذْهَانِ الزَّكِيَّةِ. تَبَارَكْتَ وَتَقَدَّسَتْ أَسْمَاؤُكَ يَا رَبِّ، الَّذِي مِنْكَ تَنْبَعُ حِكْمَةُ الأَرْوَاحِ الرُّوحَانِيَّةِ المُنْفَصِلَةِ بِالقُوَى العَالِيَةِ. تَبَارَكْتَ وَتَقَدَّسَتْ أَسْمَاؤُكَ، وَعَظُمَ كِبْرِيَاؤُكَ، وَلَا قَادِرَ غَيْرُكَ، وَلَا قَاهِرَ سِوَاكَ، فَإِنِّي أَدْعُوكَ بِأَسْمَائِكَ الحُسْنَى، وَكَلِمَاتِكَ العُلْيَا العُظْمَى، الَّتِي قُلْتَ بِهَا لِجَمِيعِ الأَشْيَاءِ كُنْ، فَكَانَ مَا تَشَاءُ، الَّتِي كَانَ لَا يَثْبُتُ لِسَمَاعِهَا أَرْضٌ وَلَا سَمَاءٌ. أَسْأَلُكَ أَنْ تُسَخِّرَ لِي عَبِيدَكَ وَمَلَائِكَتَكَ، حَتَّى أَسْتَعِينَ بِهِمْ عَلَى مَا يُرْضِيكَ، وَأَنْتَ المُسْتَعَانُ. فَإِنِّي أَدْعُوكُمْ يَا مَعْشَرَ الأَرْوَاحِ الطَّاهِرِينَ، المُطِيعَةِ لِلَّهِ رَبِّ العَالَمِينَ، مِنَ المَلَائِكَةِ الرُّوحَانِيِّينَ المُوَكَّلِينَ بِنَوَاصِي الجِنِّ وَالشَّيَاطِينِ، بِمَا أَقْسَمَ اللَّهُ بِهِ عَلَى السَّمَوَاتِ وَالأَرْضِ، فَأَنْتَ طَائِعَةٌ
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Bismil-ladzii qaamat bi-amrihis-samawaat, wa sabbahat lahul-malaa'ikatu bikhtilaafil-lughaat, khalaqas-samaa'a biqudratih, wa dahal-arda bi-iraadatih, wa khalaqan-nujuuma bihikmatih, wa fajjaral-bihaara bimasyi-atih, wastawaa 'alaa jamii'il-asy-yaa'i biqahrihi wa qudratih. Azaliyyul-azali qablal-azmaani wad-duhuurizh-zhaahirah, tabaaraka fii jawhariyyatihin-nuuraniyyatil-'unshuriyyatil-azaliyyah, wahtajaba biqudsil-anwaaril-laahuutiyyatil-'aliyyatil-azaliyyah, al-ghaa-ibati 'anil-basyariyyatil-bariyyah, ats-tsaabitati fil-adzhaaniz-zakiyyah. Tabaarakta wa taqaddasat asmaauka yaa Rabb, alladzii minka tanba'u hikmatul-arwaahir-ruuhaaniyyatil-munfashilati bil-quwal-'aaliyah. Tabaarakta wa taqaddasat asmaauk, wa 'azhuma kibriyaauk, wa laa qaadira ghairuk, wa laa qaahira siwaak, fa-innii ad'uuka bi-asmaa-ikal-husnaa, wa kalimaatikal-'ulyal-'uzhmaa, allatii qulta bihaa li-jamii'il-asy-yaa'i kun, fakaana maa tasyaa', allatii kaana laa yatsbutu lisamaa'ihaa ardun wa laa samaa'. As-aluka an tusakhkhira lii 'abiidaka wa malaa-ikatak, hatta asta'iina bihim 'alaa maa yurdiik, wa antal-musta'aan. Fa-innii ad'uukum yaa ma'syaral-arwaahith-thaahiriin, al-muthii'ati lillaahi rabbil-'aalamiin, minal-malaa'ikatir-ruhaaniyyiinal-muwakkaliina binawaashil-jinni wasy-syayaathiin, bimaa aqsamallaahu bihi 'alas-samawaati wal-ard, fa-anta thaa-i'atun …*
-
-**[Terjemahan Indonesia]**
 
 Dengan nama Dzat yang langit-langit berdiri dengan perintah-Nya, yang para malaikat bertasbih kepada-Nya dengan berbagai bahasa; yang menciptakan langit dengan kekuasaan-Nya, menghamparkan bumi dengan kehendak-Nya, menciptakan bintang-bintang dengan hikmah-Nya, membelah lautan-lautan dengan kehendak-Nya, dan berkuasa penuh atas segala sesuatu dengan penaklukan dan kodrat-Nya. Yang Maha-Azali sebelum segala zaman dan masa yang tampak; Mahasuci dalam hakikat-Nya yang nurani, unsuri, dan azali; yang berhijab dengan kesucian cahaya-cahaya ketuhanan yang tinggi dan azali, yang gaib dari kemanusiaan yang murni, yang tetap dalam pikiran-pikiran yang bersih. Mahasuci Engkau dan mahasuci nama-nama-Mu, wahai Tuhanku, yang dari-Mu memancar hikmah ruh-ruh ruhani yang terpisah dengan kekuatan-kekuatan yang tinggi. Mahasuci Engkau dan mahasuci nama-nama-Mu, dan agung kemuliaan-Mu; tiada yang berkuasa selain Engkau, tiada yang menaklukkan selain Engkau. Maka sesungguhnya aku menyeru-Mu dengan nama-nama-Mu yang terbaik dan kalimat-kalimat-Mu yang tertinggi lagi agung, yang dengan itu Engkau berfirman kepada segala sesuatu «jadilah», maka terjadilah apa yang Engkau kehendaki — yang karenanya tiada bumi maupun langit yang mampu tetap berdiri saat mendengarnya. Aku mohon kepada-Mu agar Engkau tundukkan bagiku hamba-hamba-Mu dan malaikat-malaikat-Mu, sehingga aku dapat meminta bantuan mereka atas perkara yang Engkau ridai; dan Engkaulah tempat memohon pertolongan. Maka sesungguhnya aku memanggil kalian, wahai sekalian ruh yang suci, yang taat kepada Allah Tuhan semesta alam, dari kalangan malaikat ruhani yang diserahi memegang ubun-ubun jin dan setan, dengan sumpah Allah atas langit dan bumi — maka engkau taat …
 
@@ -491,19 +374,13 @@ Dengan nama Dzat yang langit-langit berdiri dengan perintah-Nya, yang para malai
 
 ### Bagian 1 — Sambungan sumpah: dengan kekuatan-Nya dan wahyu Jibril
 
-**[Teks Arab Asli]**
-
 <div dir="rtl">
 
 … بِقُدْرَتِهِ، بِالكَلِمَاتِ العُظْمَى وَالآيَاتِ العُلْيَا، بِاللَّهِ وَهُوَ رَبُّ الآخِرَةِ وَالأُولَى، وَبِمَا نَزَلَ بِهِ جِبْرِيلُ عَلَيْهِ السَّلَامُ عَلَى سُلَيْمَانَ لِكَافَّةِ النَّبِيِّينَ.
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *… biqudratih, bil-kalimaatil-'uzhmaa wal-aayaatil-'ulyaa, billaahi wa huwa rabbul-aakhirati wal-uulaa, wa bimaa nazala bihi Jibriilu 'alaihis-salaamu 'alaa Sulaimaana li-kaaffatin-nabiyyiin.*
-
-**[Terjemahan Indonesia]**
 
 … dengan kekuatan-Nya, dengan kalimat-kalimat yang agung dan ayat-ayat yang tinggi, dengan Allah — padahal Dialah Tuhan akhirat dan dunia — dan dengan apa yang dibawa turun oleh Jibril 'alaihis-salam kepada Sulaiman untuk seluruh para nabi.
 
@@ -513,19 +390,13 @@ Dengan nama Dzat yang langit-langit berdiri dengan perintah-Nya, yang para malai
 
 ### Bagian 2 — Seruan dengan nama-nama tersimpan dan nama-nama malaikat (bersambung ke hal. 8)
 
-**[Teks Arab Asli]**
-
 <div dir="rtl">
 
 يَا هِيًا شَرًا هِيًا أَدُونَيَّا أَصْبَاؤُوتِي عَلِي شَدَايَّا نُورَ النُّورِ أُو أُو تَلَأْلَأْ بِبَهَاهَا، وَيَاهٍ يَا هُو يَا هُو يَا هُو شَلِّيمٍ نَمُوَاهٍ نَمُوَاهٍ آهٍ هِيَاهٍ صَهْصَهَا هَصْهَصَا هَجْهَجَا آهٍ بِهٍ يَا نُوخٍ يَا هِيَهٍ نَمُوهٍ نَمُوهٍ نٍ، وَبِالإِسْمِ الَّذِي أَخَذَ بِهِ رَبُّنَا كُلَّ شَيْءٍ فَخَضَعَ وَذَلَّ، بِالإِسْمِ المَخْزُونِ المَكْتُونِ: آهْيَا شَاهْيَا صَفْفَصٍ صَصٍ أَدُونَيَّا أَصْبَاؤُوتِي عَلِي شَدَايَّا، رَضِيَ اللَّهُ عَنْكَ، أَجِيبُونِي يَا مَلَائِكَةَ رَبِّي يَا شَمَخٍ شِيمِيخَا، بِالَّذِي تُرْعَدُونَ مِنْ مَخَافَتِهِ، وَتَخِرُّونَ صَعْقًا لِهَيْبَتِهِ العَظِيمَةِ، لَابِسِ المَهَابَةِ، الخَفِيِّ بِالكِبْرِيَاءِ، المُكَلَّلِ بِالنُّورِ الَّذِي بَرَقَ خَيَالُ بَهَاءِ نُورِهِ، أَشْرَقَ طُورُ سِينَا فَانْهَدَّ وَجَرَى، وَخَرَّتِ المَلَائِكَةُ صَعْقًا فِي الهَوِيِّ، خَائِفَةً مِنْ سَطْوَةِ رَبِّ السَّمَوَاتِ العُلَى، طَائِعَةً لِأَسْمَائِهِ الحُسْنَى وَكَلِمَاتِهِ العُظْمَى. وَبِالإِسْمِ الَّذِي لَوْ تَكَلَّمَ بِهِ مِنْكَ الرُّوحُ لَتَسَاقَطَتْ رُؤُوسُ المَلَائِكَةِ الكَرُوبِيِّينَ: هُورِينٍ بَارُوخٍ أَشْمَخٍ شَمَاخٍ العَالِي عَلَى كُلٍّ بَرَاخٍ طَنْطِيشٍ شَفَشٍ أَكْرَاكُوكٍ إِلَهٌ قُدُّوسٌ يَا ذَا عِزَّةٍ يَا هَابُوتَرَاخٍ بَخٍ بِعَالَمٍ طَيْمُوثَا بَطِيثَا مَنِيعَا بِشَدَايِدِ الأَرْعَادِ طَيْثَا بِشَمَخٍ قَيُّومَا رَحْمَانَا يُوثَا مَايُوثَا هُولَايِينٍ هَلْبِيثَا قَطٍ قَطٍ اللَّهُ اللَّهُ الوَاحِدُ القَهَّارُ هُو هُو هُورَصٍ هُوغَانٍ كَبَارَا وَجَبَّارٌ أَبْيَضُ بِيضَ مَايْتُوتٍ جَلَّ وَعَزَّ سُلْطَانٌ شَمُوتٍ شَتَمُوتٍ بِمَصُورَشٍ صَصٍ صَمَدِي هُو مِيصٍ تَهَيْمَصٍ صَصٍ هُو مِيصَصْيَا صَمْصُومَهٍ هُوتَاهٍ يَا فَثْطَلِيسٍ هُو مِصَصْيَا هُو مَلِكُ الأَرْضِ وَالسَّمَاءِ أَجِبْنِي يَا مَيْطَطْرُونٍ: يَهٍ يَهٍ يَهٍ يَهٍ يَهٍ يَهٍ بِيهٍ أُورِيَالٍ بِرَخْيَالٍ هُورِيَالٍ شُورِيَالٍ رَغْشِيَالٍ هُورِيَالٍ لَهْفَيَالٍ بَرْقِيَالٍ نُورِيَالٍ عَشْيَالٍ
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Yaa Hiyan Syaraa Hiyan Adunayya Ashba-uuti Ali Syadayya Nuuran-nuur uu uu tala'la-a bibahaahaa, wa Yahin wa Yahin, Yaa Huu Yaa Huu Yaa Huu Syallimin Namuwaahin Namuwaahin aahin Hiyaahin shahshahaa hashhashaa hajhajaa aahin bihin yaa Nuukhin yaa Hiyahin namuhin namuhin nin, wal-ismil-ladzii akhadza bihi rabbunaa kulla syai-in fakhadha'a wa dzall, bil-ismil-makhzuunil-maktuun: Aahya Syaahya shaffashin shashin Adunayya Ashba-uuti Ali Syadayya, radhiyallaahu 'anka, ajibuunii yaa malaa-ikata rabbii yaa Syamakhin Syiimikha, bil-ladzii tur'aduuna min makhaafatih, wa takhirruuna sha'qan lihaibatihil-'azhiimah, laabisil-mahaabah, al-khafiyyi bil-kibriyaa', al-mukallali bin-nuuril-ladzii baraqa khayaalu bahaa-i nuurih, asyraqa Thuuru Siinaa fanhadda wa jaraa, wa kharrratil-malaa'ikatu sha'qan fil-haww, khaa-ifatan min sathwati rabbis-samawaatil-'ulaa, thaa-i'atan li-asmaa-ihil-husnaa wa kalimaatihil-'uzhmaa. Wal-ismil-ladzii law takallama bihi minkar-ruuhu latasaaqathat ru-uusul-malaa'ikatil-karubiyyiin: Huuriinin Baarukhin Asymakhin Syamaakhin al-'aalii 'alaa kull Baraakhin Thanthiisyin Syafasyin Akraakuukin ilaahun qudduus yaa dzaa 'izzatin yaa Haabuutarakhin bakhin bi-'aalamin Thaimuutsa Bathiitsa Manii'a bisyadaa-idil-ar'aad Thaitsa bisyamakhin Qayyuuma Rahmaana Yuuts Maayuuts Huulaayiinin Halbiitsa qathin qathin Allaahu Allaahul-waahidul-qahhaar Huu Huu Huurashin Huughaanin Kabaara wa jabbaaru abyadla biidla Maaytuutin jalla wa 'azza sultaanun Syamuutin Syatamuutin bimashuurashin shashin Shamadii Huu Miishin Tahimashin shashin Huu Miishashya Shamshuumahin Huutaahin yaa Faththalisin Huu Mishasya huwa malikul-ardi was-samaa' ajibnii yaa Maithathruunin: Yahin Yahin Yahin Yahin Yahin Yahin Biyahin Uuriyaalin Birakhyaalin Huuriyaalin Syuuriyaalin Raghsyiyaalin Huuriyaalin Lahfayaalin Barqiyaalin Nuuriyaalin 'Asyyaalin …*
-
-**[Terjemahan Indonesia]**
 
 Wahai Hiyan Syara Hiyan Adunayya Ashba'uuti Ali Syadayya, cahaya di atas cahaya, uu uu — berkilaulah dengan keelokan; dan Yahin wa Yahin, Ya Hu Ya Hu Ya Hu, Syallimin Namuwahin Namuwahin, ahin Hyahin, shahshaha hashhasha hajhaja, ahin bihin, ya Nukhin, ya Hyahin, namuhin namuhin nin — dan dengan nama yang dengan itu Tuhan kami mengambil (menundukkan) segala sesuatu sehingga tunduk dan hina, dengan nama yang tersimpan lagi tersembunyi: Ahya Syahya shaffashin shashin Adunayya Ashba'uuti Ali Syadayya — semoga Allah ridha kepadamu — jawablah aku, wahai para malaikat Tuhanku, ya Syamakhin Syimikha, demi Dzat yang karenanya kalian gemetar karena takut kepada-Nya dan kalian jatuh pingsan karena keagungan-Nya yang besar; Dzat yang memakai wibawa, yang tersembunyi dengan kebesaran, yang dimahkotai cahaya yang kilauan keindahan cahayanya membuat Gunung Sinai bersinar lalu runtuh dan mengalir (luluh), dan para malaikat jatuh pingsan saat terjun, ketakutan terhadap keperkasaan Tuhan langit-langit yang tinggi, taat kepada nama-nama-Nya yang terbaik dan kalimat-kalimat-Nya yang agung. Dan dengan nama yang seandainya ruh berbicaranya darimu [المطبوع: منك], niscaya berguguranlah kepala-kepala malaikat Karubiyyin: Hurinin Barukhin Asymakhin Syamakhin yang tinggi atas segala, Barakhin Thanthisyin Syafasyin Akrakukin, Tuhan yang Mahakudus, wahai pemilik keperkasaan, ya Habutarakhin, bakhin — bi'alamin Thaimutsa Bathitsa Mani'a dengan guncangan-guncangan guruh, Thaitsa bisyamakhin Qayyuma Rahmana Yuts Mayuts Hulayinin Halbitsa qathin qathin — Allah, Allah Yang Maha Esa lagi Maha Menaklukkan, Hu Hu, Hurashin Hughanin Kabara dan Jabbar putih, baidla Maytutin, Mahamulia lagi Mahaperkasa, سلطان (sultan) Syamutin Syatamutin bimashurashin shashin Shamadi Hu Mishin Tahimashin shashin Hu Mishasya Shamshumahin Hutahin, ya Faththalisin, Hu Mishasya — Dialah raja bumi dan langit — jawablah aku, ya Mithathrunin: Yahin Yahin Yahin Yahin Yahin Yahin Biyahin, Uriyalin, Birakhyalin, Huriyalin, Suriyalin, Raghsiyalin, Huriyalin, Lahfayalin, Barqiyalin, Nuriyalin, 'Asyyalin …
 
@@ -537,19 +408,13 @@ Wahai Hiyan Syara Hiyan Adunayya Ashba'uuti Ali Syadayya, cahaya di atas cahaya,
 
 ### Bagian 1 — Penutup rantai nama dan penutup doa
 
-**[Teks Arab Asli]**
-
 <div dir="rtl">
 
 … غَشْيَالْ هَدْرِيَالْ لَهْفَيَالْ بَرْقِيَالْ نُورِيَالْ عَشْيَالْ غَشْيَالْ فَلَايَالْ عَنْ تِرْيَالْ سَرْحِيَالْ [ضبط الاسم غير محسوم؛ حروفه محفوظة وفق الطباعة]. تَبَارَكَ رَبُّنَا، مَا أَعَزَّ عِزَّهُ، الَّذِي أَلْجَمَ الجَانَ بِكَلِمَاتِهِ، لَا إِلَهَ إِلَّا هُوَ. عَجِّلُوا بِكَافٍ مِنْ كَافٍ، وَبِصَادٍ مِنْ صَادٍ، أَوْ أُوهِي شُوصَهْ، شَرَمَهْ بِشُطُورٍ شُطُورٍ، حمعست الم المص [الصيغة مطابقة للمطبوع مع غرابة تركيبها؛ لا تُصحح بلا شاهد أوضح] رَبِّ يَا جَلِيلَ الأَجَلِّ، أَجِبْنِي يَا مَيْطَطْرُونُ أَنْتَ وَجَمِيعُ أَعْوَانِكَ، الطَّاعَةَ لِلَّهِ وَلِأَسْمَائِهِ.
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *… Ghasyyaal Hadriyaal Lahfayaal Barqiyaal Nuuriyaal 'Asyyaal Ghasyyaal Falaayaal 'an Tiriyaal Sarhiyaal [القراءة محتملة، والحروف محفوظة على رسم المطبوع - qiraatuhu muhtamalah]. Tabaaraka rabbunaa, maa a'azza 'izzah, alladzii aljamal-jaana bikalimaatih, laa ilaaha illaa huw. 'Ajjiluu bikaafin min kaaf, wa bishaadin min shaad, au Uuhii Syuushah, Syaramah bisyuthuurin syuthuur, ham'asat Alif-Laam-Mim Alif-Laam-Shaad [تسلسل حروف مطبوع غير منتظم، محفوظ بلا تصحيح] Rabbi yaa Jaliilal-ajal, ajibnii yaa Maithathruunu anta wa jamii'u a'waanik, ath-thaa'ata lillaahi wa li-asmaa-ih.*
-
-**[Terjemahan Indonesia]**
 
 … Ghasyyal, Hadriyal, Lahfayal, Barqiyal, Nuriyal, 'Asyyal, Ghasyyal, Falayal, 'an Tiriyal, Sarhiyal [pelafalan nama non-Arab bersifat tentatif; konsonan cetak dipertahankan]. Mahasuci Tuhan kami; betapa perkasa keperkasaan-Nya; Dzat yang membungkam jin dengan kalimat-kalimat-Nya; tiada tuhan selain Dia. Segeralah dengan kaf dari kaf, dan dengan shad dari shad, atau Uhi Shushah, Syaramah dengan syuthur syuthur, ham'asat Alif-Lam-Mim Alif-Lam-Shad [rangkaian huruf ini dipertahankan sesuai cetakan; bentuknya tidak baku]; Tuhanku, wahai Yang Mahamulia ajal, jawablah aku, wahai Mithathrun — engkau dan seluruh penolongmu — taat kepada Allah dan kepada nama-nama-Nya.
 
@@ -559,25 +424,17 @@ Wahai Hiyan Syara Hiyan Adunayya Ashba'uuti Ali Syadayya, cahaya di atas cahaya,
 
 ### Bagian 2 — Judul: sebagian dari sumpah-sumpah Mithathrun
 
-**[Teks Arab Asli]**
-
 <div dir="rtl">
 
 **قِسْمٌ مِنْ أَقْسَامِ مَيْطَطْرُونَ**
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 **Qismun min aqsaami Maithathruun**
-
-**[Terjemahan Indonesia]**
 
 **Sebagian dari Sumpah-Sumpah (Qasam) Mithathrun**
 
 ### Bagian 3 — Teks sumpah dan perintah kepada para malaikat
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -585,11 +442,7 @@ Wahai Hiyan Syara Hiyan Adunayya Ashba'uuti Ali Syadayya, cahaya di atas cahaya,
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Taquulu: 'Almahasyaasyaq 'Almu Tsiyaakalmuutsa Aatsyaalagh sha'sha'a sha'sha'a Bahaatha Ithaaliya Aqaaliba 'asya' 'Ajaj Syarmadii, tabaarakallaahul-'azhiim, Asythiigh Thaithahaa sha'sha'a Jahatha Thaaliya Aqaaliba 'Asa' 'Ajaj Sarmaadii, tabaarakallaahul-'azhiim, Asythiigh Thaithahaa, Miikh 'Aliibaakh Malikh Syalmiits Qumuwaaryasy Halahnuusy yaa Syamlahuusy yaa Sha'thaf yaa Thathif yaa 'Aiquqan yaa Misysyar Nuufiil yaa Barihuuts yaa Daifuub yaa Thanthafiigh Iqhuusy yaa Syaamaikh Dalahuutsaa yaa Syamkhiitsaa yaa 'Athlaayaakh yaa Syamlakh Fathiikh yaa Syaahahniiq biquyurasy Thamaqtsiitsaa. Ajibuunii yaa malaa-ikata rabbii. Fasha'iqa man fis-samawaati wa man fil-ardi illaa man syaa-allaah, wa kullun atauhu daakhiriin. Zaz'i'uu [al-mathbu': zaza'uu] Thahiithmafiilyaal lahum yaa ma'syarar-ruuhaaniyyah. Ajibnii yaa Thahiithmafiilyaal, ish'aq bihi wa illaa ash'aqallaahu bik. Al-wahaa yaa Thaatmathyaal wa Baa Sha'thaknyaal wa Baa Sathniyaa-iil wa Baa Giihfyaa-iil, khudzuuhu bihaqqi Jibriila wa Miikaa-iila wa Israa-iila wa 'Izraa-iil. Al-'ajala yaa Thahiithmafiilyaal, al-wahaa yaa Maithathruun.*
-
-**[Terjemahan Indonesia]**
 
 Engkau mengucapkan: 'Almahasyasyaq 'Almu Tsiyakalmutsa Atsyalagh sha'sha'a sha'sha'a Bahatha Ithaliya Aqaliba 'asya' 'Ajaj Syarmadi — Mahasuci Allah Yang Mahaagung — Asytigh Thaithaha sha'sha'a Jahatha Thaliya Aqaliba 'Asa' 'Ajaj Sarmadi — Mahasuci Allah Yang Mahaagung — Asytigh Thaithaha, Mikh 'Alibakh Malikh Syalmits Qumuwarasy Halahnusy, ya Syamlahusy, ya Sha'thaf, ya Thathif, ya 'Aiquqan, ya Misyar Nufil, ya Barihuts, ya Daifub, ya Thanthafigh Iqhusy, ya Syamaikh Dalahutsa, ya Syamkhitsa, ya 'Athlayakh, ya Syamlakh Fathikh, ya Syahahniq biquyurasy Thamaqtsitsa. Jawablah aku, wahai para malaikat Tuhanku. Maka pingsanlah siapa pun yang di langit dan di bumi kecuali yang dikehendaki Allah, dan semuanya datang kepada-Nya dalam keadaan hina. Guncangkanlah [yang tercetak: «zaza'u»] Thahithmafilial kepada mereka, wahai sekalian ruhani. Jawablah aku, wahai Thahithmafilial; gertaklah dengan itu, jika tidak, Allah akan menggertak denganmu. Segeralah, ya Thathmathyal, dan Ba Sha'thakyal, dan Ba Sathniya'il, dan Ba Gihfyaya'il — peganglah dia dengan hak Jibril, Mikail, Isra'il, dan 'Izra'il. Segeralah, wahai Thahithmafilial; segeralah, wahai Mithathrun.
 
@@ -605,8 +458,6 @@ Engkau mengucapkan: 'Almahasyasyaq 'Almu Tsiyakalmutsa Atsyalagh sha'sha'a sha's
 
 ### Bagian 1 — Pembicaraan tentang anak-anak Shakhr dan tujuh raja
 
-**[Teks Arab Asli]**
-
 <div dir="rtl">
 
 **الكَلَامُ عَلَى أَوْلَادِ صَخْرَ**
@@ -615,13 +466,9 @@ Engkau mengucapkan: 'Almahasyasyaq 'Almu Tsiyakalmutsa Atsyalagh sha'sha'a sha's
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 **Al-kalaamu 'alaa aulaadi Shakhr**
 
 *Wa 'alaa jamii'il-mulukis-sab'ah. Natakallamu bihaadzihi 'inda muhimmil-umuuri wa ayya man da'auta ajaabuu, jamii'an aradta au furaadaa, in syi'ta farradta wa in syi'ta jama'ta. Taquulu: Iilii Iilii Zahaaj bizaghrah Iilii Ahmad Riikh ath-thuud thuud Athal Yaalagh Lafaarkiraa Syam laa biigh Raqasy Yaadah Syaamiin tsumma Akbin, ajibu yaa ma'syaral-mulukis-sab'ati bihaqqi haadzihil-asmaa-il-kariimatil-'azhiimati 'alaikum.*
-
-**[Terjemahan Indonesia]**
 
 **Pembicaraan tentang Anak-Anak Shakhr**
 
@@ -633,8 +480,6 @@ Dan tentang seluruh tujuh raja. Kami berbicara dengan ini pada perkara-perkara y
 
 ### Bagian 2 — Rupa cincin Shakhr
 
-**[Teks Arab Asli]**
-
 <div dir="rtl">
 
 **صِفَةُ خَاتَمِ صَخْرَ**
@@ -643,13 +488,9 @@ Dan tentang seluruh tujuh raja. Kami berbicara dengan ini pada perkara-perkara y
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 **Shifatu khaatami Shakhr**
 
 *Wa huwal-'awnul-musallatu 'alaa yadi Sulaimaana bni Daawud, wa huwa shaahibul-manzil.*
-
-**[Terjemahan Indonesia]**
 
 **Rupa Cincin Shakhr**
 
@@ -661,8 +502,6 @@ Ia (Shakhr) adalah penolong yang diberi kekuasaan atas tangan Sulaiman bin Dawud
 
 ### Bagian 3 — Cara membuatnya (bersambung ke hal. 10)
 
-**[Teks Arab Asli]**
-
 <div dir="rtl">
 
 **صِفَةُ عَمَلِهِ**
@@ -671,13 +510,9 @@ Ia (Shakhr) adalah penolong yang diberi kekuasaan atas tangan Sulaiman bin Dawud
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 **Shifatu 'amalih**
 
 *Tashna'u khaataman min nuhaasin ahmar, au min dzahabin in amkanak, au min 'aqiiqin ahmara fa-huwa ahsan, fii yaumil-ahadi au yaumil-khamiis, fii syarafi dzaalikal-yaumil-ladzii turiiduh, wa tanqusyuhu fiihi au fii mitslih. Wal-yakun dzaalika fii yaumil-jumu'ah, awwalasy-syahril-'arabiyy, wa taghsiluhu ba'da naqsyihi bimaa-in jaarin wa milhin, wa tunajjimuhu …*
-
-**[Terjemahan Indonesia]**
 
 **Cara Membuatnya**
 
@@ -695,19 +530,13 @@ Engkau membuat cincin dari tembaga merah, atau dari emas jika engkau mampu, atau
 
 ### Bagian 1 — Sambungan cara membuat: tanjim, pengasapan, dan rupa cincin
 
-**[Teks Arab Asli]**
-
 <div dir="rtl">
 
 … عَلَى حَسَبِ تَنْجِيمِ الخَوَاتِمِ، وَتَرْفَعُهُ فِي كِيسٍ نَقِيٍّ ظَاهِرٍ، بَعْدَ تَبْخِيرِهِ بِعُودٍ وَمَيْعَةٍ، وَهُوَ هَذَا الخَاتَمُ المُبَارَكُ كَمَا تَرَاهُ:
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *… 'alaa hasabi tanjiimil-khawaatim, wa tarfa'uhu fii kiisin naqiyyin zhaahir, ba'da tabkhiirihi bi-'uudin wa mai'ah, wa huwa haadzal-khaatamul-mubaarak kamaa taraah:*
-
-**[Terjemahan Indonesia]**
 
 … sesuai dengan tanjim (perbintangan) cincin-cincin; dan engkau menyimpannya dalam kantung yang bersih lagi terang, setelah engkau mengasapinya dengan gaharu (oud) dan mi'ah (kemenyan/stiraks); dan inilah cincin yang diberkahi itu sebagaimana engkau melihatnya:
 
@@ -721,8 +550,6 @@ Engkau membuat cincin dari tembaga merah, atau dari emas jika engkau mampu, atau
 
 ### Bagian 2 — Nama-nama «an-nazhar» yang ditulis di antara dua mata orang yang terkena
 
-**[Teks Arab Asli]**
-
 <div dir="rtl">
 
 **أَسْمَاءُ النَّظَرِ الَّتِي تُكْتَبُ بَيْنَ عَيْنَيِ المُصَابِ**
@@ -731,13 +558,9 @@ Engkau membuat cincin dari tembaga merah, atau dari emas jika engkau mampu, atau
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 **Asmaa-un-nazhar allatii tuktabu baina 'ainayil-mushaab**
 
 *Wa hiya haadzihi: Al-farqasy Haamuur Asar, unzhur bihaqqi Syakhmaluus Salhaa Thiisy Thiisyiisy Ha'isy Armisy, unzhur bihaqqi Syakhmaluus.*
-
-**[Terjemahan Indonesia]**
 
 **Nama-Nama «An-Nazhar» (Pandangan) yang Ditulis di Antara Dua Mata Orang yang Terkena**
 
@@ -749,19 +572,13 @@ Yaitu ini: al-Farqasy, Hamur, Asar — pandanglah dengan hak Syakhmalusy — Sal
 
 ### Bagian 3 — Tulisan penahan jin dan rupa aksaranya
 
-**[Teks Arab Asli]**
-
 <div dir="rtl">
 
 وَإِذَا تَعَاصَى عَلَيْكَ الجِنُّ، وَأَرَدْتَ أَنْ لَا يَبْرَحَ مِنْ بَيْنِ يَدَيْكَ، فَتَحَكَّمْ فِيهِ بِمَا شِئْتَ، فَتَكْتُبُ هَذِهِ الأَسْمَاءَ فِي وَرَقَةٍ، وَتَعْمَلُهَا تَحْتَ رِجْلَيْهِ، فَإِنَّهُ لَا يَبْرَحُ وَلَوْ أَقَامَ مُدَّةَ سَنَةٍ حَتَّى تُطْلِقَهُ. وَهِيَ هَذِهِ:
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Wa idzaa ta'aashaa 'alaikal-jinn, wa aradta an laa yabraha min baina yadaik, fatahakkam fiihi bimaa syi't, fataktabu haadzihil-asmaa'a fii waraqah, wa ta'maluhaa tahta rijlaih, fa-innahu laa yabraha wa law aqaama muddata sanatin hatta tuthliqah. Wa hiya haadzihi:*
-
-**[Terjemahan Indonesia]**
 
 Dan apabila jin membangkang kepadamu, dan engkau hendak ia tidak beranjak dari antara dua tanganmu, maka hukumilah ia sesukamu: engkau tuliskan nama-nama ini pada selembar kertas, dan engkau letakkan di bawah kedua kakinya; maka ia tidak akan beranjak walaupun tinggal selama satu tahun, sampai engkau melepaskannya. Yaitu ini:
 
@@ -779,13 +596,11 @@ Dan apabila jin membangkang kepadamu, dan engkau hendak ia tidak beranjak dari a
 
 ---
 
-# BATCH 03 — Halaman PDF 11–15
+# JILID 03 — Halaman PDF 11–15
 
 ## Halaman PDF 11 (= cetak 10)
 
 ### Bagian 1 — Judul: nama-nama yang membunuh semua raja
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -795,13 +610,9 @@ Dan apabila jin membangkang kepadamu, dan engkau hendak ia tidak beranjak dari a
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 **Asmaa-un taqtulu jamii'al-muluuk**
 
 *Idzaa 'ashaa 'alaika malikun minal-muluuki au 'aaridhun minal-'awaaridhi wa aradta qatlah, uktub haadzihil-asmaa'a fii waraqatin in amkanaka [al-mathbu': amkatka], au fil-ardh, wa ta'malu 'alaiha harabata Yamuuna [تسلسل مطبوع غير منتظم، محفوظ بلا تصحيح], fakullu maa tashna'u fiihaa yushna'u bih. Wa tad'uu bi-ayyi malikin syi'ta fayumtatsalu [al-mathbu': fayumatsilu] amruk, wa hiya haadzihi: Thamthamluusy [القراءة محتملة، والحروف محفوظة على رسم المطبوع - qiraatuhu muhtamalah].*
-
-**[Terjemahan Indonesia]**
 
 **Nama-Nama yang Membunuh Seluruh Raja**
 
@@ -817,8 +628,6 @@ Apabila seorang raja dari para raja atau seorang penghalang dari para penghalang
 
 ### Bagian 2 — Bab mengikat, menyalib, dan membuat jin berbicara
 
-**[Teks Arab Asli]**
-
 <div dir="rtl">
 
 **فَصْلٌ فِي تَكْتِيفِ الجَانِّ وَصَلْبِهِ وَاسْتِنْطَاقِهِ**
@@ -827,13 +636,9 @@ Apabila seorang raja dari para raja atau seorang penghalang dari para penghalang
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 **Fashlun fii taktiifil-jaanni wa shalbihi wastinthaaqih**
 
 *Idzaa ataaka mushaabun wa bihi riihun minal-jaann, faktub lahu wa shaari'hu. Fa-idzanshara'a ta'muru bitaktiifihi fataquulu: Lanaa Lanaa Hii Hafyah Aay Hii Birahi, ikhdha' bihaqqil-ghaalibi 'alaik, wa bihaqqi 'Asyirin Zhaharasy Kaffahu yaa Maimuun [القراءة محتملة، والحروف محفوظة على رسم المطبوع - qiraatuhu muhtamalah].*
-
-**[Terjemahan Indonesia]**
 
 **Bab Mengikat, Menyalib, dan Membuat Jin Berbicara**
 
@@ -845,8 +650,6 @@ Apabila datang kepadamu orang yang terkena (musibah) dan padanya ada «angin» (
 
 ### Bagian 3 — Membuat jin berbicara
 
-**[Teks Arab Asli]**
-
 <div dir="rtl">
 
 **اسْتِنْطَاقٌ**
@@ -855,13 +658,9 @@ Apabila datang kepadamu orang yang terkena (musibah) dan padanya ada «angin» (
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 **Istinthaaq**
 
 *Idzaa aradta an yatakallama [al-mathbu': takallama] al-jinnu fasjunhu fil-jubbah, taquulu: Habastuka bi-Hanthasy bi-Kahyash wa Hammi 'Asyaq [القراءة محتملة، والحروف محفوظة على رسم المطبوع - qiraatuhu muhtamalah].*
-
-**[Terjemahan Indonesia]**
 
 **Membuat Berbicara**
 
@@ -875,8 +674,6 @@ Apabila engkau hendak jin itu berbicara, maka penjarakanlah ia dalam «al-jubbah
 
 ### Bagian 1 — Judul: syarah «al-Balathah», haikal perjanjian para ruh
 
-**[Teks Arab Asli]**
-
 <div dir="rtl">
 
 **شَرْحُ البَلَاطَةِ**
@@ -885,13 +682,9 @@ Apabila engkau hendak jin itu berbicara, maka penjarakanlah ia dalam «al-jubbah
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 **Syarhul-balaathah**
 
 *Wa hiyal-balaathatul-latii kaanat baina yadai Sulaimaana bni Daawud, wa huwal-haikarul-'azhiimul-ladzii 'aahada 'alaihil-arwaah, wallatii qa'ada 'alaihaa Jibriilu wa Miikaa-iilu wa Israa-iilu wa 'Izraa-iilu yauma 'aahadal-arwaah.*
-
-**[Terjemahan Indonesia]**
 
 **Syarah «Al-Balathah» (Lempeng/Papan)**
 
@@ -903,25 +696,17 @@ Ia adalah «al-balathah» yang berada di hadapan Sulaiman bin Dawud, yaitu haika
 
 ### Bagian 2 — Nama-nama yang diturunkan kepada Sulaiman
 
-**[Teks Arab Asli]**
-
 <div dir="rtl">
 
 نُزِّلَتْ هَذِهِ الأَسْمَاءُ عَلَى سُلَيْمَانَ بْنِ دَاوُدَ
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Nuzzilat haadzihil-asmaa'u 'alaa Sulaimaana bni Daawud*
-
-**[Terjemahan Indonesia]**
 
 Nama-nama ini diturunkan kepada Sulaiman bin Dawud.
 
 ### Bagian 3 — Bahasa rahib dan daya nama-nama itu
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -929,11 +714,7 @@ Nama-nama ini diturunkan kepada Sulaiman bin Dawud.
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Bil-lisaanir-ruhaaniyyi ta'jazu 'anhaa kahnatul-jinni wal-ins, wa tahmilu minhal-jinnu amran 'azhiimaa. Fakaana idzaa araada qatla 'ifriitin thaaghin basathahaa, fayub'adu kullu man haulahu minal-insi wal-jinni wath-thair, tazuffuhal-malaa'ikatur-ruhaaniyyuuna 'an yamiinika wa yasaarik. Wa laa tukhrijhaa illaa 'indadz-dzikr, wa laa tasra' fii sharfihaa fatu'dziya nafsak, fa-innahu yakhdimuhats-naa 'asyara malakan minal-malaa-ikah, wa hiyal-latii dzakara fiihabnu Baa'uuraa al-Faarisiyyu annahaa [al-mathbu': annahumaa] kaanat fii liwaa-i Sulaimaana bni Daawud, fakaana idzaa khamadatir-riihu nasyarahaa, fatahubbur-riihu fii kulli makaanin yuriid.*
-
-**[Terjemahan Indonesia]**
 
 Dengan bahasa rahib (rubbani); para dukun jin dan manusia tidak mampu mengatasinya, dan jin memikul dari nama-nama itu urusan yang besar. Maka apabila ia (Sulaiman) hendak membunuh 'ifrit yang lalim, ia membentangkannya; maka dijauhkanlah segala yang di sekelilingnya dari manusia, jin, dan burung, sedangkan para malaikat ruhani mengusung lembaran itu di kanan dan kirimu. Janganlah engkau mengeluarkannya kecuali saat dzikir, dan jangan tergesa dalam memakainya sehingga engkau menyakiti dirimu sendiri; sebab ia dilayani dua belas malaikat dari para malaikat. Inilah yang disebutkan oleh Ibn Ba'ura al-Farisi bahwa ia (lembaran itu) berada dalam bendera Sulaiman bin Dawud; maka apabila angin padam, ia membentangkannya, lalu bertiuplah angin ke setiap tempat yang ia kehendaki.
 
@@ -943,19 +724,13 @@ Dengan bahasa rahib (rubbani); para dukun jin dan manusia tidak mampu mengatasin
 
 ### Bagian 4 — Cara membuatnya (bersambung ke hal. 13)
 
-**[Teks Arab Asli]**
-
 <div dir="rtl">
 
 إِذَا أَرَدْتَ صَنْعَهَا تَضَعُهَا فِي خِرْقَةِ حَرِيرٍ حَمْرَاءَ أَوْ بَيْضَاءَ، وَتَجْعَلُهَا فِي عَصًا مِنْ عَوْسَجٍ أَوْ مِنْ رُمَّانٍ أَوْ مِنْ سَفَرْجَلٍ، وَانْشُرْهَا تَرَ [المطبوع: تَر] العَجَبَ. فَإِنْ كَانَ لَيْلًا فَقِدْ تَحْتَهَا سَبْعَ شَمْعَاتٍ، وَاضْرِبْ عَلَيْهَا سَبْعَةَ أَخْبِيَةٍ، وَاجْعَلْ فِي كُلِّ خَبَاءٍ لُوَاءً عَلَى شَكْلِ …
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Idzaa aradta shan'ahaa tadha'uhaa fii khirqati hariirin hamraa-a au baidhaa', wa taj'aluhaa fii 'ashaan min 'awsajin au min rummaanin au min safarjal, wansyurhaa tara [al-mathbu': tar] al-'ajab. Fa-in kaana lailan faqid tahtahaa sab'a syam'aat, wadhrib 'alaihaa sab'ata akhbiyah, waj'al fii kulli khabaa-in liwaa-an 'alaa syakli …*
-
-**[Terjemahan Indonesia]**
 
 Apabila engkau hendak membuatnya, engkau letakkan ia pada kain sutra merah atau putih, dan engkau jadikan ia pada tongkat dari 'ausaj (duri), atau dari delima, atau dari safarjal (quince); lalu bentangkanlah ia, niscaya engkau melihat keajaiban. Bila malam, maka nyalakanlah di bawahnya tujuh lilin, dan dirikanlah atasnya tujuh tenda, dan jadikanlah pada setiap tenda satu bendera berbentuk …
 
@@ -971,19 +746,13 @@ Apabila engkau hendak membuatnya, engkau letakkan ia pada kain sutra merah atau 
 
 ### Bagian 1 — Sambungan: tempat, kehati-hatian, dan perlindungan saat membuatnya
 
-**[Teks Arab Asli]**
-
 <div dir="rtl">
 
 … صَاحِبِهِ. وَإِنْ كَانَ فِي النَّهَارِ، فَاجْعَلْ ذَلِكَ فِي مَكَانٍ مُنْعَزِلٍ عَنِ النَّاسِ، وَلَا تُؤْذِ شَيْئًا. وَيَكُونُ المَوْضِعُ ظَاهِرًا نَقِيًا، وَيَكُونُ الثِّيَابُ عَلَى طَهَارَةٍ. وَإِنْ صَنَعْتَهَا يَكُونُ أَمَامَكَ بِسَاطٌ مُرْتَفِعٌ عَنِ الأَرْضِ عَلَى أَرْبَعِ قَوَائِمَ كَذَلِكَ، فَإِنْ تَعَاصَى عَلَيْكَ عَارِضٌ قَوِيٌّ، وَحَصَلَ بَيْنَكَ وَبَيْنَ مَلِكٍ مِنْ مُلُوكِ الرُّوحَانِيَّةِ مُشَادَّةٌ، أَوْ تَحَزَّبَ عَلَيْكَ مَلِكٌ مِنَ المُلُوكِ، أَوْ تَحَزَّبَتْ عَلَيْكَ جُيُوشٌ مِنَ الجِنِّ، وَخِفْتَ عَلَى نَفْسِكَ، أَوْ سُلِّطَ عَلَيْكَ حَكِيمٌ مِنَ العُلَمَاءِ أَرْوَاحًا لِيُؤْذِيَكَ بِهَا، أَوْ كَانَ لَكَ أَمْرٌ مُهِمٌّ عِنْدَ مَلِكٍ مِنْ مُلُوكِ الجِنِّ وَالإِنْسِ، مِنَ الحَوَائِجِ العَلِيَّةِ أَوْ إِطْلَاقِ مَحْبُوسٍ اسْتَوْجَبَ القَتْلَ، أَوْ إِزَالَةِ أَحَدٍ مِنْ مَرْتَبَتِهِ، أَوْ تَجْرِبَةِ أَحَدٍ عَنْ مَمْلَكَتِهِ، فَابْرِزْ إِلَى الانْقِطَاعِ عَنِ العِمَارَةِ فِي ذَلِكَ كُلِّهِ وَلَا تَخَفْ، وَاضْرِبْ عَلَى نَفْسِكَ مُنْدَلًا عَلَى مَرْآةٍ وَاسِطُهَا بَيْنَ يَدَيْكَ، وَاسْتَدْعِ الرُّوحَانِيَّةَ العُلْوِيَّةَ المُوَكَّلِينَ بِالأَفْلَاكِ كُلِّهَا، أَوْ تَكْتُبُ لِنَفْسِكَ حِجَابًا وَصُرُوفَاتٍ فِي صَحَائِفَ، وَتَمْحِيهَا بِالمَاءِ وَتُرَشُّ الأَرْضَ، تَفْعَلُ ذَلِكَ حَتَّى تَبْتَلَّ، وَذَلِكَ [المطبوع: وَتَدَلَّكَ] خَوْفًا مِنَ الغَوَاصِينَ. وَتَكْتُبُ لِنَفْسِكَ حِجَابًا عَنْ يَمِينِكَ وَعَنْ شِمَالِكَ وَعَلَى رَأْسِكَ وَتَحْتَكَ، فَإِذَا حَضَرُوا بِأَبْدَانِهِمْ [المطبوع: أَبْدَانَاهُمْ] الأَمْرُ إِلَيْكَ، وَسَلْ عَنْ حَاجَتِكَ فَإِنَّ اللَّهَ يَقْضِيهَا لَكَ. وَإِنْ أَرَدْتَ قَتْلَ عِفْرِيتٍ طَاغٍ مِنَ المُلُوكِ فَأَمْضِ فِيهِ أَمْرَكَ، وَالْتَزِمِ التَّقْوَى وَتَجَنَّبِ النَّجَاسَةَ، وَالْتَزِمِ الطَّهَارَةَ وَالخُشُوعَ وَالحِلْمَ، وَإِيَّاكَ وَالْعَجَبَ فَإِنَّ فِيهِ زَلَّةَ القَدَمِ. وَاشْكُرِ اللَّهَ تَعَالَى عَلَى مَا أَوْلَاكَ فِيهِ.
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *… shaahibih. Wa in kaana fin-nahaar, faj'al dzaalika fii makaanin mun'azilin 'anin-naas, wa laa tu'dzi syai-aa. Wa yakuunul-maudhi'u zhaahiran naqiyyaa, wa yakuunuts-tsiyaabu 'alaa thahaarah. Wa in shana'tahaa yakuunu amaamaka bisaathun murtafi'un 'anil-ardhi 'alaa arba'i qawaa-ima kadzaalik, fa-in ta'aashaa 'alaika 'aaridhun qawiyy, wa hashala bainaka wa baina malikin min muluukir-ruhaaniyyati musyaaddah, au tahazzaba 'alaika malikun minal-muluuk, au tahazzabat 'alaika juyuusun minal-jinn, wa khifta 'alaa nafsik, au sullitha 'alaika hakiimun minal-'ulamaa-i arwaahan li-yu'dziyaka bihaa, au kaana laka amrun muhimmin 'inda malikin min mulukil-jinni wal-ins, minal-hawaa-ijil-'aliyyati au ithlaaqi mahbuusin istaujabal-qatl, au izaalati ahadin min martabatih, au tajribati ahadin 'an mamlakatih, fabriz ilal-inqithaa'i 'anil-'imaarati fii dzaalika kullihi wa laa takhaf, wadhrib 'alaa nafsika mundalan 'alaa mir-aatin waasithuhaa baina yadaik, wastadi'ir-ruhaaniyyatal-'ulwiyyatal-muwakkaliina bil-aflaaki kullihaa, au taktubu linafsika hijaaban wa shuruufaatin fii shahaa-if, wa tamhiihaa bil-maa-i wa turasyysyul-ardh, taf'alu dzaalika hattaa tabtall, wa dzaalika [al-mathbu': wa tadallaka] khaufan minal-ghawaashiin. Wa taktubu linafsika hijaaban 'an yamiinika wa 'an syimaalika wa 'alaa ra'sika wa tahtak, fa-idzaa hadharuu bi-abdaanihim [al-mathbu': abdaanaahum] al-amru ilaik, was-al 'an haajatika fa-innallaaha yaqdhihaa lak. Wa in aradta qatla 'ifriitin thaaghin minal-muluuki fa-amdh fihi amrak, wal-tazimit-taqwaa wa tajannabin-najaasah, wal-tazimith-thahaarata wal-khusyu'u wal-hilm, wa iyyaaka wal-'ajaba fa-inna fiihi zallatal-qadam. Wasykurillaaha ta'aalaa 'alaa maa awlaaka fiih.*
-
-**[Terjemahan Indonesia]**
 
 … pemiliknya. Dan bila pada siang hari, maka lakukanlah itu di tempat yang terpencil dari orang banyak, dan janganlah engkau menyakiti sesuatu. Hendaklah tempat itu terbuka lagi bersih, dan pakaian dalam keadaan suci. Dan bila engkau membuatnya, hendaknya di hadapanmu ada hamparan yang terangkat dari tanah di atas empat kaki demikian pula. Maka apabila seorang penghalang yang kuat membangkang kepadamu, dan terjadi antara engkau dan seorang raja dari para raja ruhani perbantahan, atau seorang raja dari para raja bersekutu melawan engkau, atau pasukan-pasukan jin bersekutu melawan engkau dan engkau takut atas dirimu, atau seorang hakim dari para ulama dikuasakan atas dirimu dengan ruh-ruh untuk menyakitimu dengannya, atau engkau mempunyai urusan penting di sisi seorang raja dari raja-raja jin dan manusia — berupa hajat-hajat yang tinggi, atau melepaskan tahanan yang telah patut dihukum bunuh, atau menurunkan seseorang dari kedudukannya, atau menguji seseorang dari kerajaannya — maka keluarlah kepada keterputusan dari keramaian dalam semua itu dan janganlah takut; dan pukulkanlah atas dirimu «mandal» di atas cermin yang tengahnya di hadapan kedua tanganmu, dan panggillah ruh-ruh ruhani yang tinggi yang diserahi seluruh langit; atau engkau tuliskan untuk dirimu hijab dan shurufat pada lembaran-lembaran, lalu engkau menghapusnya dengan air dan tanah diciprati; engkau lakukan itu sampai basah — dan itu [yang tercetak: «wa tadallaka»] karena takut kepada para penyelam (al-ghawashin). Dan engkau tuliskan untuk dirimu hijab di kananmu, di kirimu, di atas kepalamu, dan di bawahmu; maka apabila mereka hadir dengan badan-badan mereka, urusan terserah kepadamu — dan tanyakanlah hajatmu, maka sesungguhnya Allah menunaikannya bagimu. Dan apabila engkau hendak membunuh 'ifrit yang lalim dari para raja, maka jalankanlah perintahmu padanya; dan lazimkanlah takwa dan jauhilah najis, dan lazimkanlah kesucian, khusyuk, dan kelemahlembutan; dan awaslah engkau dari 'ajab (takjub pada diri), karena padanya ada ketergelinciran kaki. Dan bersyukurlah kepada Allah Ta'ala atas apa yang Dia anugerahkan kepadamu dalamnya.
 
@@ -999,19 +768,13 @@ Apabila engkau hendak membuatnya, engkau letakkan ia pada kain sutra merah atau 
 
 ### Bagian 1 — Sambungan: kemanfaatan balathah dan perjanjian dengan raja jin
 
-**[Teks Arab Asli]**
-
 <div dir="rtl">
 
 … الزِّيَادَةِ. وَإِنْ أَرَدْتَ أَنْ تَعْلَمَ الأَخْبَارَ مِنَ المَشْرِقِ إِلَى المَغْرِبِ، فَاطْلُبِ المُخْتَرِقِينَ فِي أَقْطَارِ الأَرْضِ يُعَلِّمُوكَ بِذَلِكَ. وَإِنْ أَرَدْتَ أَنْ يَسِيرُوا بِكَ مَسِيرَةَ سَنَةٍ فِي لَحْظَةٍ وَاحِدَةٍ، فَاصْنَعْهَا بِسَاطًا تَحْتَكَ، وَتَكَلَّمْ بِأَسْمَاءِ الرُّوحَانِيَّةِ. وَإِنْ أَرَدْتَ أَنْ تَنْصُرَ أَهْلَ إِقْلِيمِكَ عَلَى خَصْمٍ لَا يُطِيقُونَهُ، فَاسْتَدِعْ بِهِ وَسَلِّطْ عَلَيْهِ مَنْ شِئْتَ. وَإِنْ أَرَدْتَ أَنْ تَتَحَالَفَ مَعَ أَحَدٍ مِنْ مُلُوكِ الجِنِّ، فَتُحْضِرُهُ وَتَقُولُ: شَاهْ شَاهْ اشْ لِيَالْ لِيَالْ حَالِفْ حَالِفْ [ضبط الاسم غير محسوم؛ حروفه محفوظة وفق الطباعة]، وَإِذْ أَخَذَ رَبُّكَ مِنْ بَنِي آدَمَ مِنْ ظُهُورِهِمْ ذُرِّيَّاتِهِمْ، وَأَشْهَدَهُمْ عَلَى أَنْفُسِهِمْ أَلَسْتُ بِرَبِّكُمْ قَالُوا بَلَى، شَهِدْنَا شَهِدْنَا. فَإِنْ أَجَابُوا العَهْدَ، وَإِلَّا فَتَكَلَّمْ بِالأَسْمَاءِ الَّتِي فِي قَلْبِ البَلَاطَةِ، وَانْفَخْ عَلَيْهِمْ يَحْتَرِقُونَ. وَقَدْ أَرَدْتَ الاخْتِصَارَ خِيفَةَ التَّطْوِيلِ، فَإِنَّهَا تَتَصَرَّفُ فِي أَلْفِ بَابٍ مِنَ المَنَافِعِ، وَهِيَ الطَّاعَةُ الكُبْرَى الَّتِي كَانَ سُلَيْمَانُ بْنُ دَاوُدَ يَعْمَلُ بِهَا، وَكَانَ يَنْزِلُ بِهَا مِنْ إِقْلِيمٍ إِلَى إِقْلِيمٍ، وَهِيَ القَهْرُ عَلَى جَمِيعِ أَهْلِ الأَرْضِ. فَاحْفَظْ مَا قَدْ صَارَ إِلَيْكَ أَيُّهَا العَالِمُ، وَلَا تُبْدِهِ لِجَاهِلٍ فَيَصْرَفَهُ فِيمَا لَا يَرْضَاهُ اللَّهُ تَعَالَى، فَاحْفَظْهَا كَمَا ذَكَرْتُ لَكَ.
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *… az-ziyaadah. Wa in aradta an ta'lamal-akhbaara minal-masyriqi ilal-maghrib, fathlubil-mukhtariqiina fii aqthaaril-ardhi yu'allimuuka bidzaalik. Wa in aradta an yasiiruu bika masiirata sanatin fii lahzhatin waahidah, fashna'haa bisaathan tahtak, wa takallam bi-asmaa'ir-ruhaaniyyah. Wa in aradta an tansyura ahla iqliimika 'alaa khashmin laa yuthiiquunah, fastadi' bihi wa sallith 'alaihi man syi't. Wa in aradta an tatahaalafa ma'a ahadin min mulukil-jinn, fatuhdhiruhu wa taquulu: Syaah Syaah Asy Liyaal Liyaal Haalif Haalif [القراءة محتملة، والحروف محفوظة على رسم المطبوع - qiraatuhu muhtamalah], wa idz akhadza rabbuka min banii aadama min zhuhuurihim dzurriyyaatihim, wa asyhadahum 'alaa anfusihim a-lastu birabbikum qaaluu balaa, syahidnaa syahidnaa. Fa-in ajaabul-'ahd, wa illaa fatakallem bil-asmaa'il-latii fii qalbil-balaathah, wanfakh 'alaihim yahtariquun. Wa qad aradtal-ikhtishaara khiifatath-tathwiil, fa-innahaa tatasyarrafu fii alfi baabin minal-manaafi', wa hiyath-thaa'atul-kubrallatii kaana Sulaimaanu bnu Daawuda ya'malu bihaa, wa kaana yanzilu bihaa min iqliimin ilaa iqliim, wa hiyal-qahru 'alaa jamii'i ahlil-ardh. Fahfazh maa qad shaara ilaika ayyuhal-'aalim, wa laa tubdihi lijaahilin fayashrafahu fiimaa laa yardhaahullaahu ta'aalaa, fahfazhhaa kamaa dzakartu lak.*
-
-**[Terjemahan Indonesia]**
 
 … tambahan. Dan apabila engkau hendak mengetahui berita-berita dari timur sampai barat, maka carilah para penembus (penjelajah) di penjuru-penjuru bumi, niscaya mereka mengajarmu dengan itu. Dan apabila engkau hendak mereka membawamu berjalan sejauh perjalanan satu tahun dalam satu kejapan, maka jadikanlah ia (balathah) hamparan di bawahmu dan berbicaralah dengan nama-nama ruhani. Dan apabila engkau hendak menolong penduduk wilayahmu atas lawan yang tidak mereka sanggupi, maka panggillah dengannya dan kuasakanlah atasnya siapa yang engkau kehendaki. Dan apabila engkau hendak bersekutu dengan seorang dari raja-raja jin, maka engkau hadirkan dia dan katakan: Syah Syah Asy Liyal Liyal Halif Halif — dan (ingatlah) ketika Tuhanmu mengambil dari anak-anak Adam, dari punggung mereka, keturunan mereka, dan mempersaksikan mereka atas diri mereka sendiri: «Bukankah Aku Tuhanmu?» Mereka berkata: «Benar, kami menyaksikan, kami menyaksikan.» Maka apabila mereka menjawab perjanjian itu (baik); jika tidak, berbicaralah dengan nama-nama yang ada di jantung balathah, dan tiupkanlah atas mereka, niscaya mereka terbakar. Dan engkau menghendaki ringkas karena takut panjang lebar; maka sesungguhnya ia bertindak dalam seribu pintu kemanfaatan; dan ia adalah «ketaatan besar» yang dahulu dipakai Sulaiman bin Dawud, dan ia turun dengannya dari wilayah ke wilayah; dan ia adalah penaklukan atas seluruh penduduk bumi. Maka jagalah apa yang telah sampai kepadamu, wahai orang alim, dan jangan engkau perlihatkan kepada orang bodoh sehingga ia memakainya pada apa yang tidak diridai Allah Ta'ala; maka jagalah ia sebagaimana telah kusebutkan kepadamu.
 
@@ -1027,19 +790,13 @@ Apabila engkau hendak membuatnya, engkau letakkan ia pada kain sutra merah atau 
 
 *Keterangan rajah: daira (lingkaran) berlapis empat. Cincin terluar memuat tulisan Arab mengikuti keliling (sebagian terbaca: «…سوماس هاموش ييمون خارش واهنش اذا هو…» pada busur bawah, dan seruan berawal «بسم الله…» pada busur kanan); cincin ke-2 berupa deret garis-garis pendek rapat; cincin ke-3 memuat pengulangan «سا» berselang-seling dengan goresan huruf; lingkaran pusat memuat lima baris nama (bacaan dugaan, tidak dipastikan): (1) Hamsaltam Syanihurasy, (2) Kazhakh Kazhakh Labuurasy Dadaal, (3) Buthiitsy Syaa'idah Aflat Yaah, (4) Yaaw Rabb Syuthuthasynaah, (5) Ashth Yaah Uuqaahiriyaad [القراءة محتملة، والحروف محفوظة على رسم المطبوع - qiraatuhu muhtamalah]. Di antara cincin terdapat serpihan nama lain («مشقد عبدالله» [القراءة محتملة، والحروف محفوظة على رسم المطبوع - qiraatuhu muhtamalah] pada busur kiri-dalam, «كهم ق[حرف أخير غير واضح]» pada busur bawah-dalam). Kitab hanya menyatakan «sebagaimana engkau lihat»; bacaan tidak ditebak selain dugaan disertai catatan bahwa pelafalannya tentatif. Gambar dipotong dari pindaian, latar dibersihkan menjadi putih, diperbesar halus ke 300 DPI (metadata), dibingkai emas #c59b27; ketajaman mengikuti pindaian (bukan 300 DPI asli).*
 
-**[Teks Arab Asli]**
-
 <div dir="rtl">
 
 فَإِذَا أَرَدْتَ قَتْلَ مَلِكٍ مِنَ المُلُوكِ، فَارْسُمْ بَلَاطَةً فِي رَقٍّ نَقِيٍّ، وَاكْتُبِ الصُّورَةَ فِي وَسَطِهَا، وَاكْتُبِ السَّطْرَ الأَوَّلَ فِي عُنُقِهَا، وَهُوَ الَّذِي فِي أَعْلَى وَسَطِ الدَّائِرَةِ، وَالسَّطْرُ الأَيْمَنُ عَلَى يَمِينِهَا، وَالأَيْسَرُ عَلَى يَسَارِهَا، وَاجْعَلِ الاسْمَيْنِ اللَّذَيْنِ فِي قَلْبِ الدَّائِرَةِ مِنْ أَسْفَلِهَا اجْعَلْهُمَا فِي جَوْفِ الصُّورَةِ، وَأْمُرْ بِمَا شِئْتَ. وَإِنْ أَرَدْتَ القَتْلَ، فَصَوِّرْ صُورَتَهُ …
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Fa-idzaa aradta qatla malikin minal-muluuk, farsum balaathan fii raqqin naqiyy, waktubish-shuurata fii wasathihaa, waktubis-sathral-awwala fii 'unuqihaa, wa huwal-ladzii fii a'laa wasathid-daa-irah, was-sathrul-aymanu 'alaa yamiinihaa, wal-aysaru 'alaa yasaarihaa, waj'alil-ismainil-ladzaini fii qalbid-daa-irati min asfalihaa ij'alhumaa fii jawfish-shuurah, wa'mur bimaa syi't. Wa in aradtal-qatl, fashawwir shuuratahu …*
-
-**[Terjemahan Indonesia]**
 
 Maka apabila engkau hendak membunuh seorang raja dari para raja, gambarlah sebuah balathah pada رق (perkamen/kulit halus) yang bersih; tuliskan gambar (rupa) di tengahnya; tuliskan baris pertama pada «leher»nya, yaitu yang berada di atas-tengah daira; baris kanan pada kanannya dan baris kiri pada kirinya; dan dua nama yang berada di jantung daira sebelah bawahnya, jadikan keduanya di dalam rongga gambar; lalu perintahkanlah apa yang engkau kehendaki. Dan apabila engkau menghendaki pembunuhan, maka gambarkanlah rupanya …
 
@@ -1049,13 +806,11 @@ Maka apabila engkau hendak membunuh seorang raja dari para raja, gambarlah sebua
 
 ---
 
-# BATCH 04 — Halaman PDF 16–20
+# JILID 04 — Halaman PDF 16–20
 
 ## Halaman PDF 16 (= cetak 15)
 
 ### Bagian 1 — Sambungan: cara memakai rupa untuk membunuh
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -1063,17 +818,11 @@ Maka apabila engkau hendak membunuh seorang raja dari para raja, gambarlah sebua
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Wadzkur ismah, waghrizil-harbata fii ayyi ismin au harfin syi'ta minash-shuurah, fa-innahu yuqtal. Wa-in aradhtadh-dharba fadhribish-shuurata bikhaythin maftuulin mu'allaqin fii qadhiibi rummaan.*
-
-**[Terjemahan Indonesia]**
 
 Sebutkan namanya, dan tancapkan tombak pada nama atau huruf mana pun yang kau kehendaki dari rupa (gambar) itu, maka ia akan terbunuh. Dan jika engkau hendak memukul, pukullah rupa itu dengan tali terpilin yang digantungkan pada tangkai pohon delima.
 
 ### Bagian 2 — Nama dua puluh empat ifrit yang berjalan di bawah balatah
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -1081,11 +830,7 @@ Sebutkan namanya, dan tancapkan tombak pada nama atau huruf mana pun yang kau ke
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Wa haadzihil-asmaa'u hiya asmaa-ul-'afaariitil-ladziina yamsyuuna tahtal-balaathah, wa humul-Munihabu wa Yaziidu bnul-Hakiimi wa 'Umaru bnu Jaabirin wa Faithuusyu wa Marqiilu wa Abu Ma'syarin wa Abur-Ruhbi wa Abul-Hakami wa 'Abdur-Rahmaanil-Mukhaththabu wal-Humailuth-Thayyaarul-Khafiyyu wa Abul-Hauli wa 'Aashifur-Riyaahi wa Shakhrun wa Syamardaluth-Thayyaaru wa Khindasyu wa Niikalu wa Syumhuurasyu wa Burqaanu wa Zuuba'atu wa Maimuunus-Sahaabiyyu wa Maimuunul-Ghamaamiyyu wa Maimuunul-Kinaawiyyu wa Samalquth-Thayyaaru wal-'Amlaaqu, fa haa-ulaa-il-ladziina yamsyuuna tahtal-balaathah wa hum arba'atuw wa 'isyruuna 'ifriitan, wa haa-ulaa-il-'afaariitul-arba'atul-muwakkaluuna bi-arba'ati arkaani bisaathi Sulaimana bni Daawuuda: Damriyaathul-'Ifriitu wa Syuughaalu wa Hadalbaaju wa Shai'ataa, wa haadza sirruhum wal-qahru 'alaihim.*
-
-**[Terjemahan Indonesia]**
 
 Dan nama-nama ini adalah nama-nama para ifrit yang berjalan di bawah balatah (lempeng batu), yaitu: al-Munihab, Yazid bin al-Hakim, Umar bin Jabir, Faithusy, Marqil, Abu Ma'syar, Abu ar-Ruhb, Abu al-Hakam, Abdurrahman al-Mukhaththab, al-Humail ath-Thayyar al-Khafi, Abu al-Haul, 'Ashif ar-Riyah, Shakhr, Syamardal ath-Thayyar, Khindasy, Nikal, Syumhurasy, Burqan, Zuba'ah, Maimun as-Sahabi, Maimun al-Ghamami, Maimun al-Kinawi, Samalq ath-Thayyar, dan al-'Amlaq. Merekalah yang berjalan di bawah balatah itu, dan mereka berjumlah dua puluh empat ifrit. Adapun empat ifrit yang ditugaskan pada empat tiang permadani Sulaiman bin Dawud ialah: Damriyath al-'Ifrit, Syughal, Hadalbaj, dan Shai'ata. Inilah rahasia mereka dan penundukan atas mereka.
 
@@ -1095,25 +840,17 @@ Dan nama-nama ini adalah nama-nama para ifrit yang berjalan di bawah balatah (le
 
 ### Bagian 3 — Ucapan kepada sekalian ifrit
 
-**[Teks Arab Asli]**
-
 <div dir="rtl">
 
 تَقُولُ: شَهْشَطُوشْ شَطِيطْ طَفْكُوشْ حَجَجْ كَشْكَشْ لِيَعْتُوشْ شَهَشْ لِطُوشْ، الطَّاعَةُ لِلَّهِ [المطبوع: الطَّاعَةُ الله] يَا مَعْشَرَ العَفَارِيتِ.
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Taquulu: Syahsyathuusy syathiith thafkuusy hajaj kasykasy li'atusy syahasy lithuusy, ath-thaa'atu lillaahi [al-mathbu': ath-thaa'atu Allaah] yaa ma'syaral-'afaariit.*
-
-**[Terjemahan Indonesia]**
 
 Ucapkanlah: «Syahsyathusy, syathith, thafkusy, hajaj, kasykasy, li'atusy, syahasy, lithusy — tunduklah kepada Allah [tercetak: tunduklah Allah] wahai sekalian ifrit.»
 
 ### Bagian 4 — Keterangan al-Jalb al-Mughits (bersambung ke hal. 17)
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -1121,11 +858,7 @@ Ucapkanlah: «Syahsyathusy, syathith, thafkusy, hajaj, kasykasy, li'atusy, syaha
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Wa haadzal-kalaamu 'alar-ruuhaaniyyatil-muwakkaliina bil-bisaathi, wa huwal-ma'rufu bil-jalbil-mughiitsi [al-mathbu': al-mugh-i'tsi], yajtami'u ilaihil-malaa-ikatu wa jinnus-samaa-i wa jinnul-hawaa-i wa jinnul-maa-iyyati wa jinnusy-syajari wat-turaabiyyatu wan-naariyyatu wat-tughriyyatu wal-khathfatul-muwakkaliina bibanii*
-
-**[Terjemahan Indonesia]**
 
 Dan pembicaraan ini berkenaan dengan para ruhani yang ditugaskan pada permadani, yaitu yang dikenal dengan nama «al-Jalb al-Mughits» [tercetak: al-Mugh'its]; kepada-Nya berhimpun para malaikat, jin langit, jin udara, jin air, jin pohon, serta golongan tanah, golongan api, golongan taghriyah, dan golongan khathfah yang ditugaskan atas Bani
 
@@ -1133,25 +866,17 @@ Dan pembicaraan ini berkenaan dengan para ruhani yang ditugaskan pada permadani,
 
 ### Bagian 1 — Sambungan: penutup keterangan al-Jalb ar-Ruhani
 
-**[Teks Arab Asli]**
-
 <div dir="rtl">
 
 آدَمَ فِي سَاعَاتٍ مِنَ النَّهَارِ. وَهُوَ ثَمَانُونَ كَلِمَةً وَهُوَ الجَلْبُ الرُّوحَانِيُّ.
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Aadama fii saa'aatin minan-nahaar. Wa huwa tsamaanuuna kalimatan wa huwal-jalbur-ruuhaaniyy.*
-
-**[Terjemahan Indonesia]**
 
 Adam pada jam-jam tertentu di siang hari. Ia terdiri atas delapan puluh kata, dan itulah al-Jalb ar-Ruhani.
 
 ### Bagian 2 — Kandungan delapan puluh kata: nama-nama pada hati benda langit dan golongan makhluk
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -1159,17 +884,11 @@ Adam pada jam-jam tertentu di siang hari. Ia terdiri atas delapan puluh kata, da
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Lahuu tsalatsmaaniyatun [صيغة مطبوعة غير منتظمة، محفوظة بلا تصحيح] shinfun fit-ta'aariif, fa-inna fiihil-asmaa-al-maktuubata fii qalbisy-syams, wal-asmaa-ats-tsalaatsatal-maktuubata fii qalbil-qamar, wal-asmaa-al-maktuubata fii qalbil-marriikh, wal-asmaa-al-maktuubata fii qalbi 'uthaarid, wal-asmaa-al-maktuubata fii qalbil-musytari, wal-asmaa-al-maktuubata fii qalbi zuhal, as-sab'ata asmaa-inil-latii khalaqallahu bihal-aadamiyyiin, was-sab'ata asmaa-inil-latii khalaqallahu bihal-malaa-ikatal-muwakkaliina bil-asyjaari wan-nabataat, wa fiihi khamsatu asmaa-inil-latii kaanuu ya'maluuna bihaa saharatul-jinni wa saharatu ardhi baabil, wa fiihis-sab'atul-asmaa-il-maktuubatu fii qalbit-thilasm, wa fiihil-ismus-sarii'ul-ladzii yuktabu 'alaa waraqil-utrujj wa yughsalu bimaa-i wardin wa 'asalisy-syuhdil-ladzii ghairi mudakhkhan, wa tasqiihi liman syi'ta yahiiju min hubbik. Wa idzaa kutiba fii riqqin naqiyyin bidami khuththaafin wa masahta bihi 'alaa ra'sil-bahiimati tabi'ak, kadzaalika yuf'alu fii banii aadam. Wa lahuu minal-manaafi'i maa laa yuhshaa 'indah.*
-
-**[Terjemahan Indonesia]**
 
 Ia mempunyai «thalatsmaniyah» [bacaan mengikuti ejaan cetak meskipun bentuk katanya tidak lazim] golongan dalam ta'rif-ta'rifnya. Sesungguhnya di dalamnya terdapat nama-nama yang tertulis di hati Matahari, tiga nama yang tertulis di hati Bulan, nama-nama yang tertulis di hati Mars, nama-nama yang tertulis di hati Merkurius, nama-nama yang tertulis di hati Jupiter, dan nama-nama yang tertulis di hati Saturnus; tujuh nama yang dengan itu Allah menciptakan manusia, dan tujuh nama yang dengan itu Allah menciptakan para malaikat yang ditugaskan pada pohon-pohon dan tumbuhan-tumbuhan; di dalamnya ada lima nama yang dahulu dipakai oleh para penyihir jin dan para penyihir negeri Babil; di dalamnya ada tujuh nama yang tertulis di hati thilasm (jimat); dan di dalamnya ada nama yang cepat (mustajab) yang ditulis di daun jeruk utrujj lalu dicuci dengan air mawar dan madu sarang yang tidak diasapi, lalu engkau minumkan kepada siapa yang engkau kehendaki, maka ia akan bergelora karena cintamu. Jika ia ditulis di perkamen yang bersih dengan darah burung walet, lalu engkau usapkan ke kepala hewan tunggangan, niscaya ia mengikutimu; demikian pula dilakukan terhadap Bani Adam. Ia mempunyai bermacam manfaat yang tidak terhitung banyaknya.
 
 ### Bagian 3 — Judul: al-Jalb as-Suryani (bersambung ke hal. 18)
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -1179,13 +898,9 @@ Ia mempunyai «thalatsmaniyah» [bacaan mengikuti ejaan cetak meskipun bentuk ka
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 **Wa haadza huwal-jalbus-suryaaniyy**
 
 **Taquulu ba'dat-tanziihil-awwalir-ruuhaaniyy: Araa araa kafiitaa kafiitaa syalsyiisy syalsyiisy malsyiisy malsyiisy ahiliil ahiliil haibuul haibuul maltiin maltiin kalkiyaam kalkiyaam ahiil ahiil kalkatsum kalkatsum ariiri ariiri ajbini ajbini akyaahuum akyaa-huum kalkiaa-iil kalkiaa-iil bidamlaakh baraakh baraakh haithaa-iil haithaa-iil arbaab biyaarab bahaitanaakh haitanaakh multiyaahuukh multiyaahuukh baaqithah 'aithalah ajriyaa-iil thailahuub thailahuub thaithuub thail'uub haibaa-uuth [القراءة محتملة، والحروف محفوظة على رسم المطبوع - qiraatuhu muhtamalah]* …*
-
-**[Terjemahan Indonesia]**
 
 **Inilah al-Jalb as-Suryani.**
 
@@ -1195,25 +910,17 @@ Ucapkanlah setelah penyucian diri (tanzih) ruhani yang pertama: «Ara ara kafita
 
 ### Bagian 1 — Sambungan: rantai nama al-Jalb as-Suryani
 
-**[Teks Arab Asli]**
-
 <div dir="rtl">
 
 هَيْبَاوُطْ كِيلْيَانَئِيلْ كِيلْيَانَئِيلْ كَلْمِيَائِيلْ (٢) بِدَمْلَاخْ دَمْلَاخْ بَرَاخْ بَرَاخْ جُولَا جُولَا هِيلَا هِيلَا شَمْلَا شَمْلَا بِسْتَطَافْ سَطَافْ بِصَفِيفْ صَفِيفْ بِمَطُوفْ مَطُوفْ خَطَّافْ خَطَّافْ طَايِفْ طَايِفْ شَعْدِيَاشْ شَقْدِيَاشْ وَرْدِيَاشْ شَرْعُونْ شَرْعُونْ جُوحَشَامْ جُوحَشَامْ مِيلَا مِيلَا بِسُلْطَالِينْ سُلْطَالِينْ مَهْلُوَانْ مَهْلُوَانْ بِخَيْطَانَا خَيْطَانَا بَابُرُوشْ جَرُوشْ بِكْلُوشْ كُلُوشْ بِطَقْشَرْ طَقْشَرْ بِشْلَامِينْ شْلَامِينْ رَطْقَشْ رَطْقَشْ بِشْلِيمْ شْلِيمْ بِكْشَاشُونَ كْشَاشُونَ يِيتِلَهْ هَيْتِلَهْ بِهَيْتِلُومَ هَيْتِلُومَ بِمُلْتَاهَا مُلْتَاهَا بِهْيَالَ هْيَالَ بِهَنْ هَنْ بِخَفْ خَفْ بِشْدِهْ شْدِهْ بِضَيْفْ ضَيْفْ بِدَلْخَمْ دَلْخَمْ كَشْكَمْ كَشْكَمْ بِرُوقَا بِرُوقَا بِكِشْتَهْ كِشْتَهْ كَشْلَا كَشْلَا كَشْنَدَا كَشْنَدَا بِعَقْتِهِمْ عَقْتِهِمْ يُوقْتَمْ يُوقْتَمْ تَقُوفَهْ تَقُوفَهْ دَرْتِيَاوُبْ دَرْتِيَاوُبْ.
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Haibaa-uuth kiilyaa-iil kiilyaa-iil kalmiyaa-iil (2) bidamlaakh damlaakh baraakh baraakh juulaa juulaa hiilaa hiilaa syamlaa syamlaa bistathaaf sathaaf bishafiif shafiif bimathuuf mathuuf khaththaaf khaththaaf thaa-if thaa-if sya'diyaasy syaqdiyaasy wardiyaasy syar'uun syar'uun juuhasyaam juuhasyaam miilaa miilaa bisulthaaliin sulthaaliin mahlawaan mahlawaan bikhaythaanaa khaythaanaa baaburuusy jaruusy bikluusy kuluusy bithaqsyar taqsyar bisylaamiin sylaamiin rathqasy rathqasy bisyliim syliim biksyaasyuuna ksyaasyuuna yiitalah haitalah bihaitiluumi haitiluumi bimultaahaa multaahaa bihyaala hyaala bihan han bikhaf khaf bisydah sydah bidhaif dhaif bidalkham dalkham kasykam kasykam biruuqaa biruuqaa bikisytah kisytah kasylaa kasylaa kasyandaa kasyandaa bi'aqtihim 'aqtihim yuuqtam yuuqtam taquufah taquufah dartyaaub dartyaaub.*
-
-**[Terjemahan Indonesia]**
 
 «Haiba-uth, kilya-il kilya-il, kalmiya-il (2), bidam lakh dam lakh barakh barakh, jula jula, hila hila, syamla syamla, bistathaf sathaf, bishafif shafif, bimathuf mathuf, khaththaf khaththaf, tha-if tha-if, sya'diyasy syaqdiyasy wardiyasy, syar'un syar'un, juhasyam juhasyam, mila mila, bisulthalin sulthalin, mahlawan mahlawan, bikhaythana khaythana, baburusy jarusy, biklusy kulusy, bithaqsyar taqsyar, bisylamin sylamin, rathqasy rathqasy, bisylim sylim, biksyasyun ksyasyun, yitalah haitalah, bihaitilum haitilum, bimultaha multaha, bihyal hyal, bihan han, bikhaf khaf, bisydah sydah, bidhaif dhaif, bidalkham dalkham, kasykam kasykam, biruqa biruqa, bikistah kistah, kasyla kasyla, kasyanda kasyanda, bi'aqtihim 'aqtihim, yuqtam yuqtam, taqufah taqufah, dartyaub dartyaub.»
 
 ### Bagian 2 — Nama yang cepat lagi tersimpan
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -1221,17 +928,11 @@ Ucapkanlah setelah penyucian diri (tanzih) ruhani yang pertama: «Ara ara kafita
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Wa haadza huwal-ismus-sarii'ul-maknuunul-ladzii tadzkuruhul-'ulamaa-u: Yuuhi yuuhi bihyahliyuhi hyahliyuhi al-arkiyaazh al-arkiyaazh haibuur haibuur kasriyaaub kasriyaaub 'alsyqaum 'alsyqaum 'alsyaafasy 'alsyaafasy mihraaqasy mihraaqasy.*
-
-**[Terjemahan Indonesia]**
 
 Dan inilah nama yang cepat lagi tersimpan, yang disebut oleh para ulama (ahli): «Yuhi yuhi, bihyahliyuhi hyahliyuhi, al-arkiyazh al-arkiyazh, haibur haibur, kasriyaub kasriyaub, 'alsyqaum 'alsyqaum, 'alsyafasy 'alsyafasy, mihraqasy mihraqasy.»
 
 ### Bagian 3 — Akhir nama yang tersimpan (bersambung ke hal. 19)
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -1239,11 +940,7 @@ Dan inilah nama yang cepat lagi tersimpan, yang disebut oleh para ulama (ahli): 
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 **Wa haadza aakhirul-ismil-maknuun: Aqsyaamaqasy 'aqasy thahsyiiz Ah-yaa Saraah-yaa Qudduus Qudduus rabbul-malaa-ikati war-ruuh Ahaitaan Raksyaan Kasy-lakh Qasy-lamaqamsy qasy-lamaqamsy Raasy Iisyaayaqasy Tadar Tiyaar tiyaar Kiitaal Wah-yaahuum Wayaashuum 'Alyaa-ham Wahaayim Thalthiyaakh Ah-yaakam Rifyaadiim 'Asyaaram Bij-ryaakam Bij-baruut jabaruut* …*
-
-**[Terjemahan Indonesia]**
 
 Dan inilah akhir nama yang tersimpan itu: «Aqsyamaqasy, 'aqasy, thahsyiz, Ahya Syarahya — Quddus, Quddus, Tuhan para malaikat dan ruh — ahaitan raksyan, kasy-lakh, qasylamaqamsy qasylamaqamsy, rasy, isyaiyaqasy, tadar tiyar tiyar, kital, wahyahum, wayashum, 'alyaham, wahayim, thalthiyakh, ahyakam, rifyadim, 'asyaram, bijryakam, bijbarut jabarut …»
 
@@ -1251,19 +948,13 @@ Dan inilah akhir nama yang tersimpan itu: «Aqsyamaqasy, 'aqasy, thahsyiz, Ahya 
 
 ### Bagian 1 — Sambungan: akhir nama yang tersimpan
 
-**[Teks Arab Asli]**
-
 <div dir="rtl">
 
 عَلْيَاهَمَ عَلْيَاهَمَ بِحَجْبَاوُتَ بُورُوَايِبَ بِشْرِيَا عُولِينَ عُولِينَ كَلْكَلهُوجَ كَلْكَلهُوجَ جَرْخَيَالَ جَرْخَيَالَ يِكْطَشَهَ كَشْطَمَهَ بِعَنْجَهَفَ عَنْجَهَفَ صِنْهَ صِنْهَ عَمْحَكَانَ فُوخَ كَعِيدَاخَ عَسْمِيلَاهَ آهِ آهِ آهِ اللهُ قُدُّوسٌ قُدُّوسٌ رَبُّ المَلَائِكَةِ وَالرُّوحِ بِلَطْشَمَهَ هَهْ اللهُ قُدُّوسٌ قَدِيرٌ عَلَى مَا يَشَاءُ صِيلْيَاخُوتَ أَرْبَاهُوطَ يَا بَطْرَهَيْتَا يَا لَمهَيْتَا أَحْبَايِشَا بِهَيْتَالْمَتَا مَتُوبَا بِعَلْكَمَشَا فَلْمَلهْيَا بِيَطِيخَ يَعْلَمَ بَطِينَا بِحْمَاحَمِيثَا حَثِيثَا إِلْ شَدَّاي بَالَ خُوشَ بِشَنْدَلُونَ شَنْدَلُونَ يَا هِنْدُوَانَ يَا مَلِيخَا أَزْرِيَا أَزْرِيَا سُبُّوحٌ سُبُّوحٌ قُدُّوسٌ قُدُّوسٌ رَبُّ المَلَائِكَةِ وَالرُّوحِ بِالدَاخَ دَنْشَلَاخَ وَنَاشَاخَ مَرْعَاوِي مِصْرَابِيمَ صَبَاوُوتَ عَبْدُويَا الهِيبَا إِيلَهَ إِلَهُ المَلَائِكَةِ وَالرُّوحِ بِيَاهَ يَهَ يَهَ بِيهِ بِيهِ قُدُّوسٌ قُدُّوسٌ اسْلِبُوا طَوَّاشَهَ بِخْيَا بِلْيَا قِلْيَا بِمَشْدِيدَ فِلْبَاوُمَ دَحُوتَ أَخُوَا أَخُوَا لَمِيَاهَ لَا حَرَّاجَ رُودَ زِيدَ أَدِيمَ دَيُوشَ قَلْنَصُودَمَ يَشَاطُورَ يَشَاطُورَ فَلْقَهْصُودَمَ أَرْفَافَ أَرْمِيَارُوشَ كَشْرِيَاوُبَ دَمَرْتِيثَا وَمَرْتِيَا أَرْتِيَادَ يَالِينَ مِيَارَهَ دَمَرْكُوشَ بِدْيَاطُورَ بِلَحْتَتَرَ بَامِينَ دَادَ مَدَادَ يُوِيهَ قَلِيطَايْبُوهَ يُوثَرَ فُوثَرَ أَدَادَ أَدْمَادَ [ضبط الاسم غير محسوم؛ حروفه محفوظة وفق الطباعة]
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *'Alyaaham 'alyaaham bihajbaaut buuruwaib bisyriyaa 'uulina 'uulina kalkalhuuj kalkalhuuj jar-khiyaal jar-khiyaal yikthasyah kasythamah bi'anjahaf 'anjahaf shinah shinah 'amhakaan fuukh ka'iidakh 'asmiilaah aah aah aah Allaahu Qudduus Qudduus rabbul-malaa-ikati war-ruuh bilathsyamah hah Allaahu Qudduus Qadiirun 'alaa maa yasyaa-u shiilyaakhuut arbaahuuth yaa bathrahaitaa yaa lamhaita ahbaaisyaa bihaitaalmeta matuuba bi'alkamasya falmalh-ya biithiikh ya'lam bathiina bihmahamiitsa hatsiitsa Ali Syadayya baal khuusy bisyandaluun syandluun yaa hinduwaan yaa maliikha azriyaa azriyaa Subbuuh Subbuuh Qudduus Qudduus rabbul-malaa-ikati war-ruuh bildaakh dansylaakh wanaasyakh mar'aawii mishraabiim shabaawuut 'abduyaa al-hiiba iilah ilahul-malaa-ikati war-ruuh biyaah yah yah bihi bihi Qudduus Qudduus islibu thawwaasyah bikhiya bilya qilya bimasydiid filbaawum dahut akhuwa akhuwa lamiyah laa harraaj ruud ziid adiim dayuusy qalnashuudam yasyaathuur yasyaathuur falqahshuudam arfaaf armiyaaruusy kasyriyaaub damartiitsa wamartiya artiyaad yaaliin miyaarah damarkuusy bidyaathuur bilahtatar baamiin daad madaad yuwiyah qaliithaibuuh yuutsar fuutsar adaad admaad [القراءة محتملة، والحروف محفوظة على رسم المطبوع - qiraatuhu muhtamalah]*
-
-**[Terjemahan Indonesia]**
 
 «'Alyaham 'alyaham, bihajbaut buruwaib, bisyriya 'ulin 'ulin, kalkal huj kalkal huj, jar-khiyal jar-khiyal, yikthasyah kasythamah, bi'anjahaf 'anjahaf, shinah shinah, 'amhakan fukh, ka'idakh, 'asmilah — ah ah ah — Allah, Quddus, Quddus, Tuhan para malaikat dan ruh; bilathsyamah, hah — Allah, Quddus, Mahakuasa atas apa yang Dia kehendaki; shilyakhut, arbahuth, ya bathrahaita, ya lamhaita, ahbaisyah, bihaitalmeta matuba, bi'alkamasya falmalhya, bithikh ya'lam bathina, bihmahamitsa hatsitsa, Ali Syadayya (Allah Yang Mahakuasa), bal khusy, bisyandlun syandlun, ya hinduwan, ya malikha azriya azriya — Subbuh, Subbuh, Quddus, Quddus, Tuhan para malaikat dan ruh; bildakh dansylakh wanasyakh, mar'awi mishrabim, Shabawut (semesta kuasa), 'abduya al-hiba ilah — Ilah para malaikat dan ruh — biyah yah yah, bihi bihi, Quddus Quddus; islibu thawwasyah, bikhia bilya qilya, bimasydid filbaum dahut, akhuwa akhuwa lamiyah, la harraj, rud zid adim dayusy, qalnashudam, yasyathur yasyathur, falqahsyudam, arfaf, armiyarusy, kasyriyaub, damartitsa wamartiya artiyad, yalin miyarah, damarkusy, bidyathur, bilahtatar, bamin, dad madad, yuwiyah, qalithaibuh, yutsar futsar, adad admad [pelafalan nama atau istilah belum pasti; bentuk cetak dipertahankan]»
 
@@ -1273,27 +964,19 @@ Dan inilah akhir nama yang tersimpan itu: «Aqsyamaqasy, 'aqasy, thahsyiz, Ahya 
 
 ### Bagian 2 — Sumpah kepada sekalian jin dan selain mereka
 
-**[Teks Arab Asli]**
-
 <div dir="rtl">
 
 أَقْسَمْتُ عَلَيْكُمْ يَا مَعْشَرَ الجِنِّ وَالشَّيَاطِينِ وَالعَفَارِيتِ وَالمَرَدَةِ وَالغِيلَانِ وَالوُشَاوِشَةِ وَالدَّنَاهِشَةِ وَأَنْتُمْ يَا بُرْقَانُ بِحَقِّ مَا فِي هَذَا الجَلْبِ مِنْ أَسْمَاءِ رَبِّكُمْ وَبِحُرْمَتِهَا عَلَيْكُمْ، إِلَّا مَا قَبِلْتُمْ مِنْ حَيْثُ مَا كُنْتُمْ بِهَذِهِ الكَلِمَاتِ، (وَيُذْكَرُ مَا يُرِيدُ) وَمَنْ عَصَى مِنْكُمْ هَذَا فَقَدْ كَفَرَ وَعَصَى وَتَمَرَّدَ.
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Aqsamtu 'alaikum yaa ma'syaral-jinni wasy-syayaathiini wal-'afaariiti wal-maradati wal-ghiilaani wal-wusyaawasyati wad-danaahisyati wa antum yaa Burqaanu bihaqqi maa fii haadzal-jalbi min asmaa-i rabbikum wa bihurmatihaa 'alaikum, illaa maa qabiltum min haitsu maa kuntum bihaadzihil-kalimaat, (wa yudzkaru maa yuriid) wa man 'ashaa minkum haadza faqad kafara wa 'ashaa wa tamarrad.*
-
-**[Terjemahan Indonesia]**
 
 Aku bersumpah atas kalian, wahai sekalian jin, setan, ifrit, maradah, ghilan, wusyawasyah, dan danahisyah — dan kalian pula wahai Burqan — demi kebenaran nama-nama Tuhan kalian yang termuat dalam jalb ini dan demi kehormatan nama-nama itu atas kalian: tiada jalan selain kalian menerima, dari keadaan kalian semula, dengan kalimat-kalimat ini (lalu disebutkan apa yang ia kehendaki). Barangsiapa di antara kalian mendurhakai hal ini, sungguh ia telah kafir, durhaka, dan memberontak.
 
 ## Halaman PDF 20 (= cetak 19)
 
 ### Bagian 1 — Judul: Fashl — sepuluh nama malaikat angin
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -1303,21 +986,15 @@ Aku bersumpah atas kalian, wahai sekalian jin, setan, ifrit, maradah, ghilan, wu
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 **Fashlun**
 
 *Yudzkaru fiihi 'asyaratu asmaa-in humul-ladziina khalaqallahu bihimur-riiha wa sakhkharahu li-Sulaimana bni Daawuuda, tajrii bihi rakhaa-an haitsu ashaab. Wa huwal-ladzii arsala Allaahu bihii riihan sharsharan 'alaa qaumi 'Aadin fa-ahlakahumullaahu ta'aala wa hum 'asyratun hum: Sindabaa-iilu wa Syahrakaa-iilu wa Muhmakiinu wa Ahwaakiilu wa Sharfiyaa-iilu wa Humraakiilu wa Arqiilu wa Wahjamliya-iilu wa Wasraakiithaya-iilu wa Wahraakiil. Fa haadzihi asmaa-ul-'asyarati malaa-ikatun.*
-
-**[Terjemahan Indonesia]**
 
 **Fashl (Bab).**
 
 Disebutkan di dalamnya sepuluh nama, yaitu para (malaikat) yang dengan mereka Allah menciptakan angin dan menundukkannya bagi Sulaiman bin Dawud, sehingga angin itu berhembus lembut ke mana pun ia hendak menuju. Dan itulah angin yang Allah kirimkan sebagai angin yang sangat dingin lagi kencang kepada kaum 'Ad lalu Allah membinasakan mereka. Mereka berjumlah sepuluh, yaitu: Sindba-il, Syahraka-il, Muhmakin, Ahwakil, Sharfiya-il, Humrakil, Arqil, Wahjamliya-il, Wasrakithaya-il, dan Wahrakil. Maka inilah nama kesepuluh malaikat itu.
 
 ### Bagian 2 — Judul: at-Tashrif al-Awwal (membalikkan kapal musuh)
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -1327,21 +1004,15 @@ Disebutkan di dalamnya sepuluh nama, yaitu para (malaikat) yang dengan mereka Al
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 **At-Tashriiful-Awwal:**
 
 *Idzaa aradta iqlaaba safiinati maa syi'ta min a'daa-illaahi ta'aala, faqif 'alaa syaathi-il-bahri wa khudz min thiinihi qith'atan, watlu 'alaiha bil-ismi ma'a asmaa-il-malaa-ikah, tsumma alqith-thiinata fil-bahri wa qul: Ayyatuhal-malaa-ikatu biquwwatil-ismi illaa maa qallabtum safiinata fulaan. Fa-innal-bahra yaziidu wa yahiiju wa tanqalibus-safiinatu bi-idznillaahi ta'aala.*
-
-**[Terjemahan Indonesia]**
 
 **Tashrif (penggunaan) pertama:**
 
 Jika engkau hendak membalikkan kapal mana pun yang engkau kehendaki dari musuh-musuh Allah ta'ala, maka berdirilah di pantai laut dan ambillah sepotong dari lumpurnya, lalu bacakan atas lumpur itu nama ini bersama nama-nama para malaikat, kemudian lemparkan lumpur itu ke laut dan katakan: «Wahai para malaikat, demi kekuatan nama ini, tiada jalan kecuali kalian membalikkan kapal si fulan.» Maka laut akan bertambah dan bergelora, dan kapal itu akan terbalik dengan izin Allah ta'ala.
 
 ### Bagian 3 — Judul: at-Tashrif ats-Tsani (keselamatan pelayaran) (bersambung ke hal. 21)
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -1351,13 +1022,9 @@ Jika engkau hendak membalikkan kapal mana pun yang engkau kehendaki dari musuh-m
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 **At-Tashriifuts-Tsaani:**
 
 *Idzaa aradta an tusaafira fil-bahri wa ta'uuda saaliman bi-idznillaahi ta'aala fatlu-l-Isma wa qul: Ayyatuhal-malaa-ikatu uriidu minkum riihan lis-safiinah. Fa-innahu ya'tiika riihun, tablughu bihii maa turiiduhu fii yaumin waahidin miqdaara masaafati tsalaatsati ayyaam, wa tuhfazhu min haulil-bahr.*
-
-**[Terjemahan Indonesia]**
 
 **Tashrif kedua:**
 
@@ -1365,13 +1032,11 @@ Jika engkau hendak berlayar di laut dan kembali dengan selamat atas izin Allah t
 
 ---
 
-# BATCH 05 — Halaman PDF 21–25
+# JILID 05 — Halaman PDF 21–25
 
 ## Halaman PDF 21 (= cetak 20)
 
 ### Bagian 1 — Judul: at-Tashrif ats-Tsalits (menundukkan tiran dengan rupa lilin)
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -1381,21 +1046,15 @@ Jika engkau hendak berlayar di laut dan kembali dengan selamat atas izin Allah t
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 **At-Tashriifuts-Tsaalits:**
 
 *Idzaa aradta an tusallitha 'alaa ahadin minal-jabaabirati amran, fashawwir shuuratan minasy-syam'il-abyadhi majuwwafatan 'ani-smi man turiidu bihi dzaalik, waktubil-Isma 'alaa shadrih, wa auqifish-shuurata 'alaa mismataini min hadiidin madquuqataini fil-ardhi wa qul: Yaa malaa-ikatallaahil-muwakkaliina bis-sathwati wal-'adzaabi tasallathuu 'alaa fulaanibni fulaanata bihaqqi haadzal-Ismi 'alaikum. Tsumma-qthah ayya 'udhwin syi'ta minash-shuurati fa-innahu yahliku bi-idznillaahi ta'aala.*
-
-**[Terjemahan Indonesia]**
 
 **Tashrif ketiga:**
 
 Jika engkau hendak menundukkan seorang tiran dengan suatu urusan, maka buatlah rupa dari lilin putih yang berongga sebesar nama orang yang engkau kehendaki hal itu, tulislah nama itu di dadanya, dirikanlah rupa itu di atas dua pasak besi yang ditancapkan di tanah, dan katakan: «Wahai para malaikat Allah yang ditugaskan dengan keperkasaan dan azab, tundukkanlah si fulan bin fulanah dengan hak nama ini atas kalian.» Kemudian potonglah anggota mana pun yang engkau kehendaki dari rupa itu, maka ia akan binasa dengan izin Allah ta'ala.
 
 ### Bagian 2 — Judul: at-Tashrif ar-Rabi' (orang sakit karena 'aridh atau falij)
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -1405,21 +1064,15 @@ Jika engkau hendak menundukkan seorang tiran dengan suatu urusan, maka buatlah r
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 **At-Tashriifur-Raabi':**
 
 *Idzaa ataaka mariidhun qad khanaqahu 'aaridhun au faalijun, fatlu bil-asmaa-il-madzkuurati wa qul: Akhrijuu haadzar-riihas-suu-a min fulaanin, fa-innahu yakhruju bi-idznillaahi ta'aala.*
-
-**[Terjemahan Indonesia]**
 
 **Tashrif keempat:**
 
 Jika datang kepadamu orang sakit yang telah dicekik oleh 'aridh (gangguan jin) atau penyakit falij (lumpuh), maka bacalah dengan nama-nama yang telah disebutkan dan katakan: «Keluarkanlah angin yang jahat ini dari si fulan.» Maka angin itu akan keluar dengan izin Allah ta'ala.
 
 ### Bagian 3 — Judul: at-Tashrif al-Khamis (kelahiran yang sulit)
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -1429,21 +1082,15 @@ Jika datang kepadamu orang sakit yang telah dicekik oleh 'aridh (gangguan jin) a
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 **At-Tashriiful-Khaamis:**
 
 *Idzaa 'asara 'alaa muthallaqatin wilaadatuhaa, uktub asmaa-al-malaa-ikati ma'al-Ismi wasqihaa iyyaah, fa-innaha talidu sarii'an bi-idznillaahi ta'aala.*
-
-**[Terjemahan Indonesia]**
 
 **Tashrif kelima:**
 
 Jika seorang perempuan yang ditalak sulit melahirkannya, tulislah nama-nama malaikat bersama nama itu lalu minumkan kepadanya, maka ia akan melahirkan dengan segera atas izin Allah ta'ala.
 
 ### Bagian 4 — Judul: at-Tashrif as-Sadis (kemudahan pernikahan)
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -1453,13 +1100,9 @@ Jika seorang perempuan yang ditalak sulit melahirkannya, tulislah nama-nama mala
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 **At-Tashriifus-Saadis:**
 
 *Idzaa khathabta-mra-atan wa 'asara 'alaika zawaajuhaa, fad'ullaaha ta'aala bil-Ismi wad'u bi-asmaa-il-malaa-ikah, fa-innallaaha yusahhilu laka zawaajaha bibarakati asmaa-illaahi ta'aala.*
-
-**[Terjemahan Indonesia]**
 
 **Tashrif keenam:**
 
@@ -1469,8 +1112,6 @@ Jika engkau melamar seorang perempuan lalu pernikahannya terasa sulit bagimu, ma
 
 ### Bagian 1 — Judul: hijab Sulaiman bin Dawud
 
-**[Teks Arab Asli]**
-
 <div dir="rtl">
 
 **حِجَابُ سُلَيْمَانَ بْنِ دَاوُودَ**
@@ -1479,21 +1120,15 @@ Jika engkau melamar seorang perempuan lalu pernikahannya terasa sulit bagimu, ma
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 **Hijaabu Sulaimaana bni Daawuuda**
 
 *Bismillaahir-Rahmaanir-Rahiim, bismillaahi wabillaahi wa minallaahi wa ilallaahi wa laa ilaaha illallaahu wa laa ghaaliba illallaahu wa laa haula wa laa quwwata illaa billaahil-'aliyyil-'azhiim, aqsamtu 'alaikum yaa ma'syaral-arwaahil-ma'luumaati wa ash-haabis-silaahi war-rimaahil-mahduudaat, wa rukkaabir-riyaahi wal-mustariqiinas-sam'a minas-samaa-i ilal-ardh, wa ash-haabul-bunuud, aqsamtu 'alaikum bil-asmaa-il-'izhaam, wal-kalimaatil-kiraam, wa bihaqqil-asmaa-il-muqalladati fii a'naaqikum wa thaa'atihaa bikum, Ta'thir Yaayil Ta'thir Yaayil, Tharthaa-iil Tharthaa-iil, Zanqiith Zanqiith, Muthaahusy Muthaahusy, Jaljamiisy Jaljamiisy, Raahim Raahim, Jirjaa-iil Jirjaa-iil, ayyatuhal-arwaarhur-ruuhaaniyyatu ash-haabus-samaa-i wa ash-haabusy-syaamaaliyyati wal-jihatin-naariyyah, anziluu bishighaarikum wa kibaarikum ilal-ardh, laa ardhun tuzhillukum wa laa samaa-un tuqillukum bihaqqi arkaadhi Ashbaawta Aala Syaddaay, hashshantuka yaa shaahiba haadzal-kitaab, bismillaahil-ladzii wadha'a 'alal-malaa-ikati wa hum ya'rujuuna wa laa ya'kuluuna wa laa yasyrabuuna wa 'an dzikrillaahi laa yafturuun, wa bikhaatami Rasuulillaahi ﷺ (shallallaahu 'alaihi wa sallama) alladzii 'alaa aatsaarihim, ﴿wa ja'alnaa min baini aidiihim saddan wa min khalfihim saddan fa-aghsyainaahum fahum laa yubshiruun﴾ [Yasin: 9], wa maa syaa-a Rabbuka minat-tamaa-ili [ترتيب مطبوع غير مألوف، محفوظ بلا تصحيح], ﴿wa idzaa qara-tal-Qur-aana ja'alnaa bainaka wa bainal-ladziina laa yu'minuuna bil-aakhirati hijaabam-mastuuran wa ja'alnaa 'alaa quluubihim akinnatan an yafqahuuhu wa fii aadzaanihim waqran wa idzaa dzakarta Rabbaka fil-Qur-aani wahdahu wallau 'alaa adbaarihim nufuuran﴾ [al-Israa': 45-46], ﴿wa nunazzilu minal-Qur-aani maa huwa syifaa-un wa rahmatun lil-mu'miniin﴾ [al-Israa': 82], ar-Ra'su, Thartharu, Barquusu, Fayuusu, Mahruusu, 'Athruusu, Haruusu, Ba'duusu, Sarnaluusu, Dabuusa, Mal'uunatu, Ummush-Shibyaan,*
-
-**[Terjemahan Indonesia]**
 
 **Hijab Sulaiman bin Dawud**
 
 Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang; dengan nama Allah, dan demi Allah, dan dari Allah, dan kepada Allah; tiada tuhan selain Allah, tiada penangkal selain Allah, dan tiada daya serta tiada kekuatan kecuali dengan Allah Yang Mahatinggi lagi Mahaagung. Aku bersumpah atas kalian, wahai sekalian ruh yang diketahui, para pemilik senjata dan tombak-tombak yang terasah, para penunggang angin, para pencuri-curi dengar dari langit ke bumi, dan para pemilik panji-panji; aku bersumpah atas kalian dengan nama-nama yang agung, kalimat-kalimat yang mulia, dan dengan hak nama-nama yang dikalungkan di leher-leher kalian serta ketaatan nama-nama itu pada kalian: Ta'thir Ya'il, Ta'thir Ya'il, Tharthaiil, Tharthaiil, Zanqith, Zanqith, Muthahusy, Muthahusy, Jaljamisy, Jaljamisy, Rahim, Rahim, Jirjaiil, Jirjaiil — wahai para ruh ruhani pemilik langit, pemilik arah utara, dan pemilik arah api — turunlah kalian ke bumi bersama yang kecil dan yang besar di antara kalian; tiada bumi yang menaungi kalian dan tiada langit yang mengangkat kalian, demi hak Arkaadh Ashbawt Al Syaddai (Tuhan semesta kuasa). Aku bentengkan engkau, wahai pemilik kitab ini, dengan nama Allah yang Dia letakkan atas para malaikat padahal mereka naik (ke langit), tidak makan, tidak minum, dan tidak pernah jemu dari zikir kepada Allah, dan dengan cincin Rasulullah ﷺ (sallallahu 'alaihi wa sallam) yang berada pada bekas-bekas mereka, ﴿dan Kami jadikan di hadapan mereka sekat dan di belakang mereka sekat lalu Kami tutup (mata) mereka sehingga mereka tidak melihat﴾ [Yasin: 9], dan apa yang Tuhanmu kehendaki dari «at-Tama'il» [demikian adanya cetak], ﴿dan apabila engkau membaca al-Qur'an, Kami jadikan antara engkau dan orang-orang yang tidak beriman kepada akhirat sebuah hijab yang tertutup, dan Kami jadikan pada hati-hati mereka penutup sehingga mereka tidak memahaminya dan pada telinga-telinga mereka penyumbat; dan apabila engkau menyebut Tuhanmu dalam al-Qur'an saja, mereka berpaling ke belakang dengan lari﴾ [al-Isra': 45-46], ﴿dan Kami turunkan dari al-Qur'an apa yang menjadi obat dan rahmat bagi orang-orang mukmin﴾ [al-Isra': 82] — ar-Ra's, Tharthar, Barqus, Fayus, Mahrus, 'Athrus, Harus, Ba'dus, Sarnalus, Dabus, Mal'unah, Umm ash-Shibyan,
 
 ### Bagian 2 — Baris jadwal/wafaq huruf dan angka (bersambung ke hal. 23)
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -1503,13 +1138,9 @@ Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang; dengan nama Allah, dan
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Haa 'ain 'ain 71111891619 wa-thaa 9 'ain [rasm: tiga garis] 8117 51 51 shad shad shad 1111 55 miim*
 
 *Miim miim baa 1 [rasm: bintang] 11 miim waw laam shad-alif alif-miim-laam alif-waw 7 waw 122 haa waw waw-thaa waw alif 'ain waw 11117 haa 2*
-
-**[Terjemahan Indonesia]**
 
 Baris pertama jadwal/wafaq: huruf ha, 'ain, 'ain; angka 71111891619; wa-tha 9; 'ain; [gambar: tiga garis]; 8117; 51; 51; shad shad shad; 1111; 55; mim.
 
@@ -1523,8 +1154,6 @@ Baris kedua: mim mim ba 1; [gambar: bintang]; 11; mim waw lam; shad-alif; alif-m
 
 ### Bagian 1 — Sambungan: jadwal wafaq dan ayat-ayat pembatal sihir
 
-**[Teks Arab Asli]**
-
 <div dir="rtl">
 
 ٥٥ ٧١٧١٨١ وو كل ور٠ [رسم: ثلاثة خطوط] ع ٧٧ و ٨٨ و ١٦١ و ٥٥ ١٦١ ٥١ ٥١ ١١
@@ -1533,21 +1162,15 @@ Baris kedua: mim mim ba 1; [gambar: bintang]; 11; mim waw lam; shad-alif; alif-m
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *55 717181 waw-waw kaf-laam waw-raa 0 [rasm: tiga garis] 'ain 77 waw 88 waw 161 waw 55 161 51 51 11*
 
 *Waw [rasm: bintang] 7 waw 151, Luhaththathiil, Muhaththathiil, Quhaththathiil, Fahaththathiil, Nuhaththathiil, Juhaththathiil, Luhaththathiil, Lamqanjal, ﴿wa qul jaa-al-haqqu wa zahaqal-baathilu innal-baathila kaana zahuuqan﴾ [al-Israa': 81], ﴿wa qadimnaa ilaa maa 'amiluu min 'amalin fa ja'alnaahu habaa-an mantsuuran﴾ [al-Furqaan: 23], ﴿fa-idzaa jaa-a wa'du Rabbii ja'alahu dakkan wa kaana wa'du Rabbii haqqan﴾ [al-Kahf: 98], ﴿qaala Muusaa maa ji'tum bihis-sihru innallaaha sayubthiluh﴾ [Yuunus: 81] ﴿innallaaha laa yushlihu 'amalal-mufsidiin﴾ [Yuunus: 81], ﴿laa ya'tiihil-baathilu min baini yadaihi wa laa min khalfih﴾ [Fushshilat: 42], ﴿ilaihi yash'adul-kalimuth-thayyibu wal-'amalush-shaalihu yarfa'uh﴾ [Faathir: 10], ﴿fa waqa'al-haqqu wa bathala maa kaanuu ya'maluun﴾ [al-A'raaf: 118], ﴿innallaaha sayubthiluhu innallaaha laa yushlihu 'amalal-mufsidiin﴾ [Yuunus: 81] wa shallallaahu 'alaa Muhammadin wa aali Muhammadin wa laa haula wa laa quwwata illaa billaahil-'aliyyil-'azhiim.*
-
-**[Terjemahan Indonesia]**
 
 55; 717181; waw-waw; kaf-lam; waw-ra 0; [gambar: tiga garis]; 'ain; 77; waw; 88; waw; 161; waw; 55; 161; 51; 51; 11.
 
 Waw; [gambar: bintang]; 7; waw; 151; lalu: Luhaththathil, Muhaththathil, Quhaththathil, Fahaththathil, Nuhaththathil, Juhaththathil, Luhaththathil, Lamqanjal — dan katakanlah: «Telah datang kebenaran dan lenyaplah kebatilan; sesungguhnya kebatilan itu pasti lenyap» [al-Isra': 81]; «dan Kami tujukan kepada apa yang mereka kerjakan dari amal, lalu Kami jadikannya debu yang beterbangan» [al-Furqan: 23]; «maka apabila datang janji Tuhanku, Dia menjadikannya (gunung itu) rata, dan janji Tuhanku adalah benar» [al-Kahf: 98]; «Musa berkata: apa yang kalian bawa itu adalah sihir; sesungguhnya Allah akan membatalkannya» [Yunus: 81] «sesungguhnya Allah tidak memperbaiki amal orang-orang yang berbuat kerusakan» [Yunus: 81]; «kebatilan tidak akan datang kepadanya dari depan maupun dari belakangnya» [Fushshilat: 42]; «kepada-Nya naik perkataan yang baik dan amal saleh Dia angkat» [Fathir: 10]; «maka telah datang kebenaran dan batallah apa yang mereka kerjakan» [al-A'raf: 118]; «sesungguhnya Allah akan membatalkannya; sesungguhnya Allah tidak memperbaiki amal orang-orang yang berbuat kerusakan» [Yunus: 81]. Semoga Allah melimpahkan shalawat kepada Muhammad dan keluarga Muhammad; tiada daya dan tiada kekuatan kecuali dengan Allah Yang Mahatinggi lagi Mahaagung.
 
 ### Bagian 2 — Judul: hijab yang ditakuti jin
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -1557,21 +1180,15 @@ Waw; [gambar: bintang]; 7; waw; 151; lalu: Luhaththathil, Muhaththathil, Quhatht
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 **Hijaabun takhaafuhul-jinn**
 
 *Yuktabu wa yu'allaq; bismillaahir-Rahmaanir-Rahiim, Biklimsaa Amliighaa Marthuunus Lashtiithiyyus Mal'iyyus Saazsuunus Daayuunus Hiiraa Quthaihir, bismillaahir-Rahmaanir-Rahiim aamantu billaahil-'azhiimi wa kafartu bil-jinni wath-thaaghuut, wa i'tashamtu bil-'urwatil-wutsqal-latii laa-infishaama lahaa wallaahu Samii'un 'Aliim, hasbiyallaahu wa ni'mal-Wakiil.*
-
-**[Terjemahan Indonesia]**
 
 **Hijab yang ditakuti jin**
 
 Ditulis dan digantungkan; dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang: Biklimsa, Amligha, Marthunus, Lashtithiyus, Mal'iyus, Sazsunus, Dayunus, Hira Quthaihir; dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang — aku beriman kepada Allah Yang Mahaagung dan aku ingkar kepada jin dan thaghut, dan aku berpegang kepada tali yang kuat yang tiada putus padanya; Allah Maha Mendengar lagi Maha Mengetahui; cukuplah Allah bagiku dan Dia sebaik-baik pelindung.
 
 ### Bagian 3 — Judul: تحصين الإحاطة (benteng perlindungan menyeluruh)
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -1581,13 +1198,9 @@ Ditulis dan digantungkan; dengan nama Allah Yang Maha Pengasih lagi Maha Penyaya
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 **Tahshiinul-Ihaathah**
 
 *Yuqra-u shabaahan wa masaa-an tsalaatsa marraatin wa huwa: bismillaahir-Rahmaanir-Rahiim laa ilaaha illallaahu bainii wa baina a'daa-ii, laa ilaaha illallaahu bainii wa baina khashmaanii jabalan haa-ilan wa saddan maani'an wa sitran mahjuuban wa saifan qaathi'an wa naaran muhriqatan wa bahran 'amiiqan laa yashiluuna ilayya laa biqaulin wa laa bi-fi'lin wa laa bisuu-in min haadzal-yawmi ilaa ghad, wa ilal-abad, ﴿fa nabdzukuhum [ترتيب مطبوع غير مألوف، محفوظ بلا تصحيح] Allaahu wa huwas-Samii'ul-'Aliim﴾*
-
-**[Terjemahan Indonesia]**
 
 **Tahshin al-Ihathah (benteng perlindungan menyeluruh)**
 
@@ -1596,8 +1209,6 @@ Dibaca pagi dan petang tiga kali, yaitu: dengan nama Allah Yang Maha Pengasih la
 ## Halaman PDF 24 (= cetak 23)
 
 ### Bagian 1 — Judul: hijab kekuatan
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -1609,15 +1220,11 @@ Dibaca pagi dan petang tiga kali, yaitu: dengan nama Allah Yang Maha Pengasih la
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 **Hijaabul-Quwwah**
 
 *Wa huwa hijaabun yu'thiikal-quwwata wal-amana min kulli ashnaafil-jinni wa huwa haadza:*
 
 *Bismillaahir-Rahmaanir-Rahiim, anal-laahul-Hayyul-Qayyuum, anal-laahu lam azal Badii'us-samaawaati wal-ardh, anal-laahul-'aziizu laa 'aziiza ghairii wa a'azzu min ulbisa khaatamii, allaahu laa ilaaha illaa huwa wa Muhammadun 'abdii wa rasuulii, Lasahfwa Arraasy Namuuh Fahuuh Ashbaa'uta Aala Syaddaay A'yaasy Hiyaa Anuukh Adunayya Mahyaa 'Aziizullaahi A'azzu Ma'ruusya Th Huusy, allaahu laa ilaaha illaa huwa, 'Aththaaluusy, allaahu azalii lam yazal yuziiluz-zawaala wa laa yazuul, hasbiyallaahu Rabbii, Abruum Khaythuum Haythuum Mirkhaasy Humaa Yats-iil, hajabtuka minal-jinni wal-insi wasy-syayaathiini bil-'ainil-latii laa tanaamu wa bizamzama wal-aqlaami war-rukni wal-maqaami wa bil-masy'aril-haraami wal-hajaril-aswadi wa bifadhlin-Nabiyyil-akrami Muhammadin ﷺ (shallallaahu 'alaihi wa sallam), wabits-tsaamaniyatil-ladziina yahmiluuna 'arsya Rabbihim wa hum min 'adzaabi Rabbihim musyfiquuna qaa-iluun, huwallaahul-ladzii laa ilaaha illaa huwal-Waahidul-Ahadul-Fardash-Shamadul-ladzii lam yattakhidh shaahibatan wa laa waladan, yaa haamila haadzal-hijaabi billaahil-ladzii qaala innii anal-laahu laa ilaaha illaa anal-Haramu haramii.*
-
-**[Terjemahan Indonesia]**
 
 **Hijab kekuatan**
 
@@ -1627,8 +1234,6 @@ Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang: Akulah Allah Yang Maha
 
 ### Bagian 2 — Judul: bagi yang takut pukulan jin
 
-**[Teks Arab Asli]**
-
 <div dir="rtl">
 
 **لِمَنْ خَافَ ضَرْبَ الجِنِّ**
@@ -1637,21 +1242,15 @@ Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang: Akulah Allah Yang Maha
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 **Liman khaafa dharbal-jinn**
 
 *Man khaafa dzaalika 'inda tilaawatil-qasami falyaktub haadzihil-asmaa-a fii kaffihi wa yalhas-haa: Hajabtu nafsii bi'izzatil-'Aziizil-Mu'tazzi fii 'izzi 'izzihi butuuna Iilin hasyaasy hasyiisy masyaahisy*
-
-**[Terjemahan Indonesia]**
 
 **Bagi yang takut pukulan jin**
 
 Barangsiapa khawatir akan hal itu saat membaca sumpah, maka hendaklah ia menulis nama-nama ini di telapak tangannya lalu menjilatnya: «Aku membentengkan diriku dengan keperkasaan Yang Mahaperkasa lagi Maha Menjadikan perkasa, dalam kemuliaan kemuliaan-Nya — Butun Il, Hasyasy, Hasyisy, Masyahisy.»
 
 ### Bagian 3 — Judul: حصن عظيم (benteng agung) (bersambung ke hal. 25)
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -1661,13 +1260,9 @@ Barangsiapa khawatir akan hal itu saat membaca sumpah, maka hendaklah ia menulis
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 **Hishnun 'azhiim**
 
 *Wa thariiqtul-'amali bihi an tarsuma tsalaatsata dawaaira wa anta taqra-u 'inda khaththihaa Aayatal-Kursii wa takuunu fii wasathid-daa-irati wa ma'aka jamii'u maa tahtaajuhu lil-'amali wa laa takhruju minad-dawaa-iri illaa idzaa sharaftal-khuddaama wa illaa tahliku wa 'inda tamaami khaththid-dawaa-iri taqra-u haadzal-hishna:*
-
-**[Terjemahan Indonesia]**
 
 **Benteng agung**
 
@@ -1677,31 +1272,23 @@ Cara mengamalkannya: engkau menggambar tiga lingkaran sambil membaca Ayat Kursi 
 
 ### Bagian 1 — Sambungan: bacaan benteng agung (bersambung ke hal. 26)
 
-**[Teks Arab Asli]**
-
 <div dir="rtl">
 
 بِسْمِ اللهِ الرَّحْمَنِ الرَّحِيمِ بِسْمِ اللهِ هُوَ بِسْمِ اللهِ مُجْرِي السَّحَابِ هُوَ اللهُ يَا مَنْ أَجْمَعْتَ كُلَّ مُتَمَرِّدٍ سَلَامٌ سَلَامٌ يَا اللهُ، كِنْدِي سَبَا سِيرِ بِتُونْ، اصْحَبُوا البَعِيدَ عَنَّا وَالقَرِيبَ لَا يُؤْذِينَا، اللَّهُمَّ يَا سَابِلَ السَّتْرِ إِذَا أَحَاطَ البَلَاءُ، وَيَا سَامِعَ الأَصْوَاتِ مِنْ تَحْتَ المَلَا بِحَقِّ نَبِيِّكَ المَحْبُوبِ وَكُرْسِيِّكَ المَنْصُوبِ أَنْ تُطَمْئِنَ قَلْبَ عَبْدِكَ الخَائِفِ المَرْعُوبِ، مِنَ السُّيُوفِ إِذَا سُلَّتْ وَمِنْ قُلُوبِ الأَعْدَاءِ إِذَا صَدَتْ أَوِ اسْوَدَّتْ، فَإِنْ جَارُوا عَلَيْنَا فَرُدَّهُمْ فَأَنْتَ رَبِّي وَرَبُّ الخَلَائِقِ كُلِّهِمْ، دُسْتُورٌ دُسْتُورٌ بِسْمِ اللهِ سُورٌ وَبِاللهِ نُورٌ وَآيَةُ الكُرْسِيِّ عَلَيْنَا تَدُورُ، ﴿اللَّهُ لَا إِلَهَ إِلَّا هُوَ الحَيُّ القَيُّومُ لَا تَأْخُذُهُ سِنَةٌ وَلَا نَوْمٌ لَهُ مَا فِي السَّمَوَاتِ وَمَا فِي الأَرْضِ مَنْ ذَا الَّذِي يَشْفَعُ عِنْدَهُ إِلَّا بِإِذْنِهِ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلَا يُحِيطُونَ بِشَيْءٍ مِنْ عِلْمِهِ إِلَّا بِمَا شَاءَ وَسِعَ كُرْسِيُّهُ السَّمَوَاتِ وَالأَرْضَ وَلَا يَؤُودُهُ حِفْظُهُمَا وَهُوَ العَلِيُّ العَظِيمُ﴾ [البقرة: ٢٥٥]، ﴿وَلَا يَؤُودُهُ حِفْظُهُمَا وَهُوَ العَلِيُّ العَظِيمُ﴾ [البقرة: ٢٥٥]، كَمَا دَارَ السُّورُ عَلَى مَدِينَةِ الرَّسُولِ لَيْسَ لَهَا قُفْلٌ وَلَا مِفْتَاحٌ مِنَ المَسَاءِ إِلَى الصَّبَاحِ، اللهُ أَكْبَرُ اللهُ أَكْبَرُ اللهُ أَكْبَرُ عَلَى مَنْ طَغَى وَتَجَبَّرَ بِاسْمِ اللهِ رَبِّي يَحْرُسُنِي مِنَ الجِنِّ وَالإِنْسِ وَالوَحْشِ وَالهَوَامِّ وَالدَّبِيبِ وَالحَيَوَانِ، لَا يَمَسُّ جَسَدِي سِلَاحٌ وَلَا جَرْحٌ وَلَا شَيْطَانٌ، لَهُ عِنْدَنَا مِفْتَاحٌ مِفْتَاحُهَا بِسْمِ اللهِ الرَّحْمَنِ الرَّحِيمِ، ﴿الم ذَلِكَ الكِتَابُ لَا رَيْبَ فِيهِ هُدًى لِلْمُتَّقِينَ الَّذِينَ يُؤْمِنُونَ بِالغَيْبِ وَيُقِيمُونَ الصَّلَاةَ وَمِمَّا رَزَقْنَاهُمْ يُنْفِقُونَ وَالَّذِينَ يُؤْمِنُونَ بِمَا أُنْزِلَ إِلَيْكَ وَمَا أُنْزِلَ مِنْ قَبْلِكَ وَبِالآخِرَةِ هُمْ يُوقِنُونَ أُولَئِكَ عَلَى هُدًى مِنْ رَبِّهِمْ وَأُولَئِكَ هُمُ المُفْلِحُونَ﴾ [البقرة: ١-٥] وَحِيطَانُهَا ﴿يس وَالقُرْآنِ الحَكِيمِ إِنَّكَ لَمِنَ المُرْسَلِينَ عَلَى صِرَاطٍ مُسْتَقِيمٍ تَنْزِيلَ العَزِيزِ الرَّحِيمِ لِتُنْذِرَ قَوْمًا مَا أُنْذِرَ آبَاؤُهُمْ فَهُمْ غَافِلُونَ لَقَدْ حَقَّ القَوْلُ عَلَى أَكْثَرِهِمْ فَهُمْ لَا يُؤْمِنُونَ إِنَّا جَعَلْنَا
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 **Bismillaahir-Rahmaanir-Rahiim bismillaahi huwa bismillaahi mujris-sahaabi huwallaahu yaa man ajma'ta kulla mutamarridin salaamun salaamun yaa Allaah, Kindii Sabaa Siiri Bituun, ish-habul-ba'iida 'annaa wal-qariiba laa yu'dziinaa, Allaahumma yaa saabilas-satri idzaa ahaathal-balaa-u, wa yaa saami'al-ashwaati min tahtal-malaa bihaqqi Nabiyyikal-Mahbuubi wa Kursiyyikal-Manshuubi an tuthma-ina qalba 'abdikal-khaa-ifil-mar'uub, minas-suyuufi idzaa sullat wa min quluubil-a'daa-i idzaa shadat awi-swaddat, fa-in jaaruu 'alainaa faruddahum fa-anta Rabbii wa Rabbul-khalaa-iqi kullihum, dustuurun dustuurun bismillaahi suurun wa billaahi nuurun wa Aayatul-Kursii 'alainaa taduur, ﴿Allaahu laa ilaaha illaa huwal-Hayyul-Qayyuumu laa ta'khudzuhu sinatun wa laa naumun lahu maa fis-samaawaati wa maa fil-ardh man dzal-ladzii yasyfa'u 'indahu illaa bi-idznihi ya'lamu maa baina aidiihim wa maa khalfahum wa laa yuhiithuuna bisyai-in min 'ilmihii illaa bimaa syaa-a wasi'a kursiyyuhus-samaawaati wal-ardha wa laa yauuduhu hifzhuhumaa wa huwal-'Aliyyul-'Azhiim﴾ [al-Baqarah: 255], ﴿wa laa yauuduhu hifzhuhumaa wa huwal-'Aliyyul-'Azhiim﴾ [al-Baqarah: 255], kamaa daaras-suuru 'alaa madiinatir-Rasuuli laisa lahaa quflun wa laa miftaahun minal-masaa-i ilash-shabaah, Allaahu akbar Allaahu akbar Allaahu akbar 'alaa man thagha wa tajabbara bismillaahi Rabbii yahrusunii minal-jinni wal-insi wal-wahsyi wal-hawaammi wad-dabiibi wal-hayawaan, laa yamassa jasadii silaahun wa laa jarhun wa laa syaithaan, lahu 'indanaa miftaahun miftaahuhaa bismillaahir-Rahmaanir-Rahiim, ﴿Alif-Laam-Miim dzaalikal-kitaabu laa raiba fiihi hudan lil-muttaqiinal-ladziina yu'minuuna bil-ghaibi wa yuqiimuunash-shalaata wa mimmaa razaqnaahum yunfiquun wal-ladziina yu'minuuna bimaa unzila ilaika wa maa unzila min qablika wa bil-aakhirati hum yuuqinuuna ulaa-ika 'alaa hudan min Rabbihim wa ulaa-ika humul-muflihuun﴾ [al-Baqarah: 1-5] wa hiithaanuhaa ﴿Yaa-Siin wal-Qur-aanil-hakiim innaka laminal-mursaliin 'alaa shiraathin mustaqiim tanziilal-'Aziizir-Rahiim litundzira qauman maa undzira aabaa-uhum fahum ghaafiluun laqad haqqal-qaulu 'alaa aktsarihim fahum laa yu'minuun innaa ja'alnaa* …*
-
-**[Terjemahan Indonesia]**
 
 Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang; dengan nama Allah, Dialah; dengan nama Allah yang menjalankan awan; Dialah Allah — wahai Dzat yang menghimpun setiap pembangkang — salam, salam, ya Allah; Kindi Saba Siri Bitun — bawalah yang jauh dari kami, dan biarlah yang dekat tidak menyakiti kami; ya Allah, wahai Dzat yang menghamparkan tabir ketika bala meliput, dan wahai Dzat yang mendengar suara-suara dari bawah al-Mala (majelis tertinggi), demi hak Nabi-Mu yang tercinta dan Kursi-Mu yang tertegak, tenangkanlah hati hamba-Mu yang takut lagi terguncang ini, dari pedang-pedang yang terhunus dan dari hati-hati musuh yang berkarat atau menghitam; jika mereka berbuat zalim atas kami, maka tolaklah mereka, sebab Engkaulah Tuhanku dan Tuhan seluruh makhluk; dustur, dustur — dengan nama Allah sebagai benteng, dan demi Allah sebagai cahaya, dan Ayat Kursi beredar melindungi kami; ﴿Allah, tiada tuhan selain Dia, Yang Mahahidup lagi Maha Mengurus; tidak mengantuk dan tidak tidur; milik-Nya apa yang di langit dan di bumi; siapakah yang memberi syafaat di sisi-Nya kecuali dengan izin-Nya; Dia mengetahui apa yang di hadapan mereka dan di belakang mereka, dan mereka tidak meliputi sesuatu pun dari ilmu-Nya kecuali apa yang Dia kehendaki; Kursi-Nya meliputi langit dan bumi, dan tidak berat bagi-Nya memelihara keduanya; dan Dialah Yang Mahatinggi lagi Mahaagung﴾ [al-Baqarah: 255], ﴿dan tidak berat bagi-Nya memelihara keduanya; dan Dialah Yang Mahatinggi lagi Mahaagung﴾ [al-Baqarah: 255], sebagaimana benteng beredar mengelilingi kota Rasul — tiada kunci dan tiada gembok baginya dari petang hingga pagi; Allah Mahabesar, Allah Mahabesar, Allah Mahabesar atas siapa yang melampaui batas dan bersikap sewenang-wenang; dengan nama Allah, Tuhanku menjagaku dari jin, manusia, binatang buas, hewan melata, binatang berbisa, dan hewan; tidak menyentuh tubuhku senjata, tidak luka, dan tidak setan; ia mempunyai kunci pada kami, kuncinya adalah dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang; ﴿Alif Lam Mim; Kitab itu tiada keraguan padanya; petunjuk bagi orang-orang bertakwa, yang beriman kepada yang gaib dan mendirikan salat dan menafkahkan sebagian rezeki yang Kami berikan, dan yang beriman kepada apa yang diturunkan kepadamu dan apa yang diturunkan sebelummu, dan kepada akhirat mereka yakin; mereka itulah yang berada di atas petunjuk dari Tuhan mereka dan mereka itulah orang-orang yang beruntung﴾ [al-Baqarah: 1-5] dan dinding-dindingnya ialah ﴿Ya Sin; demi al-Qur'an yang penuh hikmah; sesungguhnya engkau benar-benar termasuk para rasul, di atas jalan yang lurus; (sebagai) wahyu Yang Mahaperkasa lagi Maha Penyayang, agar engkau memberi peringatan kepada kaum yang nenek moyang mereka belum pernah diberi peringatan, maka mereka lalai; sungguh telah berlaku ketetapan atas kebanyakan mereka, maka mereka tidak beriman; sesungguhnya Kami telah menjadikan … (bersambung ke halaman 26)
 
 ---
 
-# BATCH 06 — Halaman PDF 26–30
+# JILID 06 — Halaman PDF 26–30
 
 ## Halaman PDF 26 (= cetak 25)
 
 ### Bagian 1 — Sambungan: penutup benteng agung (ayat dan zikir penutup)
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -1709,11 +1296,7 @@ Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang; dengan nama Allah, Dia
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Fii anfihim aghlaalan fahiya ilal-adzqaani fahum muqmahuun wa ja'alnaa min baini aidiihim saddan wa min khalfihim saddan fa-aghsyainaahum fahum laa yubshiruun wa sawaa-un 'alaihim a-andzartahum am lam tundzirhum laa yu'minuun innamaa tundziru manit-taba'adz-dzikra wa khasyiyar-Rahmaana bil-ghaibi fa basysyirhu bi-maghfiratin wa ajrin kariim innaa nahnu nuhyil-mautaa wa naktubu maa qaddamuu wa aatsaarahum wa kulla syai-in ahshainaahu fii imaamin mubiin﴾ [Yasin: 1-12], wa qablahaa alfu alfi laa haula wa laa quwwata illaa billaahil-'aliyyil-'azhiim, bismillaahil-ladzii laa yadhurru ma'as-mihi syai-un fil-ardhi wa laa fis-samaa-i wa huwas-Samii'ul-'Aliim (tiga kali), a'uudzu bikalimaatillaahit-taammaati min syarri maa khalaq (tiga kali), bismillaahul-Khaaliqul-Akbar, wa kaanallaahu qawiyyan 'aziizan, ﴿Haa-Miim 'Ain-Siin-Qaaf﴾ [asy-Syuura: 1-2], himaayatunaa ﴿Kaa-Haa-Yaa-'Ain-Shaad﴾ [Maryam: 1], kifaayatunaa ﴿fa nabdzuhumullaahu wa huwas-Samii'ul-'Aliim﴾ [al-Baqarah: 137], sitrul-'Arsyi masbuulun 'alainaa wa 'ainullaahi naazhiratun ilainaa bihaulillaahi laa yaqdiruuna 'alainaa ﴿bal huwa Qur-aanun majiidun fii lawhin mahfuzh﴾ [al-Buruuj: 21-22]*
-
-**[Terjemahan Indonesia]**
 
 …pada leher-leher mereka ada belenggu, lalu (tangan) itu sampai ke dagu, maka mereka tertengadah; dan Kami jadikan di hadapan mereka sekat dan di belakang mereka sekat, lalu Kami tutup (mata) mereka sehingga mereka tidak melihat; sama saja bagi mereka apakah engkau beri peringatan atau tidak, mereka tidak beriman; sesungguhnya engkau hanya memberi peringatan kepada orang yang mengikuti zikir (al-Qur'an) dan takut kepada (Allah) Yang Maha Pengasih tanpa melihat, maka berilah kabar gembira kepadanya dengan ampunan dan pahala yang mulia; sesungguhnya Kami menghidupkan orang-orang mati dan Kami menulis apa yang mereka dahulukan serta bekas-bekas mereka; dan segala sesuatu Kami hitung dalam imam yang nyata (Catatan induk)﴾ [Yasin: 1-12]; dan sebelumnya seribu ribu «tiada daya dan tiada kekuatan kecuali dengan Allah Yang Mahatinggi lagi Mahaagung»; dengan nama Allah yang tidak membahayakan bersama nama-Nya sesuatu pun di bumi dan di langit, dan Dia Maha Mendengar lagi Maha Mengetahui (tiga kali); aku berlindung dengan kalimat-kalimat Allah yang sempurna dari kejahatan apa yang Dia ciptakan (tiga kali); dengan nama Allah Sang Pencipta Yang Mahabesar; dan Allah senantiasa Mahakuat lagi Mahaperkasa; ﴿Ha Mim 'Ain Sin Qaf﴾ [asy-Syura: 1-2]; perlindungan kami ialah ﴿Kaf Ha Ya 'Ain Shad﴾ [Maryam: 1]; kecukupan kami ialah ﴿maka fannabdzuhum Allah, dan Dia Maha Mendengar lagi Maha Mengetahui﴾ [tercetak: al-Baqarah: 137]; tabir 'Arsy terulur di atas kami dan mata Allah memperhatikan kami — dengan daya Allah mereka tidak kuasa atas kami; ﴿bahkan ia adalah al-Qur'an yang mulia, di Lauh Mahfuzh﴾ [al-Buruj: 21-22]
 
@@ -1722,8 +1305,6 @@ Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang; dengan nama Allah, Dia
 > Rujukan «[البقرة: ١٣٧]» untuk potongan «فنبذهم الله وهو السميع العليم» tidak sesuai dengan mana pun dalam al-Baqarah maupun dengan potongan serupa pada cetakan sebelumnya (hal. 23 tanpa rujukan); dipertahankan sebagai kesalahan cetak edisi ini. Rujukan [يس: ١-١٢] mengikuti cetakannya; rangkaian yang dikutip sebenarnya bermula dari ayat 8.
 
 ### Bagian 2 — Judul: delapan nama ath-Thahathil
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -1735,15 +1316,11 @@ Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang; dengan nama Allah, Dia
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 **Asmaa-uth-Thahaathiilits-Tsamaaniyah**
 
 *Wa hiya asmaa-u muluukin 'izhaamin lahaa katsiirun minal-khawaashi wat-tashaariifisy-syariifati wal-asraaril-lathiifah, nadzkuru ba'dhaha 'inda haajatihaa bi-idznillaahi ta'aala wa haadzihi hiyal-asmaa-us-sab'atu [ترتيب مطبوع غير مألوف، محفوظ بلا تصحيح]:*
 
 *Lith-thahthiil, Muhaththathiil, Quhthithiil, Fahthithiil, Nuhahthathiil, Jahloththiil, Lakhahthathiil, Lamqanjal.*
-
-**[Terjemahan Indonesia]**
 
 **Nama-nama ath-Thahathil yang delapan**
 
@@ -1755,8 +1332,6 @@ Lith-thahthil, Muhaththathil, Quhthithil, Fahthithil, Nuhahthathil, Jahloththil,
 
 ### Bagian 1 — Nazham doa bagi nama-nama ath-Thahathil
 
-**[Teks Arab Asli]**
-
 <div dir="rtl">
 
 وَهَذِهِ دَعْوَةٌ مَنْظُومَةٌ لِهَذِهِ الأَسْمَاءِ الجَلِيلَةِ قَدْ ذَكَرَهَا أَحَدُ العُلَمَاءِ فَقَالَ:
@@ -1765,21 +1340,15 @@ Lith-thahthil, Muhaththathil, Quhthithil, Fahthithil, Nuhahthathil, Jahloththil,
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Wa haadzihi da'watun manzhuumatun lihaadzihil-asmaa-il-jaliilati qad dzakarahaa ahadul-'ulamaa-i fa qaala:*
 
 *Bi-anwaari bismillaahi yuqdhaa muraadiyaa wa tahra'u lil-arwaahu wal-kullu saa'iyaa / Wa aqsamtu bil-Jabbaari jalla jalaaluhu 'alaa kulli jabbaarin minal-jinni 'aatiyaa / Wa alzamtu khuddaamath-thahaathiili thaa'atii sarii'an bilaa mahlin yujiibul-munaadiyaa / Ajiiibuu ajiiibuu yaa banil-jinni kullukum bi'izzati man arsyal-jibaalar-rawaasiyaa / Wa khashmukum jam'an tuthii'uuna amrahu wa amril-ladzii yad'uu bisirrin a'aaliyaa / Ajiiibuu bilaa mahlin bi'izzati bathsyihii wa ihraaqihis-saaqii 'alaa kulli 'aashiyaa / Wa bisirri anwaaril-jalaalati wal-bahaa wa zajrihis-saamii bi-Aahyaa Saraahyaa / Adunayya Ashbaa-utu yaththa'u nuuruhu wa yajdzibu khuddaamath-thahaathiili daa'iyaa / Wa bi-Aali Syaddaay wa bibahjati nuurihii ajiiibuu du'aa-ii wahdhuruu bi-maqaamiyaa / Wa yaa Madzhabu yaa Marratu yaa Ahmaru wa Birqaana Syumhuurasya ilayya sawaa'iyaa / Wa Zuuba'ata ya'tii wa Maimuuna haadhirin jamii'an liyaqdhuu yaa kiraamu muraadiyaa / Binuuri Lilth-thahthiil arjuu hudhuurakum wa sirri Muhaththathiila fan-nuuru baadiyaa / Bi'izzati Quhthithiila qad laaha usyhubun bizajri Fahthithiila sharat munaadiyaa / Binuuri Nuhahthathiila qudhiyat hawaa-ijii tsumma Jahloththiila sirru ashaaliyaa / Lakhahthathiila asri'uu lii bijam'ikum Limaqanjala fis-sirri min dzaaki haaliyaa / Ajiiibuu jamii'an waf'aluu maa amartukum fa-in ajabtum bith-thahaathiili amriyaa*
-
-**[Terjemahan Indonesia]**
 
 Dan inilah doa yang terangkum (nazham) bagi nama-nama yang agung ini, yang telah disebutkan oleh salah seorang ulama; ia berkata:
 
 «Demi cahaya-cahaya bismillah terpenuhilah keinginanku, dan para ruh bersegera kepadaku, semuanya tunduk; aku bersumpah dengan Dzat Yang Mahaperkasa, Mahamulia keagungan-Nya, atas setiap tiran dari kalangan jin yang durhaka; aku wajibkan kepada para pelayan ath-Thahathil ketaatan kepadaku, segera tanpa tenggat — mereka menjawab penyeru; jawablah, jawablah, wahai sekalian anak jin, kamu semua, demi keperkasaan Dzat yang menegakkan gunung-gunung; dan lawanmu sekalian taat kepada perintah-Nya dan perintah orang yang berseru dengan rahasia yang mahatinggi; jawablah tanpa tenggat, demi keperkasaan hantaman-Nya dan pembakaran-Nya yang menyiram atas setiap pendurhaka; demi rahasia cahaya keagungan dan keelokan, dan hardikan-Nya yang tinggi dengan Ahya Sarahnya; Adunayya Ashba'ut — cahaya-Nya bersinar dan menarik para pelayan ath-Thahathil yang menyeru; demi Al Syaddai dan demi semarak cahaya-Nya — kabulkanlah doaku dan hadirilah majelisku; wahai Madzhab, wahai Marrah, wahai Ahmar, dan Burqan Syumhurasy — segeralah kepadaku; dan Zuba'ah datang serta Maimun hadir, bersama-sama memenuhi, wahai para mulia, keinginanku; dengan cahaya Lith-thahthil aku harapkan kehadiran kalian, dan dengan rahasia Muhaththathil — cahaya itu nyata; dengan keperkasaan Quhthithil telah tampak bintang gemilang, dengan hardikan Fahthithil terdengar penyeru; dengan cahaya Nuhahthathil terpenuhilah hajat-hajatku, kemudian Jahloththil — rahasia waktu-waktu asalku; Lakhahthathil — bersegeralah kepadaku dengan kumpulanmu, Lamqanjal — dalam rahasia, karena itulah keadaanku; jawablah semuanya dan lakukanlah apa yang kuperintahkan kepada kalian, sebab jika kalian menjawab, dengan ath-Thahathil (terpenuhi) perintahku.»
 
 ### Bagian 2 — Judul: nama-nama at-Tijan
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -1789,13 +1358,9 @@ Dan inilah doa yang terangkum (nazham) bagi nama-nama yang agung ini, yang telah
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 **Asmaa-ut-Tijaan**
 
 *Wa tusammaa bi-asmaa-il-qaaidati awith-thariiqahti wa lahaa katsiirun minal-khawaashin-naafi'ah wa hiyats-naa 'asyara isman famin khawaashihaa inna man katabal-Ismal-awwala minat-Tijaani wa saqaahu zaujatahu lam taf'al maa yukrahu ba'da dzaalik.*
-
-**[Terjemahan Indonesia]**
 
 **Nama-nama at-Tijan**
 
@@ -1804,8 +1369,6 @@ Ia disebut juga dengan nama-nama «al-Qa'idah» (kaidah) atau «ath-Thariqah» (
 ## Halaman PDF 28 (= cetak 27)
 
 ### Bagian 1 — Khasiat nama-nama at-Tijan yang kedua sampai kesembilan
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -1827,8 +1390,6 @@ Ia disebut juga dengan nama-nama «al-Qa'idah» (kaidah) atau «ath-Thariqah» (
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Wa man katabal-Ismats-tsaaniya minat-Tijaani fii waraqatin shaghiiratin wa alqaahaa fii maa-in jaarin wa qaala haadzal-kitaabu yaa Rabbi katabtuhu ilaika litaqdhiya haajatii wa hiya kadzaa wa kadzaa qudhiyat haajatuh.*
 
 *Wa man katabal-Ismats-tsaalitsa minat-Tijaani biza'faraana wa maa-i wardin fii waraqatin wa 'allaqahaa 'ala-mra-atin 'aazibatin tazawwajat.*
@@ -1844,8 +1405,6 @@ Ia disebut juga dengan nama-nama «al-Qa'idah» (kaidah) atau «ath-Thariqah» (
 *Wa man dhaa'a minhu syai-un au suriqa minhu syai-un falyathhir [al-mathbu': falyatahar] wa yaktubil-Ismats-tsaamina 'alaa fakhidzihil-aimani wa yadkhul fii mahallin khaalin wa yaqra-ud-da'watal-Barhatiyyata ma'a asmaa-it-Tijaani kullihaa wa yathlub minallaahi an yarudda haajatahu ilaihi fa-innahu ya'tii ilaihi sab'u rijaalin fii manaamihi au yaqzatihii wa yaqdhuu lahu haajatuh.*
 
 *Wa man katabal-Ismat-taasi'a minat-Tijaani fii shahnin shiiniyyin abyadha sab'a juma'in mutawaaliyaatin wa mahaahu ba'da tamaamil-muddati bimaa-in wa syariba minhu wa masaha baaqiyahu wajhahu wa shadrah-u aghnaahullaahu wa fatahallaahu 'alaihi fathan 'azhiiman, wa man katabal-Ismat-taasi'a wa 'allaqahu fii mahalli tijaaratihii rabihat.*
-
-**[Terjemahan Indonesia]**
 
 Barangsiapa menulis nama kedua dari at-Tijan di selembar kertas kecil lalu melemparkannya ke air yang mengalir dan berkata: «Inilah surat itu; wahai Tuhanku, aku menulisnya kepada-Mu agar Engkau penuhi hajatku, dan ia adalah begini dan begini» — niscaya terpenuhilah hajatnya.
 
@@ -1867,8 +1426,6 @@ Barangsiapa menulis nama kesembilan dari at-Tijan di piring porselen putih selam
 
 ### Bagian 1 — Khasiat nama-nama at-Tijan kesepuluh sampai kedua belas
 
-**[Teks Arab Asli]**
-
 <div dir="rtl">
 
 وَمَنْ كَتَبَ الاسْمَ العَاشِرَ مِنْ أَسْمَاءِ التِيجَانِ فِي وَرَقَةٍ وَعَلَّقَهَا عَلَى ضَعِيفٍ قَوِيَ وَإِنْ وَضَعَهُ عَلَى مُتَعَسِّرَةٍ وَلَّدَتْ سَرِيعًا وَإِنْ وَضَعَ عَلَى ضَعِيفِ النِّكَاحِ قَوِيَ.
@@ -1881,8 +1438,6 @@ Barangsiapa menulis nama kesembilan dari at-Tijan di piring porselen putih selam
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Wa man katabal-Ismal-'aasyira min asmaa-it-Tijaani fii waraqatin wa 'allaqahaa 'alaa dha'iifin qawiya wa in wadha'ahu 'alaa muta'assiratin walladat sarii'an wa in wadha'a 'alaa dha'iifin-nikaahi qawiya.*
 
 *Wa man katabal-Ismal-haadiya 'asyara fii raahati kaffihil-yumnaa wa shaafaha bihii ahadan ahabbahu hubban katsiiran wa man kataba haadzal-I sma fii waraqatin wa hamalahaa fii ra'sihii ghalaba khashmah.*
@@ -1890,8 +1445,6 @@ Barangsiapa menulis nama kesembilan dari at-Tijan di piring porselen putih selam
 *Wa man katabal-Ismats-tsaaniya 'asyara minat-Tijaani fii shahnin shiiniyyin wa mahaahu wa syariba minhu juz-an wa masaha bibaaqiihi wajhahu wa dakhala 'alaa haakimin haabahahu wa qadhaa haajatuh.*
 
 *Haadzihi hiyal-asmaa-u bit-tartiib.*
-
-**[Terjemahan Indonesia]**
 
 Barangsiapa menulis nama kesepuluh dari nama-nama at-Tijan di selembar kertas lalu menggantungkannya pada orang yang lemah, niscaya ia kuat; jika meletakkannya pada perempuan yang sulit (melahirkan), niscaya ia melahirkan dengan segera; dan jika meletakkannya pada orang yang lemah syahwat, niscaya ia kuat.
 
@@ -1903,19 +1456,13 @@ Inilah nama-nama itu sesuai urutannya.
 
 ### Bagian 2 — Dua belas nama at-Tijan berurutan
 
-**[Teks Arab Asli]**
-
 <div dir="rtl">
 
 الاسْمُ الأَوَّلُ: بَشْمَخَ دَالَا هَامُو شِيطِيثُونَ. الاسْمُ الثَّانِي: دَنُوَا مَلْخُوثَا دِيمُوثُونَ. الاسْمُ الثَّالِثُ: كُورْعَشَ أَرْعِيشْطَرَخَ لَاخُونَ. الاسْمُ الرَّابِعُ: دَهْمُوثَ أَرْخَا أَرْخَمَ أَرْخِيمُونَ. الاسْمُ الخَامِسُ: تِيخُوثِيمَ أَزِيشَ أَرْقَشَ دَارَ عَلْيُونَ. الاسْمُ السَّادِسُ: حِيشْمُوا مِيثُوا أَحْيُونَ مَنُونَ. الاسْمُ السَّابِعُ: آهْيَا شَرَاهْيَا أَدُونَاي أَصْبَاؤُتَ صَبَّارْتُونَ. الاسْمُ الثَّامِنُ: دَهْحِيثَا دَهْلِيلُوا إِلَهَ مِيطَطْرُونَ. الاسْمُ التَّاسِعُ: نُورَ بُورَقَ أَرْعِيشَ أَرْغَشِيشَ لَغْشُونَ. الاسْمُ العَاشِرُ: شَبِيرَا شَرُو أَسْمَخَ أَشْفَا أَشْفُونَ. الاسْمُ الحَادِي عَشَرَ: مَلْكُوتَ مَالَخَ مَلْخَ مَلِيخَا مَالْخُونَ. الاسْمُ الثَّانِي عَشَرَ: عَلَّامَ عَالَمَ أَرْغَلَ أَرْغَى أَرْغُونَ ثَرْنُونَ كَزْنُونَ، شَمَخَ شَمَخِيثَا مَشْلَامُونَ.
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Al-Ismul-awwal: Basyamakha Daalaa Haamuu Syiithiitsuun. Al-Ismuts-tsaanii: Danuwa Malkhuutsa Diimuutsuun. Al-Ismuts-tsaalits: Kuur'asya Ar'aisytharakha Laakhuun. Al-Ismur-raabi': Dahmuutsa Arkhaa Arkham Arkhiimuun. Al-Ismul-khaamis: Tiikhuutsiim Aziisy Araqsy Daar 'Alyuun. Al-Ismus-saadis: Hiisymua Miitsu Ahyuun Manuun. Al-Ismus-saabi': Aahyaa Saraahyaa Adunayya Ashbaa-uts Shabbaartuun. Al-Ismuts-tsaamin: Dah-hiitsa Dah-liiluuwa Ilaha Miithathruun. Al-Ismut-taasi': Nuura Buuraqa Ar'iisy Arghasyiisy Laghsyuun. Al-Ismul-'aasyir: Syabiiraa Syaruu Asmakha Asyfaa Asyfuun. Al-Ismul-haadiya 'asyar: Malkuuts Maalakh Malkh Malikhaa Maalkhuun. Al-Ismuts-tsaaniya 'asyar: 'Allaam 'Aalam Arghal Arghaa Arghuun Tsarnuun Kaznuun, Syamakh Syamakhaitsa Masy-laamuun.*
-
-**[Terjemahan Indonesia]**
 
 Nama pertama: Basyamakh Dala Hamu Syithitsun. Nama kedua: Danua Malkhutsa Dimutsun. Nama ketiga: Kur'asy Ar'isytharakh Lakhun. Nama keempat: Dahmuts Arkha Arkham Arkhimun. Nama kelima: Tikhutsim Azisy Araqsy Dar 'Alyun. Nama keenam: Hisymua Mitsua Ahyun Manun. Nama ketujuh: Ahya Sarahnya Adunayya Ashba'ut Shabartun. Nama kedelapan: Dahhitsa Dahlilua Ilah Mithathrun. Nama kesembilan: Nur Buraq Ar'isy Arghasyisy Laghsyun. Nama kesepuluh: Syabira Syaru Asmakh Asyfa Asyfun. Nama kesebelas: Malkuts Malakh Malkh Malikha Malkhun. Nama kedua belas: 'Allam 'Alam Arghal Argha Arghun Tsarnun Kaznun, Syamakh Syamakhitsa Masy-lamun.
 
@@ -1926,8 +1473,6 @@ Nama pertama: Basyamakh Dala Hamu Syithitsun. Nama kedua: Danua Malkhutsa Dimuts
 ## Halaman PDF 30 (= cetak 29)
 
 ### Bagian 1 — Judul: al-'Azimah al-Barhatiyyah
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -1941,8 +1486,6 @@ Nama pertama: Basyamakh Dala Hamu Syithitsun. Nama kedua: Danua Malkhutsa Dimuts
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 **Al-'Aziimatul-Barhatiyyah**
 
 *I'lam waffaqaniyallaahu wa iyyaaka likulli khairin wa sadaadin, inna ma'rifata haadzal-qasmi wal-'ahdi min lawaazimi thaalibi haadzihil-'uluumi li-annahu-s-saiful-qaathi'u was-sauthuz-zaajiru fit-tasharrufi wal-istikhdaam, wa yustafaadu minhu fii kullil-a'maali wa huwal-mu'awwalu 'alaihi 'inda aghlabil-masyaayikh fiz-zajri wal-ihdhaari wal-istinzaali wal-mandali wal-jalbi wal-kasyfi wad-daf'i wash-shar'i wal-ikhfaa-i wal-izhhaari wa kulli maa yahtaajuhuth-thaalib, wa huwa yunsabu ilaa Nabiyyillaahi Sulaimana wa Aashafa bni Barkhiyaa, wa huwa minal-aqsaamil-'azhiimatil-latii laa yatakhallafu 'alaiha malakun wa laa ya'shihu 'ifriitun wa laa maaridun wa laa syaithaanun wa laa jinniyy, wa qaaluu innahu yunfii wa yughnii 'an jamii'i maa 'adaahu minal-aqsaami wal-'azaa-im.*
@@ -1950,8 +1493,6 @@ Nama pertama: Basyamakh Dala Hamu Syithitsun. Nama kedua: Danua Malkhutsa Dimuts
 *Wa min asmaa-ihil-'ahdul-qadiimu wal-miitsaaqul-a'zhamu was-sirrul-mashuunu wal-kanz-ul-makhzuunu wal-kibriitul-ahmar.*
 
 *Wa qad warada haadzal-qasmu min 'iddati thuruqin qad yakuunu fii ba'dhihaz-ziyaadatu awin-nuqshaanu awil-lathkhu wat-tahriif, wal-ladzii ji'tu bihi fii haadzal-kitaabi manquulun min awraaqil-ash-haabi wa huwal-jaliilul-'aarifu wasy-syaikhul-'aabidu 'Abdullaahuz-Zaahidul-ladzii katabahu ba'damaa jama'a min mashaadirihil-katsiiri wa daqqaqa fiihil-bahtha wat-tahqiiqa wastakhraja min tajaaribihish-shahiih, wa huwa yatakawwanu min tsamaaniyatin wa 'isyriina isman mukarrarin wa huwa haadza:*
-
-**[Terjemahan Indonesia]**
 
 **Azimat al-Barhatiyyah**
 
@@ -1963,31 +1504,23 @@ Sumpah ini telah datang dari beberapa jalan yang pada sebagian jalan itu mungkin
 
 ### Bagian 2 — Awal rantai dua puluh delapan nama (bersambung ke hal. 31)
 
-**[Teks Arab Asli]**
-
 <div dir="rtl">
 
 بِرْهِيَةٍ بِرْهَتِيَّةٍ، كَرِيرَ كَرِيرَ، تَتْلِيَةٍ تَتْلِيَةٍ، طُورَانَ طُورَانَ، مُزْجِلَ مُزْجِلَ، بِزْجِلَ بِزْجِلَ، تَرْقَبَ تَرْقَبَ، بِرْهِشَ بِرْهِشَ، غَلْمَشَ غَلْمَشَ، خُوطِيرَ خُوطِيرَ، قَلْنَهُودَ قَلْنَهُودَ، بِرْشَانَ بِرْشَانَ، كَظْهِيرَ كَظْهِيرَ، نُمُوشْلَخَ نُمُوشْلَخَ، بِرْهِيُولَا بِرْهِيُولَا، بَشْكِيلَخَ بَشْكِيلَخَ، قَزْمَزَ قَزْمَزَ، انْغَلْطَ انْغَلْطَ، قِبْرَاتَ قِبْرَاتَ، فِيهَا
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 **Birhiyatin Birhatiyyah, kariir kariir, tatliyatin tatliyah, thuuraan thuuraan, muzjil muzjil, bizjil bizjil, tarqab tarqab, birhisy birhisy, ghalamasy ghalamasy, khuthiir khuthiir, qalanahuud qalanahuud, birsyaan birsyaan, kazh-hiir kazh-hiir, numuusyalakh numuusyalakh, birhyuula birhyuula, basykiilakh basykiilakh, qazmaz qazmaz, ingholth ingholth, qibraat qibraat, fiihaa* …*
-
-**[Terjemahan Indonesia]**
 
 «Birhiyah Birhatiyyah, karir karir, tatliyah tatliyah, thuran thuran, muzjil muzjil, bizjil bizjil, tarqab tarqab, birhisy birhisy, ghalamsy ghalamsy, khuthir khuthir, qalanahud qalanahud, birsyan birsyan, kazhhir kazhhir, numusyalakh numusyalakh, birhyula birhyula, basykhilakh basykhilakh, qazmaz qazmaz, inghalath inghalath, qibrat qibrat, fiha …» (bersambung ke halaman 31)
 
 ---
 
-# BATCH 07 — Halaman PDF 31–35
+# JILID 07 — Halaman PDF 31–35
 
 ## Halaman PDF 31 (= cetak 30)
 
 ### Bagian 1 — Sambungan: penutup rantai dua puluh delapan nama
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -1995,17 +1528,11 @@ Sumpah ini telah datang dari beberapa jalan yang pada sebagian jalan itu mungkin
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Ghiyaahaa, Kaidahuulaa Kaidahuulaa, Syamkhaahir Syamkhaahir, Syamkhaahiir Syamkhaahiir, Syamhaahiir Syahaamiir, Bikahthahuuniyyata Bikahthahuuniyyah, Basyaarasy Basyaarasy, Thuunasy Thuunasy, Syamkhaa Baaruukh Syamkhaa Baaruukh;*
-
-**[Terjemahan Indonesia]**
 
 «Ghiyaha, Kaidahula Kaidahula, Syamkahir Syamkahir, Syamkahir Syamkahir, Syamhahir Syahamir, Bikahthahuniyyah Bikahthahuniyyah, Basyarasy Basyarasy, Thunasy Thunasy, Syamkha Barukh Syamkha Barukh;»
 
 ### Bagian 2 — Alasan penimbangan dan penerjemahan nama-nama
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -2013,17 +1540,11 @@ Sumpah ini telah datang dari beberapa jalan yang pada sebagian jalan itu mungkin
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Wa liyakuna taalihaa wa mustakhdimuhaa 'alaa diraayatin wa bashiiratin wa nuur. Nadzkuru wazna kalimaatihaa wa ma'naahaa bil-lughatil-'arabiyyati wa maa lahaa minal-huruufi wa manaazilil-qamar, li-anna taghyiiral-lafzhi qad yughayyirul-ma'naa fa yaqa'ul-mustakhdimu fil-mahzhuuri wa qad qaala ba'dhul-masyaayikh laa yajuuzu an yatakallama bil-asmaa-i maa lam ya'rif ma'naahaa.*
-
-**[Terjemahan Indonesia]**
 
 …dan agar pembaca serta penggunanya berada di atas pengetahuan, pandangan, dan cahaya. Kami sebutkan timbangan (wazan) kata-katanya, maknanya dalam bahasa Arab, huruf yang dimilikinya, dan manzilah-manzilah bulan (rumah-rumah bulan), karena mengubah lafal dapat mengubah makna sehingga pengguna jatuh pada hal yang terlarang; dan sebagian masyayikh telah berkata: tidak boleh mengucapkan nama-nama itu selama belum mengetahui maknanya.
 
 ### Bagian 3 — Nama ke-1 sampai ke-6: wazan, huruf, manzilah, dan makna
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -2041,8 +1562,6 @@ Sumpah ini telah datang dari beberapa jalan yang pada sebagian jalan itu mungkin
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Al-Ismul-awwal: Birhiyatun biwazni salsabiil, wa lahuu minal-huruufil-alifu wa minal-manaazilin-nathhusy-syarathaini wa ma'naahu bil-'arabiyyati (Qudduus) wa qiila (Subbuuh).*
 
 *Al-Ismuts-tsaanii: Kariirun biwazni qadiir, wa lahuu minal-huruufil-baa-u wa minal-manaazilil-buthaini wa ma'naahu bil-'arabiyyati (Ilaahu kulli syai-in) wa qiila (Yaa Allaah).*
@@ -2054,8 +1573,6 @@ Sumpah ini telah datang dari beberapa jalan yang pada sebagian jalan itu mungkin
 *Al-Ismul-khaamis: Muzjilu biwazni kaukab wa lahuu minal-huruufi harful-haa-i wa minal-manaazilil-haq'atu wa ma'naahu bil-'arabiyyati (Yaa Qayyuum) wa qiila (Al-Jabbaar).*
 
 *Al-Ismus-saadis: Bizjilu biwazni kaukabin lahuu minal-huruufi harful-waawi wa minal-manaazilil-han'atu wa ma'naahu bil-'arabiyyati (Yaa Salaam) wa qiila (Yaa Waduud).*
-
-**[Terjemahan Indonesia]**
 
 Nama pertama: Birhiyah, setimbangan «salsabil»; ia mempunyai huruf alif dan, dari manzilah-manzilah bulan, an-Nath asy-Syarathain; maknanya dalam bahasa Arab: (Quddus = Mahasuci), dan dikatakan pula (Subbuh).
 
@@ -2072,8 +1589,6 @@ Nama keenam: Bizjil, setimbangan «kaukab»; ia mempunyai huruf waw dan, dari ma
 ## Halaman PDF 32 (= cetak 31)
 
 ### Bagian 1 — Nama ke-7 sampai ke-16: wazan, huruf, manzilah, dan makna
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -2099,8 +1614,6 @@ Nama keenam: Bizjil, setimbangan «kaukab»; ia mempunyai huruf waw dan, dari ma
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Al-Ismus-saabi': Tarqabu biwazni kaukabin lahuu minal-huruufi harfuz-zaayi wa minal-manaazilidz-dziraa'u wa ma'naahu bil-'arabiyyati (Yaa Qadiir) wa fii nuskhatin (Al-Qaadir).*
 
 *Al-Ismuts-tsaamin: Birhisyu biwazni kaukabin lahuu minal-huruufi harful-haa-i wa minal-manaazilin-natsratu wa ma'naahu bil-lughatil-'arabiyyati (Yaa Muqtadir).*
@@ -2120,8 +1633,6 @@ Nama keenam: Bizjil, setimbangan «kaukab»; ia mempunyai huruf waw dan, dari ma
 *Al-Ismul-khaamisu 'asyar: Birhyuulaa biwazni an tazuulaa, lahuu minal-huruufi harfus-siini wa minal-manaazilil-ghafru wa ma'naahu bil-'arabiyyati (Yaa Kaafi) wa fii nuskhatin (Yaa Kaafi) [ترتيب مطبوع غير مألوف، محفوظ بلا تصحيح] wa qiila (Yaa Samii').*
 
 *Al-Ismus-saadisu 'asyar: Basykiilakhu biwazni maf'iil, lahuu minal-huruufi harful-'aini wa minal-manaaziliz-zabaanaa, wa ma'naahu bil-lughatil-'arabiyyati (Yaa Mu'min) wa qiila (Yaa Lathiif).*
-
-**[Terjemahan Indonesia]**
 
 Nama ketujuh: Tarqab, setimbangan «kaukab»; ia mempunyai huruf za dan, dari manzilah-manzilah, adz-Dzira'; maknanya dalam bahasa Arab: (Wahai Mahakuasa), dan dalam satu naskah: (al-Qadir).
 
@@ -2147,8 +1658,6 @@ Nama keenam belas: Basykhilakh, setimbangan «maf'il»; ia mempunyai huruf 'ain 
 
 ### Bagian 1 — Nama ke-17 sampai ke-25: wazan, huruf, manzilah, dan makna
 
-**[Teks Arab Asli]**
-
 <div dir="rtl">
 
 الاسْمُ السَّابِعُ عَشَرَ: قَزْمَزُ بِوَزْنِ مَقْعَدٍ، لَهُ مِنَ الحُرُوفِ حَرْفُ الفَاءِ وَمِنَ المَنَازِلِ الإِكْلِيلُ وَمَعْنَاهُ بِالعَرَبِيَّةِ (المُهَيْمِنُ) وَقِيلَ (القَيُّومُ).
@@ -2171,8 +1680,6 @@ Nama keenam belas: Basykhilakh, setimbangan «maf'il»; ia mempunyai huruf 'ain 
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Al-Ismus-saabi'u 'asyar: Qazmazu biwazni maq'ad, lahuu minal-huruufi harful-faa-i wa minal-manaazilil-ikliilu wa ma'naahu bil-'arabiyyati (Al-Muhaimin) wa qiila (Al-Qayyuum).*
 
 *Al-Ismuts-tsaaminu 'asyar: Inghaliithu biwazni 'inda kariimin lahuu minal-huruufi harfush-shaadi wa minal-manaazilil-qalb, wa ma'naahu bil-lughatil-'arabiyyati (Yaa Khabiiru yaa Hakiim) wa qiila (Al-Hakam).*
@@ -2190,8 +1697,6 @@ Nama keenam belas: Basykhilakh, setimbangan «maf'il»; ia mempunyai huruf 'ain 
 *Al-Ismur-raabi'u wal-'isyruun: Syahaamiir biwazni mighnaathiisin lahuu minal-huruufi harful-khaa-i wa minal-manaazili sa'dus-su'uud wa ma'naahu bil-'arabiyyati (Yaa 'Aliyy) wa qiila (Huwallaah).*
 
 *Al-Ismul-khaamisu wal-'isyruun: Bikahthahuuniyatu biwazni faf'uuniyah, lahuu minal-huruufi harfudz-dzaali wa minal-manaazili sa'dul-akhbiyati wa ma'naahu bil-'arabiyyati (Mudabbir) wa qiila (Yaa Daa-im).*
-
-**[Terjemahan Indonesia]**
 
 Nama ketujuh belas: Qazmaz, setimbangan «maq'ad»; ia mempunyai huruf fa dan, dari manzilah-manzilah, al-Iklil; maknanya dalam bahasa Arab: (Yang Mahamengawasi), dan dikatakan pula (al-Qayyum).
 
@@ -2215,8 +1720,6 @@ Nama kedua puluh lima: Bikahthahuniyah, setimbangan «faf'uniyah»; ia mempunyai
 
 ### Bagian 1 — Nama ke-26 sampai ke-28: wazan, huruf, manzilah, dan makna
 
-**[Teks Arab Asli]**
-
 <div dir="rtl">
 
 الاسْمُ السَّادِسُ وَالعِشْرُونَ: بَشَارَشُ بِوَزْنِ مَنَاصِرٍ لَهُ مِنَ الحُرُوفِ حَرْفُ الضَّادِ وَمِنَ المَنَازِلِ الفَرْغُ المُقَدَّمُ وَمَعْنَاهُ بِاللُّغَةِ العَرَبِيَّةِ (خَالِقُ الخَلْقِ) وَقِيلَ (يَا قَادِرًا عَلَى كُلِّ شَيْءٍ).
@@ -2227,15 +1730,11 @@ Nama kedua puluh lima: Bikahthahuniyah, setimbangan «faf'uniyah»; ia mempunyai
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Al-Ismus-saadisu wal-'isyruun: Basyaarasyu biwazni manaashira lahuu minal-huruufi harfudh-dhaadi wa minal-manaazilil-farghul-muqaddamu wa ma'naahu bil-lughatil-'arabiyyati (Khaaliqul-khalqi) wa qiila (Yaa Qaadiran 'alaa kulli syai-in).*
 
 *Al-Ismus-saabi'u wal-'isyruun: Thuunasyu biwazni muhtadin, wa lahuu minal-huruufi harfuzh-zhaa-i wa minal-manaazilil-farghul-mu-akhkhar, wa ma'naahu bil-'arabiyyati (Yaa Syakuur) wa qiila (Allaahul-Kariim).*
 
 *Al-Ismuts-tsaaminu wal-'isyruun: Syamkhaa Baarukhu biwazni fa'alaa faa'uul, lahuu minal-huruufi harful-ghaini wa min manaazilir-rasyaa wa ma'naahu bil-lughatil-'arabiyyati (Al-Qaadiru huwallaahul-Kariim).*
-
-**[Terjemahan Indonesia]**
 
 Nama kedua puluh enam: Basyarasy, setimbangan «manashir»; ia mempunyai huruf dhad dan, dari manzilah-manzilah, al-Fargh al-Muqaddam; maknanya dalam bahasa Arab: (Pencipta makhluk), dan dikatakan pula (Wahai Yang Mahakuasa atas segala sesuatu).
 
@@ -2245,25 +1744,17 @@ Nama kedua puluh delapan: Syamkha Barukh, setimbangan «fa'ala fa'ul»; ia mempu
 
 ### Bagian 2 — Kedudukan nama-nama itu: sumpah dan zajar
 
-**[Teks Arab Asli]**
-
 <div dir="rtl">
 
 وَهَذِهِ الأَسْمَاءُ هِيَ القَسْمُ وَمَا زَادَ عَلَيْهَا فَهُوَ زَجْرٌ وَقَدْ وَرَدَ الكَثِيرُ مِنْ زَجْرِهَا فِي الكُتُبِ وَعِنْدَ المَشَايِخِ فَهِيَ وَإِنْ كَانَتْ مُخْتَلِفَةً وَلَكِنَّهُ يَحْصَلُ الغَرَضُ وَالمَطْلُوبُ وَالمُرَادُ وَهَا نَحْنُ نَذْكُرُ أَوْثَقَهَا وَأَصَحَّهَا، فَمِنْهَا:
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Wa haadzihil-asmaa-u hiyal-qasmu wa maa zaada 'alaihaa fa huwa zajrun wa qad waradal-katsiiru min zajrihaa fil-kutubi wa 'indal-masyaayikh fahiya wa-in kaanat mukhtalifatan wa laakinnahu yahshalul-gharadhu wal-mathluubu wal-muraadu wa haa nahnu nadzkuru autsaqahaa wa ashahhahaa, faminhaa:*
-
-**[Terjemahan Indonesia]**
 
 Dan nama-nama inilah yang merupakan sumpah (qasam); adapun yang melebihi itu maka ia adalah zajar (hardikan). Banyak dari zajar-zajar itu telah termuat dalam kitab-kitab dan di sisi para masyayikh; maka meski berbeda-beda, tujuan, tuntutan, dan maksud tetap tercapai. Dan kami akan menyebutkan yang paling terpercaya dan paling sahih di antaranya, yaitu:
 
 ### Bagian 3 — Teks sumpah al-Barhatiyyah (bersambung ke hal. 35)
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -2271,11 +1762,7 @@ Dan nama-nama inilah yang merupakan sumpah (qasam); adapun yang melebihi itu mak
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 **Bismillaahil-qadiimil-azaliyyil-muhiithil-ladzii ahaatha bi'ilmihii jamii'ul-makhluuqaat, al-qadiimil-abadiyyil-ladzii laa-btidaa-a liqidamihii wa laisa lahun-tihaa-unil-ladzii asyraqa bisaa-thi'inuuri wajahihii jamii'ul-akwaani wa amaddahaa biqudrati haibatih, 'alaa kulli malikin wa falakin wa jinnin wa syaithaanin wa sulthaan, fa khaafat-hu jamii'u makhluuqaatihii wa adz'anat wa tawaadha'atil-malaa-ikatul-muqarrabuuna min a'laa maqaamaatihaa wa sajadat wa ajaabat da'wata ismihil-a'zhami liman takallama bihii wa asra'at bil-ijaabati bil-baraahiinil-muhkamatiil-maktuubati fii alwaahi quluubil-mutasharrifiina bisirri Baduuha Ajhazatha, wa aqsamtu 'alaikum ayyatuhal-arwaarhur-ruuhaaniyyatul-'ulwiyyatu was-sufliyyatu wa khuddaamu haadzal-'ahdil-kabiiri an tujiibuu da'watii wa tanqudhuu haajatii bi'izzati Birhiyatin Birhatiyyah Kariira Kariir Tatliyatin Tatliyah Thuuraana Thuuraan Muzjila Muzjil Bizjila Bizjil Tarqaba Tarqab Birhisya Birhisy Ghalamasya Ghalamasy Khuthiira Khuthiir Qalanahuuda Qalanahuud Birsyaana Birsyaan Kazh-hiira Kazh-hiir, Numuusyalakha Numuusyalakh Qazmaza Qazmaz Inghalthiitha Inghalthiith Qibraata Qibraat Ghiyaahaa Ghiyaahaa Kaidahuulaa Kaidahuulaa Syamkhaahir Syamkhaahir* …*
-
-**[Terjemahan Indonesia]**
 
 Dengan nama Allah Yang Mahadahulu lagi Azali, Yang Mahameliputi, yang ilmu-Nya meliputi seluruh makhluk; Yang Mahadahulu lagi Abadi, yang ke-terdahulu-an-Nya tidak berpermulaan dan tidak ada akhir bagi-Nya; Yang dengan cemerlang cahaya wajah-Nya seluruh penjuru alam bersinar, dan yang memasoknya dengan kuasa kewibawaan-Nya — atas setiap raja, falak, jin, setan, dan penguasa; maka takutlah kepada-Nya seluruh makhluk-Nya dan tunduk, dan para malaikat yang didekatkan merendahkan diri dari puncak maqam-maqam mereka serta bersujud; dan seruan nama-Nya yang agung dijawab oleh siapa yang mengucapkannya, dan dipercepat jawabnya dengan bukti-bukti yang kukuh yang tertulis di loh-loh hati para pelaku tasharruf, dengan rahasia Baduh Ajhazath. Dan aku bersumpah atas kalian, wahai para ruh ruhani yang tinggi dan yang rendah serta para pelayan perjanjian besar ini, supaya kalian menjawab seruanku dan menyelesaikan hajatku, demi keperkasaan Birhiyah Birhatiyyah, Karir Karir, Tatliyah Tatliyah, Thuran Thuran, Muzjil Muzjil, Bizjil Bizjil, Tarqab Tarqab, Birhisy Birhisy, Ghalamsy Ghalamsy, Khuthir Khuthir, Qalanahud Qalanahud, Birsyan Birsyan, Kazhhir Kazhhir, Numusyalakh Numusyalakh, Qazmaz Qazmaz, Inghalthith Inghalthith, Qibrat Qibrat, Ghiyaha Ghiyaha, Kaidahula Kaidahula, Syamkhir Syamkhir …
 
@@ -2283,25 +1770,17 @@ Dengan nama Allah Yang Mahadahulu lagi Azali, Yang Mahameliputi, yang ilmu-Nya m
 
 ### Bagian 1 — Sambungan: penutup sumpah al-Barhatiyyah
 
-**[Teks Arab Asli]**
-
 <div dir="rtl">
 
 شَمْخَاهِيرْ شَمْخَاهِيرْ شَهَامِيرْ شَهَامِيرْ بِكَهْطَهُونِيَّةَ بِكَهْطَهُونِيَّةَ بَشَارَشْ بَشَارَشْ طُونَشْ طُونَشْ شَمْخَابَارُوخْ شَمْخَابَارُوخْ، اللَّهُمَّ بِحَقِّ كَهْكَهِيجْ بِخَطَشْ بَلْطَشْغَشْوِيلْ أَمُوِيلْ جَلَنْدَمَ بَهْجَمَا هَجْلِيجْ مَهْجَاجْ، ﴿لَيْسَ كَمِثْلِهِ شَيْءٌ وَهُوَ السَّمِيعُ البَصِيرُ﴾ [الشورى: ١١] بِحَقِّ هَذَا العَهْدِ المَأْخُوذِ عَلَيْكُمْ يَا خُدَّامَ هَذِهِ الأَسْمَاءِ عَلَيْكُمْ بِالانْقِيَادِ وَتَنْفِيذِ مَا أَمَرْتُكُمْ بِهِ فِي وَقْتِي هَذَا بِعِزَّةِ العَزِيزِ المُعْتَزِّ فِي عِزِّ عِزِّهِ، ﴿وَأَوْفُوا بِعَهْدِ اللهِ إِذَا عَاهَدْتُمْ وَلَا تَنْقُضُوا الأَيْمَانَ بَعْدَ تَوْكِيدِهَا وَقَدْ جَعَلْتُمُ اللهَ عَلَيْكُمْ كَفِيلًا﴾ [النحل: ٩١] احْضُرُوا وَاسْمَعُوا وَأَطِيعُوا وَكُونُوا عَوْنِي عَلَى جَمِيعِ مَا أَمَرْتُكُمْ بِهِ بِحَقِّ الاسْمِ العَظِيمِ الأَعْظَمِ الَّذِي أَوَّلُهُ آلٌ وَآخِرُهُ آلٌ وَهُوَ آلُ شَلِعَ يَعُو يُوبِيهُ وَاهْ آهِ بِكَتْمَهْ بِتِكْفَالَ بِصْمِي كَمِي مَمْيَالَ حَطِيعَ لَكَ يَا آلُ مَا أَعْظَمَ اسْمَكَ يَا آلُ جَلْ زَرْيَالَ مَا سُمِعَ اسْمُكَ رُوحٌ وَعَصًا إِلَّا صَعِقَ وَاحْتَرَقَ مِنْ نُورِكَ يَا ذَا النُّورِ الأَعْظَمِ أَقْسَمْتُ وَعَزَمْتُ عَلَيْكُمْ بِعَالِمِ الغَيْبِ وَالشَّهَادَةِ الكَبِيرِ المُتَعَالِ وَبِحَقِّ الاسْمِ الَّذِي تَعَاهَدْتُمْ بِهِ عِنْدَ بَابِ الهَيْكَلِ الكَبِيرِ وَهُوَ بَعْلَشَاقَشْ بَعْلَشَاقَشْ مِهْرَاقَشْ مِهْرَاقَشْ أَقْشَامَقَشْ أَقْشَامَقَشْ شَقْمُونِهَشْ شَقْمُونِهَشْ رَكْشَا كَشْلَخْ عَكْشْ طَهَشْ ﴿وَمَنْ يُعْرِضْ عَنْ ذِكْرِ رَبِّهِ يَسْلُكْهُ عَذَابًا صَعَدًا﴾ [الجن: ١٧] وَبِحَقِّ آمْيَا شَرَاهْيَا أَدُونَاي أَصْبَاؤُتَ آلَ شَدَّاي وَبِحَقِّ أَبْجَدْ هَوْزٌ حَطِّي وَبِحَقِّ بَكَدْ زَهَجْ وَأُمْ وَبِحَقِّ بَدُوحَ أَجْهَزَطَ ﴿وَإِنَّهُ لَقَسَمٌ لَوْ تَعْلَمُونَ عَظِيمٌ﴾ [الواقعة: ٧٦] الوَحَا العَجَلَ السَّاعَةَ بَارَكَ اللهُ فِيكُمْ وَعَلَيْكُمْ وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللهِ العَلِيِّ العَظِيمِ.
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Syamkhaahiir Syamkhaahiir Syahaamiir Syahaamiir Bikahthahuuniyyata Bikahthahuuniyyah Basyaarasy Basyaarasy Thuunasy Thuunasy Syamkhaa Baaruukh Syamkhaa Baaruukh, Allaahumma bihaqqi Kahkahiij Bikhatasy Bal-thasy Ghasywiil Amuwiil Jalandam Bahjama Hajlij Mahjaaj, ﴿laisa kamitslihii syai-un wa huwas-Samii'ul-Bashiir﴾ [asy-Syuura: 11] bihaqqi haadzal-'ahdil-ma'khuudzi 'alaikum yaa khuddaama haadzihil-asmaa-i 'alaikum bil-inqiyaadi wa tanfiidzi maa amartukum bihii fii waqtii haadza bi'izzatil-'Aziizil-Mu'tazzi fii 'izzi 'izzih, ﴿wa aufuu bi'ahdillaahi idzaa 'aahadtum wa laa tanqudhul-aimaana ba'da taukiidihaa wa qad ja'altumullaaha 'alaikum kafiilan﴾ [an-Nahl: 91] ihdhuruu wasma'uu wa athii'uu wa kuunuu 'aunii 'alaa jamii'i maa amartukum bihii bihaqqil-Ismil-'Azhiimil-A'zhamil-ladzii awwaluhu Aalun wa aakhiruhu Aalun wa huwa Aalu Syali'a Ya'u Yuubiihu Waah Aahi Bikatmah Bitikfaala Bishmii Kamii Mamyala Hathii'a laka yaa Aalu maa a'zhamas-maka yaa Aalu Jal Zaryaal maa sumi'as-muka ruuhun wa 'ashan illaa sha'iqa wahtaraqa min nuurika yaa dzan-Nuuril-A'zham aqsamtu wa 'azamtu 'alaikum bi'aalimil-ghaibi wasy-syahaadatil-Kabiiril-Muta'aali wa bihaqqil-Ismil-ladzii ta'aahadtum bihii 'inda baabil-Haikalil-Kabiiri wa huwa Ba'lasyaqasy Ba'lasyaqasy Mihraaqasy Mihraaqasy Aqsyaamaqasy Aqsyaamaqasy Syaqmuunihasy Syaqmuunihasy Raksya Kasylakh 'Aksy Thahasy ﴿wa man yu'ridh 'an dzikri Rabbihii yaslukhu 'adzaaban sha'adan﴾ [al-Jin: 17] wa bihaqqi Aamyaa Saraahyaa Adunayya Ashbaa-uta Aala Syaddaay wa bihaqqi Abjad Hauz Haththii wa bihaqqi Bakad Zahaj wa Um wa bihaqqi Baduuha Ajhazhatha ﴿wa einnahu laqasamun lau ta'lamuuna 'azhiim﴾ [al-Waaqi'ah: 76] al-Wahaa al-'Ajala as-Saa'ata baarakallaahu fiikum wa 'alaikum wa laa haula wa laa quwwata illaa billaahil-'aliyyil-'azhiim.*
-
-**[Terjemahan Indonesia]**
 
 Syamkhir Syamkhir, Syahamir Syahamir, Bikahthahuniyyah Bikahthahuniyyah, Basyarasy Basyarasy, Thunasy Thunasy, Syamkhabarukh Syamkhabarukh — ya Allah, demi hak Kahkahij, Bikhatasy, Bal-thasy Ghasywil, Amuwil, Jalandam, Bahjama, Hajlij, Mahjaj; ﴿tiada sesuatu pun yang serupa dengan Dia, dan Dia Maha Mendengar lagi Maha Melihat﴾ [asy-Syura: 11]; demi hak perjanjian yang telah diambil atas kalian ini — wahai para pelayan nama-nama ini — kalian wajib tunduk dan melaksanakan apa yang kuperintahkan kepada kalian pada waktu ini, demi keperkasaan Yang Mahaperkasa lagi Maha Menjadikan perkasa dalam kemuliaan kemuliaan-Nya; ﴿dan tepatilah perjanjian Allah apabila kalian berjanji, dan janganlah kalian membatalkan sumpah-sumpah sesudah meneguhkannya, padahal kalian telah menjadikan Allah sebagai penjamin atas kalian﴾ [an-Nahl: 91]; hadirilah, dengarlah, taatilah, dan jadilah penolongku atas segala yang kuperintahkan kepada kalian, demi hak Nama yang agung lagi teragung yang awalnya Al dan akhirnya Al, yaitu: Al Syali'a Ya'u Yubihu, Wah, Ah, Bikatmah, Bitikfal, Bishmi, Kami, Mamyala, Hathi'a — bagi-Mu, wahai Al, alangkah agungnya nama-Mu; wahai Al Jal Zaryal — tidaklah nama-Mu didengar oleh ruh dan tongkat kecuali ia pingsan dan terbakar oleh cahaya-Mu, wahai pemilik cahaya yang agung; aku bersumpah dan akuwajibkan atas kalian demi Dzat Yang Mengetahui yang gaib dan yang nyata, Yang Mahabesar lagi Mahatinggi, dan demi hak Nama yang dengannya kalian saling berjanji di pintu Haikal besar, yaitu: Ba'lsyaqasy Ba'lsyaqasy, Mihraqasy Mihraqasy, Aqsyamaqasy Aqsyamaqasy, Syaqmunihasy Syaqmunihasy, Raksya, Kasylakh, 'Aksy, Thahasy; ﴿dan barangsiapa berpaling dari zikir Tuhannya, niscaya Dia memasukkannya ke dalam azab yang amat berat﴾ [al-Jin: 17]; dan demi hak Amya Sarahnya Adunayya Ashba'ut Al Syaddai, dan demi hak Abjad Hauzh Haththi, dan demi hak Bakad Zahaj wa Um, dan demi hak Baduh Ajhazhath; ﴿dan sesungguhnya ia benar-benar sumpah yang besar, sekiranya kalian mengetahui﴾ [al-Waqi'ah: 76]; segeralah, bersegeralah, sekarang juga — semoga Allah memberkati kalian dan atas kalian; tiada daya dan tiada kekuatan kecuali dengan Allah Yang Mahatinggi lagi Mahaagung.
 
 ### Bagian 2 — Doa lain (bersambung ke hal. 36)
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -2311,13 +1790,9 @@ Syamkhir Syamkhir, Syahamir Syahamir, Bikahthahuniyyah Bikahthahuniyyah, Basyara
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Wa haadzihi da'watun ukhraa:*
 
 **Aqsamtu 'alaikum wa azjurukum wa uhlifukum wa asta'iinu 'alaikum bi-asmaa-ihi wa aayaatihii wa biquwwati sulthaanihii ad'uukum ilaa thaa'atillaahi wa thaa'ati asmaa-ihi wa dzikrihii wa 'ahdihil-ma'khuudzi 'alaikum min Sulaimaana bni Daawuuda ﷺ al-miitsaaqil-ghaliizhil-ladzii 'aahadakum 'inda baabil-Haikalil-Kabiiri bi-Baabila* …*
-
-**[Terjemahan Indonesia]**
 
 **Dan inilah doa yang lain:**
 
@@ -2329,13 +1804,11 @@ Aku bersumpah atas kalian, aku menghardik kalian, aku menyumpah kalian, dan aku 
 
 ---
 
-# BATCH 08 — Halaman PDF 36–40
+# JILID 08 — Halaman PDF 36–40
 
 ## Halaman PDF 36 (= cetak 35)
 
 ### Bagian 1 — Sambungan doa lain: jangan khianati perjanjian, dan rantai nama
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -2343,17 +1816,11 @@ Aku bersumpah atas kalian, aku menghardik kalian, aku menyumpah kalian, dan aku 
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Fa laa takhuunuu 'ahdallaahi wa miitsaaqahu ayyatuhal-arwaarhur-ruuhaaniyyatul-'ulwiyyatu was-sufliyyatu wa khuddaamu haadzal-'ahdil-kabiiri bihaqqi maa talautuhu wa maa atluuhu 'alaikum Birhatiyyatun Birhatiyyah, Kariirun Kariir Tatliyatun Tatliyah Thuuraanu Thuuraan Muzjilu Muzjil Bizjilu Bizjil Tarqabu Tarqab Birhisyu Birhisy Ghalamasyu Ghalamasy Khuthiirun Khuthiir, Qalanahuudu Qalanahuud Birsyaanu Birsyaan Kazh-hiirun Kazh-hiir Numuusyalakhu Numuusyalakh Birhyuulaa Birhyuulaa Basykiilakhu Basykiilakh Qazmazu Qazmaz Inghalthiithu Inghalthiith Qibraatu Qibraat Ghiyaahaa Ghiyaahaa Kaidahuulaa Kaidahuulaa Syamkhaahir Syamkhaahir Syamkhaahiir Syamkhaahiir Syamhaahiir Syamhaahiir Bikahthahuuniyyata Bikahthahuuniyyah Basyaarasy Basyaarasy Thuunasy Thuunasy Syamkhaa Baaruukh Syamkhaa Baaruukh, huwan-Nuurul-A'laa ﴿Allaahu laa ilaaha illaa huwa Rabbul-'arsyil-'azhiim﴾ [an-Naml: 26] Aah Aahi Yaaw Yaaw. Bihi Hiyuuh.*
-
-**[Terjemahan Indonesia]**
 
 Maka janganlah kalian mengkhianati perjanjian Allah dan ikatan-Nya, wahai para ruh ruhani yang tinggi dan yang rendah serta para pelayan perjanjian besar ini, demi hak apa yang telah kubaca dan yang kubacakan atas kalian: Birhatiyyah Birhatiyyah, Karir Karir, Tatliyah Tatliyah, Thuran Thuran, Muzjil Muzjil, Bizjil Bizjil, Tarqab Tarqab, Birhisy Birhisy, Ghalamsy Ghalamsy, Khuthir Khuthir, Qalanahud Qalanahud, Birsyan Birsyan, Kazhhir Kazhhir, Numusyalakh Numusyalakh, Birhyula Birhyula, Basykhilakh Basykhilakh, Qazmaz Qazmaz, Inghalthith Inghalthith, Qibrat Qibrat, Ghiyaha Ghiyaha, Kaidahula Kaidahula, Syamkhir Syamkhir, Syamkhir Syamkhir, Syamhahir Syamhahir, Bikahthahuniyyah Bikahthahuniyyah, Basyarasy Basyarasy, Thunasy Thunasy, Syamkha Barukh Syamkha Barukh — Dialah Cahaya Yang Mahatinggi ﴿Allah, tiada tuhan selain Dia, Tuhan Arasy yang agung﴾ [an-Naml: 26]; Ah Ah, Yaw Yaw. Bih Hiyuh.
 
 ### Bagian 2 — Apa yang tertulis di dahi Israfil, dan perintah turun ke bumi
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -2361,17 +1828,11 @@ Maka janganlah kalian mengkhianati perjanjian Allah dan ikatan-Nya, wahai para r
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Nithyaa Fiyaala ajjib yaa Syurthiyaaiilal-Malikal-Muwwakkala bil-Mahdi Bil-thasyghuula Amuuyila Iila Aala Syathii Syathiikha Syathyaka Baarukha Aawukha Yaarukha Naarukha bi'izzati Baarukha bimaa huwa maktuubun fii jabhati Israafiila lammaa ra-at-hul-malaa-ikatu wa kharruu saajidiina Yamaalugha Muzji'al-Bihaari Kasythaariiha Muniiral-Aflaaki Athbaalugha Munsyi-al-Asyjaari Syathaykaka Mu'jizal-'afaariiti bidzaalikal-Ismil-A'zhami illaa maa habattum ilal-ardh*
-
-**[Terjemahan Indonesia]**
 
 Nithya Fiyal — jawablah, wahai Syurthya'il, raja yang ditugaskan pada al-Mahd: Bil-thasyghul, Amuwil, Il, Al, Syathi, Syathikh, Syathyak, Barukh, Awukh, Yarukh, Narukh — demi keperkasaan Barukh, dengan apa yang tertulis di dahi Israfil ketika para malaikat melihat-Nya lalu tersungkur bersujud: Yamalugh, penggegar lautan-lautan, Kashtarih, penerang penjuru-penjuru alam, Athbalugh, penumbuh pepohonan, Syathaikak, yang melumpuhkan para ifrit — dengan Nama Yang Agung itu — kecuali bahwa kalian telah turun ke bumi …
 
 ### Bagian 3 — Seruan kepada para wali falak: Matahari sampai Musytari
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -2379,11 +1840,7 @@ Nithya Fiyal — jawablah, wahai Syurthya'il, raja yang ditugaskan pada al-Mahd:
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Bihaqqi haadzihil-asmaa-i 'alaikum ayyuhas-Sayyidu Kahithmiilyaala Hiyal-Wahaa yaa Mithathruunu bi'izzatil-'Aziizil-Mu'tazzi [al-mathbuu': al-Mumtazz] fii 'izzi 'izzihii ajiiibuu wazjuruu liil-muluukal-'ulwiyyata was-sufliyyata an yahdhuruu ilaa maqaamii haadza wa yaf'aluu maa amartuhum bih, ajjib ayyuhas-Sayyidu Raqaaiilul-Muwwakkalu bifalakisy-syamsi wazjur liil-Madzhaba an yahdhura ilaa maqaamii haadza saami'an muthii'an, ajjib ayyuhas-Sayyidu Jibraaiilul-Malikul-Muwwakkalu bifalakil-qamari wazjur lii Murrata bnal-Haaritsi yahdhur ilaa maqaamii haadza saami'an muthii'an, ajjib ayyuhas-Sayyidu Samamaaiilul-Malikul-Muwwakkalu bifalakil-mariikhi wazjur lii Abaa Muhrizinil-Ahmara an yahdhura lii fii maqaamii haadza saami'an muthii'an, ajjib ayyuhas-Sayyidu Miikaaiilul-Malikul-Muwwakkalu bifalaki 'uthaarida wazjur lii Abal-'Ajaa-ibi Birqaana yahdhur lii fii maqaamii haadza saami'an muthii'an, ajjib ayyuhas-Sayyidu Sharfaaiilul-Malikul-Muwwakkalu bifalakil-musytarii wazjur lii Abal-Waliidi Syamhuurasya an yahdhura lii maqaamii haadza saami'an muthii'an ajjib*
-
-**[Terjemahan Indonesia]**
 
 Demi hak nama-nama ini atas kalian — wahai tuan Kahithmilyal, Haya al-Waha, wahai Mithathrun — demi keperkasaan Yang Mahaperkasa lagi Menjadikan perkasa [tercetak: al-Mumtazz], dalam kemuliaan kemuliaan-Nya: jawablah dan hardiklah bagiku para raja yang tinggi dan yang rendah supaya hadir ke makamku ini dan mengerjakan apa yang kuperintahkan kepada mereka. Jawablah, wahai tuan Raqa'il yang ditugaskan pada falak matahari, dan hardiklah bagiku al-Madzhab supaya hadir ke makamku ini dalam keadaan mendengar dan taat. Jawablah, wahai tuan Jibrail, raja yang ditugaskan pada falak bulan, dan hardiklah bagiku Murrah bin al-Harits supaya hadir ke makamku ini dalam keadaan mendengar dan taat. Jawablah, wahai tuan Samama'il, raja yang ditugaskan pada falak Marikh, dan hardiklah bagiku Abu Muhraz al-Ahmar supaya hadir bagiku di makamku ini dalam keadaan mendengar dan taat. Jawablah, wahai tuan Mikail, raja yang ditugaskan pada falak Utarid, dan hardiklah bagiku Abu al-'Aja'ib Birqan supaya hadir bagiku di makamku ini dalam keadaan mendengar dan taat. Jawablah, wahai tuan Sharfa'il, raja yang ditugaskan pada falak Musytari, dan hardiklah bagiku Abu al-Walid Syamhurasy supaya hadir bagiku di makamku ini dalam keadaan mendengar dan taat. Jawablah.
 
@@ -2391,25 +1848,17 @@ Demi hak nama-nama ini atas kalian — wahai tuan Kahithmilyal, Haya al-Waha, wa
 
 ### Bagian 1 — Sambungan: falak Zuhrah dan Zuhl, serta penutup tujuh raja
 
-**[Teks Arab Asli]**
-
 <div dir="rtl">
 
 أَيُّهَا السَّيِّدُ عِنْمَائِيلُ المَلِكُ المُوَكَّلُ بِفَلَكِ الزُّهْرَةِ وازْجُرْ لِي أَبَا النُّورِ الأَبْيَضِ يَحْضُرْ فِي مَقَامِي هَذَا سَامِعَاً مُطِيعَاً أَجْجِبْ أَيُّهَا السَّيِّدُ كَسْفِيَائِيلُ المَلِكُ المُوَكَّلُ بِفَلَكِ زُحَلَ وازْجُرْ لِي أَبَا نُوخَ مَيْمُونٍ أَنْ يَحْضُرَ إِلَى مَقَامِي هَذَا سَامِعَاً مُطِيعَاً أَجِيبُوا أَيُّهَا المُلُوكُ السَّبْعَةُ العُلْوِيَّةُ والسُّفْلِيَّةُ واحْضُرُوا مَقَامِي هَذَا أَسْرَعَ مِنْ لَمْحِ البَصَرِ ﴿لَيْسَ كَمِثْلِهِ شَيْءٌ وَهُوَ السَّمِيعُ البَصِيرُ﴾ [الشورى: ١١] تَمَّ وكَمَلَتِ العَزِيمَةُ.
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Ayyuhas-Sayyidu 'Inmaaaiilul-Malikul-Muwwakkalu bifalakiz-zuhrati wazjur lii Aban-Nuuril-Abyadha yahdhur fii maqaamii haadza saami'an muthii'an ajjib ayyuhas-Sayyidu Kasfiyaaaiilul-Malikul-Muwwakkalu bifalaki zuhala wazjur lii Aba Nuukha Maimuunin an yahdhura ilaa maqaamii haadza saami'an muthii'an ajiiibuu ayyuhal-muluukus-sab'atul-'ulwiyyatu was-sufliyyatu wahdhuruu maqaamii haadza asra'a min lamhil-bashar ﴿laisa kamitslihii syai-un wa huwas-Samii'ul-Bashiir﴾ [asy-Syuura: 11] tamma wa kamalatil-'aziimah.*
-
-**[Terjemahan Indonesia]**
 
 Wahai tuan 'Inma'il, raja yang ditugaskan pada falak Zuhrah, dan hardiklah bagiku Abu an-Nur al-Abyadh supaya hadir di makamku ini dalam keadaan mendengar dan taat; jawablah. Wahai tuan Kasfiya'il, raja yang ditugaskan pada falak Zuhl, dan hardiklah bagiku Abu Nukh Maimun supaya hadir ke makamku ini dalam keadaan mendengar dan taat. Jawablah, wahai para raja yang tujuh, yang tinggi dan yang rendah, dan hadirilah makamku ini lebih cepat daripada kejapan pandangan ﴿tiada sesuatu pun yang serupa dengan Dia, dan Dia Maha Mendengar lagi Maha Melihat﴾ [asy-Syura: 11]. Selesai, dan sempurnalah azimah itu.
 
 ### Bagian 2 — Bila mereka lambat: teguran kedua, beserta ayat-ayat
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -2417,17 +1866,11 @@ Wahai tuan 'Inma'il, raja yang ditugaskan pada falak Zuhrah, dan hardiklah bagik
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Wa idzaa abtha-uu 'alaika faqul: ajiiibuu wa asri'uu wahdhuruu lii maqaamii haadza asra'a min lamhil-bashari bihaqqi maa talautuhu 'alaikum wa maa atluuhu wa bil-Ismil-A'zhami fa-innii uzjirukum bil-Ismil-Kabiiril-ladzii minhu takaafuuna wa tarta'iduuna wa biqahrihii tujiibuuna shaaghiriina laa mutakabbiriina wa laa mutajabbiriina wa man ta-akhkhara minkum au tajabbara 'alaa asmaa-ihi faqad baa-a bighadhabin minallaahi wallaahu barii-un minh, ﴿wa man aufaa bimaa 'aahada 'alaihullaaha fa sayu'tiihi ajran 'azhiiman﴾ [al-Fath: 10] Siimyaa Kafiitsaa Kiyaa Kafiitsaa, ﴿aamanar-Rasuulu bimaa unzila ilaihi min Rabbihii wal-mu'minuuna kullun aamana billaahi wa malaa-ikatihii wa kutubihii wa rusulihii laa nufarriqu baina ahadin min rusulihii wa qaaluu sami'naa wa atha'naa ghufraanaka Rabbanaa wa ilaikal-mashiir﴾*
-
-**[Terjemahan Indonesia]**
 
 Dan apabila mereka lambat atasmu, katakanlah: jawablah, bersegeralah, dan hadirilah bagiku makamku ini lebih cepat daripada kejapan pandangan, demi hak apa yang telah kubaca atas kalian dan yang kubaca, serta demi Nama Yang Agung; karena sesungguhnya aku menghardik kalian dengan Nama Yang Besar yang karenanya kalian takut dan gemetar, dan dengan penundukan-Nya kalian menjawab dalam keadaan hina, tidak sombong dan tidak sewenang-wenang. Dan barangsiapa di antara kalian terlambat atau sewenang-wenang terhadap nama-nama-Nya, maka ia kembali dengan kemurkaan dari Allah, dan Allah berlepas diri daripadanya. ﴿Dan barangsiapa menepati apa yang telah ia janjikan kepada Allah, maka Dia akan memberinya pahala yang besar﴾ [al-Fath: 10]. Simya Kafitha, Kiya Kafitha. ﴿Rasul telah beriman kepada apa yang diturunkan kepadanya dari Tuhannya, demikian pula orang-orang beriman; semuanya beriman kepada Allah, malaikat-malaikat-Nya, kitab-kitab-Nya, dan rasul-rasul-Nya: kami tidak membeda-bedakan seorang pun di antara rasul-rasul-Nya; dan mereka berkata: kami mendengar dan kami taat; ampunan-Mu wahai Tuhan kami, dan kepada-Mu tempat kembali﴾
 
 ### Bagian 3 — Rubrik: cara mengamalkannya
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -2437,13 +1880,9 @@ Dan apabila mereka lambat atasmu, katakanlah: jawablah, bersegeralah, dan hadiri
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Kaifiyyatul-'amali bihaa*
 
 *Qad dzukira fii kaifiyyati riyaadhatihaa wal-'amali bihaa thuruqun 'iddatun nadzkuru ashahhahaa wa asyharahaa:*
-
-**[Terjemahan Indonesia]**
 
 **Cara mengamalkannya**
 
@@ -2451,25 +1890,17 @@ Telah disebutkan perihal cara riyadhah dan pengamalan ini beberapa jalan; kami s
 
 ### Bagian 4 — Cara pertama: riyadhah tujuh hari
 
-**[Teks Arab Asli]**
-
 <div dir="rtl">
 
 الطَّرِيقَةُ الأُولَى: تَكُونُ رِيَاضَتُهَا سَبْعَةَ أَيَّامٍ تَبْدَأُ مِنْ يَوْمِ الأَحَدِ بِصِيَامٍ وتُفْطِرُ عَلَى خُبْزِ الشَّعِيرِ المَبْسُوسِ بِالزَّيْتِ الطَّيِّبِ بِلَا مِلْحٍ وتَكْتُبُ الأَسْمَاءَ الثَّمَانِيَةَ والعِشْرِينَ فِي صَحْنٍ صِينِيٍّ بِمَاءِ وَرْدٍ وزَعْفَرَانَ وتَمْحُوهَا بِمَاءٍ نَظِيفٍ وتَشْرَبُهُ عَلَى الرِّيقِ عِنْدَ الإِفْطَارِ، وتَقْرَأُ الدَّعْوَةَ كُلَّ يَوْمٍ بَعْدَ كُلِّ صَلَاةٍ ٤٥ مَرَّةً وأَنْتَ تُبَخِّرُ بِبَخُورِ اليَوْمِ وهَكَذَا إِلَى إِتْمَامِ السَّبْعَةِ أَيَّامٍ فَإِذَا أَتْمَمْتَ الأُسْبُوعَ حَقَّ لَكَ التَّصَرُّفُ فِيهَا بِمَا تَشَاءُ.
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Ath-thariiqtul-uulaa: takuunu riyaadhatuhaa sab'ata ayyaamin tabda-u min yaumil-ahadi bishiyaamin wa tufthiru 'alaa khubzisy-sya'iiril-mabsuusi bizzaitith-thayyibi bilaa milhin wa taktubul-asmaa-ats-tsaamaniyata wal-'isyriina fii shahnin shiiniyyin bimaa-i wardin wa za'faraana wa tamhuhaa bimaa-in nazhiifin wa tasyrabuhu 'alar-riiqi 'indal-ifthaar, wa taqra-ud-da'wata kulla yaumin ba'da kulli shalaatin khamsan wa arba'iina marratan wa anta tubakhkhiru bibukhuuril-yaum wa haakadzaa ilaa itmaamis-sab'ati ayyaam fa-idzaa atmamtal-usbuu'a haqqa lakat-tasharrufu fiihaa bimaa tasyaa-u.*
-
-**[Terjemahan Indonesia]**
 
 **Cara yang pertama:** riyadhahnya ialah tujuh hari, dimulai dari hari Ahad dengan berpuasa, dan berbuka dengan roti jelai yang dibasahi minyak zaitun yang baik tanpa garam; dan engkau tulis kedua puluh delapan nama itu di piring porselen dengan air mawar dan za'faran, lalu engkau hapus dengan air bersih dan engkau meminumnya dalam keadaan perut kosong saat berbuka; dan engkau baca doa ini setiap hari sesudah setiap salat 45 kali sambil engkau berukup dengan dupa hari itu; demikian seterusnya sampai sempurna tujuh hari. Maka apabila engkau telah menyempurnakan seminggu itu, halal bagimu bertasharruf padanya dengan apa yang engkau kehendaki.
 
 ### Bagian 5 — Cara kedua: dua puluh satu hari (bersambung)
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -2477,11 +1908,7 @@ Telah disebutkan perihal cara riyadhah dan pengamalan ini beberapa jalan; kami s
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 **Ath-thariiqtuts-tsaaniyah: an tamkutsa qabla an tadkhula fii riyaadhatihaa ihdaa wa 'isyriina yauman tastaghfirullaaha* …*
-
-**[Terjemahan Indonesia]**
 
 **Cara yang kedua:** engkau menetap, sebelum memasuki riyadhahnya, selama 21 hari dengan memohon ampun kepada Allah …
 
@@ -2489,25 +1916,17 @@ Telah disebutkan perihal cara riyadhah dan pengamalan ini beberapa jalan; kami s
 
 ### Bagian 1 — Sambungan cara kedua
 
-**[Teks Arab Asli]**
-
 <div dir="rtl">
 
 عَقِبَ كُلِّ صَلَاةٍ ١٠٠ مَرَّةٍ وتُصَلِّي عَلَى النَّبِيِّ وآلِهِ ١٠٠ مَرَّةٍ وصِيغَةَ الاسْتِغْفَارِ أَسْتَغْفِرُ اللهَ الَّذِي لَا إِلَهَ إِلَّا هُوَ الحَيُّ القَيُّومُ وأَتُوبُ إِلَيْهِ وبَعْدَ تَمَامِ الوَاحِدِ والعِشْرِينَ يَوْمَاً تَدْخُلُ فِي الرِّيَاضَةِ وهِيَ أَيْضَاً ٢١ يَوْمَاً، أَنْ تَكُونَ للهِ صَائِمَاً وَلَا تَأْكُلُ فِيهَا ذَا رُوحٍ ومَا خَرَجَ مِنْ رُوحٍ إِلَّا خُبْزَ الشَّعِيرِ فِي الأُسْبُوعِ الأَوَّلِ أَمَّا بَقِيَّةُ المُدَّةِ فَكُلْ فِيهَا مَا شِئْتَ مَا عَدَا مَا كَانَ لَهُ رُوحٌ أَوْ مَا خَرَجَ مِنْ رُوحٍ وتَتْلُو العَزِيمَةَ بِهَذِهِ المُدَّةِ بَعْدَ كُلِّ صَلَاةٍ ٤٥ مَرَّةً فَإِذَا أَتْمَمْتَ الوَاحِدَ والعِشْرِينَ يَوْمَاً كَانَ التَّصَرُّفُ فِيهَا بِمَا شِئْتَ.
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *'Aqiba kulli shalaatin mi-ata marratin wa tushallii 'alan-Nabiyyi wa aalihii mi-ata marratin wa shiighatal-istighfaari astaghfirullaahal-ladzii laa ilaaha illaa huwal-Hayyul-Qayyuumu wa atuubu ilaih, wa ba'da tamaamil-waahidi wal-'isyriina yauman tadkhulu fir-riyaadhati wa hiya aydhan ihdaa wa 'isyruuna yauman, an takuuna lillaahi shaa-iman wa laa ta'kulu fiihaa dzaa ruuhin wa maa kharaja min ruuhin illaa khubzasy-sya'iiri fil-usbuu'il-awwali ammaa baqiyyatul-muddati fakul fiihaa maa syi'ta maa 'adaa maa kaana lahuu ruuhun au maa kharaja min ruuhin wa tatluul-'aziimata bihaadzihil-muddati ba'da kulli shalaatin khamsan wa arba'iina marratan fa-idzaa atmamtal-waahida wal-'isyriina yauman kaanat-tasharrufu fiihaa bimaa syi'ta.*
-
-**[Terjemahan Indonesia]**
 
 … sesudah setiap salat 100 kali, dan engkau bersalawat kepada Nabi dan keluarganya 100 kali, serta (membaca) kalimat istighfar: «Aku memohon ampun kepada Allah yang tiada tuhan selain Dia, Yang Mahahidup lagi Maha Mengurus, dan aku bertobat kepada-Nya.» Dan setelah sempurna dua puluh satu hari itu, engkau masuk ke dalam riyadhah — yang juga 21 hari lamanya — yaitu engkau berpuasa karena Allah dan tidak memakan dalamnya apa yang bernyawa serta apa yang keluar dari nyawa, kecuali roti jelai pada minggu pertama; adapun sisa waktunya, makanlah dalamnya apa yang engkau kehendaki selain apa yang bernyawa atau apa yang keluar dari nyawa; dan engkau melantunkan azimah ini selama masa itu sesudah setiap salat 45 kali. Maka apabila engkau telah menyempurnakan dua puluh satu hari, jadilah tasharruf padanya dengan apa yang engkau kehendaki.
 
 ### Bagian 2 — Rubrik: doa Sabasib Kecil, dan pembukaan teksnya
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -2517,13 +1936,9 @@ Telah disebutkan perihal cara riyadhah dan pengamalan ini beberapa jalan; kami s
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Da'watus-Sabaasibish-Shughraa*
 
 **Bismillaahir-Rahmaanir-Rahiim, alhamdu lillaahil-ladziihtaajaba 'anil-abshaari fa laa yura, Rabbis-samaawaatis-sab'i wal-araadhiinas-sab'i wa man fiihinna minal-waraa, alladzii khadha'a kullu syai-in lahu wa tawaadha'a liqudratih, wa kullu washfin 'an washfi shifaatih, al-Munfaridu bil-mulki wal-malakuti al-Mutamazzizu bil-jabarutilladzii lahuu maa fii bisaathil-ardhi wal-arkaani wa bisaathul-'ibaadi wal-anwaari Rabbizh-zhulumaati wal-anwaarid-Daa-imu fii mulkihiish-Shamad, alhamdu lillaahil-ladzii laa ilaaha illaa huwal-Malikul-Ma'buudu fii ardhihii wa samaa-ihi mukhrijul-asy-yaa-i minal-'adami ilal-wujuudi wa minal-wujuudi ilal-'adam, subhaanallaahi walhamdu lillaahi wa laa ilaaha illallaahu wallaahu akbar, Sibaasibu Sibaasibu Sabuukatun Sabuukah Kathahthamu Kathahtham Tazalzaltu Tazalzalt Taza'za'tu Taza'za't Muthaa'u Muthaa' Muthaaghu Muthaagh Ibnur-ru-usil-arba'ati ibnut-Turaabiyyati ibnul-Hawaa-iyyati ibnu Banii Ghailaana ibnu Shaahibi Jabalid-Dukhaani ibnur-Raakibi 'alal-fiilil-Muta'ammimi bisy-Syabaani ibnu Kardami ibnu Dardami ibnu Khamiisi ibnu Qaashuuri ibnu Qimaarisyi ibnu Qathaariisyi ibnu Abur-Rawaisyi ibnu Zamzami ibnu Dardam, ajiiibuu ayyuhal-khuddaamu bimaa amartukum bih antum wa jamii'u akhbaarikumul-'ulwiyyatu was-sufliyyatu was-sahaabiyyatu wath-Thamaathim [ترتيب مطبوع غير مألوف، محفوظ بلا تصحيح] wash-Shamaashim, waf'aluu kadzaa wa kadzaa bihaqqi Shamaashimu Shamaashim Hadaamu Hadaam Humuumu Humuum Syaarakhu Syaarakh ahib yaa Maazira Shaahiba Qalamil-Yaaquutil-Ahmar ahib yaa Ka'tsama Shaahiba Qalamidz-Dzahabi wa Mihbarati* …*
-
-**[Terjemahan Indonesia]**
 
 **Doa Sabasib Kecil**
 
@@ -2533,25 +1948,17 @@ Dengan nama Allah Yang Mahapengasih lagi Mahapenyayang. Segala puji bagi Allah y
 
 ### Bagian 1 — Sambungan dan penutup doa Sabasib
 
-**[Teks Arab Asli]**
-
 <div dir="rtl">
 
 الفِضَّةِ البَيْضَاءِ الَّذِي تَخَافُهُ جَمِيعُ الأَجْنَادِ، أَجِبْ يَا طِيكَلَ صَاحِبَ الصَّوْتِ الَّذِي يَخْرَقُ جَمِيعَ الأَصْوَاتِ ويَقْطَعُ السَلَاسِلَ والأَجْنَادَ، ويَقْطَعُ جَمِيعَ الحُجُبِ أَنْتُمْ وجَمِيعُ أَجْنَادِكُمْ أَعِينُونِي فِي هَذِهِ القَضِيَّةِ وذَلِّلُوا لِي المُلُوكَ والجِنَ ومَلِّكُونِي إِيَّاهُمْ، وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللهِ العَلِيِّ العَظِيمِ
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Al-Fiddhatil-Baidhaa-il-ladzii takhaafuhuu jamii'ul-ajnaad, ajib yaa Thiikala Shaahibash-Shautilladzii yakhriqu jamii'al-ashwaati wa yaqtha'us-salaasila wal-ajnaad, wa yaqtha'u jamii'al-hujub; antum wa jamii'u ajnaadikum a'iinuunii fii haadzihil-qadhiyyati wa dzalliluu liil-muluuka wal-jinna wa mallikuunii iyyaahum, wa laa haula wa laa quwwata illaa billaahil-'aliyyil-'azhiim*
-
-**[Terjemahan Indonesia]**
 
 … perak putih, yang ditakuti oleh seluruh bala tentara. Jawablah, wahai Tikal, pemilik suara yang menembus seluruh suara dan memutuskan rantai-rantai serta bala tentara, dan memutuskan seluruh tabir; kalian dan seluruh bala tentara kalian, bantulah aku dalam perkara ini, dan tundukkanlah bagiku para raja dan jin, serta milikkanlah aku akan mereka. Dan tiada daya serta tiada kekuatan kecuali dengan Allah Yang Mahatinggi lagi Mahaagung.
 
 ### Bagian 2 — Rubrik: Sumpah Sulaimani, dan kisahnya
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -2561,13 +1968,9 @@ Dengan nama Allah Yang Mahapengasih lagi Mahapenyayang. Segala puji bagi Allah y
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Al-Qasamus-Sulaimaani*
 
 *Qiila einna Nabiyyallaahi Sulaimaana 'alaa Nabiyyinaa wa aalihii wa 'alaihis-shalaatu was-salaam idzaa 'ashaahu ahadun minal-jinni yatluuhu marratan waahidatan fa laa yatakhalafu 'anhu wa lau takhalafa au abtha-ahtaraqa fil-haali wa huwa:*
-
-**[Terjemahan Indonesia]**
 
 **Sumpah Sulaimani**
 
@@ -2575,27 +1978,19 @@ Dikatakan: sesungguhnya Nabi Allah Sulaiman — kepada Nabi kami dan keluarganya
 
 ### Bagian 3 — Teks Sumpah Sulaimani
 
-**[Teks Arab Asli]**
-
 <div dir="rtl">
 
 بِسْمِ اللهِ الحَيِّ القَيُّومِ الرَّحْمَنِ الرَّحِيمِ، رَبِّ جِبْرَائِيلَ ومِيكَائِيلَ آهِ آهِ آهِ آهِ أَهْيَا شِرَاهْيَا آهْيَا، هَاهْيَا، نَمَاهْيَا أَدُونَاي أَصْبَاؤُتَ آلَ شَدَّاي، شِلْمَحِصَ شِلِيقُوشَ، طَطَكْلْيُوشَ، مَهْلُوشَخَ بَهْمَشَ، هَمِيشَ، يَشْهِيبَثَ، شْنَاهِشَ، مُرْطَطْكْيُوشَ، نَافَهْلَمَ، نَافَغْلَا، نَارِثَ، مَا أَعْظَمَ هَذَا الكَلَامَ، مَا أَعْظَمَ سُلْطَانَ اللهِ، احْتَرَقَ مَنْ عَصَى أَسْمَاءَ اللهِ بِالنَّارِ المُوْقَدَةِ، اصْعَقُوا بِهِمُ الرَّجِيفَ والفَزَعَ الشَّدِيدَ والرُّوعَ العَظِيمَ والعَذَابَ الأَلِيمَ، أَجِيبُوا بِحَقِّ اللهِ الكَبِيرِ، ﴿إِنْ كَانَتْ إِلَّا صَيْحَةً وَاحِدَةً فَإِذَا هُمْ جَمِيعٌ لَدَيْنَا مُحْضَرُونَ﴾ [يس: ٥٣]، أَجِيبُوا واسْمَعُوا وأَطِيعُوا وأَسْرِعُوا، بِحَقِّ مَا أَقْسَمْتُ بِهِ عَلَيْكُمْ، ﴿وَإِنَّهُ لَقَسَمٌ لَوْ تَعْلَمُونَ عَظِيمٌ﴾ [الواقعة: ٧٦]، الوَحَا الوَحَا، العَجِلَ العَجِلَ، السَّاعَةَ السَّاعَةَ، بَارَكَ اللهُ فِيكُمْ وعَلَيْكُمْ
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Bismillaahil-Hayyil-Qayyuumir-Rahmaanir-Rahiim, Rabbi Jibraaiila wa Miikaa-iila Aah Aah Aah Aah Ah-yaa Syiraah-yaa Aah-yaa, Haah-yaa, Namaah-yaa Adunayya Ashbaa-uta Aala Syaddaay, Syilmahisha Syiliiquusy, Thathaklyuusy, Mahluusyakha Bahmasya, Hamiisya, Yasyhiibatsya, Synaahisya, Murthathkyuusy, Naafahlama, Naafaghlaa, Naaritsya, maa a'zhamu haadzal-kalaam, maa a'zhamu sulthaanallaah, ihtaraqa man 'ashaa asmaa-allaahi bin-naaril-muuqadah, ish'aquu bihimur-rajiiifa wal-faza'asy-syadiida war-ruu'al-'azhiima wal-'adzaabal-alim, ajiiibuu bihaqqillaahil-Kabiir, ﴿ein kaanat illaa shaihataw waahidatan fa-idzaa hum jamii'un ladainaa muhdharuun﴾ [Yaa Siin: 53], ajiiibuu wasma'uu wa athii'uu wa asri'uu, bihaqqi maa aqsamtu bihii 'alaikum, ﴿wa einnahu laqasamun lau ta'lamuuna 'azhiim﴾ [al-Waaqi'ah: 76], al-Wahaa al-Waha, al-'Ajila al-'Ajil, as-Saa'ata as-Saa'ah, baarakallaahu fiikum wa 'alaikum*
-
-**[Terjemahan Indonesia]**
 
 Dengan nama Allah Yang Mahahidup lagi Maha Mengurus, Yang Mahapengasih lagi Mahapenyayang; Tuhan Jibrail dan Mikail: Ah Ah Ah Ah, Ahya Syirahya Ahya, Hahya, Namahya, Adunayya Ashba'ut Al Syaddai, Syilmahish Syiliqusy, Thathaklyusy, Mahlusyakh Bahmasy, Hamisy, Yasyhibats, Synahisy, Murthathkyusy, Nafahlam, Nafaghla, Narits — alangkah agungnya perkataan ini, alangkah agungnya kekuasaan Allah; terbakarlah barangsiapa mendurhakai nama-nama Allah dengan api yang dinyalakan; pukulkanlah dengan nama-nama itu getaran yang menggetarkan, ketakutan yang hebat, kecemasan yang besar, dan azab yang pedih; jawablah demi hak Allah Yang Mahabesar ﴿tiadalah ia selain satu teriakan saja, maka sekonyong-konyong mereka semua dihadapkan kepada Kami﴾ [Yasin: 53]; jawablah, dengarlah, taatilah, dan bersegeralah, demi hak apa yang aku bersumpah dengannya atas kalian ﴿dan sesungguhnya ia benar-benar sumpah yang besar, sekiranya kalian mengetahui﴾ [al-Waqi'ah: 76]; al-Waha al-Waha, al-'Ajil al-'Ajil, sekarang juga, sekarang juga; semoga Allah memberkati kalian dan atas kalian.
 
 ## Halaman PDF 40 (= cetak 39)
 
 ### Bagian 1 — Rubrik: Sumpah Dur Nadhir, dan khasiatnya
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -2605,21 +2000,15 @@ Dengan nama Allah Yang Mahahidup lagi Maha Mengurus, Yang Mahapengasih lagi Maha
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Qasamud-Durrin-Nadhiir*
 
 *Wa huwa qasamun katsiirul-manaafi'i lil-jalbi wal-istikhdaami wa huwa:*
-
-**[Terjemahan Indonesia]**
 
 **Sumpah Dur Nadhir**
 
 Dan ia adalah sumpah yang banyak manfaatnya untuk penggaetan dan penundukan, adapun lafalnya:
 
 ### Bagian 2 — Nazham sumpah: bait pertama sampai kesembilan
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -2643,8 +2032,6 @@ Dan ia adalah sumpah yang banyak manfaatnya untuk penggaetan dan penundukan, ada
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Bismillaahil-'Aabidii likulli zaajiri*
 
 *Wan-kasaa bil-mahaabati wal-kamaali*
@@ -2662,8 +2049,6 @@ Dan ia adalah sumpah yang banyak manfaatnya untuk penggaetan dan penundukan, ada
 *Ajiibuu da'watii waqdhuu su-aalii*
 
 *Bimahabati Syaalikha Syalakha Syalkhii*
-
-**[Terjemahan Indonesia]**
 
 Dengan nama Allah al-'Abidi, bagi setiap penegah;
 
@@ -2685,8 +2070,6 @@ dengan wibawa Syalikh, Syalakh, Syalkhi.
 
 ### Bagian 3 — Nazham sumpah: bait kesepuluh sampai keenam belas (bersambung)
 
-**[Teks Arab Asli]**
-
 <div dir="rtl">
 
 فَاسْعَوْا سَرِيعَاً بِأَبْكِرَ وبِهُورِينَ مَا لِي
@@ -2705,8 +2088,6 @@ dengan wibawa Syalikh, Syalakh, Syalkhi.
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Fas'au sarii'an bi-Abkira wa Bahuuriina maa lii*
 
 *Bikhaatami Sulaimaana bni Daawudal-ladzii*
@@ -2720,8 +2101,6 @@ dengan wibawa Syalikh, Syalakh, Syalkhi.
 *Wa kadzar-riyaahu [al-mathbuu': al-Aryaah] tahmilu bisaathah*
 
 *Wa junuuduhuu ma'a jamii'ir-rijaali*
-
-**[Terjemahan Indonesia]**
 
 Maka bersegeralah segera, wahai Abkir dan Buhurin, kepunyaanku (maksud lafaz tidak jelas);
 
@@ -2739,13 +2118,11 @@ dan bala tentaranya bersama seluruh lelaki.
 
 ---
 
-# BATCH 09 — Halaman PDF 41–45
+# JILID 09 — Halaman PDF 41–45
 
 ## Halaman PDF 41 (= cetak 40)
 
 ### Bagian 1 — Sambungan nazham Sumpah Dur Nadhir (larik 17–34)
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -2787,8 +2164,6 @@ dan bala tentaranya bersama seluruh lelaki.
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Wa kuunuu wa hiijuu man syi-ta habaa*
 
 *Bijalbin wahtiraaqin wanfidhaal*
@@ -2824,8 +2199,6 @@ dan bala tentaranya bersama seluruh lelaki.
 *Bida'uuja Da'uuj ajiiibuu*
 
 *Biman khalaqal-khalqa Maulal-mawaalii*
-
-**[Terjemahan Indonesia]**
 
 Dan jadilah kalian, dan gemparkanlah — siapa yang engkau kehendaki, Haba;
 
@@ -2867,8 +2240,6 @@ dengan Dzat yang menciptakan makhluk, Pemilik para pemilik.
 
 ### Bagian 1 — Sambungan nazham (larik 35–52)
 
-**[Teks Arab Asli]**
-
 <div dir="rtl">
 
 أَلَا يَا مُنَذِّبُ فَأْتِ سَرِيعَاً
@@ -2909,8 +2280,6 @@ dengan Dzat yang menciptakan makhluk, Pemilik para pemilik.
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Alaa yaa Munadzdzibu fa-ti sarii'an*
 
 *Alaa yaa Abyadhu fa-ti sarii'an bil-mujmaali*
@@ -2946,8 +2315,6 @@ dengan Dzat yang menciptakan makhluk, Pemilik para pemilik.
 *Wa niiraanul-mahabbati fii ah-syaahu*
 
 *Nuqiidu wa qaddaahu baasyni'aali*
-
-**[Terjemahan Indonesia]**
 
 Ingatlah, wahai Munadzib, datanglah segera;
 
@@ -2989,8 +2356,6 @@ kami menyalakan, dan telah menyalakannya, dengan penyalaan.
 
 ### Bagian 1 — Sambungan nazham (larik 53–66, penutup)
 
-**[Teks Arab Asli]**
-
 <div dir="rtl">
 
 وسُوقُوهُ لِعِنْدِي لَيْسَ يُرَى
@@ -3023,8 +2388,6 @@ kami menyalakan, dan telah menyalakannya, dengan penyalaan.
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Wa suuquuhu li'indii laisa yura*
 
 *Ath-thariiqa yamiinan wa laa syimaal*
@@ -3052,8 +2415,6 @@ kami menyalakan, dan telah menyalakannya, dengan penyalaan.
 *Wa laa tata-akhkharuu 'an ismi Rabbii*
 
 *Waqdhuu haajatii qablan-nakaal*
-
-**[Terjemahan Indonesia]**
 
 Dan giringlah dia ke sisiku, tidaklah ia terlihat;
 
@@ -3085,27 +2446,19 @@ dan tunaikanlah hajatku sebelum siksa.
 
 ### Bagian 2 — Penutup nazham: cara memakai
 
-**[Teks Arab Asli]**
-
 <div dir="rtl">
 
 ثُمَّ تَطْلُبُ مَا تُرِيدُ فَإِنَّهُمْ يَفْعَلُوا بَعْدَمَا تَرَى عَلَامَةَ الحُضُورِ
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Tsumma tathlubu maa turiidu fa-einnahum yaf'alu ba'damaa tara 'alaamatal-hudhuur*
-
-**[Terjemahan Indonesia]**
 
 Kemudian engkau meminta apa yang engkau inginkan, maka sesungguhnya mereka mengerjakan setelah engkau melihat tanda kehadiran.
 
 ## Halaman PDF 44 (= cetak 43)
 
 ### Bagian 1 — Rubrik: Azimah Jaljalutiah, dan kedudukannya
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -3115,13 +2468,9 @@ Kemudian engkau meminta apa yang engkau inginkan, maka sesungguhnya mereka menge
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Al-'Aziimatul-Jaljaluutiyyah*
 
 *Wa hiya min ahammi mathaalibith-thaalibi limaa hawat-hu min 'azhiimil-asmaa-i wal-aqsaami wal-asraar, wa qad takallama 'anhal-katsiiru minal-hukamaa-i wal-masyaayikh, wa sanubayyinu ashahha maa jaa-a min dzaalika fil-fushuulil-qaadimah.*
-
-**[Terjemahan Indonesia]**
 
 **Azimah Jaljalutiah**
 
@@ -3129,25 +2478,17 @@ Ia termasuk terpenting tuntutan penuntut, karena apa yang dikandungnya berupa na
 
 ### Bagian 2 — Delapan malaikat pelayan azimah
 
-**[Teks Arab Asli]**
-
 <div dir="rtl">
 
 والأَمْلَاكُ المُوَكَّلُونَ بِخِدْمَةِ هَذِهِ العَزِيمَةِ ثَمَانِيَةٌ، وهُمُ السَّيِّدُ رُقْيَائِيلُ، والسَّيِّدُ جِبْرَائِيلُ، والسَّيِّدُ سَمْسَمَائِيلُ، والسَّيِّدُ مِيكَائِيلُ، والسَّيِّدُ صَرْفَائِيلُ، والسَّيِّدُ عَنِيَاائِيلُ، والسَّيِّدُ كَسْفَائِيلُ، والسَّيِّدُ طَحِيطْمِغِلْيَالُ وهُوَ الرَّئِيسُ عَلَيْهِمْ، وكُلٌّ مِنْهُمْ لَهُ يَوْمٌ يَنْزِلُ فِيهِ لِلطَّالِبِ إِذَا كَانَتِ الدَّعْوَةُ عَظِيمَةً تَسْتَدْعِي ذَلِكَ، ويَعْتَمِدُ عَلَى المُعَزِّمِ ومَا فِيهِ مِنَ الشُّرُوطِ والاسْتِحْقَاقِ.
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Wal-amlaakul-muwwakaluuna bikhidmati haadzihil-'aziimati tsamaaniyah, wa humus-Sayyidu Ruqiyaa-iil, was-Sayyidu Jibraaiil, was-Sayyidu Samasamaaiil, was-Sayyidu Miikaa-iil, was-Sayyidu Sharfaaiil, was-Sayyidu 'Aniyaaiil, was-Sayyidu Kasfaaiil, was-Sayyidu Thahithmighilyaal wa huwar-ra-iisu 'alaihim, wa kullun minhum lahuu yaumun yanzilu fiihi lith-thaalibi idzaa kaanatid-da'watu 'azhiimatan tastad'ii dzaalik, wa ya'tamidu 'alal-mu'azzimi wa maa fiihi minasy-syuruuthi wal-istihqaq.*
-
-**[Terjemahan Indonesia]**
 
 Dan malaikat-malaikat yang ditugaskan melayani azimah ini ada delapan, yaitu: tuan Ruqya'il, tuan Jibrail, tuan Samasama'il, tuan Mikail, tuan Sharfa'il, tuan 'Aniya'il, tuan Kasfa'il, dan tuan Thahithmighilyal — dialah ketua atas mereka. Dan tiap-tiap satu dari mereka mempunyai satu hari ia turun di dalamnya kepada penuntut, apabila doa itu besar lagi menuntut hal itu; dan hal itu bergantung pada orang yang mengazimahkan serta apa yang ada padanya dari syarat-syarat dan kelayakan.
 
 ### Bagian 3 — Maksud penyebutan makna nama-nama Suryani
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -3155,17 +2496,11 @@ Dan malaikat-malaikat yang ditugaskan melayani azimah ini ada delapan, yaitu: tu
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Wa litatmiimi [al-mathbuu': wa litamniim] al-faa-idati nadzkuru ma'nal-asmaa-is-suryaaniyyatil-latii jaa-at bihaa, wallaahu a'lam.*
-
-**[Terjemahan Indonesia]**
 
 Dan untuk menyempurnakan [tercetak: wa-litamnim] faedah, kami sebutkan makna nama-nama Suryani yang dibawanya; dan Allah Maha Mengetahui.
 
 ### Bagian 4 — Daftar makna nama: dari Aj sampai Qawi (bersambung)
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -3173,11 +2508,7 @@ Dan untuk menyempurnakan [tercetak: wa-litamnim] faedah, kami sebutkan makna nam
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Aaj ma'naahullaah, Auh ma'naahul-Ahad, Jal Jalyuuts: Al-Badii', Jaljalats: Al-Qaadir, Hay: Al-Kaafi, Hall: Al-Waduud, Halhalt: Al-Baasith, Thaithaft: Al-Hayy, Ghalamats: Al-Qahhaar dzul-bathsyisy-syadiid, Syamaakh: Al-Haliim, Asymakh: Al-Khaaliq, Salmatu Samat: As-Salaam, Shamshaam: Al-Baari, Mihraasy: Ats-Tsaabit, Thamthaam: Al-Qawiyyul-Matiin, Baazakh: Al-Jaliil, Syarnthakh: Al-Hayyul-Baaqi, Bahauts: Ar-Rahiim. Wa fii riwaayatin syadiidul-'adzaab. Yaaw: Huwallaah, Yaruw: Al-Awwalu wal-Aakhir, Namuu-u: Azh-Zhaahir, Ashaalyaa: Al-Baathin, Najaa 'Aalyaa: Al-Wakiil, Shalshalt: Al-Kaafi, Hasamats: Al-Qaabidh, Hausam: Ar-Rahmaan, Darasam: Ar-Rahiim, Baraasam: Azh-Zhahiir, Syalmahats: Al-Fattaah, Azmakht: Al-Ghaniyyul-Mughni, Ta'daad: Al-Qawi,*
-
-**[Terjemahan Indonesia]**
 
 «Aj» maknanya Allah; «Auh» maknanya Yang Esa; Jal Jalyuts: Yang Maha Pencipta tanpa contoh; Jaljalats: Yang Mahakuasa; Hay: Yang Mencukupi; Hall: Yang Maha Mengasihi; Halhalt: Yang Melapangkan; Thaithaft: Yang Mahahidup; Ghalamats: Yang Mahamenundukkan, pemilik kekerasan yang hebat; Syamakh: Yang Mahapenyantun; Asymakh: Yang Maha Mencipta; Salmat Samat: Yang Mahasejahtera; Shamsam: Yang Maha Mengadakan; Mihrasy: Yang Mahatetap; Thamtham: Yang Mahakuat lagi Mahakokoh; Bazakh: Yang Mahaagung; Syaranthakh: Yang Mahahidup lagi Mahakekal; Bahauts: Yang Mahapenyayang — dan dalam satu riwayat: Yang Keras siksa-Nya; Yaw: Dialah Allah; Yaru: Yang Pertama dan Yang Terakhir; Namu': Yang Mahanyata; Ashalya: Yang Mahabatin; Naja 'Alya: Yang Maha Memelihara; Shalshalt: Yang Mencukupi; Hasamats: Yang Menggenggam; Hausam: Yang Mahapengasih; Darasam: Yang Mahapenyayang; Barasam: Yang Menolong; Syalmahats: Yang Membuka; Azmakht: Yang Mahakaya lagi Memperkaya; Ta'dad: Yang Mahakuat; …
 
@@ -3185,25 +2516,17 @@ Dan untuk menyempurnakan [tercetak: wa-litamnim] faedah, kami sebutkan makna nam
 
 ### Bagian 1 — Sambungan daftar makna nama: dari Abram sampai Qahhar
 
-**[Teks Arab Asli]**
-
 <div dir="rtl">
 
 أَبْرَامُ: المَتِينُ، سَنَادُ كَاهِرَ: المُجِيبُ، بَهْرَاةُ تَبْرِيزَ: الأَوَّلُ والآخِرُ، تَاكِرُ: النُّورُ، أَبَارِيخُ: الحَكَمُ، بَيْرُوخُ: العَدْلُ، بَيْرُوحُ: العَزِيزُ فِي جَبَرُوتِهِ، بَرْخُوَا: المُعِزُّ، شَمَارِيخُ: المُبْدِئُ، شَيْرَاخُ: القَرِيبُ، نَشْمَخْتُ: عَالِمُ السِّرِّ، يَمْلِيخُ: القَيُّومُ، شَمْيَانَا: الحَقُّ، يَانُوخُ: الوَكِيلُ، دَامِيخُ: الكَرِيمُ، يَشْمُوخُ: الحَنَانُ، عَلَى مَا نَرِمُ حَفَّاً يَرُونَ بِقَنْصَبَ: اللهُ غَالِبٌ عَلَى أَمْرِهِ، تَانٍ: الحَسِيبُ، كَمَاهْ: رَبِّي، أَوَاهْ: المُحْيِي، هِشْكَاخُ هِشْكَاخُ: الوَالِي المُتَعَالِ، بَهْرَامُ: العَزِيزُ، سَمْخَثَا: الرَّحْمَنُ، شَلْمَخَا: المُغْنِي، شَلْمَخُ: المُعِزُّ، عَيْطَلَا: القَوِيُّ القَهَّارُ.
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Abraam: Al-Matiin, Sanaad Kaahir: Al-Mujiib, Bahraatu Tabriiz: Al-Awwalu wal-Aakhir, Taakir: An-Nuur, Abaariikh: Al-Hakam, Bairuukh: Al-'Adl, Bairuuh: Al-'Aziizu fii jabaruutih, Barakhwaa: Al-Mu'izz, Syamaariikh: Al-Mubdi-u, Syairaakh: Al-Qariib, Nasyamakht: 'Aalimus-sirr, Yamliikh: Al-Qayyuum, Syamyaanaa: Al-Haqq, Yaanukh: Al-Wakiil, Daamiikh: Al-Kariim, Yasymuukh: Al-Hannaan, 'alaa maa narmu haffan yaruuna biqanashab: Allaahu ghaalibun 'alaa amrih, Taan: Al-Hasiib, Kamaah: Rabbi, Awaah: Al-Muhyii, Hisykaakh Hisykaakh: Al-Waaliil-Muta'aal, Bahraam: Al-'Aziiz, Samakh-tsaa: Ar-Rahmaan, Syalmakhaa: Al-Mughni, Syalmakh: Al-Mu'izz, 'Aithlaa: Al-Qawiyyul-Qahhaar.*
-
-**[Terjemahan Indonesia]**
 
 Abram: Yang Mahakokoh; Sanad Kahir: Yang Mengabulkan; Bahrah Tabriz: Yang Pertama dan Yang Terakhir; Takir: Cahaya; Abarikh: Yang Mahamenetapkan hukum; Bairukh: Yang Mahaadil; Bairuh: Yang Mahaperkasa dalam jabarut-Nya; Barakhwa: Yang Memuliakan; Syamarikh: Yang Memulai; Syairakh: Yang Mahadekat; Nasyamakht: Yang Mengetahui rahasia; Yamlikh: Yang Mahamengurus; Syamyana: Yang Mahabenar; Yanukh: Yang Maha Memelihara; Damikh: Yang Mahamulia; Yasymukh: Yang Maha Mengasih; «atas apa yang Kami lembutkan, mereka melihat dengan lembut»: Allah Maha Mengalahkan atas urusan-Nya; Tan: Yang Maha Menghitung; Kamah: Tuhanku; Awah: Yang Menghidupkan; Hisykhakh Hisykhakh: Yang Menguasai lagi Mahatinggi; Bahram: Yang Mahaperkasa; Samakhtha: Yang Mahapengasih; Syalmakha: Yang Memperkaya; Syalmakh: Yang Memuliakan; 'Aithla: Yang Mahakuat lagi Mahamenundukkan.
 
 ### Bagian 2 — Rubrik: Cara Kecil, dan nazhamnya (bersambung)
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -3231,8 +2554,6 @@ Abram: Yang Mahakokoh; Sanad Kahir: Yang Mengabulkan; Bahrah Tabriz: Yang Pertam
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Ath-Thariiqtush-Shughraa*
 
 *Bada-tu bibismillaahi ruuhii bihi ihtadat*
@@ -3254,8 +2575,6 @@ Abram: Yang Mahakokoh; Sanad Kahir: Yang Mengabulkan; Bahrah Tabriz: Yang Pertam
 *Fanawaahii Ilaahil-qalbu min ba'di muunah*
 
 *Bidzikrika yaa Qayyuum haqqan naqmat*
-
-**[Terjemahan Indonesia]**
 
 **Cara Kecil**
 
@@ -3281,13 +2600,11 @@ dengan zikir kepada-Mu, wahai Yang Maha Mengurus, sungguh aku bangkit.
 
 ---
 
-# BATCH 10 — Halaman PDF 46–50
+# JILID 10 — Halaman PDF 46–50
 
 ## Halaman PDF 46 (= cetak 45)
 
 ### Bagian 1 — Sambungan nazham Cara Kecil (larik 11–28)
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -3329,8 +2646,6 @@ dengan zikir kepada-Mu, wahai Yang Maha Mengurus, sungguh aku bangkit.
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Ahmadu bi-ilaahii nabbih 'ilman wa hikmatan*
 
 *Wa thahhir bihii qalbii minar-rijsi wal-ghalat*
@@ -3366,8 +2681,6 @@ dengan zikir kepada-Mu, wahai Yang Maha Mengurus, sungguh aku bangkit.
 *Bishamshaamin Mihraasyin biharfin muthalsami*
 
 *Bimahraasyin Faghithaamin bihan-naaru ukhmidat*
-
-**[Terjemahan Indonesia]**
 
 Aku memuji — wahai Tuhanku — pertegaslah ilmu dan hikmah;
 
@@ -3408,8 +2721,6 @@ dengan Mihrasy, maka Figham — dengannya api telah dipadamkan.
 ## Halaman PDF 47 (= cetak 46)
 
 ### Bagian 1 — Sambungan nazham (larik 29–47)
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -3453,8 +2764,6 @@ dengan Mihrasy, maka Figham — dengannya api telah dipadamkan.
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Binuuri jalaali Baazakha wa Syarnthakhi*
 
 *Biqudduusa Bazfuuta bihizh-zhulmatu injalat*
@@ -3492,8 +2801,6 @@ dengan Mihrasy, maka Figham — dengannya api telah dipadamkan.
 *Fa-anta rajaa-un lil-'aalamiina wa lau thaghat*
 
 *Wa shubba 'alayyar-rizqa shabbata rahmatin*
-
-**[Terjemahan Indonesia]**
 
 Dengan cahaya keagungan Bazakh dan Syaranthakh;
 
@@ -3537,8 +2844,6 @@ dan curahkanlah atasku rezeki, curahan rahmat.
 
 ### Bagian 1 — Sambungan nazham (larik 48–66)
 
-**[Teks Arab Asli]**
-
 <div dir="rtl">
 
 فَأَنْتَ رَجَا قَلْبِي الكَسِيرِ مِنَ الخَبْتِ
@@ -3581,8 +2886,6 @@ dan curahkanlah atasku rezeki, curahan rahmat.
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Fa-anta rajaa qalbil-kasiiri minal-khabt*
 
 *Wa shumman wa ibkum tsumma a'mi 'aduwwanaa*
@@ -3620,8 +2923,6 @@ dan curahkanlah atasku rezeki, curahan rahmat.
 *Bi-Ta'daadin Abraamin bisandaadin Kaahiri*
 
 *Bibahraati Tabriiza bisalaamin takawwanat*
-
-**[Terjemahan Indonesia]**
 
 Karena Engkaulah harapan hatiku yang remuk dari al-Khabt;
 
@@ -3665,8 +2966,6 @@ dengan Bahrah Tabriz, dengan salam, semuanya terbentuk.
 
 ### Bagian 1 — Sambungan nazham (larik 67–85)
 
-**[Teks Arab Asli]**
-
 <div dir="rtl">
 
 سِرَاجُ يُقَادُ النُّورُ سِرَّاً بِشَاكِرِ
@@ -3709,8 +3008,6 @@ dengan Bahrah Tabriz, dengan salam, semuanya terbentuk.
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Siraaju yuqaadun-nuuru sirran bisyaakiri*
 
 *Yuqaadu siraajun-nuuri nuuran fa nawwarat*
@@ -3748,8 +3045,6 @@ dengan Bahrah Tabriz, dengan salam, semuanya terbentuk.
 *Wa yaa 'Aithalaana ghautsar-riyaahi sakhlakhat*
 
 *Bikath-thuulu wal-haulusy-syadiidu liman ata*
-
-**[Terjemahan Indonesia]**
 
 Pelita dinyalakan — cahaya itu, secara rahasia, dengan Syakir;
 
@@ -3793,8 +3088,6 @@ dengan-Mu kelapangan dan daya yang kuat, bagi siapa yang datang.
 
 ### Bagian 1 — Sambungan nazham (larik 86–104, bersambung)
 
-**[Teks Arab Asli]**
-
 <div dir="rtl">
 
 لِبَابِ جَنَابِكَ وارْتَجَى ظُلْمَةُ جَلَّتْ
@@ -3837,8 +3130,6 @@ dengan-Mu kelapangan dan daya yang kuat, bagi siapa yang datang.
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Libaabi janaabika wartajaa zhulmatu jallat*
 
 *Bi-﴿Thaa Siin﴾ wa ﴿Thaa Siin﴾ wa ﴿Yaa Siin﴾ kun lanaa*
@@ -3876,8 +3167,6 @@ dengan-Mu kelapangan dan daya yang kuat, bagi siapa yang datang.
 *Da'autuka yaa Rabbii haqqan wa einnanii*
 
 *Nausaltu bil-aayaati jam'an bimaa hawat*
-
-**[Terjemahan Indonesia]**
 
 Ke pintu hadirat-Mu, dan kegelapan berharap — ia telah berlalu;
 
@@ -3919,13 +3208,11 @@ aku menjelmakan dengan ayat-ayat semuanya, dengan apa yang dikandungnya.
 
 ---
 
-# BATCH 11 — Halaman PDF 51–55
+# JILID 11 — Halaman PDF 51–55
 
 ## Halaman PDF 51 (= cetak 50)
 
 ### Bagian 1 — Sambungan nazham Cara Kecil: gambaran rupa khatam (larik 105–114)
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -3951,8 +3238,6 @@ aku menjelmakan dengan ayat-ayat semuanya, dengan apa yang dikandungnya.
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Bisirri huruufin udi'at fii 'aziimatii*
 
 *'Alautu binuuril-Ismi war-ruuhu qad 'alat*
@@ -3972,8 +3257,6 @@ aku menjelmakan dengan ayat-ayat semuanya, dengan apa yang dikandungnya.
 *Wa haa-u syaqiiqin tsumma waawin maqsuusi*
 
 *Ka-unbuubi hajjaamin minas-sirri nawat*
-
-**[Terjemahan Indonesia]**
 
 Dengan rahasia huruf-huruf yang dititipkan dalam azimahku;
 
@@ -3997,8 +3280,6 @@ bagaikan pipa tukang bekam, dari rahasia itu ia bermaksud.
 
 ### Bagian 2 — Sambungan nazham: penutup bait khatam (larik 115–120)
 
-**[Teks Arab Asli]**
-
 <div dir="rtl">
 
 وآخِرُهَا مِثْلُ الأَوَائِلِ خَاتَمْ
@@ -4015,8 +3296,6 @@ bagaikan pipa tukang bekam, dari rahasia itu ia bermaksud.
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Wa aakhiruhaa mitslal-awaa-ili khaatam*
 
 *Khumaasi arkaanin was-sirra qad hawat*
@@ -4028,8 +3307,6 @@ bagaikan pipa tukang bekam, dari rahasia itu ia bermaksud.
 *Wa azkaa shalaatin ma'a ajalli nahbatin*
 
 *'Alal-Mushthafaa wal-aali min ummatin niltu*
-
-**[Terjemahan Indonesia]**
 
 Dan akhirnya seperti awalnya, khatam;
 
@@ -4046,8 +3323,6 @@ atas al-Mushthafa dan keluarganya, dari umat yang aku peroleh.
 ## Halaman PDF 52 (= cetak 51)
 
 ### Bagian 1 — Rubrik: Cara Besar bagi Azimah Jaljalutiah, dan nazhamnya (bersambung)
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -4091,8 +3366,6 @@ atas al-Mushthafa dan keluarganya, dari umat yang aku peroleh.
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Ath-Thariiqtul-Kubraa lil-'Aziimatil-Jaljaluutiyyah*
 
 *Bada-tu bismillaahi Rabbii wa Maaliki*
@@ -4130,8 +3403,6 @@ atas al-Mushthafa dan keluarganya, dari umat yang aku peroleh.
 *'Afuwwun Ghafuurun Raahimun Mutafadhdhilun*
 
 *Kariimun Haliimun dzuu 'athaayaa takaatsarat*
-
-**[Terjemahan Indonesia]**
 
 **Cara Besar bagi Azimah Jaljalutiah**
 
@@ -4175,8 +3446,6 @@ Yang Mahamulia, Mahapenyantun, pemilik anugerah yang berlimpah.
 
 ### Bagian 1 — Sambungan nazham Cara Besar: permohonan ampun dan titipan (larik 19–36)
 
-**[Teks Arab Asli]**
-
 <div dir="rtl">
 
 رَحِيمٌ ورَحْمَنٌ بِحَقِّكَ سَيِّدِي
@@ -4217,8 +3486,6 @@ Yang Mahamulia, Mahapenyantun, pemilik anugerah yang berlimpah.
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Rahiimun wa Rahmaanun bihaqqika Sayyidii*
 
 *Sa-altuka ghufraanadz-dzunuubi idzaa badat*
@@ -4254,8 +3521,6 @@ Yang Mahamulia, Mahapenyantun, pemilik anugerah yang berlimpah.
 *Wa hubbii wa wuddii fil-quluubi bi-asrihaa*
 
 *Wa jaahii wa ta'zhiimii bismihii ta'aazhamat*
-
-**[Terjemahan Indonesia]**
 
 Yang Penyayang dan Pengasih, dengan hak-Mu, wahai tuan;
 
@@ -4297,8 +3562,6 @@ dan kedudukanku serta pengagunganku, dengan nama-Nya, menjadi agung.
 
 ### Bagian 1 — Sambungan nazham (larik 37–54)
 
-**[Teks Arab Asli]**
-
 <div dir="rtl">
 
 ونَفْسِي ورُوحِي والفُؤَادُ وجُنَّتِي
@@ -4339,8 +3602,6 @@ dan kedudukanku serta pengagunganku, dengan nama-Nya, menjadi agung.
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Wa nafsii wa ruuhii wal-fu-aadu wa junnatii*
 
 *Wa jismii wa jismaanii wa shadrii wa maa hawat*
@@ -4376,8 +3637,6 @@ dan kedudukanku serta pengagunganku, dengan nama-Nya, menjadi agung.
 *Wa iqbaalu sa'dii bis-su'uudi wal-ghinaa*
 
 *Wa ihlaaku a'daa-ii wal-Ismi amalktu*
-
-**[Terjemahan Indonesia]**
 
 Dan diriku, ruhku, hatiku, serta perisaiku;
 
@@ -4419,8 +3678,6 @@ dan kebinasaan musuh-musuhku — dan dengan Nama itu aku memiliki.
 
 ### Bagian 1 — Sambungan nazham (larik 55–72, bersambung)
 
-**[Teks Arab Asli]**
-
 <div dir="rtl">
 
 وبُرْءُ مَقَامِي والشِّفَاءُ لِعِلَّتِي [المطبوع: لعيتي]
@@ -4461,8 +3718,6 @@ dan kebinasaan musuh-musuhku — dan dengan Nama itu aku memiliki.
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Wa bur-u maqaamii wasy-syifaa-u li'illatii*
 
 *Wa mahwu humuumii wal-ghumuumi fa-umhiitu*
@@ -4498,8 +3753,6 @@ dan kebinasaan musuh-musuhku — dan dengan Nama itu aku memiliki.
 *Wa zajru muluukil-jinni jam'an lithaa'atii*
 
 *Wa qahrul-'ushaatisy-syaamikhiina wa man 'ashat*
-
-**[Terjemahan Indonesia]**
 
 Dan kesembuhan kedudukanku serta penyembuhan bagi penyakitku [tercetak: li'aytii];
 
@@ -4539,13 +3792,11 @@ dan penundukan para durhaka yang angkuh serta siapa yang mendurhakai.
 
 ---
 
-# BATCH 12 — Halaman PDF 56–60
+# JILID 12 — Halaman PDF 56–60
 
 ## Halaman PDF 56 (= cetak 55)
 
 ### Bagian 1 — Sambungan nazham Cara Besar: pemohon memohon kekuatan dan kebinasaan musuh (larik 91–108)
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -4587,8 +3838,6 @@ dan penundukan para durhaka yang angkuh serta siapa yang mendurhakai.
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Wa ihraaqu arhaathin takhaalafa da'watii [al-mathbuu': da'awnii]*
 
 *Bi-asmaa-i ihraaqin bihal-jinna ahraqat*
@@ -4624,8 +3873,6 @@ dan penundukan para durhaka yang angkuh serta siapa yang mendurhakai.
 *Mumiitun fa 'ajjil mauta khashmii idza i'tadaa*
 
 *Wa 'ajjil li-a'daa-ii halaakan na'ajjiluka [ترتيب مطبوع غير مألوف، محفوظ بلا تصحيح]*
-
-**[Terjemahan Indonesia]**
 
 Dan pembakaran golongan-golongan yang menyalahi seruanku [tercetak: da'awnii];
 
@@ -4667,8 +3914,6 @@ dan segerakanlah kebinasaan bagi musuh-musuhku, yang kami segerakan [demikian ad
 
 ### Bagian 1 — Sambungan nazham (larik 109–125)
 
-**[Teks Arab Asli]**
-
 <div dir="rtl">
 
 بِضَعْفِي إِلَهِي يَا قَوِيُّ فَقَوِّنِي
@@ -4707,8 +3952,6 @@ dan segerakanlah kebinasaan bagi musuh-musuhku, yang kami segerakan [demikian ad
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Bidha'fii Ilaahii yaa Qawiyyu fa qawwinii*
 
 *'Alaihim bi'izzin syaamikhin qad tasyamkhat*
@@ -4742,8 +3985,6 @@ dan segerakanlah kebinasaan bagi musuh-musuhku, yang kami segerakan [demikian ad
 *Wa nashrii wa tabiidii wa 'izzii ta'azzazat*
 
 *Fa yaa Rabbi Antal-laahu hasbii wa 'uddatii*
-
-**[Terjemahan Indonesia]**
 
 Dengan kelemahanku, wahai Tuhanku, wahai Mahakuat, maka kuatkanlah aku;
 
@@ -4782,8 +4023,6 @@ maka wahai Tuhanku, Engkaulah Allah, cukuplah Engkau dan perlengkapanku.
 ## Halaman PDF 58 (= cetak 57)
 
 ### Bagian 1 — Sambungan nazham (larik 126–143)
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -4825,8 +4064,6 @@ maka wahai Tuhanku, Engkaulah Allah, cukuplah Engkau dan perlengkapanku.
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Bikal-haulu wal-ahwaalu lil-khairi huwwilat*
 
 *Wa yaa Naashiru inshurnii binashrin wa 'izzatin*
@@ -4862,8 +4099,6 @@ maka wahai Tuhanku, Engkaulah Allah, cukuplah Engkau dan perlengkapanku.
 *Labistu tsiyaaban bil-bahaa-i tajammalat*
 
 *Bisirril-huruufil-munazzalaati jamii'ihaa [al-mathbuu': al-munazzalat]*
-
-**[Terjemahan Indonesia]**
 
 Pada-Mu daya, dan segala keadaan, kepada kebaikan telah dipalingkan;
 
@@ -4905,8 +4140,6 @@ dengan rahasia huruf-huruf yang diturunkan semuanya [tercetak: al-munazzalat].
 
 ### Bagian 1 — Sambungan nazham (larik 144–160)
 
-**[Teks Arab Asli]**
-
 <div dir="rtl">
 
 بِسِرِّ رِجَالِ الغَيْبِ فِي الغَيْبِ غُيِّبَتْ
@@ -4945,8 +4178,6 @@ dengan rahasia huruf-huruf yang diturunkan semuanya [tercetak: al-munazzalat].
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Bisirri rijaalil-ghaibi fil-ghaibi ghuyyibat*
 
 *Wa bismika yallaahu Anta Ilaahunaa*
@@ -4980,8 +4211,6 @@ dengan rahasia huruf-huruf yang diturunkan semuanya [tercetak: al-munazzalat].
 *Wa abri saqaamii yaa Hakiimu wa daawinii*
 
 *Bikas-suqmu wal-amraadhu 'annii zahzahat*
-
-**[Terjemahan Indonesia]**
 
 Dengan rahasia para lelaki gaib yang dalam kegaiban telah digaibkan;
 
@@ -5020,8 +4249,6 @@ dengan-Mu penyakit dan penyakit-penyakit itu dariku telah dijauhkan.
 ## Halaman PDF 60 (= cetak 59)
 
 ### Bagian 1 — Sambungan nazham (larik 161–178, bersambung)
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -5063,8 +4290,6 @@ dengan-Mu penyakit dan penyakit-penyakit itu dariku telah dijauhkan.
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Muqiitun bismil-Ismi qawwinii wa qawwinii*
 
 *Mujiibun sarii'un wal-ijaabatu asra'at*
@@ -5100,8 +4325,6 @@ dengan-Mu penyakit dan penyakit-penyakit itu dariku telah dijauhkan.
 *Bas-sa'di ardafhaa ilayya wash-shafaa*
 
 *Wal-jaahi was-sulthaani wal-mulki ardafat*
-
-**[Terjemahan Indonesia]**
 
 wahai Maha Pemelihara, dengan nama Nama itu, kuatkanlah aku dan kuatkanlah aku;
 
@@ -5141,13 +4364,11 @@ dan dengan kedudukan, kekuasaan, serta kerajaan, ia telah menyusul.
 
 ---
 
-# BATCH 13 — Halaman PDF 61–65
+# JILID 13 — Halaman PDF 61–65
 
 ## Halaman PDF 61 (= cetak 60)
 
 ### Bagian 1 — Sambungan nazham Cara Besar: permohonan wibawa, cahaya, dan kerajaan (larik 268–285)
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -5189,8 +4410,6 @@ dan dengan kedudukan, kekuasaan, serta kerajaan, ia telah menyusul.
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Wahab lii Ilaahii min jalaalika haibatan*
 
 *Wa nuuran wa anwaaran bihal-kawnu asyraqat*
@@ -5226,8 +4445,6 @@ dan dengan kedudukan, kekuasaan, serta kerajaan, ia telah menyusul.
 *Qariibun Ta'aalaa fawqa kulli syawaamikhin*
 
 *'Uluwwurtifaa'i 'izzatin qad tasaamat*
-
-**[Terjemahan Indonesia]**
 
 Karuniakanlah padaku, wahai Tuhanku, dari keagungan-Mu suatu wibawa;
 
@@ -5269,8 +4486,6 @@ ketinggian yang menjulang, kemuliaan yang telah meninggi.
 
 ### Bagian 1 — Sambungan nazham (larik 286–303)
 
-**[Teks Arab Asli]**
-
 <div dir="rtl">
 
 ويَا مَالِكَ المُلْكِ الرَّفِيعِ جَلَالُهُ
@@ -5311,8 +4526,6 @@ ketinggian yang menjulang, kemuliaan yang telah meninggi.
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Wa yaa Maalikal-mulkir-rafii'i jalaaluhu*
 
 *Bihaqqika malliknii quluuban tanaafarat*
@@ -5348,8 +4561,6 @@ ketinggian yang menjulang, kemuliaan yang telah meninggi.
 *Wa uqsimu bidz-dzaatil-'aliyyati Rabbanaa*
 
 *Ijaabatu maqshuudii bisirrin tayassarat*
-
-**[Terjemahan Indonesia]**
 
 Dan wahai Pemilik kerajaan yang tinggi keagungannya;
 
@@ -5391,8 +4602,6 @@ pengabulan maksudku, dengan suatu rahasia, telah menjadi mudah [tercetak: nayass
 
 ### Bagian 1 — Sambungan nazham: sumpah dengan benda-benda langit (larik 304–321)
 
-**[Teks Arab Asli]**
-
 <div dir="rtl">
 
 بِمِعْرَاجِ الرَّسُولِ مُحَمَّدٍ
@@ -5433,8 +4642,6 @@ pengabulan maksudku, dengan suatu rahasia, telah menjadi mudah [tercetak: nayass
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Bimi'raajir-Rasuuli Muhammadin*
 
 *Bilailati Qadrin fisy-syuhuuri ta'azhzhamat*
@@ -5470,8 +4677,6 @@ pengabulan maksudku, dengan suatu rahasia, telah menjadi mudah [tercetak: nayass
 *Wa ahraqtu bil-anwaari kulla mu'aanidin*
 
 *Wa ahzimu bil-Asmaa-i jaisyan tahazzabat*
-
-**[Terjemahan Indonesia]**
 
 Demi mi'raj Rasul Muhammad;
 
@@ -5513,8 +4718,6 @@ dan aku mengalahkan dengan nama-nama itu bala tentara yang bersekutu.
 
 ### Bagian 1 — Sambungan nazham (larik 322–338)
 
-**[Teks Arab Asli]**
-
 <div dir="rtl">
 
 بِسَيْفِكَ يَا جَبَّارُ فَاقْتُلْ عَدُوَّنَا
@@ -5553,8 +4756,6 @@ dan aku mengalahkan dengan nama-nama itu bala tentara yang bersekutu.
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Bisaifika yaa Jabbaaru faqtul 'aduwwanaa*
 
 *Wa yaa Dzaabihu idzbah kulla qawmin najbartu*
@@ -5588,8 +4789,6 @@ dan aku mengalahkan dengan nama-nama itu bala tentara yang bersekutu.
 *'Alawtu fawqa sa'din lits-tsurayyaa takawkabtu*
 
 *Ma'aarifu asraarin bisirri saraa-irii*
-
-**[Terjemahan Indonesia]**
 
 Dengan pedang-Mu, wahai Mahaperkasa, maka bunuhlah musuh kami;
 
@@ -5628,8 +4827,6 @@ pengenalan-pengenalan rahasia, dengan rahasia batinku.
 ## Halaman PDF 65 (= cetak 64)
 
 ### Bagian 1 — Sambungan nazham (larik 339–356, bersambung)
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -5671,8 +4868,6 @@ pengenalan-pengenalan rahasia, dengan rahasia batinku.
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Badaa nuuruhaa haqqan wal-haqqi qad badat*
 
 *Fa yaa Kawkabal-anwaari kaw-kib kawaakibii*
@@ -5708,8 +4903,6 @@ pengenalan-pengenalan rahasia, dengan rahasia batinku.
 *Bisab'i nujuumin fits-tsawaabiti atsbatat*
 
 *Wal-lawhi wal-aqlaami kun lii haafizhaa*
-
-**[Terjemahan Indonesia]**
 
 Cahayanya telah nyata, sesungguhnya, dan dengan kebenaran telah nyata;
 
@@ -5749,13 +4942,11 @@ dan demi Luh serta pena-pena, jadilah bagiku penjaga.
 
 ---
 
-# BATCH 14 — Halaman PDF 66–70
+# JILID 14 — Halaman PDF 66–70
 
 ## Halaman PDF 66 (= cetak 65)
 
 ### Bagian 1 — Sambungan nazham Cara Besar: permohonan cahaya, pertolongan, dan keteguhan (larik 357–374)
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -5797,8 +4988,6 @@ dan demi Luh serta pena-pena, jadilah bagiku penjaga.
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Wa bin-nuuri wal-anwaari sirrii tasyawwaqat*
 
 *Wa bil-'arshi wal-kursiyyi as-alu daa-iman*
@@ -5834,8 +5023,6 @@ dan demi Luh serta pena-pena, jadilah bagiku penjaga.
 *Litanjaha umuurii yaa Ilaahii tasaara'at*
 
 *Wa yaa Rabbi bil-ikhlaashi khallish quluubanaa*
-
-**[Terjemahan Indonesia]**
 
 Demi cahaya dan segala cahaya, rahasiaku pun merindukan;
 
@@ -5881,8 +5068,6 @@ dan wahai Tuhanku, dengan ikhlas, sucikanlah hati kami.
 
 ### Bagian 1 — Sambungan nazham: kemenangan, kekuatan, dan keteguhan nama (larik 375–393; 19 larik tercetak)
 
-**[Teks Arab Asli]**
-
 <div dir="rtl">
 
 مِنَ الشِّرْكِ وَالْعِصْيَانِ حَقًّا تَخَلَّصْتُ
@@ -5925,8 +5110,6 @@ dan wahai Tuhanku, dengan ikhlas, sucikanlah hati kami.
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Minasy-syirki wal-'ishyaani haqqan takhallash-tu*
 
 *Wa bin-nashri fanshurnii wa kun lii naashiran*
@@ -5964,8 +5147,6 @@ dan wahai Tuhanku, dengan ikhlas, sucikanlah hati kami.
 *Wa yaa Tsaabitul-mulki al-'azhiimi wa tsaabitun*
 
 *Bismika ismii fis-sa'aadati atsbat*
-
-**[Terjemahan Indonesia]**
 
 Dari kesyirikan dan kedurhakaan, sungguh aku telah terbebas;
 
@@ -6013,8 +5194,6 @@ dengan nama-Mu, namaku diteguhkan dalam kebahagiaan.
 
 ### Bagian 1 — Sambungan nazham: penampakan, perlindungan, dan penyamaran (larik 394–411)
 
-**[Teks Arab Asli]**
-
 <div dir="rtl">
 
 بِقَاءِ ظُهُورِ الِاسْمِ أَسْأَلُ طَاهِرًا
@@ -6055,8 +5234,6 @@ dengan nama-Mu, namaku diteguhkan dalam kebahagiaan.
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Biqaa-i zhuhuuri al-ismi as-alu thaahiran*
 
 *Fa yaa zhaahiran azh-hir liya al-umuura idzaa khiftu*
@@ -6092,8 +5269,6 @@ dengan nama-Mu, namaku diteguhkan dalam kebahagiaan.
 *Sahartu 'uyuunal-'aalamiina bithilsmin*
 
 *Badaa yauma thilsmin bihil-kullu thulsimat*
-
-**[Terjemahan Indonesia]**
 
 Demi berlanjutnya penampakan Nama, aku memohon agar tampak suci;
 
@@ -6139,8 +5314,6 @@ pada hari suatu talisman tampak, dengannya seluruhnya terkena talisman.
 
 ### Bagian 1 — Sambungan nazham: talisman dan klaim pembungkaman (larik 412–429)
 
-**[Teks Arab Asli]**
-
 <div dir="rtl">
 
 وَبِالطِّلْسِمَاتِ السَّاحِرَاتِ وَسِحْرِهَا
@@ -6181,8 +5354,6 @@ pada hari suatu talisman tampak, dengannya seluruhnya terkena talisman.
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Wa bith-thilasmati as-saahiraati wa sihrihaa*
 
 *Sahartu 'uyuunal-'aalamiina bimaa hawat*
@@ -6218,8 +5389,6 @@ pada hari suatu talisman tampak, dengannya seluruhnya terkena talisman.
 *Wa abthaltu sihras-saa-hiriina wa makrahum*
 
 *Bi'izzati nahaari bis-sihri abthaltu*
-
-**[Terjemahan Indonesia]**
 
 Dengan talisman-talisman yang menyihir dan daya sihirnya;
 
@@ -6265,8 +5434,6 @@ dengan kemuliaan siang, melalui sihir, aku membatalkan [daya sihir itu].
 
 ### Bagian 1 — Sambungan nazham: penguasaan dan serangan terhadap lawan (larik 430–447)
 
-**[Teks Arab Asli]**
-
 <div dir="rtl">
 
 وَسَلَّطْتُ أَمْلَاكَ الْكَوَاكِبِ كُلَّهَا
@@ -6307,8 +5474,6 @@ dengan kemuliaan siang, melalui sihir, aku membatalkan [daya sihir itu].
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Wa sallathtu amlaakal-kawaakibi kullahaa*
 
 *Bi-ihraaqi kullil-maaridiina wa man 'ashat*
@@ -6344,8 +5509,6 @@ dengan kemuliaan siang, melalui sihir, aku membatalkan [daya sihir itu].
 *Wa munqalabin Rabbi an'im lii minal-madaa*
 
 *Wa bil-ismi fal-a'daa-u bis-saifi qath'tha'tu*
-
-**[Terjemahan Indonesia]**
 
 Dan aku menjadikan seluruh malaikat planet-planet tunduk;
 
@@ -6389,13 +5552,11 @@ dan dengan Nama itu, para musuh kupenggal dengan pedang.
 
 ---
 
-# BATCH 15 — Halaman PDF 71–72
+# JILID 15 — Halaman PDF 71–72
 
 ## Halaman PDF 71 (= cetak 70)
 
 ### Bagian 1 — Sambungan nazham: permohonan penundukan dan pengerahan (larik 448–465)
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -6437,8 +5598,6 @@ dan dengan Nama itu, para musuh kupenggal dengan pedang.
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Wa bis-saifi ya Jabbaru faqtul 'aduwwana*
 
 *Wa bit-tha'ni ya Qahharu fa'tha'n biman baghat*
@@ -6474,8 +5633,6 @@ dan dengan Nama itu, para musuh kupenggal dengan pedang.
 *Wa-dayyiq 'alayhim kulla ardin wa-maslak*
 
 *Wa-zalzil bihim kulla al-jihati fa-zalzalat*
-
-**[Terjemahan Indonesia]**
 
 Dengan pedang, wahai Yang Maha Perkasa, tumpaslah musuh kami.
 
@@ -6517,8 +5674,6 @@ dan guncangkanlah mereka dari segala penjuru hingga semuanya bergetar.
 
 ### Bagian 1 — Sambungan nazham (dua larik awal; larik 466–467)
 
-**[Teks Arab Asli]**
-
 <div dir="rtl">
 
 وَخَرِّبْ دِيَارَ الْكُلِّ بِالْخَسْفِ سُرْعَةً
@@ -6527,13 +5682,9 @@ dan guncangkanlah mereka dari segala penjuru hingga semuanya bergetar.
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Wa-kharrib diyara al-kulli bil-khasfi sur'atan*
 
 *Wa-bin-nari wal-ihraqi was-sumuti wash-shatati*
-
-**[Terjemahan Indonesia]**
 
 Hancurkanlah tempat tinggal mereka semua dengan ditelan bumi, secepatnya,
 
@@ -6541,13 +5692,11 @@ dan dengan api serta pembakaran, hingga mereka tercerai-berai ke segala penjuru.
 
 ---
 
-# BATCH 16 — Halaman PDF 72–73
+# JILID 16 — Halaman PDF 72–73
 
 ## Halaman PDF 72 (= cetak 71)
 
 ### Bagian 1 — Sambungan nazham: permohonan dan pengerahan kekuatan (larik 468–483)
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -6585,8 +5734,6 @@ dan dengan api serta pembakaran, hingga mereka tercerai-berai ke segala penjuru.
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Wa nakkis ru'usal-hasidin wan-niqami*
 
 *Jami'an bibahril-hammi wal-huzni wal-kabti*
@@ -6618,8 +5765,6 @@ dan dengan api serta pembakaran, hingga mereka tercerai-berai ke segala penjuru.
 *Bi-tasbihi amlaakin bisirri sujudiha*
 
 *Bi-idmari arwahi li-amlakin safarat*
-
-**[Terjemahan Indonesia]**
 
 Tundukkanlah kepala orang-orang yang dengki dan timpakanlah segala pembalasan.
 
@@ -6691,8 +5836,6 @@ Dengan menggerakkan ruh-ruh yang berangkat menuju para malaikat.
 
 ### Bagian 1 — Sambungan nazham: pasukan dan ketundukan (larik 484–487)
 
-**[Teks Arab Asli]**
-
 <div dir="rtl">
 
 بِسِرِّ جُيُوشٍ لِلْجِهَادِ تَجَهَّزُوا
@@ -6705,8 +5848,6 @@ Dengan menggerakkan ruh-ruh yang berangkat menuju para malaikat.
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Bisirri juyusyin lil-jihadi tajahhazu*
 
 *Bihaqqi suyufin fi sabilika juridat*
@@ -6714,8 +5855,6 @@ Dengan menggerakkan ruh-ruh yang berangkat menuju para malaikat.
 *Li-asma'ika tarannahul-qulubu mahabatan*
 
 *Wa takhda'u taw'an lillahi wa ma 'asat*
-
-**[Terjemahan Indonesia]**
 
 Demi rahasia pasukan-pasukan yang bersiap untuk berjihad.
 
@@ -6737,13 +5876,11 @@ dan tunduk dengan sukarela kepada Allah tanpa mendurhakai-Nya.
 
 ---
 
-# BATCH 17 — Halaman PDF 73–74
+# JILID 17 — Halaman PDF 73–74
 
 ## Halaman PDF 73 (= cetak 72)
 
 ### Bagian 1 — Sambungan nazham: pembakaran, pengerahan, dan penundukan (larik 488–501)
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -6777,8 +5914,6 @@ dan tunduk dengan sukarela kepada Allah tanpa mendurhakai-Nya.
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Bi-anwari ihraqin bisirri mathlabin*
 
 *Bi-asma'i ihraqin biha al-jinna sukhkhirat*
@@ -6806,8 +5941,6 @@ dan tunduk dengan sukarela kepada Allah tanpa mendurhakai-Nya.
 *Wa-arsil lil-amlaaka qahran liman 'asa*
 
 *Bi-zajrin wa-ihraqin ila al-jinni arsaltu*
-
-**[Terjemahan Indonesia]**
 
 Dengan cahaya-cahaya pembakaran, melalui rahasia suatu permohonan.
 
@@ -6871,8 +6004,6 @@ dengan hardikan dan pembakaran; telah kuutus mereka kepada golongan jin.
 
 ### Bagian 1 — Sambungan nazham: perlindungan dan ketundukan (larik 502–507)
 
-**[Teks Arab Asli]**
-
 <div dir="rtl">
 
 وَسَخِّرْ لِيَ الْأَرْوَاحَ وَالْجِنَّ كُلَّهَا
@@ -6889,8 +6020,6 @@ dengan hardikan dan pembakaran; telah kuutus mereka kepada golongan jin.
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Wa-sakhkhir lil-arwaha wal-jinna kullaha*
 
 *Wa-kulla 'afaritin 'usatin tamarradat*
@@ -6902,8 +6031,6 @@ dengan hardikan dan pembakaran; telah kuutus mereka kepada golongan jin.
 *Wa-wakkil bihifzhi ya Hafiz mulukaha*
 
 *Minas-su'i wal-a'da'i bil-hifzhi wukkiltu*
-
-**[Terjemahan Indonesia]**
 
 Tundukkanlah untukku seluruh ruh dan golongan jin,
 
@@ -6933,13 +6060,11 @@ agar terlindung dari keburukan dan musuh; aku pun diberi amanah penjagaan.
 
 ---
 
-# BATCH 18 — Halaman PDF 74–75
+# JILID 18 — Halaman PDF 74–75
 
 ## Halaman PDF 74 (= cetak 73)
 
 ### Bagian 1 — Sambungan nazham: perlindungan, alam, dan pengerahan (larik 508–518)
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -6967,8 +6092,6 @@ agar terlindung dari keburukan dan musuh; aku pun diberi amanah penjagaan.
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Wa-thabata bihi qalbi li-ru'yati hawliha*
 
 *Wa bil-ismi tahfazuni bihisnin tahassantu*
@@ -6990,8 +6113,6 @@ agar terlindung dari keburukan dan musuh; aku pun diberi amanah penjagaan.
 *Bi-bahri wa-barrin fal-qaba'ilu aqbalat*
 
 *Sa'altuka ya Jabbaru bil-ismi sur'atan*
-
-**[Terjemahan Indonesia]**
 
 Dengannya, hatiku menjadi teguh untuk menyaksikan kedahsyatannya.
 
@@ -7043,8 +6164,6 @@ Aku memohon kepada-Mu, wahai Yang Maha Perkasa, dengan Nama itu: segerakanlah.
 
 ### Bagian 1 — Sambungan nazham: hukuman dan pengadilan (larik 519–527)
 
-**[Teks Arab Asli]**
-
 <div dir="rtl">
 
 بِجِهَادِ مُلُوكٍ بِالْعَذَابِ تَوَكَّلْتُ
@@ -7067,8 +6186,6 @@ Aku memohon kepada-Mu, wahai Yang Maha Perkasa, dengan Nama itu: segerakanlah.
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Bi-jihadi mulukin bil-'adhabi tawakkaltu*
 
 *Wa bil-wahyi wat-tanzili wal-ba'tsi was-sana*
@@ -7086,8 +6203,6 @@ Aku memohon kepada-Mu, wahai Yang Maha Perkasa, dengan Nama itu: segerakanlah.
 *Tasallata mulukul-intiqami bijam'ihim*
 
 *'Ala man 'asa min khasmi da'in bil-asma'i tazallamtu [الفعل المطبوع محفوظ، وإعرابه غير محقق]*
-
-**[Terjemahan Indonesia]**
 
 Dengan perjuangan para raja, aku bertawakal kepada azab.
 
@@ -7129,13 +6244,11 @@ atas siapa pun yang durhaka di antara para penentangku; aku mengadukan perkara i
 
 ---
 
-# BATCH 19 — Halaman PDF 75–76
+# JILID 19 — Halaman PDF 75–76
 
 ## Halaman PDF 75 (= cetak 74)
 
 ### Bagian 1 — Sambungan nazham: para penguasa api dan hukuman (larik 528–535)
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -7157,8 +6270,6 @@ atas siapa pun yang durhaka di antara para penentangku; aku mengadukan perkara i
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Wa-ya malika an-nirani arsil mulukaha*
 
 *Bi-waylin wa-sijillin sari'an tasara'at [الفعل المطبوع محفوظ، ووصله غير واضح]*
@@ -7174,8 +6285,6 @@ atas siapa pun yang durhaka di antara para penentangku; aku mengadukan perkara i
 *Wa-arsil 'afarit al-jahimi wa-naraha*
 
 *Bi-aghlali sijillin 'adhaban tawashalat [الفعل المطبوع محفوظ، وعلاقته بالعبارة غير محققة]*
-
-**[Terjemahan Indonesia]**
 
 Wahai Raja Api, utuslah para penguasanya.
 
@@ -7215,8 +6324,6 @@ dengan belenggu dari sijil; azab itu pun terus berlanjut. [Lafaz “sijil” dan
 
 ### Bagian 1 — Sambungan nazham: rantai dan api Jahanam (larik 536–547)
 
-**[Teks Arab Asli]**
-
 <div dir="rtl">
 
 سَلَاسِلَ أَغْلَالٍ بِأَعْنَاقِ مَنْ عَصَى
@@ -7245,8 +6352,6 @@ dengan belenggu dari sijil; azab itu pun terus berlanjut. [Lafaz “sijil” dan
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Salasila aghlalin bi-a'naqi man 'asa*
 
 *Ijabata asma'i al-ilahi tasalsalat [الصيغة المطبوعة محفوظة، وإعرابها غير محقق]*
@@ -7270,8 +6375,6 @@ dengan belenggu dari sijil; azab itu pun terus berlanjut. [Lafaz “sijil” dan
 *Ahatat bihim narul-jahimi biharriha*
 
 *Wa-amlakuha bil-harqi jami'an tawakkaltu [الصيغة المطبوعة محفوظة، وتركيب الجملة غير واضح]*
-
-**[Terjemahan Indonesia]**
 
 Rantai-rantai dan belenggu pada leher siapa pun yang durhaka.
 
@@ -7325,13 +6428,11 @@ Dan para malaikatnya, dengan pembakaran secara bersama—aku bertawakal. [Susuna
 
 ---
 
-# BATCH 20 — Halaman PDF 76–77
+# JILID 20 — Halaman PDF 76–77
 
 ## Halaman PDF 76 (= cetak 75)
 
 ### Bagian 1 — Sambungan nazham: pertolongan, janji, dan pembalasan (larik 548–552)
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -7347,8 +6448,6 @@ Dan para malaikatnya, dengan pembakaran secara bersama—aku bertawakal. [Susuna
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Wa-in yastaghithu lan yughathu wa-yuhraqu*
 
 *Bi-ma'in kal-muhli bil-hamimi nahimina [المطبوع: «ناحمين»؛ ضبط احتمالي «نَاحِمِينَ» بلا جزم بتصحيح؛ وصل: السياق عذاب الحميم؛ نحو: حال منصوب محتمل يرجع إلى ضمير الجمع؛ تجويد: الحاء حرف همس، ولا قاف ساكنة ولا نون مشددة هنا]*
@@ -7358,8 +6457,6 @@ Dan para malaikatnya, dengan pembakaran secara bersama—aku bertawakal. [Susuna
 *Ilahun 'azizun dhu intiqamin tasara'at [المطبوع: «تسرعت» بلا حركات؛ ضبط احتمالي «تسارعت»؛ وصل: قدرة إلهية وانتقام تليه المجرمون؛ نحو: فعل ماضٍ مؤنث بلا فاعل ظاهر؛ تجويد: لا قاف ساكنة ولا نون مشددة في هذه الكلمة]*
 
 *Tara al-mujrimina al-jahidina kitabahu*
-
-**[Terjemahan Indonesia]**
 
 Jika mereka memohon pertolongan, mereka tidak akan ditolong dan akan dibakar.
 
@@ -7386,8 +6483,6 @@ Engkau akan melihat para pendosa yang mengingkari Kitab-Nya.
 ## Halaman PDF 77 (= cetak 76)
 
 ### Bagian 1 — Sambungan nazham: pakaian api dan guncangan alam (larik 553–567)
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -7423,8 +6518,6 @@ Engkau akan melihat para pendosa yang mengingkari Kitab-Nya.
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Sarabilu qitranin biha al-kullu surbilat*
 
 *Bi-narin wa-taghsha an-naru minhum wujuhahum*
@@ -7454,8 +6547,6 @@ Engkau akan melihat para pendosa yang mengingkari Kitab-Nya.
 *Wa-ya rabbi ya jabbaru asri' bi-qahrihim*
 
 *Wa-zalazila 'ushati al-jinni qahran anzaltu [المطبوع: «أنزلت» بلا حركات؛ الأرجح «أنزلتُ» مبنيًا للمعلوم و«زلزلة» مفعول مقدم؛ ولو كان «أُنزلت» مبنيًا للمجهول لوجب رفع «زلازل»؛ تجويد: إخفاء قبل الزاي، وإظهار للتنوين قبل الهمزة، وغنة في النون المشددة من «الجنّ»]*
-
-**[Terjemahan Indonesia]**
 
 Jubah-jubah dari ter; dengannya semua orang dibalut.
 
@@ -7521,13 +6612,11 @@ Dan gempa-gempa untuk para jin durhaka kuturunkan dengan paksa. [Cetakan «أن�
 
 ---
 
-# BATCH 21 — Halaman PDF 77–79
+# JILID 21 — Halaman PDF 77–79
 
 ## Halaman PDF 77 (= cetak 76)
 
 ### Bagian 1 — Sambungan nazham: seruan dan pengerahan (larik 568–569)
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -7537,13 +6626,9 @@ Dan gempa-gempa untuk para jin durhaka kuturunkan dengan paksa. [Cetakan «أن�
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Wa-ya rabbi bis-saffati saffan bisirriha*
 
 *Wa-biz-zajirati as-saharat liman 'asat [الاسم المطبوع «السحرة» محفوظ، ومعناه غير محقق]*
-
-**[Terjemahan Indonesia]**
 
 Wahai Tuhanku, demi para makhluk yang berbaris rapat, demi baris dan rahasianya.
 
@@ -7558,8 +6643,6 @@ Demi para penghalau dan para «saharat», bagi siapa pun yang durhaka. [Bentuk �
 ## Halaman PDF 78 (= cetak 77)
 
 ### Bagian 1 — Sambungan nazham: seruan, cahaya, dan penundukan (larik 570–586)
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -7599,8 +6682,6 @@ Demi para penghalau dan para «saharat», bagi siapa pun yang durhaka. [Bentuk �
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Wa-bil-ghayati adh-dhikri rabbi bijahiha [ترتيب الكلمات المطبوع محفوظ، والعلاقة النحوية غير واضحة]*
 
 *Wa-bil-mursalati al-'asifati wa-ma hawat*
@@ -7634,8 +6715,6 @@ Demi para penghalau dan para «saharat», bagi siapa pun yang durhaka. [Bentuk �
 *Bi-haqqi ya nuru 'ala al-fawri 'ajjalta [الفعل المطبوع محفوظ، وضبطه غير محقق]*
 
 *Bi-ismi Liyarushi bisatwati qahrihi [الاسم والعبارة تبعان للمطبوع، والمعنى الكامل غير محقق]*
-
-**[Terjemahan Indonesia]**
 
 Demi al-ghāyāt, zikir Tuhanku, dan kemuliaannya. [Susunan lafaz pada cetakan kurang jelas.]
 
@@ -7711,19 +6790,13 @@ Dengan nama Liyārūsh, dengan kekuatan penaklukan-Nya. [Nama ini dipertahankan 
 
 ### Bagian 1 — Sambungan nazham: nama Liyārūsh dan kekuatan (larik 587)
 
-**[Teks Arab Asli]**
-
 <div dir="rtl">
 
 بِسُورِ لِيَارُوشٍ بِشِدَّةِ بَطْشِهِ [لفظ «سور» مطابق للمطبوع؛ دلالته في التركيب غير مؤكدة]
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Bi-suri Liyarushi bi-shiddati batshihi [الكلمة المطبوعة «سور» محفوظة، ومعناها في السياق غير محقق]*
-
-**[Terjemahan Indonesia]**
 
 Dengan Sūr Liyārūsh, dengan kerasnya daya gempurnya. [Lafaz «سور» dipertahankan sesuai cetakan.]
 
@@ -7733,13 +6806,11 @@ Dengan Sūr Liyārūsh, dengan kerasnya daya gempurnya. [Lafaz «سور» dipert
 
 ---
 
-# BATCH 22 — Halaman PDF 79–80
+# JILID 22 — Halaman PDF 79–80
 
 ## Halaman PDF 79 (= cetak 78)
 
 ### Bagian 1 — Sambungan nazham: nama dan seruan (larik 588–603)
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -7777,8 +6848,6 @@ Dengan Sūr Liyārūsh, dengan kerasnya daya gempurnya. [Lafaz «سور» dipert
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Liyashishu bil-ismi sa'di aqbalat [اسم «ليشيشو» محتمل، والحروف محفوظة على رسم المطبوع]*
 
 *Bi-rawa [الكلمة التالية غير واضحة] bi-zahrihi bisirrihi [الشظايا المطبوعة محفوظة، والرابط غير مقروء]*
@@ -7810,8 +6879,6 @@ Dengan Sūr Liyārūsh, dengan kerasnya daya gempurnya. [Lafaz «سور» dipert
 *Bi-'izzin [كلمة قصيرة غير واضحة] bin-nafkhi as-sa'du aqbalat [الكلمات الأخيرة قراءات محتملة للمطبوع]*
 
 *Bi-ismi Jalilin bi-zahwin la qahira [اللفظ المطبوع محفوظ، والإعراب غير مألوف]*
-
-**[Terjemahan Indonesia]**
 
 «Liyāshish» (bacaan tidak pasti) disebut bersama Nama dan «sa'di»; akhir larik tampak berbunyi «أقبلت». [Susunan tidak jelas.]
 
@@ -7883,8 +6950,6 @@ Dengan nama Yang Agung, dengan kebesaran; tiada penakluk. [Susunan pada cetakan 
 
 ### Bagian 1 — Sambungan nazham: permohonan agar tujuan tercapai (larik 604–607)
 
-**[Teks Arab Asli]**
-
 <div dir="rtl">
 
 [صدر السطر مطموس] نَارُ الْجِنِّ تَمَرَّدَتْ [«نار الجن تمردت» أقرب قراءة للرسم؛ يبقى أول السطر غير محسوم]
@@ -7897,8 +6962,6 @@ Dengan nama Yang Agung, dengan kebesaran; tiada penakluk. [Susunan pada cetakan 
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *[أول الكلمة غير مقروء] narul-jinni tamarradat [العبارة الظاهرة محفوظة، وأول السطر مطموس]*
 
 *Wa-ya قرمز asri' binajhi maqasidi [tercetak: «قرمز» - nama non-Arab, belum pasti pelafalannya - lihat catatan (605)] [العبارة المطبوعة محفوظة مع غرابة اللفظ]*
@@ -7906,8 +6969,6 @@ Dengan nama Yang Agung, dengan kebesaran; tiada penakluk. [Susunan pada cetakan 
 *[أول الكلمة غير واضح] fal-muluku tasara'at [العبارة الظاهرة محفوظة، وقراءة الافتتاح غير محققة]*
 
 *[أول الكلمة غير مقروء] ya ilahi wal-maliki [الدعاء الظاهر محفوظ، والافتتاح مطموس]*
-
-**[Terjemahan Indonesia]**
 
 Lafaz awal tidak terbaca pasti; bagian akhir menyebut api/jin yang memberontak.
 
@@ -7929,13 +6990,11 @@ Wahai «قرمز», percepatlah keberhasilan tujuan-tujuanku. [Nama non-Arab; pe
 
 ---
 
-# BATCH 23 — Halaman PDF 80–81
+# JILID 23 — Halaman PDF 80–81
 
 ## Halaman PDF 80 (= cetak 79)
 
 ### Bagian 1 — Seruan nama dan permohonan (larik 608–620)
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -7967,8 +7026,6 @@ Wahai «قرمز», percepatlah keberhasilan tujuan-tujuanku. [Nama non-Arab; pe
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Wa-ya [كلمة طلسمية تُقرأ باحتمال «ثبرت»، وحروفها الوسطى غير واضحة] shamikhin qad tashakhkhasat [آخر السطر غير محقق]*
 
 *Bi-sirri [كلمة شبيهة باسم، تشبه «غياهه»] [مقطع قصير يشبه «كند»] [مقطع يشبه «مولى»] bi-sirrihi [آخر الكلمة غير واضح]*
@@ -7994,8 +7051,6 @@ Wahai «قرمز», percepatlah keberhasilan tujuan-tujuanku. [Nama non-Arab; pe
 *[سطر من أسماء طلسمية، وحروفه المتصلة غير متمايزة بما لا يسمح بنقل صوتي موثوق]*
 
 *Bi-ismi [اسم يشبه «شنخ/شنوخ»] ya 'azhimu [الآثار الباقية تشبه «تشخصت» باحتمال]*
-
-**[Terjemahan Indonesia]**
 
 Wahai [lafaz seruan yang kira-kira terbaca «thabarat»], Yang menjulang; sungguh ia tampak/menjelma. [Akhir baris tidak cukup tegas untuk dipastikan.]
 
@@ -8055,8 +7110,6 @@ Dengan nama [lafaz yang kira-kira terbaca «Shankh/Shunukh»], wahai Yang Mahaag
 
 ### Bagian 1 — Nama-nama penundukan (larik 621–627)
 
-**[Teks Arab Asli]**
-
 <div dir="rtl">
 
 بِكَفْخٍ [اسم/لفظ تالٍ حروفه تشبه «طنطنج»] [مقطع متصل غير جلي] بِشَارِشٍ [الضبط غير معروف]
@@ -8075,8 +7128,6 @@ Dengan nama [lafaz yang kira-kira terbaca «Shankh/Shunukh»], wahai Yang Mahaag
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Bi-kafkhin [الاسم التالي حروفه تشبه «تنتنج»] [شظية متصلة غير واضحة] bi-sharishin [الحركات مجهولة]*
 
 *Bathushin bathushin thuwayshin [يظهر آخر السطر مقروءًا «تسلطت»]*
@@ -8090,8 +7141,6 @@ Dengan nama [lafaz yang kira-kira terbaca «Shankh/Shunukh»], wahai Yang Mahaag
 *Bi-shankhin [الاسم التالي غير واضح] bil-qahri man 'asat [آخر باهت]*
 
 *Bi-than [مقطع قصير شبيه باسم مطموس] ya ilahi [البقية غير مقروءة]*
-
-**[Terjemahan Indonesia]**
 
 Dengan «Kafkh» [nama berikutnya tampak seperti «Tantanj»] dan «Sharish» [vokal nama-nama tidak dipastikan]; fragmen penghubungnya tidak terbaca jelas.
 
@@ -8125,13 +7174,11 @@ Dengan «Than» [lafaz nama sesudahnya tertutup], wahai Tuhanku. [Sisa larik tid
 
 ---
 
-# BATCH 24 — Halaman PDF 81–82
+# JILID 24 — Halaman PDF 81–82
 
 ## Halaman PDF 81 (= cetak 80)
 
 ### Bagian 1 — Sambungan seruan dan nama (larik 628–638)
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -8159,8 +7206,6 @@ Dengan «Than» [lafaz nama sesudahnya tertutup], wahai Tuhanku. [Sisa larik tid
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Bi-'izzati afla ghalawun tanattaqat*
 
 *Bi-'izzin Ghalawun lahu al-mulku wa-al-'ula [«غلون» محفوظ اسم علم، وضبط حركاته اجتهادي]*
@@ -8182,8 +7227,6 @@ Dengan «Than» [lafaz nama sesudahnya tertutup], wahai Tuhanku. [Sisa larik tid
 *Wa-ya Sifsanil bi-'izzati Hindaras [الاسمان قراءتان تقريبيتان للصيغتين المطبوعتين]*
 
 *Tawakkal bi-harqi al-maridina wa-man 'asat*
-
-**[Terjemahan Indonesia]**
 
 Demi kemuliaan; Afla Ghalawun telah bertutur. [«أفلا غلاوون» dibaca sebagai mubtada dan khabar marfu‘ sesuai i‘rab yang diminta; «تنطقت» dibaca «تَنَطَّقَتْ».]
 
@@ -8235,8 +7278,6 @@ Serahkanlah pembakaran para pemberontak dan siapa pun yang durhaka. [«توكل�
 
 ### Bagian 1 — Doa dan penyebutan nama-nama (larik 639–647)
 
-**[Teks Arab Asli]**
-
 <div dir="rtl">
 
 بِقَهْرِكَ يَا نَارُ فَانْتَهِرْ سَنَايَ [اللفظ الأخير في المطبوع يظهر «سناي»؛ ضُبط تقريبياً «سَنَايَ» ولم يُستبدل بكلمة أخرى.]
@@ -8259,8 +7300,6 @@ Serahkanlah pembakaran para pemberontak dan siapa pun yang durhaka. [«توكل�
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Bi-qahrika ya naru fantahir sanaya [الكلمة المطبوعة الأخيرة تبدو «سنيا»، وضبط حركاتها محتمل]*
 
 *Bismika ya Jabbaru fal-jinna ahriq [«أحرق» يُقرأ فعل أمر في هذا الدعاء، والمطبوع بلا حركات]*
@@ -8278,8 +7317,6 @@ Serahkanlah pembakaran para pemberontak dan siapa pun yang durhaka. [«توكل�
 *Bi-satwati Mika'ila bil-ardi zulzilat*
 
 *Bi-nafkhat Israfil fi yawmi nafkhatin*
-
-**[Terjemahan Indonesia]**
 
 Demi daya penundukan-Mu, wahai api, jadilah penghalau bagi «sanaya»-ku. [Kata terakhir dibaca sementara sesuai cetakan; makna leksikalnya belum pasti.]
 
@@ -8321,13 +7358,11 @@ Demi tiupan Israfil pada hari tiupan.
 
 ---
 
-# BATCH 25 — Halaman PDF 82–83
+# JILID 25 — Halaman PDF 82–83
 
 ## Halaman PDF 82 (= cetak 81)
 
 ### Bagian 1 — Sambungan seruan dan nama, kitab, serta doa (larik 648–656)
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -8351,8 +7386,6 @@ Demi tiupan Israfil pada hari tiupan.
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Bi-tuhfati Marza'il fa-al-jinnu inbaharat [«مرزائيل» اسم علم، وحركاته اجتهادية]*
 
 *Bi-Tawrati Musa bil-Injili [شظية مطبوعة قصيرة بعد «الإنجيل» غير واضحة] katabat [«كتبت» قراءة محتملة للفعل الأخير]*
@@ -8370,8 +7403,6 @@ Demi tiupan Israfil pada hari tiupan.
 *Bi-alin wa-bi-alin jalabtu maqsidi [الصيغتان بعد «ال» قراءتان غير محققتين لاسم علم]*
 
 *Ya [الكلمات بعد النداء مطموسة] tanazarat [الفعل الأخير قراءة محتملة]*
-
-**[Terjemahan Indonesia]**
 
 Dengan anugerah Marza'il, para jin pun terpesona. [Marza'il dipertahankan sebagai nama khusus; vokalisasinya tentatif.]
 
@@ -8415,8 +7446,6 @@ Wahai [lafaz seruan tidak terbaca jelas], mereka saling berhadapan/berpandangan.
 
 ### Bagian 1 — Permohonan ilmu, kejernihan, dan kehidupan hati (larik 657–667)
 
-**[Teks Arab Asli]**
-
 <div dir="rtl">
 
 أَنْوَخْ أَنْوَخْ يَا إِلَهِي بِسِرِّهِ [«أنوخ» اسم/لفظ خاص؛ ضبطه تقريبي من الرسم.]
@@ -8443,8 +7472,6 @@ Wahai [lafaz seruan tidak terbaca jelas], mereka saling berhadapan/berpandangan.
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Anwakh anwakh ya ilahi bisirrihi [«أنوخ» قراءة محتملة للاسم العلم المطبوع]*
 
 *'Azhimun lahu al-amlaku haqqan tasara'at*
@@ -8466,8 +7493,6 @@ Wahai [lafaz seruan tidak terbaca jelas], mereka saling berhadapan/berpandangan.
 *Bi-dhikrika ya Qayyumu haqqan tanaffasat [«تنفست» قراءة محتملة للآخر الظاهر]*
 
 *Ajid ya ilahi fihi 'ilman wa-hikmatan*
-
-**[Terjemahan Indonesia]**
 
 «Anwakh, Anwakh», wahai Tuhanku, demi rahasianya. [Nama pembuka dipertahankan secara tentatif.]
 
@@ -8517,13 +7542,11 @@ Wahai Tuhanku, anugerahkanlah di dalamnya ilmu dan hikmah.
 
 ---
 
-# BATCH 26 — Halaman PDF 83–84
+# JILID 26 — Halaman PDF 83–84
 
 ## Halaman PDF 83 (= cetak 82)
 
 ### Bagian 1 — Sambungan doa: penyucian, keyakinan, dan cahaya (larik 668–673)
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -8541,8 +7564,6 @@ Wahai Tuhanku, anugerahkanlah di dalamnya ilmu dan hikmah.
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Wa-thahhir bihi qalbi minar-rijsi wal-ghilli*
 
 *Wa-zidni yaqinan thabitan bika wa-ikhlasan*
@@ -8554,8 +7575,6 @@ Wahai Tuhanku, anugerahkanlah di dalamnya ilmu dan hikmah.
 *Wa-laha 'ala wajhi dhiya'un fansharaqat [الفعل الأخير مقروء من المطبوع باحتمال]*
 
 *Wa-subba 'ala qalbi sha'abiba rahmatin*
-
-**[Terjemahan Indonesia]**
 
 Sucikanlah dengannya hatiku dari kotoran dan kedengkian.
 
@@ -8586,8 +7605,6 @@ Curahkanlah hujan rahmat ke atas hatiku.
 ## Halaman PDF 84 (= cetak 83)
 
 ### Bagian 1 — Doa atas hikmah, perlindungan, dan pemadaman api (larik 674–687)
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -8621,8 +7638,6 @@ Curahkanlah hujan rahmat ke atas hatiku.
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Bi-hikmati mawlana al-hakimi fa-ahkamat*
 
 *Ahatat bina al-anwaru min kulli janibin*
@@ -8650,8 +7665,6 @@ Curahkanlah hujan rahmat ke atas hatiku.
 *Bi-Nahrashin [الكلمة بعد الاسم غير واضحة] biha an-naru akhmadat [آخر قصير مطموس]*
 
 *Bi-dhamami nizhamin wa-bin-nuri wa-ad-dhiya'i*
-
-**[Terjemahan Indonesia]**
 
 Dengan hikmah Tuhan kami Yang Mahabijaksana, Dia pun menyempurnakan.
 
@@ -8713,13 +7726,11 @@ Dengan «Ḍamām Niẓām», dengan cahaya dan sinar.
 
 ---
 
-# BATCH 27 — Halaman PDF 84–85
+# JILID 27 — Halaman PDF 84–85
 
 ## Halaman PDF 84 (= cetak 83)
 
 ### Bagian 1 — Sambungan nama dan penyingkapan (larik 688–690)
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -8731,15 +7742,11 @@ Dengan «Ḍamām Niẓām», dengan cahaya dan sinar.
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Bi-Nahrashin [الكلمة التالية غير واضحة] bil-jinni [شظية مطبوعة قصيرة مطموسة] lam tusakhkhar [آخر الكلمة غير واضح]*
 
 *Bi-nuri jalalin [الصيغة التالية تشبه «برخ»] wa-sharnatin [اسم علم، تقريبي] [تتمة السطر غير مقروءة]*
 
 *Bi-Quddusin bi-rahubin bihi adh-dhulmatu injalat [آخر قصير مطموس]*
-
-**[Terjemahan Indonesia]**
 
 Dengan «Nahrash» [lafaz sesudahnya tidak terbaca], terhadap jin [fragmen pendek tidak jelas] yang belum ditundukkan [ujung larik samar].
 
@@ -8758,8 +7765,6 @@ Dengan Yang Mahakudus, dengan «Rahub», kegelapan tersingkap dengannya. [Ada pe
 ## Halaman PDF 85 (= cetak 84)
 
 ### Bagian 1 — Permohonan cahaya, kelapangan, dan perlindungan (larik 691–707)
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -8799,8 +7804,6 @@ Dengan Yang Mahakudus, dengan «Rahub», kegelapan tersingkap dengannya. [Ada pe
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Alā wa-qdi ya rabbi bin-nuri hajati*
 
 *Wa-ya ankh jaliyyan sari'an qad inqadat [«أنخ» قراءة اسم علم، وآخره غير واضح]*
@@ -8834,8 +7837,6 @@ Dengan Yang Mahakudus, dengan «Rahub», kegelapan tersingkap dengannya. [Ada pe
 *Bi-nassi hukmin qati'in [شظية قصيرة غير واضحة] as-sirri [آخر الكلمة غير مقروء]*
 
 *Wa-khallisni min kulli hawlin wa-shiddatin*
-
-**[Terjemahan Indonesia]**
 
 Wahai Tuhanku, penuhilah kebutuhanku dengan cahaya.
 
@@ -8909,13 +7910,11 @@ Bebaskanlah aku dari setiap ketakutan dan kesulitan.
 
 ---
 
-# BATCH 28 — Halaman PDF 85–87
+# JILID 28 — Halaman PDF 85–87
 
 ## Halaman PDF 85 (= cetak 84)
 
 ### Bagian 1 — Penutup doa pada halaman (larik 708)
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -8923,11 +7922,7 @@ Bebaskanlah aku dari setiap ketakutan dan kesulitan.
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Fa-anta raja'u al-'alamina wa-law [كلمة قصيرة بعد «ولو» غير واضحة] thami'at [الآخر مطموس، والفعل محتمل]*
-
-**[Terjemahan Indonesia]**
 
 Maka Engkaulah harapan seluruh alam, sekalipun [kata setelah «walau» tidak jelas] mengharapkan. [Penutup baris samar; bacaan kata kerja tentatif.]
 
@@ -8938,8 +7933,6 @@ Maka Engkaulah harapan seluruh alam, sekalipun [kata setelah «walau» tidak jel
 ## Halaman PDF 86 (= cetak 85)
 
 ### Bagian 1 — Doa rezeki, perlindungan, dan pembungkaman (larik 709–726)
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -8981,8 +7974,6 @@ Maka Engkaulah harapan seluruh alam, sekalipun [kata setelah «walau» tidak jel
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Wa-subba 'alayya ar-rizqa sabban rahmatan*
 
 *Wa-arsil lil-arzaqa bil-khayri ursilat [الفعل الأخير مقروء باحتمال]*
@@ -9018,8 +8009,6 @@ Maka Engkaulah harapan seluruh alam, sekalipun [kata setelah «walau» tidak jel
 *Wa-'attif quluba al-'alamina jami'ahum*
 
 *'Alayya wa-albisni qabulan [كلمة قصيرة غير واضحة] bi-shamlin [آخر الكلمة غير مقروء]*
-
-**[Terjemahan Indonesia]**
 
 Curahkanlah kepadaku rezeki sebagai curahan rahmat.
 
@@ -9099,19 +8088,13 @@ Kepadaku, kenakanlah penerimaan [lafaz pendek tidak jelas] secara menyeluruh [pe
 
 ### Bagian 1 — Doa atas keberkahan usaha (larik 727)
 
-**[Teks Arab Asli]**
-
 <div dir="rtl">
 
 وَبَارِكْ لَنَا اللَّهُمَّ فِي جَمْعِ كَسْبِنَا [لفظ قصير بعد «كسبنا» مطموس.]
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Wa-barik lana Allahumma fi jam'i kasbina [شظية ختامية قصيرة مطموسة]*
-
-**[Terjemahan Indonesia]**
 
 Berkahilah bagi kami, ya Allah, himpunan usaha dan penghasilan kami. [Ada fragmen pendek sesudah «kasbina» yang tidak terbaca.]
 
@@ -9121,13 +8104,11 @@ Berkahilah bagi kami, ya Allah, himpunan usaha dan penghasilan kami. [Ada fragme
 
 ---
 
-# BATCH 29 — Halaman PDF 87–88
+# JILID 29 — Halaman PDF 87–88
 
 ## Halaman PDF 87 (= cetak 86)
 
 ### Bagian 1 — Sambungan doa: pembukaan ikatan dan penolakan musuh (larik 728–743)
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -9165,8 +8146,6 @@ Berkahilah bagi kami, ya Allah, himpunan usaha dan penghasilan kami. [Ada fragme
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Wa-hul 'uquda as-sihri ya [اسم النداء غير واضح، وحروفه الأخيرة تشبه «أرنخت»]*
 
 *[سطر من أسماء طلسمية متصلة، وتسلسل حروفه غير متمايز بما لا يسمح بنقل صوتي موثوق]*
@@ -9198,8 +8177,6 @@ Berkahilah bagi kami, ya Allah, himpunan usaha dan penghasilan kami. [Ada fragme
 *Bi-qadadi [الشظية التالية الشبيهة باسم غير واضحة] [البقية مطموسة]*
 
 *[سطر من أسماء طلسمية، وآخره يشبه باحتمال «الشذيخ» و«بنوخ»]*
-
-**[Terjemahan Indonesia]**
 
 Lepaskanlah ikatan-ikatan sihir, wahai [nama seruan tidak terbaca; ujungnya menyerupai «arnakht»].
 
@@ -9271,8 +8248,6 @@ Baris penutup memuat nama-nama talismanik; beberapa huruf menyerupai «al-shadhi
 
 ### Bagian 1 — Sambungan nazham: nama dan penutup seruan (larik 744–747)
 
-**[Teks Arab Asli]**
-
 <div dir="rtl">
 
 بِشَنْخٍ شُمُوخٍ شَايِخٍ قَدْ تَشَخَّصَتْ
@@ -9285,8 +8260,6 @@ Baris penutup memuat nama-nama talismanik; beberapa huruf menyerupai «al-shadhi
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Bi-shankhin shumukhin shayikhin qad tashakhkhasat*
 
 *Abariju banukhin [الاسم التالي يشبه «ويشره»] [الآخر باحتمال «برخ»]*
@@ -9294,8 +8267,6 @@ Baris penutup memuat nama-nama talismanik; beberapa huruf menyerupai «al-shadhi
 *Shamarikhu bisharahi shuruhin [الفعل الأخير يشبه «تشلخت» باحتمال]*
 
 *Banjalikhu shanana wa-banukhu ba'daha*
-
-**[Terjemahan Indonesia]**
 
 Dengan «Shankh, Shumukh, Shayikh»—nama-nama invokatif—ia sungguh tampak/menjelma («qad tashakhkhasat»).
 
@@ -9317,13 +8288,11 @@ Dengan «Shankh, Shumukh, Shayikh»—nama-nama invokatif—ia sungguh tampak/me
 
 ---
 
-# BATCH 30 — Halaman PDF 88–89
+# JILID 30 — Halaman PDF 88–89
 
 ## Halaman PDF 88 (= cetak 87)
 
 ### Bagian 1 — Rangkaian nama dan permohonan (larik 748–760)
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -9355,8 +8324,6 @@ Dengan «Shankh, Shumukh, Shayikh»—nama-nama invokatif—ia sungguh tampak/me
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Wa-damukhu [الكلمة التالية تشبه «ينشخ»] biha al-kawnu [الآخر يشبه «عثرت»]*
 
 *Balikhu shalayu wa-qanulukhu ba'daha*
@@ -9382,8 +8349,6 @@ Dengan «Shankh, Shumukh, Shayikh»—nama-nama invokatif—ia sungguh tampak/me
 *Tawassaltu mawlana ilayka bi-sirriha*
 
 *Tawassaltu dha 'izzin bihi an-nasu ihtadat*
-
-**[Terjemahan Indonesia]**
 
 «Damūḥ» dan [lafaz yang menyerupai «Yanshūkh»]; melalui rangkaian ini, [kata tentang alam tampak], sedangkan penutup menyerupai «عطرت» (“menjadi harum”). Nama-namanya tidak ditafsirkan.
 
@@ -9443,8 +8408,6 @@ Aku memohon kepada Yang Maha Mulia; dengannya manusia mendapat petunjuk.
 
 ### Bagian 1 — Cahaya, huruf, dan permohonan kebutuhan (larik 761–767)
 
-**[Teks Arab Asli]**
-
 <div dir="rtl">
 
 نَقْدٌ كَوْكَبِيٌّ بِالِاسْمِ نُورًا بَهْجَةً
@@ -9463,8 +8426,6 @@ Aku memohon kepada Yang Maha Mulia; dengannya manusia mendapat petunjuk.
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Naqdun kawkabiyyun bi-l-ismi nuran bahjatan*
 
 *Sada ad-dahri wa-al-ayyam ya nuru [الآخر يشبه «جللت»]*
@@ -9478,8 +8439,6 @@ Aku memohon kepada Yang Maha Mulia; dengannya manusia mendapat petunjuk.
 *Bi-ali [اسم/شظية غير واضحة] bi-s-sibali [الكلمة التالية غير مقروءة] nasarat*
 
 *Fa-ya Hayyu ya Qayyumu asri' bi-hajati*
-
-**[Terjemahan Indonesia]**
 
 [Baris pembuka menyebut sesuatu yang menyerupai «naqd kawkabi», disertai «dengan Nama» dan lafaz «nūr/kemilau». Hubungan katanya tidak pasti karena susunan cetak bertaut.]
 
@@ -9513,13 +8472,11 @@ Wahai Yang Mahahidup, wahai Yang Maha Menegakkan, segerakanlah pemenuhan kebutuh
 
 ---
 
-# BATCH 31 — Halaman PDF 89–90
+# JILID 31 — Halaman PDF 89–90
 
 ## Halaman PDF 89 (= cetak 88)
 
 ### Bagian 1 — Huruf pembuka dan permohonan perlindungan (larik 768–777)
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -9545,8 +8502,6 @@ Wahai Yang Mahahidup, wahai Yang Maha Menegakkan, segerakanlah pemenuhan kebutuh
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Bi-sab'i mathanin min kitabika uhkimat*
 
 *Bi-Ta-Ha wa-Tasin wa-Yasin kun lana*
@@ -9566,8 +8521,6 @@ Wahai Yang Mahahidup, wahai Yang Maha Menegakkan, segerakanlah pemenuhan kebutuh
 *Jadhabat quluba al-'alamina [الآخر يشبه «نعبت»]*
 
 *Bi-alifin wa-lamin thumma mimin wa-ra'iha*
-
-**[Terjemahan Indonesia]**
 
 Dengan tujuh ayat yang diulang-ulang dari Kitab-Mu, [sesuatu] diteguhkan.
 
@@ -9615,8 +8568,6 @@ Dengan Alif dan Lām, kemudian Mīm dan bagian belakang/kelanjutannya. [Lafaz «
 
 ### Bagian 1 — Rahasia nama, ayat, dan huruf-huruf Kitab (larik 778–787)
 
-**[Teks Arab Asli]**
-
 <div dir="rtl">
 
 تَجَلَّتْ بِنُورِ الِاسْمِ وَالرُّوحُ قَدْ عَلَتْ
@@ -9641,8 +8592,6 @@ Dengan Alif dan Lām, kemudian Mīm dan bagian belakang/kelanjutannya. [Lafaz «
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Tajallat bi-nuri al-ismi wa-r-ruhu qad 'alat*
 
 *Bi-Qafin wa-Nunin thumma Sadin wa-ma intawa*
@@ -9662,8 +8611,6 @@ Dengan Alif dan Lām, kemudian Mīm dan bagian belakang/kelanjutannya. [Lafaz «
 *Bi-asma'ika al-'ulya bi-ayatin fussilat*
 
 *Da'awtuka ya Rabbahu haqqan [الكلمة الأخيرة تشبه «وأنتِ»]*
-
-**[Terjemahan Indonesia]**
 
 Ia tersingkap dengan cahaya Nama, dan ruh pun telah meninggi.
 
@@ -9709,13 +8656,11 @@ Aku menyeru-Mu, wahai Tuhanku, dengan sungguh-sungguh… [kata terakhir tampak s
 
 ---
 
-# BATCH 32 — Halaman PDF 90–91
+# JILID 32 — Halaman PDF 90–91
 
 ## Halaman PDF 90 (= cetak 89)
 
 ### Bagian 1 — Rajah, huruf, dan permohonan (larik 788–795)
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -9737,8 +8682,6 @@ Aku menyeru-Mu, wahai Tuhanku, dengan sungguh-sungguh… [kata terakhir tampak s
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Tawassaltu bi-l-ayati jam'an bi-ma hawat*
 
 *Thalatha 'isiyyin suffifat ba'da khatimin*
@@ -9754,8 +8697,6 @@ Aku menyeru-Mu, wahai Tuhanku, dengan sungguh-sungguh… [kata terakhir tampak s
 *Tushiru ila al-khayrati wa-r-rizqi jumi'at*
 
 *Wa-ha'u shinin thumma wawun muqawwasun*
-
-**[Terjemahan Indonesia]**
 
 Aku memohon dengan ayat-ayat secara keseluruhan, dengan segala kandungan yang dimilikinya.
 
@@ -9795,8 +8736,6 @@ Hā’, Shīn, kemudian Wāw yang melengkung. [Nama huruf dan deskripsi bentuk d
 
 ### Bagian 1 — Penutup bentuk dan doa dengan nama-nama Allah (larik 796–807)
 
-**[Teks Arab Asli]**
-
 <div dir="rtl">
 
 كَأُنْبُوبِ حِجَامٍ مِنَ السِّرِّ [الكلمة الأخيرة تبدو «النوت»]
@@ -9825,8 +8764,6 @@ Hā’, Shīn, kemudian Wāw yang melengkung. [Nama huruf dan deskripsi bentuk d
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Ka-unbubi hijamin mina as-sirri [الكلمة الأخيرة تشبه «النوت»]*
 
 *Wa-akhiruha mithla al-awa'ili khatimun*
@@ -9850,8 +8787,6 @@ Hā’, Shīn, kemudian Wāw yang melengkung. [Nama huruf dan deskripsi bentuk d
 *Wa-bi-l-Hasani al-a'zhamayni wa-man hawat*
 
 *Wa-al-ali al-kirami ya Rabbi kullahum*
-
-**[Terjemahan Indonesia]**
 
 Seperti tabung bekam, dari rahasia [kata terakhir tampak seperti «النوت»; tidak diterjemahkan pasti].
 
@@ -9905,13 +8840,11 @@ Dan dengan seluruh keluarga yang mulia, wahai Tuhanku.
 
 ---
 
-# BATCH 33 — Halaman PDF 91–92
+# JILID 33 — Halaman PDF 91–92
 
 ## Halaman PDF 91 (= cetak 90)
 
 ### Bagian 1 — Penutup doa dan permohonan ampun (larik 808–812)
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -9927,8 +8860,6 @@ Dan dengan seluruh keluarga yang mulia, wahai Tuhanku.
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Wa-bi-l-hawra'i al-batuli [الكلمة التالية تشبه «راسلها»] tashaffa'at*
 
 *Wa-astawdi'u Allaha al-'azhima sa'adati*
@@ -9938,8 +8869,6 @@ Dan dengan seluruh keluarga yang mulia, wahai Tuhanku.
 *Wa-'afwan 'ani al-athami wa-r-rijsi kullihi*
 
 *Wa-min kulli dhanbin fi as-sahifati [الآخر يشبه «تبت»]*
-
-**[Terjemahan Indonesia]**
 
 Dengan al-Ḥawrā’ al-Batūl, [kata sesudahnya menyerupai «رسلها»], ia memohon syafaat. [Susunan persisnya samar.]
 
@@ -9966,8 +8895,6 @@ Dan dari setiap dosa dalam catatan [kata terakhir menyerupai «تبت»; makna b
 ## Halaman PDF 92 (= cetak 91)
 
 ### Bagian 1 — Perlindungan, penundukan, dan doa penutup (larik 813–827)
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -10003,8 +8930,6 @@ Dan dari setiap dosa dalam catatan [kata terakhir menyerupai «تبت»; makna b
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Wa-mahwu dhunubi wa-al-khataya bi-asriha*
 
 *Wa-thabitu 'afwin fi al-kitabi takamalat*
@@ -10034,8 +8959,6 @@ Dan dari setiap dosa dalam catatan [kata terakhir menyerupai «تبت»; makna b
 *'Alayka bi-taqwa Allahi tanju mina al-falati*
 
 *Biha al-'ahdu wa-al-mithaqu wa-al-wa'du wa-al-wafa'*
-
-**[Terjemahan Indonesia]**
 
 Dan penghapusan dosa-dosaku serta seluruh kesalahan.
 
@@ -10101,13 +9024,11 @@ Dengan itu terdapat perjanjian, ikrar, janji, dan kesetiaan.
 
 ---
 
-# BATCH 34 — Halaman PDF 92–93
+# JILID 34 — Halaman PDF 92–93
 
 ## Halaman PDF 92 (= cetak 91)
 
 ### Bagian 1 — Dua larik penutup rangkaian sebelumnya (larik 828–829)
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -10117,13 +9038,9 @@ Dengan itu terdapat perjanjian, ikrar, janji, dan kesetiaan.
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Wa-bi-l-miski wa-al-kafuri [الكلمة التالية تشبه «النذخ/النفخ»] khutimat*
 
 *Wa-bi-ayati [الكلمة تشبه «شمسين»] wa-sinin tashaffa'at*
-
-**[Terjemahan Indonesia]**
 
 Dengan kesturi, kapur barus, dan [lafaz sesudahnya samar], rangkaian itu ditutup.
 
@@ -10138,8 +9055,6 @@ Dengan ayat-ayat [lafaz menyerupai «Shamsayn»] dan Sīn, ia memohon syafaat. [
 ## Halaman PDF 93 (= cetak 92)
 
 ### Bagian 1 — Penutup nazham dan faedah nama yang disebut (larik 830–844)
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -10175,8 +9090,6 @@ Dengan ayat-ayat [lafaz menyerupai «Shamsayn»] dan Sīn, ia memohon syafaat. [
 
 </div>
 
-**[Transliterasi Latin Fonetik]**
-
 *Biha al-asraru [الكلمة التالية تشبه «أعظم»] [الآخر يشبه «تسجمت»]*
 
 *Wa-ba'du salla Allahu Rabbi da'iman*
@@ -10206,8 +9119,6 @@ Dengan ayat-ayat [lafaz menyerupai «Shamsayn»] dan Sīn, ia memohon syafaat. [
 *Wa-in kana masru'an mina al-jinni waqi'an*
 
 *[بعد «نصب حميم» العبارة غير واضحة؛ ويظهر «جنة العون» وآخر يشبه «تنطمت»]*
-
-**[Terjemahan Indonesia]**
 
 Dengan itu, rahasia-rahasia [kata berikutnya menyerupai «agung»]… [akhir baris samar].
 
@@ -10273,13 +9184,11 @@ Jika seseorang jatuh tak berdaya karena gangguan jin,
 
 ---
 
-# BATCH 35 — Halaman PDF 94–103
+# JILID 35 — Halaman PDF 94–103
 
 ## Halaman PDF 94 (= halaman cetak 93)
 
 ### Bagian 1 — Teks Arab yang terbaca
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -10303,8 +9212,6 @@ Jika seseorang jatuh tak berdaya karena gangguan jin,
 
 ### Bagian 2 — Terjemahan Indonesia
 
-**[Terjemahan Indonesia]**
-
 **Mandal Abu Dībājah.** Ini termasuk khazanah rahasia yang hanya sedikit orang mendalaminya, dan caranya telah tersusun dengan baik. Naskah menyebutnya untuk menyingkap perkara tersembunyi, mendatangkan atau membatalkan sihir, serta menangani penyakit kronis yang sulit diatasi. Jika menginginkan hal itu, gambarlah cincin/rajah Abu Dībājah yang akan dijelaskan pada ibu jari seorang anak laki-laki yang belum balig atau pada telapak tangannya. Kemudian oleskan minyak dari kayu gaharu yang baik [ada kata pendek sesudahnya yang tidak jelas] dengan minyak wangi India (nadd al-Hindī). Bacalah mantra tujuh kali sementara anak itu memandang minyak pada telapak tangannya. Inilah mantranya:
 
 Mantra yang tercetak dimulai dengan pengulangan «يعوش» tiga kali dan dua kali «بعروش», lalu rangkaian yang beberapa hurufnya tampak sebagai «بطمش، تريش، هبش». Sisanya saling bertaut atau pudar, sehingga tidak ditransliterasikan sebagai bacaan pasti.
@@ -10321,15 +9228,11 @@ Di akhir halaman, naskah memerintahkan agar tulisan/rajah yang dibaca sesudah ma
 
 ### Bagian 1 — Rajah pertama
 
-**[Terjemahan Indonesia]**
-
 Di bagian atas halaman terdapat rajah berbentuk bidang empat sisi dengan garis-garis silang dan tanda pada tepi. Di tengahnya tampak seruan yang menyerupai «أجب يا أبي دياج». Keterangan di bawah gambar berbunyi:
 
 “Dan inilah cincin/rajahnya.” Sebagian tulisan kecil di tepi gambar terlalu samar untuk dibaca dengan aman.
 
 ### Bagian 2 — «المندل الثاني» — Mandal kedua
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -10343,15 +9246,11 @@ Di bagian atas halaman terdapat rajah berbentuk bidang empat sisi dengan garis-g
 
 </div>
 
-**[Terjemahan Indonesia]**
-
 **Terjemahan:** Judulnya “Mandal kedua”. Naskah memerintahkan penulisan *wafq* (susunan kotak huruf/angka) pada telapak tangan kanan seorang anak laki-laki yang belum balig. Kotak 3×3 pada pindaian, dibaca dari kanan ke kiri per baris, berisi: **ب ط د / ز هـ ج / و ا ح**. Ayat yang dikutip dan ditulis pada dahi serta secarik kertas ialah: “Sungguh, engkau dahulu lalai tentang hal ini; maka Kami singkapkan penutupmu, sehingga penglihatanmu pada hari ini tajam.” (Qāf 50:22.) Pada kutipan kedua, kata pembuka ayat tampak disalin dengan tambahan «فقد» dalam sumber.
 
 ## Halaman PDF 96 (= halaman cetak 95)
 
 ### Bagian 1 — Kelanjutan mandal kedua
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -10365,13 +9264,9 @@ Di bagian atas halaman terdapat rajah berbentuk bidang empat sisi dengan garis-g
 
 </div>
 
-**[Terjemahan Indonesia]**
-
 **Terjemahan:** Letakkan kertas pada sisi anak, kemudian bacakan sumpah/mantra sampai orang yang mengamati melihat pelayan gaib atau tandanya. Naskah mengatakan agar pengamat berada dalam keadaan rileks dengan mata terpejam. Mantranya dimulai dengan pengulangan kata seperti “ṭalq” dan nama-nama yang tidak lazim, lalu berisi doa dan pertanyaan kepada pelayan gaib mengenai kebutuhan. Di dalamnya dikutip pula: “Sesungguhnya segala yang kalian seru selain Allah tidak akan dapat menciptakan seekor lalat sekalipun mereka bersatu untuk itu.” (Al-Ḥajj 22:73.) Bagian sesudahnya memuat ayat dan kata-kata lain; yang masih terbaca antara lain “Sesungguhnya Allah Mahakuasa atas segala sesuatu” serta penyebutan malaikat dan jin. Ejaan mantra yang terhubung dan tidak baku tidak dipulihkan dengan tebakan.
 
 ### Bagian 2 — «المندل الثالث» — Mandal ketiga
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -10383,15 +9278,11 @@ Di bagian atas halaman terdapat rajah berbentuk bidang empat sisi dengan garis-g
 
 </div>
 
-**[Terjemahan Indonesia]**
-
 **Terjemahan:** “Mandal ketiga.” Menurut naskah, mandal ini digunakan untuk menyingkap sesuatu pada telapak tangan, kuku, cangkir, air, cermin, atau pasir, dengan lingkaran hitam dari minyak wangi dan dupa. Kata setelah «وتكتب أعمال» tidak jelas. Ayat Qāf 50:22 ditulis pada sisi anak, kemudian mantra dibacakan sementara anak memandang tempat minyak sampai ia berkata bahwa ia melihat sesuatu. Pada saat itu, perintahkan ia menyampaikan salam kepada mereka. Jika mereka membalas salam, anak itu memberitahukan bahwa salam telah dibalas; lalu ajukan pertanyaan yang diinginkan, dan menurut teks mereka akan menjawab. Setelah instruksi ini tercetak sederet nama dan mantra; rangkaiannya dibuka dengan pengulangan yang menyerupai «أعين» (“mata-mata”) dan beberapa nama lain.
 
 ## Halaman PDF 97 (= halaman cetak 96)
 
 ### Bagian 1 — Teks Arab yang terbaca
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -10407,8 +9298,6 @@ Di bagian atas halaman terdapat rajah berbentuk bidang empat sisi dengan garis-g
 
 ### Bagian 2 — Terjemahan Indonesia
 
-**[Terjemahan Indonesia]**
-
 Disebutkan bahwa apabila para raja melihat orang yang mengamati, mereka menyuruhnya menyapu dan memercikkan air. Mandal ini, menurut teks, mempunyai banyak ragam penggunaan yang mengherankan akal dan memukau hati. Karena itu, rahasiakan perkara tersebut dari orang lain sampai memperoleh manfaat darinya. Jika hendak menggunakan salah satu ragam mandal ini, tulislah rajah dan cincin yang telah dijelaskan pada bagian penyingkapan, tulislah pula ayat Qāf 50:22, lalu ucapkan mantra berikut tujuh kali:
 
 “Aku menyumpah kalian, wahai roh-roh ruhani yang tunduk kepada Tuhan seluruh makhluk, demi Dia yang menciptakan kalian dalam berbagai tahap dan menempatkan di tangan kalian [lafaz tidak jelas] yang menyalakan [lafaz tidak jelas] api; demi [nama-nama berurutan], dan demi Dia yang membuat akal-akal tunduk serta memukau hati…” Sesudahnya terdapat rangkaian nama mantra yang panjang, sebagian bukan kosakata Arab biasa atau hurufnya saling menyambung. Beberapa gugus yang tampak ialah «كموس»، «أنوارش»، «أنابيل» dan «آميا»; bacaan lengkapnya tidak dapat dipastikan.
@@ -10419,13 +9308,9 @@ Teks menyatakan bahwa setelah mantra dibaca tujuh kali, ketujuh raja akan hadir.
 
 ### Bagian 1 — Rajah dan keterangan
 
-**[Terjemahan Indonesia]**
-
 Halaman ini menampilkan dua baris simbol/tulisan tangan di atas sebuah kotak 3×3 yang berisi angka atau lambang. Keterangan di bawahnya berbunyi «وهذا هو الطلسم والخاتم» — “Inilah rajah dan cincin.” Huruf dan angka pada gambar tangan tidak seluruhnya dapat dibedakan, maka gambar dipertahankan sebagai sumber visual.
 
 ### Bagian 2 — «الاختفاء» — Menyembunyikan diri
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -10437,15 +9322,11 @@ Halaman ini menampilkan dua baris simbol/tulisan tangan di atas sebuah kotak 3×
 
 </div>
 
-**[Terjemahan Indonesia]**
-
 **Terjemahan:** “Menyembunyikan diri.” Jika ingin agar orang-orang tidak melihatmu ketika bersama lawan mereka, tulislah rajah berikut dan ikatkan pada sayap seekor burung. Tuliskan bersamanya nama lawan itu atau orang yang tidak ingin mereka lihat berjalan bersamamu. Pandanglah burung itu; menurut teks, mereka tidak akan melihatmu bersamanya. “Inilah yang ditulis.” Setelahnya terdapat rajah tulisan tangan; huruf dan lambangnya bertaut sehingga tidak dapat ditranskripsikan dengan yakin.
 
 ## Halaman PDF 99 (= halaman cetak 98)
 
 ### Bagian 1 — Teks Arab yang terbaca
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -10459,8 +9340,6 @@ Halaman ini menampilkan dua baris simbol/tulisan tangan di atas sebuah kotak 3×
 
 ### Bagian 2 — Terjemahan Indonesia
 
-**[Terjemahan Indonesia]**
-
 **Memecah batu berat dan memindahkannya.** Jika ingin mengangkat batu-batu besar agar tidak menghalangi pengambilan sesuatu di baliknya, tulislah *musabba‘* (rajah tujuh) berikut pada kulit rusa yang bersih dengan za‘faran dan henna. Bacakan doa al-Jaljalūtiyyah di atasnya tiga kali setiap hari selama dua puluh satu hari sambil duduk dekat batu. Dupa yang digunakan saat membaca ialah kemenyan Jawa, cendana, dan gaharu. Setelah jumlah bacaan dan masa itu selesai, teks menyatakan bahwa batu akan berpindah dari tempatnya ke tempat yang diinginkan, dengan izin Allah.
 
 Di bawahnya terdapat tabel rajah 7×7. Sel-selnya memuat huruf, tanda berbentuk garis, silang, dan lambang bintang yang berulang. Karena beberapa lambang merupakan tulisan tangan dan tidak dapat dibaca sebagai huruf Arab secara pasti, tabel tidak dialihaksarakan; keterangan cetaknya berbunyi, “Inilah rajah tujuh yang dijanjikan.”
@@ -10468,8 +9347,6 @@ Di bawahnya terdapat tabel rajah 7×7. Sel-selnya memuat huruf, tanda berbentuk 
 ## Halaman PDF 100 (= halaman cetak 99)
 
 ### Bagian 1 — «نسف تل قديم» — Meruntuhkan gundukan tua
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -10479,13 +9356,9 @@ Di bawahnya terdapat tabel rajah 7×7. Sel-selnya memuat huruf, tanda berbentuk 
 
 </div>
 
-**[Terjemahan Indonesia]**
-
 **Terjemahan:** Jika ingin meruntuhkan sebuah gundukan tua, tulislah nama empat “kepala/penjuru”—«مازر، كطم، طلك، قسورة»—pada empat batu yang diambil dari tepian empat sungai. Ambillah [kata yang tampak seperti «خرص»] yang dibuat dari empat [kata sesudahnya tidak jelas], lalu letakkan di tengah tempat yang hendak diruntuhkan. Taruh empat batu di keempat sudutnya. Bacalah mantra al-Jaljalūtiyyah yang dimaksud dua puluh delapan kali sambil membakar kemenyan dan ketumbar. Pembacaan dilakukan dalam satu sesi, hanya disela untuk menunaikan salat wajib. Setelah jumlah itu selesai, teks menyatakan gundukan akan runtuh. Beberapa nama bahan/perangkat pada cetakan tidak jelas dan dipertahankan dalam bentuk catatan, bukan ditebak.
 
 ### Bagian 2 — «لإظهار ضوء النهار بالليل» — Menampakkan cahaya siang pada malam hari
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -10495,15 +9368,11 @@ Di bawahnya terdapat tabel rajah 7×7. Sel-selnya memuat huruf, tanda berbentuk 
 
 </div>
 
-**[Terjemahan Indonesia]**
-
 **Terjemahan:** **Menampakkan cahaya siang pada malam hari.** Jika ingin menampilkan salah satu perkara ajaib—yakni menerangi malam dengan cahaya siang—ambil satu mitsqal sandarus, satu mitsqal za‘faran yang dimasak, satu mitsqal «العزة الحمراء» (nama bahan sebagaimana tercetak), satu mitsqal getah Arab merah tanpa bagian putih, dan dua mitsqal biji «البيروح» (nama bahan kurang jelas). Tumbuk semua bahan hingga halus. Tambahkan satu mitsqal air «اللقاح» (istilah bahan sebagaimana tercetak), lalu dua mitsqal susu perempuan; jika tidak ada, gunakan susu domba sebagai gantinya. Letakkan campuran itu di bawah matahari selama satu hari penuh, dari terbit hingga terbenam. Pada malam hari, letakkan di bawah bintang-bintang sejak awal malam sampai mendekati terbit matahari.
 
 ## Halaman PDF 101 (= halaman cetak 100)
 
 ### Bagian 1 — Kelanjutan resep pada halaman sebelumnya
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -10513,15 +9382,11 @@ Di bawahnya terdapat tabel rajah 7×7. Sel-selnya memuat huruf, tanda berbentuk 
 
 </div>
 
-**[Terjemahan Indonesia]**
-
 **Terjemahan:** Setelah itu, ambillah sepotong kain dari pakaian baru. Dengan bahan campuran yang telah disebut, gambarlah sosok kuda bertanduk—pada cetakan disebut «فرس قرن»—dengan dua tanduk besar pada tempat sayap dan ekor panjang. Bentuknya memiliki dua kepala dan dua mata; pada tempat surainya ada rambut tebal, sebagian terurai dan sebagian tegak. Warnai kuda itu hijau. Naskah mensyaratkan bahwa zodiak yang sedang terbit saat menggambar adalah Sagittarius (al-Qaws).
 
 Setelah menggambarnya, letakkan kain itu di bawah matahari tanpa menunda sampai kering. Ambil empat keping kaca yang diberi warna merah; teks menambahkan bahwa empat batu permata juga dapat digunakan. Ikat satu keping pada tiap sudut kain bergambar dengan benang sutra merah, kuat dan rapat. Gantung kain beserta benda-benda yang menyertainya pada langit-langit sebuah ruangan luas, dengan benang atau perekat. Bakar dupa yang terdiri atas lumut «الأشنة», sandarus, kulit kemenyan, kulit pistachio, murbei, dan kenari—masing-masing dua dirham. Asapi ruangan, lalu tutup pintunya rapat-rapat sampai asap memenuhi ruang; jangan biarkan siapa pun masuk.
 
 ### Bagian 2 — Kelanjutan
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -10529,13 +9394,9 @@ Setelah menggambarnya, letakkan kain itu di bawah matahari tanpa menunda sampai 
 
 </div>
 
-**[Terjemahan Indonesia]**
-
 **Terjemahan:** Ketika suasana telah gelap, gantungkan pada pintu ruangan [ada kata pendek yang tidak jelas] berwarna merah. Pintu dibiarkan tertutup setelah tirai diturunkan di belakangnya. Naskah menyatakan bahwa ruangan akan tampak bercahaya seperti siang, tetapi bukan seperti cahaya matahari atau lampu. Jika ingin memperlihatkannya kepada orang-orang yang hadir, angkat tirainya, lalu tutup pintu dari dalam; mereka akan melihat cahaya di dalam ruangan. Kata pendek setelah «على باب البيت» samar pada cetakan.
 
 ### Bagian 3 — «معرفة الأخبار» — Mengetahui berita
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -10547,15 +9408,11 @@ Setelah menggambarnya, letakkan kain itu di bawah matahari tanpa menunda sampai 
 
 </div>
 
-**[Terjemahan Indonesia]**
-
 **Terjemahan:** **Mengetahui berita.** Ini adalah rajah yang, menurut naskah, berguna untuk memperoleh berita: tulislah, letakkan di bawah kepala, dan lakukan dalam keadaan badan serta pakaian suci; tempatnya juga hendaknya suci. Berbaringlah pada sisi kanan. Naskah menyatakan bahwa dalam mimpi akan datang seseorang yang memberitahukan segala hal yang diinginkan. Gambar di bawahnya berupa persegi panjang dengan huruf/angka di sekeliling dan tulisan tangan di dalamnya. Bacaan terdekat untuk tulisan di bagian dalam ialah “tulislah nama orang yang ingin engkau ketahui tentangnya”; beberapa kata tidak terbaca dengan pasti.
 
 ## Halaman PDF 102 (= halaman cetak 101)
 
 ### Bagian 1 — Teks Arab
-
-**[Teks Arab Asli]**
 
 <div dir="rtl">
 
@@ -10571,8 +9428,6 @@ Setelah menggambarnya, letakkan kain itu di bawah matahari tanpa menunda sampai 
 
 ### Bagian 2 — Terjemahan Indonesia
 
-**[Terjemahan Indonesia]**
-
 **Rasa aman dan perlindungan dari musuh.** Naskah menyebut doa berikut untuk dibaca ketika berhadapan dengan musuh, agar aman dari kejahatan dan tipu daya mereka serta berada dalam penjagaan dan pemeliharaan Allah. Inilah bacaannya:
 
 “Dengan nama Allah Yang Maha Pengasih, Maha Penyayang. Aku berlindung dalam naungan kelembutan Allah, dengan kelembutan karya Allah dan keindahan perlindungan Allah. Aku masuk ke dalam penjagaan Allah dan memohon syafaat melalui Rasulullah, demi kekalnya kerajaan Allah. Tiada daya dan kekuatan kecuali dengan Allah Yang Mahatinggi lagi Mahaagung.
@@ -10583,23 +9438,17 @@ Catatan: nama-nama invokatif pada awal paragraf dan satu kata sesudah «من ي�
 
 ### Bagian 3 — Penutup halaman pada sumber
 
-**[Teks Arab Asli]**
-
 <div dir="rtl">
 
 تَمَّ بِحَمْدِ اللهِ
 
 </div>
 
-**[Terjemahan Indonesia]**
-
 “Selesai dengan puji syukur kepada Allah.”
 
 ## Halaman PDF 103 (= halaman cetak 102)
 
 ### Bagian 1 — «الفهرس» (Indeks)
-
-**[Terjemahan Indonesia]**
 
 Halaman terakhir memuat daftar isi, bukan lanjutan prosa. Terjemahan judul dan nomor halaman yang tercetak:
 
@@ -10646,7 +9495,5 @@ Halaman terakhir memuat daftar isi, bukan lanjutan prosa. Terjemahan judul dan n
 | 99 | لإظهار ضوء النهار بالليل | Menampakkan cahaya siang pada malam hari |
 | 100 | معرفة الأخبار | Mengetahui berita |
 | 101 | الأمان والحفظ من الأعداء | Rasa aman dan perlindungan dari musuh |
-
-**[Terjemahan Indonesia]**
 
 **Penutup sumber:** halaman PDF 102 (cetak 101) berakhir dengan «تم بحمد الله» — “Selesai, dengan puji syukur kepada Allah.” Halaman PDF 103 adalah indeks, sehingga tidak ada teks kitab sesudahnya.

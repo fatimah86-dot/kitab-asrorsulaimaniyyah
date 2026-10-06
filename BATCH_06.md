@@ -3,16 +3,6 @@
 > **الأسرار السليمانية في العلوم الروحانية** — Dr. Abdullah al-Jundi · al-Mathba'ah ats-Tsaqafiyyah, Bairut
 > Sumber: `kitab/asrorul-sulaimaniyah.pdf` · Edisi kajian · Batch 6 dari 21 (hal. PDF 26–30)
 
-**Catatan penyunting (berlaku untuk seluruh batch):**
-
-- Penomoran: 1 halaman PDF = 1 halaman cetak. PDF hal. 1 = sampul; PDF hal. 2 = cetak 1; dan seterusnya (cetak = PDF − 1). Header berjalan dan footer (nomor telepon penulis) bukan isi kitab dan tidak diterjemahkan.
-- Teks cetak tidak berharakat. Harakat, tanda baca, dan transliterasi ditambahkan oleh AI, bukan dari naskah; mohon dikoreksi nahwu/sharaf.
-- Ejaan cetak tidak baku (ى/ه/ا) disesuaikan ke ejaan baku agar harakat bisa diberikan. Salah cetak atau susunan janggal tidak diperbaiki diam-diam: lafaz dipertahankan menurut cetakan dan disertai catatan deskriptif.
-- Transliterasi mengikuti bacaan washal (sambung): i'rab dibaca di tengah kalimat, waqf (tanpa i'rab/tanwin) di akhir kalimat atau koma. ث=ts, ذ=dz, ظ=zh, ض=dh, ص=sh, ط=th, ش=sy; tanda ' = hamzah/'ain.
-- Nama-nama non-Arab (nama malaikat/seruan) tidak diterjemahkan; harakat atau pelafalan yang belum pasti diberi keterangan, sementara konsonan cetak dipertahankan.
-- Edisi kajian: teks diterjemahkan sebagai dokumen; klaim kitab disampaikan sebagai klaim penulis, bukan anjuran praktik.
-- Perhalus batch (sama dengan BATCH 01–05): teks Arab dinormalisasi NFKC, lalu `arabic_reshaper` (`delete_harakat=False`) dan `bidi.get_display` dipakai sebagai pemeriksa — huruf Arab tersambung 100% (bentuk kontekstual utuh, harakat tidak hilang); potongan rajah disimpan 300 DPI (metadata) berlatar putih dengan bingkai emas `#c59b27`.
-
 ---
 
 ## Halaman PDF 26 (= cetak 25)

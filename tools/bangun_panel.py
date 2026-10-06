@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""Edisi Panel Kartu Modern untuk Kitab Asraru Sulaimaniyyah.
+"""Galeri Kitab Hikmah Klasik Kuno untuk Kitab Asraru Sulaimaniyyah.
 
 Membaca BATCH_*.md di akar repo, lalu membangun:
   preview.html                   pratinjau web (satu kartu per halaman PDF)
@@ -42,9 +42,9 @@ EMAS_RGB = (0xC5 / 255, 0x9B / 255, 0x27 / 255)
 MARGIN = 56.7  # 2 cm dalam poin
 
 LABEL_BLOK = {
-    "ar": "Teks Arab Asli",
-    "la": "Transliterasi Latin Fonetik",
-    "id": "Terjemahan Indonesia",
+    "ar": "",
+    "la": "",
+    "id": "",
     "syarah": "Syarah & Penjelasan",
     "faedah": "Faedah / Keterangan Praktik",
 }
@@ -56,9 +56,9 @@ KIND = {
     "Faedah": "faedah",
 }
 LABEL_MD = {
-    "ar": "Teks Arab Asli",
-    "la": "Transliterasi Latin Fonetik",
-    "id": "Terjemahan Indonesia",
+    "ar": "",
+    "la": "",
+    "id": "",
     "syarah": "Syarah",
     "faedah": "Faedah",
 }
@@ -149,8 +149,6 @@ def _parse_batch_lampiran(path: Path, batch: dict) -> dict:
                 batch["judul"] = baris[2:].strip()
             elif baris.startswith("> "):
                 batch["intro"].append(baris[2:].strip())
-            elif baris.startswith("- "):
-                batch["catatan"].append(baris[2:].strip())
             continue
         teks = baris.strip()
         if bagian is None:
@@ -192,7 +190,7 @@ def parse_batch(path: Path) -> dict:
     m = RE_BERKAS.match(path.name)
     if not m:
         raise ValueError(f"nama berkas bukan BATCH_NN.md: {path.name}")
-    batch = {"berkas": path.name, "nomor": int(m.group(1)), "judul": "", "intro": [], "catatan": [], "halaman": []}
+    batch = {"berkas": path.name, "nomor": int(m.group(1)), "judul": "", "intro": [], "halaman": []}
     if batch["nomor"] == 35:
         return _parse_batch_lampiran(path, batch)
     halaman = bagian = blok = None
@@ -253,8 +251,6 @@ def parse_batch(path: Path) -> dict:
                 batch["judul"] = baris[2:].strip()
             elif baris.startswith("> "):
                 batch["intro"].append(baris[2:].strip())
-            elif baris.startswith("- "):
-                batch["catatan"].append(baris[2:].strip())
             continue
         if blok is not None:
             buf.append(baris)
@@ -358,7 +354,9 @@ def _blok_html(blok: dict) -> str:
             isi.append(f'<p class="{"id-h" if kepala else "id-p"}">{inline(p["text"])}</p>')
     tutup_daftar()
     arah = ' dir="rtl" lang="ar"' if kind == "ar" else ""
-    return f'<div class="lbl">{esc(LABEL_BLOK[kind])}</div><div class="blok blok-{kind}"{arah}>{"".join(isi)}</div>'
+    lbl = LABEL_BLOK[kind]
+    kepala_label = f'<div class="lbl">{esc(lbl)}</div>' if lbl else ""
+    return f'{kepala_label}<div class="blok blok-{kind}"{arah}>{"".join(isi)}</div>'
 
 
 def _gambar_html(item: dict, mode: str) -> str:
@@ -376,7 +374,7 @@ def _kartu_html(batch: dict, h: dict, mode: str = "web") -> str:
     lencana = [f"Halaman PDF {h['pdf']}"]
     if h["label"]:
         lencana.append(lencana_halaman(h))
-    lencana.append(f"Batch {batch['nomor']:02d}")
+    lencana.append(f"Jilid {batch['nomor']:02d}")
     kepala = "".join(f'<span class="lencana">{esc(x)}</span>' for x in lencana)
     bagian_html: list[str] = []
     for b in h["bagian"]:
@@ -393,7 +391,7 @@ def _unit_kartu_pdf(batch: dict, h: dict) -> list[str]:
     lencana = [f"Halaman PDF {h['pdf']}"]
     if h["label"]:
         lencana.append(lencana_halaman(h))
-    lencana.append(f"Batch {batch['nomor']:02d}")
+    lencana.append(f"Jilid {batch['nomor']:02d}")
     awalan = f'<p class="kartu-kepala">{esc(" · ".join(lencana))}</p>'
     unit: list[str] = []
     for b in h["bagian"]:
@@ -412,15 +410,6 @@ def _unit_kartu_pdf(batch: dict, h: dict) -> list[str]:
             awalan = ""
     return unit
 
-
-def _catatan_html(batches: list[dict], mode: str) -> str:
-    butir = batches[0]["catatan"] if batches else []
-    if not butir:
-        return ""
-    li = "".join(f"<li>{inline(x)}</li>" for x in butir)
-    if mode == "web":
-        return f'<details class="catatan" open><summary>Catatan penyunting</summary><ul>{li}</ul></details>'
-    return f'<div class="catatan"><p><strong>Catatan penyunting</strong></p><ul>{li}</ul></div>'
 
 
 FACE_WEB = "".join(
@@ -445,9 +434,6 @@ body{margin:0;background:#e9efea;color:#1f2933;font-family:'Amiri',Georgia,'Time
 .hero-info{font:13px/1.55 system-ui,-apple-system,'Segoe UI',Roboto,sans-serif;margin-top:12px;color:#d7e6dd}
 .hero-info a{color:#f3d57c}
 main{max-width:880px;margin:0 auto;padding:6px 12px 40px}
-.catatan{background:#faf7ef;border:1px dashed var(--emas);border-radius:10px;padding:10px 16px;margin:18px 0;font:14px/1.6 system-ui,-apple-system,'Segoe UI',Roboto,sans-serif}
-.catatan summary{cursor:pointer;font-weight:700;color:var(--hijau)}
-.catatan ul{margin:.5em 0 .2em 1.1em;padding:0}
 .kartu{background:#fff;border-radius:16px;box-shadow:0 2px 12px rgba(13,74,54,.14);margin:22px 0;overflow:hidden}
 .kartu-kepala{background:var(--krem);border-bottom:2px solid var(--emas);padding:10px 14px;display:flex;flex-wrap:wrap;gap:8px;font:700 13px/1 system-ui,-apple-system,'Segoe UI',Roboto,sans-serif;color:var(--hijau)}
 .lencana{background:#fff;border:1px solid var(--emas);border-radius:999px;padding:5px 11px}
@@ -483,8 +469,6 @@ p { margin: 0 0 3pt 0; }
 .banner { background-color: #0d4a36; border-bottom: 4pt solid #c59b27; padding: 8pt 12pt; margin-bottom: 8pt; }
 .banner-ar { font-size: 30pt; color: #f3d57c; direction: rtl; text-align: center; line-height: 1.5; margin: 0; }
 .banner-sub { color: #f4eee2; font-size: 10pt; text-align: center; margin: 0; }
-.catatan { background-color: #faf7ef; border: 1pt dashed #c59b27; padding: 5pt 10pt; margin: 6pt 0 10pt 0; font-size: 8.5pt; }
-.catatan ul { margin: 2pt 0 0 0; }
 .kartu-kepala { background-color: #f4eee2; border-bottom: 1.5pt solid #c59b27; padding: 4pt 8pt; margin: 0 0 4pt 0; font-weight: bold; color: #0d4a36; font-size: 10pt; }
 .bagian-judul { color: #0d4a36; font-size: 11.5pt; font-weight: bold; margin: 8pt 0 1pt 0; }
 .lbl { font-size: 7.5pt; color: #6b7280; margin: 4pt 0 1pt 2pt; }
@@ -512,7 +496,7 @@ p { margin: 0 0 3pt 0; }
 def render_preview(batches: list[dict], nama_berkas_pdf: str | None) -> str:
     a, z = rentang_pdf(batches)
     nomor = [b["nomor"] for b in batches]
-    batch_txt = f"Batch {nomor[0]:02d}" if len(nomor) == 1 else f"Batch {nomor[0]:02d}–{nomor[-1]:02d}"
+    batch_txt = f"Jilid {nomor[0]:02d}" if len(nomor) == 1 else f"Jilid {nomor[0]:02d}–{nomor[-1]:02d}"
     kartu = "".join(_kartu_html(b, h, "web") for b in batches for h in b["halaman"])
     tautan = ""
     if nama_berkas_pdf:
@@ -526,10 +510,10 @@ def render_preview(batches: list[dict], nama_berkas_pdf: str | None) -> str:
         '<meta name="viewport" content="width=device-width,initial-scale=1">'
         f"<title>{esc(JUDUL_AR)} — {esc(JUDUL_ID)}</title><style>{FACE_WEB}{CSS_WEB}</style></head><body>"
         f'<header class="hero"><div class="hero-ar">{esc(JUDUL_AR)}</div>'
-        f'<div class="hero-sub">{esc(JUDUL_ID)} · Edisi Panel Kartu Modern</div>'
+        f'<div class="hero-sub">{esc(JUDUL_ID)} · Galeri Kitab Hikmah Klasik Kuno</div>'
         '<a class="btn-unduh" href="unduh/pdf" download>📥 Unduh PDF Master Panel</a>'
         f'<div class="hero-info">{tautan}</div></header>'
-        f"<main>{_catatan_html(batches, 'web')}{kartu}</main>"
+        f"<main>{kartu}</main>"
         "<footer>Harakat, transliterasi, dan terjemahan dibuat dengan bantuan AI dan perlu dikoreksi nahwu/sharaf. "
         "Sumber: pindaian kitab (kitab/asrorul-sulaimaniyah.pdf).</footer></body></html>"
     )
@@ -540,12 +524,9 @@ def unit_pdf(batches: list[dict]) -> list[tuple[str, bool]]:
     a, z = rentang_pdf(batches)
     banner = (
         f'<div class="banner"><p class="banner-ar" dir="rtl">{esc(JUDUL_AR)}</p>'
-        f'<p class="banner-sub">{esc(JUDUL_ID)} · Edisi Panel Kartu Modern · hal. PDF {a}–{z}</p></div>'
+        f'<p class="banner-sub">{esc(JUDUL_ID)} · Galeri Kitab Hikmah Klasik Kuno · hal. PDF {a}–{z}</p></div>'
     )
     unit: list[tuple[str, bool]] = [(banner, False)]
-    catatan = _catatan_html(batches, "pdf")
-    if catatan:
-        unit.append((catatan, False))
     pertama = True
     for b in batches:
         for h in b["halaman"]:
@@ -560,11 +541,11 @@ def _header_footer(doc, batches: list[dict], pymupdf, arc, awal_lampiran: int | 
     css = FACE_PDF + "body { font-family: Amiri; color: #0d4a36; font-size: 9pt; } p { margin: 0; }"
     total = len(doc)
     nomor = [b["nomor"] for b in batches]
-    rentang = f"Batch {nomor[0]:02d}" if len(nomor) == 1 else f"Batch {nomor[0]:02d}–{nomor[-1]:02d}"
+    rentang = f"Jilid {nomor[0]:02d}" if len(nomor) == 1 else f"Jilid {nomor[0]:02d}–{nomor[-1]:02d}"
     for i, page in enumerate(doc):
         r = page.rect
         kiri, kanan = MARGIN, r.width - MARGIN
-        label_kiri = f"Pindaian sumber PDF {i - awal_lampiran + 1:03d}" if awal_lampiran is not None and i >= awal_lampiran else f"{rentang} · Kartu Panel"
+        label_kiri = f"Pindaian sumber PDF {i - awal_lampiran + 1:03d}" if awal_lampiran is not None and i >= awal_lampiran else f"{rentang} · Galeri Kitab Hikmah Klasik Kuno"
         page.draw_line((kiri, 50), (kanan, 50), color=EMAS_RGB, width=0.9)
         page.draw_line((kiri, r.height - 50), (kanan, r.height - 50), color=EMAS_RGB, width=0.9)
         page.insert_htmlbox(
@@ -830,18 +811,13 @@ def ke_markdown(batches: list[dict], murni: bool) -> str:
     nomor = [b["nomor"] for b in batches]
     nama = "TERJEMAHAN_MATAN_MURNI" if murni else "TERJEMAHAN"
     k = [f"# {nama} — {JUDUL_KITAB_AR}", ""]
-    rentang = f"Batch {nomor[0]:02d}" if len(nomor) == 1 else f"Batch {nomor[0]:02d}–{nomor[-1]:02d}"
+    rentang = f"Jilid {nomor[0]:02d}" if len(nomor) == 1 else f"Jilid {nomor[0]:02d}–{nomor[-1]:02d}"
     k.append(f"> Gabungan {rentang}, dibangun otomatis oleh `tools/bangun_panel.py`. "
              "Jangan disunting di sini; ubah `BATCH_NN.md` lalu bangun ulang.")
     k.append("")
-    if not murni and batches[0]["catatan"]:
-        k.append("**Catatan penyunting:**")
-        k.append("")
-        k.extend(f"- {c}" for c in batches[0]["catatan"])
-        k.append("")
     for b in batches:
         a, z = min(h["pdf"] for h in b["halaman"]), max(h["pdf"] for h in b["halaman"])
-        k += ["---", "", f"# BATCH {b['nomor']:02d} — Halaman PDF {a}–{z}", ""]
+        k += ["---", "", f"# JILID {b['nomor']:02d} — Halaman PDF {a}–{z}", ""]
         for h in b["halaman"]:
             k.append(f"## Halaman PDF {h['pdf']}" + (f" (= {h['label']})" if h["label"] else ""))
             k.append("")
@@ -859,7 +835,8 @@ def ke_markdown(batches: list[dict], murni: bool) -> str:
                         continue
                     if murni and it["kind"] in ("syarah", "faedah"):
                         continue
-                    k += [f"**[{LABEL_MD[it['kind']]}]**", ""]
+                    if LABEL_MD[it["kind"]]:
+                        k += [f"**[{LABEL_MD[it['kind']]}]**", ""]
                     if it["kind"] == "ar":
                         k += ['<div dir="rtl">', ""]
                     ada_li = False
