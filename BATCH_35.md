@@ -2,7 +2,7 @@
 
 > **الأسرار السليمانية في العلوم الروحانية** — Dr. Abdullah al-Jundi · al-Mathba'ah ats-Tsaqafiyyah, Bairut<br>
 > Sumber: `hasil/gambar/halaman_094.jpg`–`hasil/gambar/halaman_103.jpg` (pindaian setiap halaman secara penuh).<br>
-> Cakupan: seluruh materi setelah nazham berakhir pada PDF 93, sampai halaman indeks PDF 103. Bagian ini terdiri atas prosa, petunjuk yang disertai rajah/tabel, doa, dan daftar isi—bukan nazham 20 larik. Karena itu materi dipisahkan menurut halaman dan judul cetak; simbol gambar yang tidak terbaca sebagai teks dijelaskan, tidak ditebak. Ejaan istilah khusus dipertahankan menurut yang tampak dan diberi catatan bila samar. Transliterasi fonetik tidak dipaksakan pada paragraf prosa atau rangkaian mantra yang hurufnya tidak terbaca mantap; bagian yang samar ditandai dengan deskripsi bacaan.
+> Cakupan: seluruh materi setelah nazham berakhir pada PDF 93, sampai halaman indeks PDF 103. Bagian ini terdiri atas prosa, petunjuk yang disertai rajah/tabel, doa, dan daftar isi—bukan nazham 20 Baris. Karena itu materi dipisahkan menurut halaman dan judul cetak; simbol gambar yang tidak terbaca sebagai teks dijelaskan, tidak ditebak. Ejaan istilah khusus dipertahankan menurut yang tampak dan diberi catatan bila samar. Transliterasi fonetik tidak dipaksakan pada paragraf prosa atau rangkaian mantra yang hurufnya tidak terbaca mantap; bagian yang samar ditandai dengan deskripsi bacaan.
 
 > **Catatan editorial:** terjemahan ini mendokumentasikan isi sumber. Petunjuk ritual dan bahan yang disebut merupakan klaim/kepercayaan dalam naskah, bukan anjuran praktik.
 

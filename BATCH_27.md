@@ -1,14 +1,14 @@
-# BATCH 27 — Kajian teks: 20 larik (PDF 84–85)
+# BATCH 27 — Kajian teks: 20 Baris (PDF 84–85)
 
 > **الأسرار السليمانية في العلوم الروحانية** — Dr. Abdullah al-Jundi · al-Mathba'ah ats-Tsaqafiyyah, Bairut<br>
 > Sumber: `hasil/gambar/halaman_084.jpg` dan `hasil/gambar/halaman_085.jpg` (pindaian satu halaman penuh).<br>
-> Cakupan: PDF 84 larik 15–17 dan PDF 85 larik 1–17; nomor nazham 688–707. Lafaz khusus yang samar dipertahankan menurut bentuk cetak dengan catatan bacaan tentatif.
+> Cakupan: PDF 84 Baris 15–17 dan PDF 85 Baris 1–17; nomor nazham 688–707. Lafaz khusus yang samar dipertahankan menurut bentuk cetak dengan catatan bacaan tentatif.
 
 ---
 
 ## Halaman PDF 84 (= cetak 83)
 
-### Bagian 1 — Sambungan nama dan penyingkapan (larik 688–690)
+### Bagian 1 — Sambungan nama dan penyingkapan (Baris 688–690)
 
 **[Teks Arab Asli]**
 
@@ -32,15 +32,15 @@
 
 **[Terjemahan Indonesia]**
 
-Dengan «Nahrash» [lafaz sesudahnya tidak terbaca], terhadap jin [fragmen pendek tidak jelas] yang belum ditundukkan [ujung larik samar].
+Dengan «Nahrash» [lafaz sesudahnya tidak terbaca], terhadap jin [fragmen pendek tidak jelas] yang belum ditundukkan [ujung Baris samar].
 
-Dengan cahaya keagungan [kata sesudah «jalal» menyerupai «barikh»] dan «Sharnat» [nama khusus, bacaan tentatif]. [Sambungan larik tidak terbaca.]
+Dengan cahaya keagungan [kata sesudah «jalal» menyerupai «barikh»] dan «Sharnat» [nama khusus, bacaan tentatif]. [Sambungan Baris tidak terbaca.]
 
 Dengan Yang Mahakudus, dengan «Rahub», kegelapan tersingkap dengannya. [Ada penutup pendek yang samar.]
 
 **[Syarah]**
 
-> (688) Pada pindaian terbaca «بنهرش» dan «بالجن»; fragmen penghubung serta ujung larik tidak cukup jelas untuk dipastikan. Washal menyambung nama itu dengan penyebutan jin. Nama khusus tidak diberi arti leksikal yang belum terbukti.
+> (688) Pada pindaian terbaca «بنهرش» dan «بالجن»; fragmen penghubung serta ujung Baris tidak cukup jelas untuk dipastikan. Washal menyambung nama itu dengan penyebutan jin. Nama khusus tidak diberi arti leksikal yang belum terbukti.
 
 > (689) «بنور جلال» dan bentuk yang menyerupai «شرنط» tampak. Lafaz di antaranya dibaca tentatif sebagai «بارخ»; susunan tidak dinormalkan menjadi frasa Arab lain.
 
@@ -50,7 +50,7 @@ Dengan Yang Mahakudus, dengan «Rahub», kegelapan tersingkap dengannya. [Ada pe
 
 ## Halaman PDF 85 (= cetak 84)
 
-### Bagian 1 — Permohonan cahaya, kelapangan, dan perlindungan (larik 691–707)
+### Bagian 1 — Permohonan cahaya, kelapangan, dan perlindungan (Baris 691–707)
 
 **[Teks Arab Asli]**
 
@@ -144,7 +144,7 @@ Dengan Nama itu, kirimkanlah ia; dengan upaya, segala urusan menjadi mudah. [Kat
 
 Serahkanlah [lafaz sesudah «أسلم» menyerupai «بسحر»] dan berikan kepadaku yang terbaik [kata sesudah «خير» tidak terbaca].
 
-Bentangkanlah atasku perlindungan di balik tabir-tabir. [Penutup larik menyerupai «أسبلت».]
+Bentangkanlah atasku perlindungan di balik tabir-tabir. [Penutup Baris menyerupai «أسبلت».]
 
 Semoga dengannya tercapai tujuanku dan semua keperluanku.
 
@@ -160,7 +160,7 @@ Selamatlah [fragmen sesudah verba tidak jelas] demi rahasia perintahku [penutup 
 
 Cukupkanlah aku, wahai Pemilik keagungan, dengan kaf dari «kun».
 
-Dengan nash ketetapan yang tegas [fragmen pendek tak terbaca], rahasia [ujung larik samar].
+Dengan nash ketetapan yang tegas [fragmen pendek tak terbaca], rahasia [ujung Baris samar].
 
 Bebaskanlah aku dari setiap ketakutan dan kesulitan.
 

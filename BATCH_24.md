@@ -1,14 +1,14 @@
-# BATCH 24 — Kajian teks: 20 larik (PDF 81–82)
+# BATCH 24 — Kajian teks: 20 Baris (PDF 81–82)
 
 > **الأسرار السليمانية في العلوم الروحانية** — Dr. Abdullah al-Jundi · al-Mathba'ah ats-Tsaqafiyyah, Bairut<br>
 > Sumber: `hasil/gambar/halaman_081.jpg` dan `hasil/gambar/halaman_082.jpg` (pindaian satu halaman penuh).<br>
-> Cakupan: PDF 81 larik 8–18 dan PDF 82 larik 1–9; nomor nazham 628–647. Nama-nama khusus dipertahankan sebagai bacaan tentatif bila cetakannya tidak terang; catatan dalam kurung menjelaskan dasar pembacaan.
+> Cakupan: PDF 81 Baris 8–18 dan PDF 82 Baris 1–9; nomor nazham 628–647. Nama-nama khusus dipertahankan sebagai bacaan tentatif bila cetakannya tidak terang; catatan dalam kurung menjelaskan dasar pembacaan.
 
 ---
 
 ## Halaman PDF 81 (= cetak 80)
 
-### Bagian 1 — Sambungan seruan dan nama (larik 628–638)
+### Bagian 1 — Sambungan seruan dan nama (Baris 628–638)
 
 **[Teks Arab Asli]**
 
@@ -88,7 +88,7 @@ Serahkanlah pembakaran para pemberontak dan siapa pun yang durhaka. [«توكل�
 
 **[Syarah]**
 
-> (628) Washal menghubungkan larik ini dengan rangkaian Asma penundukan jin dalam BATCH_23. Pada pindaian halaman penuh, grafi awal tampak seperti «بيزة» (dibaca «بعزة»); baris lengkap memuat «أفلا غلاوون», dan penutupnya mirip «تنطق». «بِعِزَّةِ» adalah jar-majrur; sesuai i‘rab yang diminta, «أَفْلَا غَلَاوُونَ» dibaca sebagai mubtada dan khabar marfu‘. Lafaz «غلاوون» tetap dicantumkan karena tampak pada baris sumber. «تنطقت» dibaca «تَنَطَّقَتْ»; tasydid berada pada طاء (ṭāʾ), bukan تاء. Dalam wasal, قاف berharakat sehingga tidak ada qalqalah padanya.
+> (628) Washal menghubungkan Baris ini dengan rangkaian Asma penundukan jin dalam BATCH_23. Pada pindaian halaman penuh, grafi awal tampak seperti «بيزة» (dibaca «بعزة»); baris lengkap memuat «أفلا غلاوون», dan penutupnya mirip «تنطق». «بِعِزَّةِ» adalah jar-majrur; sesuai i‘rab yang diminta, «أَفْلَا غَلَاوُونَ» dibaca sebagai mubtada dan khabar marfu‘. Lafaz «غلاوون» tetap dicantumkan karena tampak pada baris sumber. «تنطقت» dibaca «تَنَطَّقَتْ»; tasydid berada pada طاء (ṭāʾ), bukan تاء. Dalam wasal, قاف berharakat sehingga tidak ada qalqalah padanya.
 
 > (629) «له الملك والعلا» terbaca jelas. «غلاوون» dipertahankan sebagai nama khusus; ia tidak diterjemahkan secara spekulatif. Washal menyambung frasa kemuliaan dengan pujian tentang kerajaan dan keluhuran. Tidak terdapat نون مشددة pada nama itu.
 
@@ -114,7 +114,7 @@ Serahkanlah pembakaran para pemberontak dan siapa pun yang durhaka. [«توكل�
 
 ## Halaman PDF 82 (= cetak 81)
 
-### Bagian 1 — Doa dan penyebutan nama-nama (larik 639–647)
+### Bagian 1 — Doa dan penyebutan nama-nama (Baris 639–647)
 
 **[Teks Arab Asli]**
 

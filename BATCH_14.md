@@ -7,7 +7,7 @@
 
 ## Halaman PDF 66 (= cetak 65)
 
-### Bagian 1 — Sambungan nazham Cara Besar: permohonan cahaya, pertolongan, dan keteguhan (larik 357–374)
+### Bagian 1 — Sambungan nazham Cara Besar: permohonan cahaya, pertolongan, dan keteguhan (Baris 357–374)
 
 **[Teks Arab Asli]**
 
@@ -129,13 +129,13 @@ dan wahai Tuhanku, dengan ikhlas, sucikanlah hati kami.
 
 **[Syarah]**
 
-> Pada larik 361, cetakan tampak memuat «لسرشك». Bacaan dinormalkan menjadi «لِسِرِّكَ» (“rahasia-Mu”) karena sesuai susunan dan makna; ejaan cetak tetap dicatat.
+> Pada Baris 361, cetakan tampak memuat «لسرشك». Bacaan dinormalkan menjadi «لِسِرِّكَ» (“rahasia-Mu”) karena sesuai susunan dan makna; ejaan cetak tetap dicatat.
 
 ---
 
 ## Halaman PDF 67 (= cetak 66)
 
-### Bagian 1 — Sambungan nazham: kemenangan, kekuatan, dan keteguhan nama (larik 375–393; 19 larik tercetak)
+### Bagian 1 — Sambungan nazham: kemenangan, kekuatan, dan keteguhan nama (Baris 375–393; 19 Baris tercetak)
 
 **[Teks Arab Asli]**
 
@@ -263,13 +263,13 @@ dengan nama-Mu, namaku diteguhkan dalam kebahagiaan.
 
 **[Syarah]**
 
-> Pindaian PDF 67 memuat 19 larik cetak; seluruhnya dipertahankan, meskipun hitungan rata-rata batch adalah 18 larik per halaman. Pada larik 388, bacaan «وجباسع» dinormalkan menjadi «وَجَبَّارٌ وَاسِعٌ»; susunan cetak dipertahankan dalam catatan.
+> Pindaian PDF 67 memuat 19 Baris cetak; seluruhnya dipertahankan, meskipun hitungan rata-rata batch adalah 18 Baris per halaman. Pada Baris 388, bacaan «وجباسع» dinormalkan menjadi «وَجَبَّارٌ وَاسِعٌ»; susunan cetak dipertahankan dalam catatan.
 
 ---
 
 ## Halaman PDF 68 (= cetak 67)
 
-### Bagian 1 — Sambungan nazham: penampakan, perlindungan, dan penyamaran (larik 394–411)
+### Bagian 1 — Sambungan nazham: penampakan, perlindungan, dan penyamaran (Baris 394–411)
 
 **[Teks Arab Asli]**
 
@@ -397,7 +397,7 @@ pada hari suatu talisman tampak, dengannya seluruhnya terkena talisman.
 
 ## Halaman PDF 69 (= cetak 68)
 
-### Bagian 1 — Sambungan nazham: talisman dan klaim pembungkaman (larik 412–429)
+### Bagian 1 — Sambungan nazham: talisman dan klaim pembungkaman (Baris 412–429)
 
 **[Teks Arab Asli]**
 
@@ -495,7 +495,7 @@ dengan kebutaan yang ganjil melalui huruf-huruf, lalu kubutakan;
 
 dan kubungkam para pendengar itu dengan satu pekikan;
 
-maka semuanya menjadi tuli; sisa larik ini tercetak ganjil dan maknanya tidak pasti [demikian adanya];
+maka semuanya menjadi tuli; sisa Baris ini tercetak ganjil dan maknanya tidak pasti [demikian adanya];
 
 dan kutampakkan seluruh alam dengan keelokan;
 
@@ -519,13 +519,13 @@ dengan kemuliaan siang, melalui sihir, aku membatalkan [daya sihir itu].
 
 **[Syarah]**
 
-> Larik 419 memuat rangkaian yang sukar dibaca secara nahwu dan makna («داهِمِينَ ناهِبَةً»); teks dipertahankan dan ditandai `[bentuk cetak dipertahankan karena susunannya tidak lazim]`, bukan diperbaiki diam-diam. Bagian ini diterjemahkan sebagai klaim pengarang tentang talisman, bukan petunjuk praktik.
+> Baris 419 memuat rangkaian yang sukar dibaca secara nahwu dan makna («داهِمِينَ ناهِبَةً»); teks dipertahankan dan ditandai `[bentuk cetak dipertahankan karena susunannya tidak lazim]`, bukan diperbaiki diam-diam. Bagian ini diterjemahkan sebagai klaim pengarang tentang talisman, bukan petunjuk praktik.
 
 ---
 
 ## Halaman PDF 70 (= cetak 69)
 
-### Bagian 1 — Sambungan nazham: penguasaan dan serangan terhadap lawan (larik 430–447)
+### Bagian 1 — Sambungan nazham: penguasaan dan serangan terhadap lawan (Baris 430–447)
 
 **[Teks Arab Asli]**
 
@@ -647,4 +647,4 @@ dan dengan Nama itu, para musuh kupenggal dengan pedang.
 
 **[Syarah]**
 
-> Beberapa bentuk cetak pada larik 435, 438, dan 444 tampak ganjil: «فتلا», «وأطر», dan «مدل». Bacaan «وأطر» dinormalkan menjadi «وَأَمْطِرْ» (“turunkanlah seperti hujan”) karena larik sesudahnya mengulang verba «أمطرت»; dua bentuk lain dipertahankan atau diberi penanda tanpa mengarang kepastian. Seluruhnya adalah klaim dalam nazham, bukan anjuran melakukan kekerasan.
+> Beberapa bentuk cetak pada Baris 435, 438, dan 444 tampak ganjil: «فتلا», «وأطر», dan «مدل». Bacaan «وأطر» dinormalkan menjadi «وَأَمْطِرْ» (“turunkanlah seperti hujan”) karena Baris sesudahnya mengulang verba «أمطرت»; dua bentuk lain dipertahankan atau diberi penanda tanpa mengarang kepastian. Seluruhnya adalah klaim dalam nazham, bukan anjuran melakukan kekerasan.

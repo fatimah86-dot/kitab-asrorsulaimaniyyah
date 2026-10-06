@@ -7,7 +7,7 @@
 
 ## Halaman PDF 41 (= cetak 40)
 
-### Bagian 1 — Sambungan nazham Sumpah Dur Nadhir (larik 17–34)
+### Bagian 1 — Sambungan nazham Sumpah Dur Nadhir (Baris 17–34)
 
 **[Teks Arab Asli]**
 
@@ -131,7 +131,7 @@ dengan Dzat yang menciptakan makhluk, Pemilik para pemilik.
 
 ## Halaman PDF 42 (= cetak 41)
 
-### Bagian 1 — Sambungan nazham (larik 35–52)
+### Bagian 1 — Sambungan nazham (Baris 35–52)
 
 **[Teks Arab Asli]**
 
@@ -255,7 +255,7 @@ kami menyalakan, dan telah menyalakannya, dengan penyalaan.
 
 ## Halaman PDF 43 (= cetak 42)
 
-### Bagian 1 — Sambungan nazham (larik 53–66, penutup)
+### Bagian 1 — Sambungan nazham (Baris 53–66, penutup)
 
 **[Teks Arab Asli]**
 

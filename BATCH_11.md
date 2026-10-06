@@ -7,7 +7,7 @@
 
 ## Halaman PDF 51 (= cetak 50)
 
-### Bagian 1 — Sambungan nazham Cara Kecil: gambaran rupa khatam (larik 105–114)
+### Bagian 1 — Sambungan nazham Cara Kecil: gambaran rupa khatam (Baris 105–114)
 
 **[Teks Arab Asli]**
 
@@ -79,7 +79,7 @@ dan ha saudara, kemudian waw yang terbelah;
 
 bagaikan pipa tukang bekam, dari rahasia itu ia bermaksud.
 
-### Bagian 2 — Sambungan nazham: penutup bait khatam (larik 115–120)
+### Bagian 2 — Sambungan nazham: penutup bait khatam (Baris 115–120)
 
 **[Teks Arab Asli]**
 
@@ -261,7 +261,7 @@ Yang Mahamulia, Mahapenyantun, pemilik anugerah yang berlimpah.
 
 ## Halaman PDF 53 (= cetak 52)
 
-### Bagian 1 — Sambungan nazham Cara Besar: permohonan ampun dan titipan (larik 19–36)
+### Bagian 1 — Sambungan nazham Cara Besar: permohonan ampun dan titipan (Baris 19–36)
 
 **[Teks Arab Asli]**
 
@@ -385,7 +385,7 @@ dan kedudukanku serta pengagunganku, dengan nama-Nya, menjadi agung.
 
 ## Halaman PDF 54 (= cetak 53)
 
-### Bagian 1 — Sambungan nazham (larik 37–54)
+### Bagian 1 — Sambungan nazham (Baris 37–54)
 
 **[Teks Arab Asli]**
 
@@ -509,7 +509,7 @@ dan kebinasaan musuh-musuhku — dan dengan Nama itu aku memiliki.
 
 ## Halaman PDF 55 (= cetak 54)
 
-### Bagian 1 — Sambungan nazham (larik 55–72, bersambung)
+### Bagian 1 — Sambungan nazham (Baris 55–72, bersambung)
 
 **[Teks Arab Asli]**
 

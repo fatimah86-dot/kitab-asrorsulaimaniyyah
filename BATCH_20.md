@@ -1,15 +1,15 @@
-# BATCH 20 — Draf progres: 20 larik (PDF 76–77)
+# BATCH 20 — Draf progres: 20 Baris (PDF 76–77)
 
 > **الأسرار السليمانية في العلوم الروحانية** — Dr. Abdullah al-Jundi · al-Mathba'ah ats-Tsaqafiyyah, Bairut<br>
 > Sumber: `kitab/asrorul-sulaimaniyah.pdf` · Edisi kajian · progres awal Batch 20
 >
-> Cakupan: 20 larik lanjutan setelah BATCH 19, yaitu PDF 76 larik 13–17 dan PDF 77 larik 1–15 (nomor nazham 548–567). Harakat dan transliterasi ditambahkan untuk edisi kajian; lafaz yang bacaan atau susunannya meragukan diberi catatan.
+> Cakupan: 20 Baris lanjutan setelah BATCH 19, yaitu PDF 76 Baris 13–17 dan PDF 77 Baris 1–15 (nomor nazham 548–567). Harakat dan transliterasi ditambahkan untuk edisi kajian; lafaz yang bacaan atau susunannya meragukan diberi catatan.
 
 ---
 
 ## Halaman PDF 76 (= cetak 75)
 
-### Bagian 1 — Sambungan nazham: pertolongan, janji, dan pembalasan (larik 548–552)
+### Bagian 1 — Sambungan nazham: pertolongan, janji, dan pembalasan (Baris 548–552)
 
 **[Teks Arab Asli]**
 
@@ -53,21 +53,21 @@ Engkau akan melihat para pendosa yang mengingkari Kitab-Nya.
 
 **[Syarah]**
 
-> (548) «يستغيثوا» berarti memohon pertolongan. Larik ini menyatakan bahwa permohonan itu tidak mendatangkan pertolongan dan diikuti gambaran pembakaran.
+> (548) «يستغيثوا» berarti memohon pertolongan. Baris ini menyatakan bahwa permohonan itu tidak mendatangkan pertolongan dan diikuti gambaran pembakaran.
 
 > (549) «المهل» menggambarkan cairan sangat panas; konteks sambung tiga bait sebelum dan sesudah tetap tentang azab, air mendidih, Sa'ir, dan para pendosa. «ناحمين» pada cetakan dibaca sementara «نَاحِمِينَ», kemungkinan حالٌ منصوبٌ bagi para pendosa, tetapi makna leksikalnya belum cukup pasti sehingga hurufnya tidak dikoreksi. Tajwid pada lafaz ini: حاء adalah huruf hams; tidak ada قاف ساكنة atau نون مشددة.
 
-> (550) Larik ini menggemakan peringatan agar janji Allah tidak dianggap akan diingkari.
+> (550) Baris ini menggemakan peringatan agar janji Allah tidak dianggap akan diingkari.
 
 > (551) «عزيز ذو انتقام» melanjutkan tema janji dan pembalasan, lalu bait berikut menyebut para pendosa. رسم «تسارعت» hanya memungkinkan ضبط sementara «تَسَارَعَتْ»; sebagai fi'il madhi mu'annats, fa'ilnya tidak dinyatakan terang, sehingga saya tidak menebak subjek atau mengganti kata. Tidak ada قاف ساكنة atau نون مشددة pada kata itu.
 
-> (552) «الجاحدين كتابه» menggambarkan para pendosa sebagai orang yang mengingkari Kitab-Nya; kalimat menyambung gambaran pembalasan pada larik sebelumnya.
+> (552) «الجاحدين كتابه» menggambarkan para pendosa sebagai orang yang mengingkari Kitab-Nya; kalimat menyambung gambaran pembalasan pada Baris sebelumnya.
 
 ---
 
 ## Halaman PDF 77 (= cetak 76)
 
-### Bagian 1 — Sambungan nazham: pakaian api dan guncangan alam (larik 553–567)
+### Bagian 1 — Sambungan nazham: pakaian api dan guncangan alam (Baris 553–567)
 
 **[Teks Arab Asli]**
 
@@ -173,7 +173,7 @@ Dan gempa-gempa untuk para jin durhaka kuturunkan dengan paksa. [Cetakan «أن�
 
 > (553) «سرابيل قطران» menggambarkan pakaian dari ter yang dikenakan kepada semua sasaran; citra ini menegaskan panas dan kehinaan hukuman.
 
-> (554) Api dan kobaran yang menyelubungi wajah melanjutkan gambaran siksa pada larik sebelumnya.
+> (554) Api dan kobaran yang menyelubungi wajah melanjutkan gambaran siksa pada Baris sebelumnya.
 
 > (555) Full-page PDF 77 memperlihatkan «بنت». Saya usulkan «كَسَبَتْ» karena rangkaian ayat tentang pakaian ter, api, Sa'ir dan balasan menggemakan «كُلُّ نَفْسٍ بِمَا كَسَبَتْ» (al-Muddaththir 74:38). Nahwu: «كل نفس» ialah fa'il bagi «تجزي»; pada «كَسَبَتْ», dhamir mu'annats tersembunyi kembali kepada «نفس». Namun «بَنَتْ» juga bentuk fi'il mu'annats yang mungkin secara tata bahasa, maka dasar koreksi ialah konteks/parallel ayat, bukan aturan kesesuaian gender semata. Tajwid: tanwin «نفسٍ» sebelum ba dalam «بما» dibaca iqlab dengan ghunnah; bukan ghunnah khusus karena frasa «وما» saja.
 
@@ -183,11 +183,11 @@ Dan gempa-gempa untuk para jin durhaka kuturunkan dengan paksa. [Cetakan «أن�
 
 > (558) Pada halaman penuh terbaca «للفصاحة»; tidak saya ganti diam-diam menjadi kata lain. Washal menghubungkan berita azab dengan tujuan memberi peringatan. Nahwu: «هذا» mubtada dan «بلاغٌ» khabar; «لِيُنذَروا» lam ta'lil + mudhari' majhul mansub dengan hazf nun, sementara waw menjadi na'ib fa'il. Tajwid: nun sakinah sebelum dzal pada «يُنذَروا» ialah ikhfa haqiqi dengan ghunnah.
 
-> (559) Saya membaca «أَحْرَقْتُ» sebagai fi'il ma'lum orang pertama; «الجنَّ» maf'ul bih yang didahulukan, pelakunya dhamir «أنا». Washal ke larik selanjutnya membawa gambaran kepekikan api. Tajwid: qaf sukun dalam «أحرقتُ» mendapat qalqalah sughra, dan nun mushaddadah pada «الجنّ» dibaca ghunnah.
+> (559) Saya membaca «أَحْرَقْتُ» sebagai fi'il ma'lum orang pertama; «الجنَّ» maf'ul bih yang didahulukan, pelakunya dhamir «أنا». Washal ke Baris selanjutnya membawa gambaran kepekikan api. Tajwid: qaf sukun dalam «أحرقتُ» mendapat qalqalah sughra, dan nun mushaddadah pada «الجنّ» dibaca ghunnah.
 
 > (560) Api Jahanam dipersonifikasikan sebagai suara keras yang menggema di alam semesta.
 
-> (561) «فمنها» menghubungkan guncangan bumi dengan pekik api pada larik sebelumnya; makna tepat «صعقت» bergantung pada konteks tersebut.
+> (561) «فمنها» menghubungkan guncangan bumi dengan pekik api pada Baris sebelumnya; makna tepat «صعقت» bergantung pada konteks tersebut.
 
 > (562) «دكّت» berarti dihancurkan atau diratakan; gunung-gunung menjadi lambang guncangan kosmis.
 

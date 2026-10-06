@@ -1,14 +1,14 @@
-# BATCH 28 — Kajian teks: 20 larik (PDF 85–87)
+# BATCH 28 — Kajian teks: 20 Baris (PDF 85–87)
 
 > **الأسرار السليمانية في العلوم الروحانية** — Dr. Abdullah al-Jundi · al-Mathba'ah ats-Tsaqafiyyah, Bairut<br>
 > Sumber: `hasil/gambar/halaman_085.jpg`, `halaman_086.jpg`, dan `halaman_087.jpg` (pindaian satu halaman penuh).<br>
-> Cakupan: PDF 85 larik 18, PDF 86 larik 1–18, dan PDF 87 larik 1; nomor nazham 708–727. Lafaz khusus atau penutup yang samar dicatat dengan bacaan tentatif, tanpa penggantian diam-diam.
+> Cakupan: PDF 85 Baris 18, PDF 86 Baris 1–18, dan PDF 87 Baris 1; nomor nazham 708–727. Lafaz khusus atau penutup yang samar dicatat dengan bacaan tentatif, tanpa penggantian diam-diam.
 
 ---
 
 ## Halaman PDF 85 (= cetak 84)
 
-### Bagian 1 — Penutup doa pada halaman (larik 708)
+### Bagian 1 — Penutup doa pada halaman (Baris 708)
 
 **[Teks Arab Asli]**
 
@@ -34,7 +34,7 @@ Maka Engkaulah harapan seluruh alam, sekalipun [kata setelah «walau» tidak jel
 
 ## Halaman PDF 86 (= cetak 85)
 
-### Bagian 1 — Doa rezeki, perlindungan, dan pembungkaman (larik 709–726)
+### Bagian 1 — Doa rezeki, perlindungan, dan pembungkaman (Baris 709–726)
 
 **[Teks Arab Asli]**
 
@@ -130,7 +130,7 @@ Jadikanlah [lafaz pendek tidak jelas] tuli dan [lafaz pendek tidak jelas] bisu, 
 
 Buatlah mereka kelu, wahai Pemilik keagungan, [fragmen tidak jelas] dengan hujahku [penutup samar].
 
-[Lenyapkanlah] para lawan [fragmen tidak jelas] dengan «tarasim» [ujung larik tidak terbaca].
+[Lenyapkanlah] para lawan [fragmen tidak jelas] dengan «tarasim» [ujung Baris tidak terbaca].
 
 Aku berlindung dengan Nama Yang Mahaagung dari «al-falat». [Bentuk kata terakhir tidak pasti.]
 
@@ -148,7 +148,7 @@ Buatlah seluruhnya tuli dengan Nama; bentuk penutup dibaca tentatif.
 
 Hentikanlah tangan-tangan dengan nama-nama keagungan. [Penutup pendek tidak jelas.]
 
-Tangan-tangan yang menjulur dengan kekuatan keagungan pun berhenti. [Sambungan larik samar.]
+Tangan-tangan yang menjulur dengan kekuatan keagungan pun berhenti. [Sambungan Baris samar.]
 
 Lunakkanlah hati seluruh manusia.
 
@@ -196,7 +196,7 @@ Kepadaku, kenakanlah penerimaan [lafaz pendek tidak jelas] secara menyeluruh [pe
 
 ## Halaman PDF 87 (= cetak 86)
 
-### Bagian 1 — Doa atas keberkahan usaha (larik 727)
+### Bagian 1 — Doa atas keberkahan usaha (Baris 727)
 
 **[Teks Arab Asli]**
 

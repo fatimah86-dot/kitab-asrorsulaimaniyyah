@@ -1928,7 +1928,7 @@ dan bala tentaranya bersama seluruh lelaki.
 
 ## Halaman PDF 41 (= cetak 40)
 
-### Bagian 1 — Sambungan nazham Sumpah Dur Nadhir (larik 17–34)
+### Bagian 1 — Sambungan nazham Sumpah Dur Nadhir (Baris 17–34)
 
 <div dir="rtl">
 
@@ -2044,7 +2044,7 @@ dengan Dzat yang menciptakan makhluk, Pemilik para pemilik.
 
 ## Halaman PDF 42 (= cetak 41)
 
-### Bagian 1 — Sambungan nazham (larik 35–52)
+### Bagian 1 — Sambungan nazham (Baris 35–52)
 
 <div dir="rtl">
 
@@ -2160,7 +2160,7 @@ kami menyalakan, dan telah menyalakannya, dengan penyalaan.
 
 ## Halaman PDF 43 (= cetak 42)
 
-### Bagian 1 — Sambungan nazham (larik 53–66, penutup)
+### Bagian 1 — Sambungan nazham (Baris 53–66, penutup)
 
 <div dir="rtl">
 
@@ -2410,7 +2410,7 @@ dengan zikir kepada-Mu, wahai Yang Maha Mengurus, sungguh aku bangkit.
 
 ## Halaman PDF 46 (= cetak 45)
 
-### Bagian 1 — Sambungan nazham Cara Kecil (larik 11–28)
+### Bagian 1 — Sambungan nazham Cara Kecil (Baris 11–28)
 
 <div dir="rtl">
 
@@ -2526,7 +2526,7 @@ dengan Mihrasy, maka Figham — dengannya api telah dipadamkan.
 
 ## Halaman PDF 47 (= cetak 46)
 
-### Bagian 1 — Sambungan nazham (larik 29–47)
+### Bagian 1 — Sambungan nazham (Baris 29–47)
 
 <div dir="rtl">
 
@@ -2648,7 +2648,7 @@ dan curahkanlah atasku rezeki, curahan rahmat.
 
 ## Halaman PDF 48 (= cetak 47)
 
-### Bagian 1 — Sambungan nazham (larik 48–66)
+### Bagian 1 — Sambungan nazham (Baris 48–66)
 
 <div dir="rtl">
 
@@ -2770,7 +2770,7 @@ dengan Bahrah Tabriz, dengan salam, semuanya terbentuk.
 
 ## Halaman PDF 49 (= cetak 48)
 
-### Bagian 1 — Sambungan nazham (larik 67–85)
+### Bagian 1 — Sambungan nazham (Baris 67–85)
 
 <div dir="rtl">
 
@@ -2892,7 +2892,7 @@ dengan-Mu kelapangan dan daya yang kuat, bagi siapa yang datang.
 
 ## Halaman PDF 50 (= cetak 49)
 
-### Bagian 1 — Sambungan nazham (larik 86–104, bersambung)
+### Bagian 1 — Sambungan nazham (Baris 86–104, bersambung)
 
 <div dir="rtl">
 
@@ -3018,7 +3018,7 @@ aku menjelmakan dengan ayat-ayat semuanya, dengan apa yang dikandungnya.
 
 ## Halaman PDF 51 (= cetak 50)
 
-### Bagian 1 — Sambungan nazham Cara Kecil: gambaran rupa khatam (larik 105–114)
+### Bagian 1 — Sambungan nazham Cara Kecil: gambaran rupa khatam (Baris 105–114)
 
 <div dir="rtl">
 
@@ -3084,7 +3084,7 @@ dan ha saudara, kemudian waw yang terbelah;
 
 bagaikan pipa tukang bekam, dari rahasia itu ia bermaksud.
 
-### Bagian 2 — Sambungan nazham: penutup bait khatam (larik 115–120)
+### Bagian 2 — Sambungan nazham: penutup bait khatam (Baris 115–120)
 
 <div dir="rtl">
 
@@ -3250,7 +3250,7 @@ Yang Mahamulia, Mahapenyantun, pemilik anugerah yang berlimpah.
 
 ## Halaman PDF 53 (= cetak 52)
 
-### Bagian 1 — Sambungan nazham Cara Besar: permohonan ampun dan titipan (larik 19–36)
+### Bagian 1 — Sambungan nazham Cara Besar: permohonan ampun dan titipan (Baris 19–36)
 
 <div dir="rtl">
 
@@ -3366,7 +3366,7 @@ dan kedudukanku serta pengagunganku, dengan nama-Nya, menjadi agung.
 
 ## Halaman PDF 54 (= cetak 53)
 
-### Bagian 1 — Sambungan nazham (larik 37–54)
+### Bagian 1 — Sambungan nazham (Baris 37–54)
 
 <div dir="rtl">
 
@@ -3482,7 +3482,7 @@ dan kebinasaan musuh-musuhku — dan dengan Nama itu aku memiliki.
 
 ## Halaman PDF 55 (= cetak 54)
 
-### Bagian 1 — Sambungan nazham (larik 55–72, bersambung)
+### Bagian 1 — Sambungan nazham (Baris 55–72, bersambung)
 
 <div dir="rtl">
 
@@ -3602,7 +3602,7 @@ dan penundukan para durhaka yang angkuh serta siapa yang mendurhakai.
 
 ## Halaman PDF 56 (= cetak 55)
 
-### Bagian 1 — Sambungan nazham Cara Besar: pemohon memohon kekuatan dan kebinasaan musuh (larik 91–108)
+### Bagian 1 — Sambungan nazham Cara Besar: pemohon memohon kekuatan dan kebinasaan musuh (Baris 91–108)
 
 <div dir="rtl">
 
@@ -3718,7 +3718,7 @@ dan segerakanlah kebinasaan bagi musuh-musuhku, yang kami segerakan [demikian ad
 
 ## Halaman PDF 57 (= cetak 56)
 
-### Bagian 1 — Sambungan nazham (larik 109–125)
+### Bagian 1 — Sambungan nazham (Baris 109–125)
 
 <div dir="rtl">
 
@@ -3828,7 +3828,7 @@ maka wahai Tuhanku, Engkaulah Allah, cukuplah Engkau dan perlengkapanku.
 
 ## Halaman PDF 58 (= cetak 57)
 
-### Bagian 1 — Sambungan nazham (larik 126–143)
+### Bagian 1 — Sambungan nazham (Baris 126–143)
 
 <div dir="rtl">
 
@@ -3944,7 +3944,7 @@ dengan rahasia huruf-huruf yang diturunkan semuanya [tercetak: al-munazzalat].
 
 ## Halaman PDF 59 (= cetak 58)
 
-### Bagian 1 — Sambungan nazham (larik 144–160)
+### Bagian 1 — Sambungan nazham (Baris 144–160)
 
 <div dir="rtl">
 
@@ -4054,7 +4054,7 @@ dengan-Mu penyakit dan penyakit-penyakit itu dariku telah dijauhkan.
 
 ## Halaman PDF 60 (= cetak 59)
 
-### Bagian 1 — Sambungan nazham (larik 161–178, bersambung)
+### Bagian 1 — Sambungan nazham (Baris 161–178, bersambung)
 
 <div dir="rtl">
 
@@ -4174,7 +4174,7 @@ dan dengan kedudukan, kekuasaan, serta kerajaan, ia telah menyusul.
 
 ## Halaman PDF 61 (= cetak 60)
 
-### Bagian 1 — Sambungan nazham Cara Besar: permohonan wibawa, cahaya, dan kerajaan (larik 268–285)
+### Bagian 1 — Sambungan nazham Cara Besar: permohonan wibawa, cahaya, dan kerajaan (Baris 268–285)
 
 <div dir="rtl">
 
@@ -4290,7 +4290,7 @@ ketinggian yang menjulang, kemuliaan yang telah meninggi.
 
 ## Halaman PDF 62 (= cetak 61)
 
-### Bagian 1 — Sambungan nazham (larik 286–303)
+### Bagian 1 — Sambungan nazham (Baris 286–303)
 
 <div dir="rtl">
 
@@ -4406,7 +4406,7 @@ pengabulan maksudku, dengan suatu rahasia, telah menjadi mudah [tercetak: nayass
 
 ## Halaman PDF 63 (= cetak 62)
 
-### Bagian 1 — Sambungan nazham: sumpah dengan benda-benda langit (larik 304–321)
+### Bagian 1 — Sambungan nazham: sumpah dengan benda-benda langit (Baris 304–321)
 
 <div dir="rtl">
 
@@ -4522,7 +4522,7 @@ dan aku mengalahkan dengan nama-nama itu bala tentara yang bersekutu.
 
 ## Halaman PDF 64 (= cetak 63)
 
-### Bagian 1 — Sambungan nazham (larik 322–338)
+### Bagian 1 — Sambungan nazham (Baris 322–338)
 
 <div dir="rtl">
 
@@ -4632,7 +4632,7 @@ pengenalan-pengenalan rahasia, dengan rahasia batinku.
 
 ## Halaman PDF 65 (= cetak 64)
 
-### Bagian 1 — Sambungan nazham (larik 339–356, bersambung)
+### Bagian 1 — Sambungan nazham (Baris 339–356, bersambung)
 
 <div dir="rtl">
 
@@ -4752,7 +4752,7 @@ dan demi Luh serta pena-pena, jadilah bagiku penjaga.
 
 ## Halaman PDF 66 (= cetak 65)
 
-### Bagian 1 — Sambungan nazham Cara Besar: permohonan cahaya, pertolongan, dan keteguhan (larik 357–374)
+### Bagian 1 — Sambungan nazham Cara Besar: permohonan cahaya, pertolongan, dan keteguhan (Baris 357–374)
 
 <div dir="rtl">
 
@@ -4868,7 +4868,7 @@ dan wahai Tuhanku, dengan ikhlas, sucikanlah hati kami.
 
 ## Halaman PDF 67 (= cetak 66)
 
-### Bagian 1 — Sambungan nazham: kemenangan, kekuatan, dan keteguhan nama (larik 375–393; 19 larik tercetak)
+### Bagian 1 — Sambungan nazham: kemenangan, kekuatan, dan keteguhan nama (Baris 375–393; 19 Baris tercetak)
 
 <div dir="rtl">
 
@@ -4990,7 +4990,7 @@ dengan nama-Mu, namaku diteguhkan dalam kebahagiaan.
 
 ## Halaman PDF 68 (= cetak 67)
 
-### Bagian 1 — Sambungan nazham: penampakan, perlindungan, dan penyamaran (larik 394–411)
+### Bagian 1 — Sambungan nazham: penampakan, perlindungan, dan penyamaran (Baris 394–411)
 
 <div dir="rtl">
 
@@ -5106,7 +5106,7 @@ pada hari suatu talisman tampak, dengannya seluruhnya terkena talisman.
 
 ## Halaman PDF 69 (= cetak 68)
 
-### Bagian 1 — Sambungan nazham: talisman dan klaim pembungkaman (larik 412–429)
+### Bagian 1 — Sambungan nazham: talisman dan klaim pembungkaman (Baris 412–429)
 
 <div dir="rtl">
 
@@ -5198,7 +5198,7 @@ dengan kebutaan yang ganjil melalui huruf-huruf, lalu kubutakan;
 
 dan kubungkam para pendengar itu dengan satu pekikan;
 
-maka semuanya menjadi tuli; sisa larik ini tercetak ganjil dan maknanya tidak pasti [demikian adanya];
+maka semuanya menjadi tuli; sisa Baris ini tercetak ganjil dan maknanya tidak pasti [demikian adanya];
 
 dan kutampakkan seluruh alam dengan keelokan;
 
@@ -5222,7 +5222,7 @@ dengan kemuliaan siang, melalui sihir, aku membatalkan [daya sihir itu].
 
 ## Halaman PDF 70 (= cetak 69)
 
-### Bagian 1 — Sambungan nazham: penguasaan dan serangan terhadap lawan (larik 430–447)
+### Bagian 1 — Sambungan nazham: penguasaan dan serangan terhadap lawan (Baris 430–447)
 
 <div dir="rtl">
 
@@ -5342,7 +5342,7 @@ dan dengan Nama itu, para musuh kupenggal dengan pedang.
 
 ## Halaman PDF 71 (= cetak 70)
 
-### Bagian 1 — Sambungan nazham: permohonan penundukan dan pengerahan (larik 448–465)
+### Bagian 1 — Sambungan nazham: permohonan penundukan dan pengerahan (Baris 448–465)
 
 <div dir="rtl">
 
@@ -5458,7 +5458,7 @@ dan guncangkanlah mereka dari segala penjuru hingga semuanya bergetar.
 
 ## Halaman PDF 72 (= cetak 71)
 
-### Bagian 1 — Sambungan nazham (dua larik awal; larik 466–467)
+### Bagian 1 — Sambungan nazham (dua Baris awal; Baris 466–467)
 
 <div dir="rtl">
 
@@ -5482,7 +5482,7 @@ dan dengan api serta pembakaran, hingga mereka tercerai-berai ke segala penjuru.
 
 ## Halaman PDF 72 (= cetak 71)
 
-### Bagian 1 — Sambungan nazham: permohonan dan pengerahan kekuatan (larik 468–483)
+### Bagian 1 — Sambungan nazham: permohonan dan pengerahan kekuatan (Baris 468–483)
 
 <div dir="rtl">
 
@@ -5586,7 +5586,7 @@ Dengan menggerakkan ruh-ruh yang berangkat menuju para malaikat.
 
 ## Halaman PDF 73 (= cetak 72)
 
-### Bagian 1 — Sambungan nazham: pasukan dan ketundukan (larik 484–487)
+### Bagian 1 — Sambungan nazham: pasukan dan ketundukan (Baris 484–487)
 
 <div dir="rtl">
 
@@ -5622,7 +5622,7 @@ dan tunduk dengan sukarela kepada Allah tanpa mendurhakai-Nya.
 
 ## Halaman PDF 73 (= cetak 72)
 
-### Bagian 1 — Sambungan nazham: pembakaran, pengerahan, dan penundukan (larik 488–501)
+### Bagian 1 — Sambungan nazham: pembakaran, pengerahan, dan penundukan (Baris 488–501)
 
 <div dir="rtl">
 
@@ -5714,7 +5714,7 @@ dengan hardikan dan pembakaran; telah kuutus mereka kepada golongan jin.
 
 ## Halaman PDF 74 (= cetak 73)
 
-### Bagian 1 — Sambungan nazham: perlindungan dan ketundukan (larik 502–507)
+### Bagian 1 — Sambungan nazham: perlindungan dan ketundukan (Baris 502–507)
 
 <div dir="rtl">
 
@@ -5762,7 +5762,7 @@ agar terlindung dari keburukan dan musuh; aku pun diberi amanah penjagaan.
 
 ## Halaman PDF 74 (= cetak 73)
 
-### Bagian 1 — Sambungan nazham: perlindungan, alam, dan pengerahan (larik 508–518)
+### Bagian 1 — Sambungan nazham: perlindungan, alam, dan pengerahan (Baris 508–518)
 
 <div dir="rtl">
 
@@ -5836,7 +5836,7 @@ Aku memohon kepada-Mu, wahai Yang Maha Perkasa, dengan Nama itu: segerakanlah.
 
 ## Halaman PDF 75 (= cetak 74)
 
-### Bagian 1 — Sambungan nazham: hukuman dan pengadilan (larik 519–527)
+### Bagian 1 — Sambungan nazham: hukuman dan pengadilan (Baris 519–527)
 
 <div dir="rtl">
 
@@ -5902,7 +5902,7 @@ atas siapa pun yang durhaka di antara para penentangku; aku mengadukan perkara i
 
 ## Halaman PDF 75 (= cetak 74)
 
-### Bagian 1 — Sambungan nazham: para penguasa api dan hukuman (larik 528–535)
+### Bagian 1 — Sambungan nazham: para penguasa api dan hukuman (Baris 528–535)
 
 <div dir="rtl">
 
@@ -5958,7 +5958,7 @@ dengan belenggu dari sijil; azab itu pun terus berlanjut. [Lafaz “sijil” dan
 
 ## Halaman PDF 76 (= cetak 75)
 
-### Bagian 1 — Sambungan nazham: rantai dan api Jahanam (larik 536–547)
+### Bagian 1 — Sambungan nazham: rantai dan api Jahanam (Baris 536–547)
 
 <div dir="rtl">
 
@@ -6042,7 +6042,7 @@ Dan para malaikatnya, dengan pembakaran secara bersama—aku bertawakal. [Susuna
 
 ## Halaman PDF 76 (= cetak 75)
 
-### Bagian 1 — Sambungan nazham: pertolongan, janji, dan pembalasan (larik 548–552)
+### Bagian 1 — Sambungan nazham: pertolongan, janji, dan pembalasan (Baris 548–552)
 
 <div dir="rtl">
 
@@ -6080,7 +6080,7 @@ Engkau akan melihat para pendosa yang mengingkari Kitab-Nya.
 
 ## Halaman PDF 77 (= cetak 76)
 
-### Bagian 1 — Sambungan nazham: pakaian api dan guncangan alam (larik 553–567)
+### Bagian 1 — Sambungan nazham: pakaian api dan guncangan alam (Baris 553–567)
 
 <div dir="rtl">
 
@@ -6182,7 +6182,7 @@ Dan gempa-gempa untuk para jin durhaka kuturunkan dengan paksa. [Cetakan «أن�
 
 ## Halaman PDF 77 (= cetak 76)
 
-### Bagian 1 — Sambungan nazham: seruan dan pengerahan (larik 568–569)
+### Bagian 1 — Sambungan nazham: seruan dan pengerahan (Baris 568–569)
 
 <div dir="rtl">
 
@@ -6202,7 +6202,7 @@ Demi para penghalau dan para «saharat», bagi siapa pun yang durhaka. [Bentuk �
 
 ## Halaman PDF 78 (= cetak 77)
 
-### Bagian 1 — Sambungan nazham: seruan, cahaya, dan penundukan (larik 570–586)
+### Bagian 1 — Sambungan nazham: seruan, cahaya, dan penundukan (Baris 570–586)
 
 <div dir="rtl">
 
@@ -6312,7 +6312,7 @@ Dengan nama Liyārūsh, dengan kekuatan penaklukan-Nya. [Nama ini dipertahankan 
 
 ## Halaman PDF 79 (= cetak 78)
 
-### Bagian 1 — Sambungan nazham: nama Liyārūsh dan kekuatan (larik 587)
+### Bagian 1 — Sambungan nazham: nama Liyārūsh dan kekuatan (Baris 587)
 
 <div dir="rtl">
 
@@ -6330,7 +6330,7 @@ Dengan Sūr Liyārūsh, dengan kerasnya daya gempurnya. [Lafaz «سور» dipert
 
 ## Halaman PDF 79 (= cetak 78)
 
-### Bagian 1 — Sambungan nazham: nama dan seruan (larik 588–603)
+### Bagian 1 — Sambungan nazham: nama dan seruan (Baris 588–603)
 
 <div dir="rtl">
 
@@ -6400,7 +6400,7 @@ Dengan Sūr Liyārūsh, dengan kerasnya daya gempurnya. [Lafaz «سور» dipert
 
 *Bi-ismi Jalilin bi-zahwin la qahira [اللفظ المطبوع محفوظ، والإعراب غير مألوف]*
 
-«Liyāshish» (bacaan tidak pasti) disebut bersama Nama dan «sa'di»; akhir larik tampak berbunyi «أقبلت». [Susunan tidak jelas.]
+«Liyāshish» (bacaan tidak pasti) disebut bersama Nama dan «sa'di»; akhir Baris tampak berbunyi «أقبلت». [Susunan tidak jelas.]
 
 Beberapa lafaz pada baris ini tidak cukup jelas untuk diterjemahkan dengan pasti; tampak bagian «بزهره» dan «بسره».
 
@@ -6434,7 +6434,7 @@ Dengan nama Yang Agung, dengan kebesaran; tiada penakluk. [Susunan pada cetakan 
 
 ## Halaman PDF 80 (= cetak 79)
 
-### Bagian 1 — Sambungan nazham: permohonan agar tujuan tercapai (larik 604–607)
+### Bagian 1 — Sambungan nazham: permohonan agar tujuan tercapai (Baris 604–607)
 
 <div dir="rtl">
 
@@ -6470,7 +6470,7 @@ Wahai «قرمز», percepatlah keberhasilan tujuan-tujuanku. [Nama non-Arab; pe
 
 ## Halaman PDF 80 (= cetak 79)
 
-### Bagian 1 — Seruan nama dan permohonan (larik 608–620)
+### Bagian 1 — Seruan nama dan permohonan (Baris 608–620)
 
 <div dir="rtl">
 
@@ -6548,15 +6548,15 @@ Dengan pelayanan para malaikat, mereka bergegas demi urusanku. [Bentuk dan subje
 
 Dengan nama Arasy, [penghubung singkat tidak jelas], maka semua tunduk. [Bentuk verba jamak dipertahankan sebagaimana tercetak.]
 
-Untuk menaati nama-nama agung yang berkuasa. [Ujung larik pudar.]
+Untuk menaati nama-nama agung yang berkuasa. [Ujung Baris pudar.]
 
-Larik ini berisi rangkaian nama/seruan; huruf-hurufnya terlalu bertaut untuk diterjemahkan dengan aman, sehingga dicatat sebagai baris talismanik yang tidak terbaca utuh.
+Baris ini berisi rangkaian nama/seruan; huruf-hurufnya terlalu bertaut untuk diterjemahkan dengan aman, sehingga dicatat sebagai baris talismanik yang tidak terbaca utuh.
 
 Dengan nama [lafaz yang kira-kira terbaca «Shankh/Shunukh»], wahai Yang Mahaagung. [Sisa baris tampak menyerupai «tashakhkhasat», tetapi belum pasti.]
 
 ## Halaman PDF 81 (= cetak 80)
 
-### Bagian 1 — Nama-nama penundukan (larik 621–627)
+### Bagian 1 — Nama-nama penundukan (Baris 621–627)
 
 <div dir="rtl">
 
@@ -6594,7 +6594,7 @@ Dengan «Kafkh» [nama berikutnya tampak seperti «Tantanj»] dan «Sharish» [v
 
 «Bathush, bathush, thuwaysh» [nama-nama yang diulang]; ujungnya tampak berbunyi «tasallatat».
 
-Dengan keagungan [lafaz di tengah kurang pasti], Yang kuat dan Yang menundukkan. [Tepi larik pudar.]
+Dengan keagungan [lafaz di tengah kurang pasti], Yang kuat dan Yang menundukkan. [Tepi Baris pudar.]
 
 Aku telah menundukkan seluruh para pemberontak dan siapa pun yang durhaka.
 
@@ -6602,7 +6602,7 @@ Dengan «Than» [beberapa lafaz pendek setelahnya tidak terbaca jelas sampai uju
 
 Dengan «Shankh» [nama setelahnya samar], melalui penundukan terhadap siapa pun yang durhaka. [Penutup pudar.]
 
-Dengan «Than» [lafaz nama sesudahnya tertutup], wahai Tuhanku. [Sisa larik tidak terbaca.]
+Dengan «Than» [lafaz nama sesudahnya tertutup], wahai Tuhanku. [Sisa Baris tidak terbaca.]
 
 ---
 
@@ -6610,7 +6610,7 @@ Dengan «Than» [lafaz nama sesudahnya tertutup], wahai Tuhanku. [Sisa larik tid
 
 ## Halaman PDF 81 (= cetak 80)
 
-### Bagian 1 — Sambungan seruan dan nama (larik 628–638)
+### Bagian 1 — Sambungan seruan dan nama (Baris 628–638)
 
 <div dir="rtl">
 
@@ -6684,7 +6684,7 @@ Serahkanlah pembakaran para pemberontak dan siapa pun yang durhaka. [«توكل�
 
 ## Halaman PDF 82 (= cetak 81)
 
-### Bagian 1 — Doa dan penyebutan nama-nama (larik 639–647)
+### Bagian 1 — Doa dan penyebutan nama-nama (Baris 639–647)
 
 <div dir="rtl">
 
@@ -6750,7 +6750,7 @@ Demi tiupan Israfil pada hari tiupan.
 
 ## Halaman PDF 82 (= cetak 81)
 
-### Bagian 1 — Sambungan seruan dan nama, kitab, serta doa (larik 648–656)
+### Bagian 1 — Sambungan seruan dan nama, kitab, serta doa (Baris 648–656)
 
 <div dir="rtl">
 
@@ -6812,7 +6812,7 @@ Wahai [lafaz seruan tidak terbaca jelas], mereka saling berhadapan/berpandangan.
 
 ## Halaman PDF 83 (= cetak 82)
 
-### Bagian 1 — Permohonan ilmu, kejernihan, dan kehidupan hati (larik 657–667)
+### Bagian 1 — Permohonan ilmu, kejernihan, dan kehidupan hati (Baris 657–667)
 
 <div dir="rtl">
 
@@ -6890,7 +6890,7 @@ Wahai Tuhanku, anugerahkanlah di dalamnya ilmu dan hikmah.
 
 ## Halaman PDF 83 (= cetak 82)
 
-### Bagian 1 — Sambungan doa: penyucian, keyakinan, dan cahaya (larik 668–673)
+### Bagian 1 — Sambungan doa: penyucian, keyakinan, dan cahaya (Baris 668–673)
 
 <div dir="rtl">
 
@@ -6934,7 +6934,7 @@ Curahkanlah hujan rahmat ke atas hatiku.
 
 ## Halaman PDF 84 (= cetak 83)
 
-### Bagian 1 — Doa atas hikmah, perlindungan, dan pemadaman api (larik 674–687)
+### Bagian 1 — Doa atas hikmah, perlindungan, dan pemadaman api (Baris 674–687)
 
 <div dir="rtl">
 
@@ -7030,7 +7030,7 @@ Dengan «Ḍamām Niẓām», dengan cahaya dan sinar.
 
 ## Halaman PDF 84 (= cetak 83)
 
-### Bagian 1 — Sambungan nama dan penyingkapan (larik 688–690)
+### Bagian 1 — Sambungan nama dan penyingkapan (Baris 688–690)
 
 <div dir="rtl">
 
@@ -7048,15 +7048,15 @@ Dengan «Ḍamām Niẓām», dengan cahaya dan sinar.
 
 *Bi-Quddusin bi-rahubin bihi adh-dhulmatu injalat [آخر قصير مطموس]*
 
-Dengan «Nahrash» [lafaz sesudahnya tidak terbaca], terhadap jin [fragmen pendek tidak jelas] yang belum ditundukkan [ujung larik samar].
+Dengan «Nahrash» [lafaz sesudahnya tidak terbaca], terhadap jin [fragmen pendek tidak jelas] yang belum ditundukkan [ujung Baris samar].
 
-Dengan cahaya keagungan [kata sesudah «jalal» menyerupai «barikh»] dan «Sharnat» [nama khusus, bacaan tentatif]. [Sambungan larik tidak terbaca.]
+Dengan cahaya keagungan [kata sesudah «jalal» menyerupai «barikh»] dan «Sharnat» [nama khusus, bacaan tentatif]. [Sambungan Baris tidak terbaca.]
 
 Dengan Yang Mahakudus, dengan «Rahub», kegelapan tersingkap dengannya. [Ada penutup pendek yang samar.]
 
 ## Halaman PDF 85 (= cetak 84)
 
-### Bagian 1 — Permohonan cahaya, kelapangan, dan perlindungan (larik 691–707)
+### Bagian 1 — Permohonan cahaya, kelapangan, dan perlindungan (Baris 691–707)
 
 <div dir="rtl">
 
@@ -7144,7 +7144,7 @@ Dengan Nama itu, kirimkanlah ia; dengan upaya, segala urusan menjadi mudah. [Kat
 
 Serahkanlah [lafaz sesudah «أسلم» menyerupai «بسحر»] dan berikan kepadaku yang terbaik [kata sesudah «خير» tidak terbaca].
 
-Bentangkanlah atasku perlindungan di balik tabir-tabir. [Penutup larik menyerupai «أسبلت».]
+Bentangkanlah atasku perlindungan di balik tabir-tabir. [Penutup Baris menyerupai «أسبلت».]
 
 Semoga dengannya tercapai tujuanku dan semua keperluanku.
 
@@ -7160,7 +7160,7 @@ Selamatlah [fragmen sesudah verba tidak jelas] demi rahasia perintahku [penutup 
 
 Cukupkanlah aku, wahai Pemilik keagungan, dengan kaf dari «kun».
 
-Dengan nash ketetapan yang tegas [fragmen pendek tak terbaca], rahasia [ujung larik samar].
+Dengan nash ketetapan yang tegas [fragmen pendek tak terbaca], rahasia [ujung Baris samar].
 
 Bebaskanlah aku dari setiap ketakutan dan kesulitan.
 
@@ -7170,7 +7170,7 @@ Bebaskanlah aku dari setiap ketakutan dan kesulitan.
 
 ## Halaman PDF 85 (= cetak 84)
 
-### Bagian 1 — Penutup doa pada halaman (larik 708)
+### Bagian 1 — Penutup doa pada halaman (Baris 708)
 
 <div dir="rtl">
 
@@ -7184,7 +7184,7 @@ Maka Engkaulah harapan seluruh alam, sekalipun [kata setelah «walau» tidak jel
 
 ## Halaman PDF 86 (= cetak 85)
 
-### Bagian 1 — Doa rezeki, perlindungan, dan pembungkaman (larik 709–726)
+### Bagian 1 — Doa rezeki, perlindungan, dan pembungkaman (Baris 709–726)
 
 <div dir="rtl">
 
@@ -7274,7 +7274,7 @@ Jadikanlah [lafaz pendek tidak jelas] tuli dan [lafaz pendek tidak jelas] bisu, 
 
 Buatlah mereka kelu, wahai Pemilik keagungan, [fragmen tidak jelas] dengan hujahku [penutup samar].
 
-[Lenyapkanlah] para lawan [fragmen tidak jelas] dengan «tarasim» [ujung larik tidak terbaca].
+[Lenyapkanlah] para lawan [fragmen tidak jelas] dengan «tarasim» [ujung Baris tidak terbaca].
 
 Aku berlindung dengan Nama Yang Mahaagung dari «al-falat». [Bentuk kata terakhir tidak pasti.]
 
@@ -7292,7 +7292,7 @@ Buatlah seluruhnya tuli dengan Nama; bentuk penutup dibaca tentatif.
 
 Hentikanlah tangan-tangan dengan nama-nama keagungan. [Penutup pendek tidak jelas.]
 
-Tangan-tangan yang menjulur dengan kekuatan keagungan pun berhenti. [Sambungan larik samar.]
+Tangan-tangan yang menjulur dengan kekuatan keagungan pun berhenti. [Sambungan Baris samar.]
 
 Lunakkanlah hati seluruh manusia.
 
@@ -7300,7 +7300,7 @@ Kepadaku, kenakanlah penerimaan [lafaz pendek tidak jelas] secara menyeluruh [pe
 
 ## Halaman PDF 87 (= cetak 86)
 
-### Bagian 1 — Doa atas keberkahan usaha (larik 727)
+### Bagian 1 — Doa atas keberkahan usaha (Baris 727)
 
 <div dir="rtl">
 
@@ -7318,7 +7318,7 @@ Berkahilah bagi kami, ya Allah, himpunan usaha dan penghasilan kami. [Ada fragme
 
 ## Halaman PDF 87 (= cetak 86)
 
-### Bagian 1 — Sambungan doa: pembukaan ikatan dan penolakan musuh (larik 728–743)
+### Bagian 1 — Sambungan doa: pembukaan ikatan dan penolakan musuh (Baris 728–743)
 
 <div dir="rtl">
 
@@ -7414,7 +7414,7 @@ Baris ini berisi nama-nama invokatif; bagian tengahnya tidak dapat dipastikan.
 
 [Nama/fragmen pendek tidak terbaca]; [sambungannya samar].
 
-Pelita [lafaz sesudahnya tidak terbaca]. [Ujung larik samar.]
+Pelita [lafaz sesudahnya tidak terbaca]. [Ujung Baris samar.]
 
 Dengan «Qadad» [nama/fragmen sesudahnya tidak jelas]. [Sisa baris tertutup.]
 
@@ -7422,7 +7422,7 @@ Baris penutup memuat nama-nama talismanik; beberapa huruf menyerupai «al-shadhi
 
 ## Halaman PDF 88 (= cetak 87)
 
-### Bagian 1 — Sambungan nazham: nama dan penutup seruan (larik 744–747)
+### Bagian 1 — Sambungan nazham: nama dan penutup seruan (Baris 744–747)
 
 <div dir="rtl">
 
@@ -7458,7 +7458,7 @@ Dengan «Shankh, Shumukh, Shayikh»—nama-nama invokatif—ia sungguh tampak/me
 
 ## Halaman PDF 88 (= cetak 87)
 
-### Bagian 1 — Rangkaian nama dan permohonan (larik 748–760)
+### Bagian 1 — Rangkaian nama dan permohonan (Baris 748–760)
 
 <div dir="rtl">
 
@@ -7522,7 +7522,7 @@ Dengan «Shankh, Shumukh, Shayikh»—nama-nama invokatif—ia sungguh tampak/me
 
 «Ramūḥ, Anmūḥ»; melaluinya kegelapan tersingkap. [Bagian nama tidak diterjemahkan.]
 
-«Atas apa…» [sesudah «ما» dan sisa larik tidak terbaca dengan aman.]
+«Atas apa…» [sesudah «ما» dan sisa Baris tidak terbaca dengan aman.]
 
 Demi [nama/ungkapan tidak jelas]… [ujungnya menyerupai «زاحمت»; makna keseluruhan tidak pasti.]
 
@@ -7534,7 +7534,7 @@ Dengan «Āl…» [dua nama menyerupai «Ahil» dan «Shal‘»]; sambungannya p
 
 «Taḥṭī, Taḥṭūb, Ṭafaṭūb» [kata terakhir samar].
 
-Huruf-huruf [diikuti fragmen menyerupai «Labahram»]; akhir larik bertaut dan tidak dapat dipastikan.
+Huruf-huruf [diikuti fragmen menyerupai «Labahram»]; akhir Baris bertaut dan tidak dapat dipastikan.
 
 Dengan nama-nama dan tongkat Musa, kegelapan pun tersingkap.
 
@@ -7544,7 +7544,7 @@ Aku memohon kepada Yang Maha Mulia; dengannya manusia mendapat petunjuk.
 
 ## Halaman PDF 89 (= cetak 88)
 
-### Bagian 1 — Cahaya, huruf, dan permohonan kebutuhan (larik 761–767)
+### Bagian 1 — Cahaya, huruf, dan permohonan kebutuhan (Baris 761–767)
 
 <div dir="rtl">
 
@@ -7582,9 +7582,9 @@ Aku memohon kepada Yang Maha Mulia; dengannya manusia mendapat petunjuk.
 
 Gema zaman dan hari-hari, wahai Cahaya… [penutup tampak seperti «جللت».]
 
-Wahai… [seruan/nama-nama tidak terbaca], wahai [nama samar]… engkau… [sisa larik tidak jelas].
+Wahai… [seruan/nama-nama tidak terbaca], wahai [nama samar]… engkau… [sisa Baris tidak jelas].
 
-Wahai [nama invokatif], penolong angin… [lanjutan larik tidak terbaca dengan aman].
+Wahai [nama invokatif], penolong angin… [lanjutan Baris tidak terbaca dengan aman].
 
 «Banā…» [fragmen pendek] «adrinānī ‘aranā»; rangkaian katanya tidak dapat ditetapkan.
 
@@ -7598,7 +7598,7 @@ Wahai Yang Mahahidup, wahai Yang Maha Menegakkan, segerakanlah pemenuhan kebutuh
 
 ## Halaman PDF 89 (= cetak 88)
 
-### Bagian 1 — Huruf pembuka dan permohonan perlindungan (larik 768–777)
+### Bagian 1 — Huruf pembuka dan permohonan perlindungan (Baris 768–777)
 
 <div dir="rtl">
 
@@ -7666,7 +7666,7 @@ Dengan Alif dan Lām, kemudian Mīm dan bagian belakang/kelanjutannya. [Lafaz «
 
 ## Halaman PDF 90 (= cetak 89)
 
-### Bagian 1 — Rahasia nama, ayat, dan huruf-huruf Kitab (larik 778–787)
+### Bagian 1 — Rahasia nama, ayat, dan huruf-huruf Kitab (Baris 778–787)
 
 <div dir="rtl">
 
@@ -7738,7 +7738,7 @@ Aku menyeru-Mu, wahai Tuhanku, dengan sungguh-sungguh… [kata terakhir tampak s
 
 ## Halaman PDF 90 (= cetak 89)
 
-### Bagian 1 — Rajah, huruf, dan permohonan (larik 788–795)
+### Bagian 1 — Rajah, huruf, dan permohonan (Baris 788–795)
 
 <div dir="rtl">
 
@@ -7794,7 +7794,7 @@ Hā’, Shīn, kemudian Wāw yang melengkung. [Nama huruf dan deskripsi bentuk d
 
 ## Halaman PDF 91 (= cetak 90)
 
-### Bagian 1 — Penutup bentuk dan doa dengan nama-nama Allah (larik 796–807)
+### Bagian 1 — Penutup bentuk dan doa dengan nama-nama Allah (Baris 796–807)
 
 <div dir="rtl">
 
@@ -7864,7 +7864,7 @@ Dengan nama-nama-Mu yang indah, apabila semuanya dihimpunkan.
 
 Dengan kemuliaan Rasulullah, aku senantiasa memohon.
 
-Dengan para rasul, falak-falak, dan bintang, [mereka] hadir. [Struktur larik dipertahankan; hubungan subjek tidak dinyatakan jelas.]
+Dengan para rasul, falak-falak, dan bintang, [mereka] hadir. [Struktur Baris dipertahankan; hubungan subjek tidak dinyatakan jelas.]
 
 Terimalah doaku melalui al-‘Ajīb Muḥammad. [Susunan nama dipertahankan sesuai cetakan.]
 
@@ -7878,7 +7878,7 @@ Dan dengan seluruh keluarga yang mulia, wahai Tuhanku.
 
 ## Halaman PDF 91 (= cetak 90)
 
-### Bagian 1 — Penutup doa dan permohonan ampun (larik 808–812)
+### Bagian 1 — Penutup doa dan permohonan ampun (Baris 808–812)
 
 <div dir="rtl">
 
@@ -7916,7 +7916,7 @@ Dan dari setiap dosa dalam catatan [kata terakhir menyerupai «تبت»; makna b
 
 ## Halaman PDF 92 (= cetak 91)
 
-### Bagian 1 — Perlindungan, penundukan, dan doa penutup (larik 813–827)
+### Bagian 1 — Perlindungan, penundukan, dan doa penutup (Baris 813–827)
 
 <div dir="rtl">
 
@@ -7984,7 +7984,7 @@ Dan dari setiap dosa dalam catatan [kata terakhir menyerupai «تبت»; makna b
 
 Dan penghapusan dosa-dosaku serta seluruh kesalahan.
 
-Dan ampunan yang tetap di dalam Kitab telah sempurna. [Susunan larik dipadatkan.]
+Dan ampunan yang tetap di dalam Kitab telah sempurna. [Susunan Baris dipadatkan.]
 
 Aku menitipkan permohonanku kepada Allah Yang Maha Menjaga.
 
@@ -7992,7 +7992,7 @@ Dan penaklukan para raja melalui pembacaan… [penutup hanya tampak menyerupai �
 
 Dan penaklukan para raja jin seluruhnya… [kata sesudahnya samar.]
 
-Dan pembakaran para penolong yang berlaku angkuh terhadapku. [Hubungan sintaksis larik tidak sepenuhnya jelas.]
+Dan pembakaran para penolong yang berlaku angkuh terhadapku. [Hubungan sintaksis Baris tidak sepenuhnya jelas.]
 
 Penghardikan para raja jin seluruhnya agar tunduk pada ketaatanku.
 
@@ -8018,7 +8018,7 @@ Dengan itu terdapat perjanjian, ikrar, janji, dan kesetiaan.
 
 ## Halaman PDF 92 (= cetak 91)
 
-### Bagian 1 — Dua larik penutup rangkaian sebelumnya (larik 828–829)
+### Bagian 1 — Dua Baris penutup rangkaian sebelumnya (Baris 828–829)
 
 <div dir="rtl">
 
@@ -8038,7 +8038,7 @@ Dengan ayat-ayat [lafaz menyerupai «Shamsayn»] dan Sīn, ia memohon syafaat. [
 
 ## Halaman PDF 93 (= cetak 92)
 
-### Bagian 1 — Penutup nazham dan faedah nama yang disebut (larik 830–844)
+### Bagian 1 — Penutup nazham dan faedah nama yang disebut (Baris 830–844)
 
 <div dir="rtl">
 

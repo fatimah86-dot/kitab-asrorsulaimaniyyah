@@ -7,7 +7,7 @@
 
 ## Halaman PDF 61 (= cetak 60)
 
-### Bagian 1 — Sambungan nazham Cara Besar: permohonan wibawa, cahaya, dan kerajaan (larik 268–285)
+### Bagian 1 — Sambungan nazham Cara Besar: permohonan wibawa, cahaya, dan kerajaan (Baris 268–285)
 
 **[Teks Arab Asli]**
 
@@ -131,7 +131,7 @@ ketinggian yang menjulang, kemuliaan yang telah meninggi.
 
 ## Halaman PDF 62 (= cetak 61)
 
-### Bagian 1 — Sambungan nazham (larik 286–303)
+### Bagian 1 — Sambungan nazham (Baris 286–303)
 
 **[Teks Arab Asli]**
 
@@ -255,7 +255,7 @@ pengabulan maksudku, dengan suatu rahasia, telah menjadi mudah [tercetak: nayass
 
 ## Halaman PDF 63 (= cetak 62)
 
-### Bagian 1 — Sambungan nazham: sumpah dengan benda-benda langit (larik 304–321)
+### Bagian 1 — Sambungan nazham: sumpah dengan benda-benda langit (Baris 304–321)
 
 **[Teks Arab Asli]**
 
@@ -379,7 +379,7 @@ dan aku mengalahkan dengan nama-nama itu bala tentara yang bersekutu.
 
 ## Halaman PDF 64 (= cetak 63)
 
-### Bagian 1 — Sambungan nazham (larik 322–338)
+### Bagian 1 — Sambungan nazham (Baris 322–338)
 
 **[Teks Arab Asli]**
 
@@ -497,7 +497,7 @@ pengenalan-pengenalan rahasia, dengan rahasia batinku.
 
 ## Halaman PDF 65 (= cetak 64)
 
-### Bagian 1 — Sambungan nazham (larik 339–356, bersambung)
+### Bagian 1 — Sambungan nazham (Baris 339–356, bersambung)
 
 **[Teks Arab Asli]**
 

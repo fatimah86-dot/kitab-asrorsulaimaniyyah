@@ -1,14 +1,14 @@
-# BATCH 34 — Kajian teks: 17 larik penutup nazham (PDF 92–93)
+# BATCH 34 — Kajian teks: 17 Baris penutup nazham (PDF 92–93)
 
 > **الأسرار السليمانية في العلوم الروحانية** — Dr. Abdullah al-Jundi · al-Mathba'ah ats-Tsaqafiyyah, Bairut<br>
 > Sumber: `hasil/gambar/halaman_092.jpg` dan `hasil/gambar/halaman_093.jpg` (pindaian halaman penuh).<br>
-> Cakupan: PDF 92 larik 16–17 dan PDF 93 larik 1–15; nomor nazham 828–844. Nazham berakhir di PDF 93; karena jumlah larik yang tersisa hanya 17, batch penutup ini tidak ditambah teks rekaan untuk mencapai 20.
+> Cakupan: PDF 92 Baris 16–17 dan PDF 93 Baris 1–15; nomor nazham 828–844. Nazham berakhir di PDF 93; karena jumlah Baris yang tersisa hanya 17, batch penutup ini tidak ditambah teks rekaan untuk mencapai 20.
 
 ---
 
 ## Halaman PDF 92 (= cetak 91)
 
-### Bagian 1 — Dua larik penutup rangkaian sebelumnya (larik 828–829)
+### Bagian 1 — Dua Baris penutup rangkaian sebelumnya (Baris 828–829)
 
 **[Teks Arab Asli]**
 
@@ -42,7 +42,7 @@ Dengan ayat-ayat [lafaz menyerupai «Shamsayn»] dan Sīn, ia memohon syafaat. [
 
 ## Halaman PDF 93 (= cetak 92)
 
-### Bagian 1 — Penutup nazham dan faedah nama yang disebut (larik 830–844)
+### Bagian 1 — Penutup nazham dan faedah nama yang disebut (Baris 830–844)
 
 **[Teks Arab Asli]**
 
@@ -174,7 +174,7 @@ Jika seseorang jatuh tak berdaya karena gangguan jin,
 
 > (843) «وإن كان مصروعا من الجن واقعا» menyebut orang yang jatuh/terserang; kata «مصروع» terbaca sebagai ism maf'ul.
 
-> (844) Larik terakhir memuat fragmen «نصب حميم» dan «جنة العون»; karena bagian-bagiannya tidak membentuk bacaan yang aman, penutup nazham dicatat dengan uraian huruf yang tampak, bukan direka maknanya.
+> (844) Baris terakhir memuat fragmen «نصب حميم» dan «جنة العون»; karena bagian-bagiannya tidak membentuk bacaan yang aman, penutup nazham dicatat dengan uraian huruf yang tampak, bukan direka maknanya.
 
 ---
 

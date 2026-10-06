@@ -7,7 +7,7 @@
 
 ## Halaman PDF 56 (= cetak 55)
 
-### Bagian 1 — Sambungan nazham Cara Besar: pemohon memohon kekuatan dan kebinasaan musuh (larik 91–108)
+### Bagian 1 — Sambungan nazham Cara Besar: pemohon memohon kekuatan dan kebinasaan musuh (Baris 91–108)
 
 **[Teks Arab Asli]**
 
@@ -131,7 +131,7 @@ dan segerakanlah kebinasaan bagi musuh-musuhku, yang kami segerakan [demikian ad
 
 ## Halaman PDF 57 (= cetak 56)
 
-### Bagian 1 — Sambungan nazham (larik 109–125)
+### Bagian 1 — Sambungan nazham (Baris 109–125)
 
 **[Teks Arab Asli]**
 
@@ -249,7 +249,7 @@ maka wahai Tuhanku, Engkaulah Allah, cukuplah Engkau dan perlengkapanku.
 
 ## Halaman PDF 58 (= cetak 57)
 
-### Bagian 1 — Sambungan nazham (larik 126–143)
+### Bagian 1 — Sambungan nazham (Baris 126–143)
 
 **[Teks Arab Asli]**
 
@@ -373,7 +373,7 @@ dengan rahasia huruf-huruf yang diturunkan semuanya [tercetak: al-munazzalat].
 
 ## Halaman PDF 59 (= cetak 58)
 
-### Bagian 1 — Sambungan nazham (larik 144–160)
+### Bagian 1 — Sambungan nazham (Baris 144–160)
 
 **[Teks Arab Asli]**
 
@@ -491,7 +491,7 @@ dengan-Mu penyakit dan penyakit-penyakit itu dariku telah dijauhkan.
 
 ## Halaman PDF 60 (= cetak 59)
 
-### Bagian 1 — Sambungan nazham (larik 161–178, bersambung)
+### Bagian 1 — Sambungan nazham (Baris 161–178, bersambung)
 
 **[Teks Arab Asli]**
 

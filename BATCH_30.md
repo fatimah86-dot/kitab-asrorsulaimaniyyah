@@ -1,14 +1,14 @@
-# BATCH 30 — Kajian teks: 20 larik (PDF 88–89)
+# BATCH 30 — Kajian teks: 20 Baris (PDF 88–89)
 
 > **الأسرار السليمانية في العلوم الروحانية** — Dr. Abdullah al-Jundi · al-Mathba'ah ats-Tsaqafiyyah, Bairut<br>
 > Sumber: `hasil/gambar/halaman_088.jpg` dan `hasil/gambar/halaman_089.jpg` (pindaian halaman penuh, dibaca menurut urutan cetak).<br>
-> Cakupan: PDF 88 larik 5–17 dan PDF 89 larik 1–7; nomor nazham 748–767. Rangkaian nama khusus dipertahankan menurut bentuk yang terlihat; catatan menyatakan bagian yang samar agar tidak dianggap sebagai pembetulan teks.
+> Cakupan: PDF 88 Baris 5–17 dan PDF 89 Baris 1–7; nomor nazham 748–767. Rangkaian nama khusus dipertahankan menurut bentuk yang terlihat; catatan menyatakan bagian yang samar agar tidak dianggap sebagai pembetulan teks.
 
 ---
 
 ## Halaman PDF 88 (= cetak 87)
 
-### Bagian 1 — Rangkaian nama dan permohonan (larik 748–760)
+### Bagian 1 — Rangkaian nama dan permohonan (Baris 748–760)
 
 **[Teks Arab Asli]**
 
@@ -78,7 +78,7 @@
 
 «Ramūḥ, Anmūḥ»; melaluinya kegelapan tersingkap. [Bagian nama tidak diterjemahkan.]
 
-«Atas apa…» [sesudah «ما» dan sisa larik tidak terbaca dengan aman.]
+«Atas apa…» [sesudah «ما» dan sisa Baris tidak terbaca dengan aman.]
 
 Demi [nama/ungkapan tidak jelas]… [ujungnya menyerupai «زاحمت»; makna keseluruhan tidak pasti.]
 
@@ -90,7 +90,7 @@ Dengan «Āl…» [dua nama menyerupai «Ahil» dan «Shal‘»]; sambungannya p
 
 «Taḥṭī, Taḥṭūb, Ṭafaṭūb» [kata terakhir samar].
 
-Huruf-huruf [diikuti fragmen menyerupai «Labahram»]; akhir larik bertaut dan tidak dapat dipastikan.
+Huruf-huruf [diikuti fragmen menyerupai «Labahram»]; akhir Baris bertaut dan tidak dapat dipastikan.
 
 Dengan nama-nama dan tongkat Musa, kegelapan pun tersingkap.
 
@@ -106,7 +106,7 @@ Aku memohon kepada Yang Maha Mulia; dengannya manusia mendapat petunjuk.
 
 > (750) «بها الظلمة انجلت» memberi struktur yang jelas: «بها» jar-majrur dan «انجلت» verba lampau feminin. Nama sebelum frasa itu tetap sebagai nama khusus.
 
-> (751) Hanya «على ما» yang dapat dipastikan; sisa larik samar sehingga tidak dibangun makna atau hubungan nahwu yang spekulatif.
+> (751) Hanya «على ما» yang dapat dipastikan; sisa Baris samar sehingga tidak dibangun makna atau hubungan nahwu yang spekulatif.
 
 > (752) «بحق» terbaca, diikuti nama/ungkapan samar. Penutup menyerupai «زاحمت»; bentuknya dicatat sebagai tentatif.
 
@@ -130,7 +130,7 @@ Aku memohon kepada Yang Maha Mulia; dengannya manusia mendapat petunjuk.
 
 ## Halaman PDF 89 (= cetak 88)
 
-### Bagian 1 — Cahaya, huruf, dan permohonan kebutuhan (larik 761–767)
+### Bagian 1 — Cahaya, huruf, dan permohonan kebutuhan (Baris 761–767)
 
 **[Teks Arab Asli]**
 
@@ -174,9 +174,9 @@ Aku memohon kepada Yang Maha Mulia; dengannya manusia mendapat petunjuk.
 
 Gema zaman dan hari-hari, wahai Cahaya… [penutup tampak seperti «جللت».]
 
-Wahai… [seruan/nama-nama tidak terbaca], wahai [nama samar]… engkau… [sisa larik tidak jelas].
+Wahai… [seruan/nama-nama tidak terbaca], wahai [nama samar]… engkau… [sisa Baris tidak jelas].
 
-Wahai [nama invokatif], penolong angin… [lanjutan larik tidak terbaca dengan aman].
+Wahai [nama invokatif], penolong angin… [lanjutan Baris tidak terbaca dengan aman].
 
 «Banā…» [fragmen pendek] «adrinānī ‘aranā»; rangkaian katanya tidak dapat ditetapkan.
 
@@ -190,7 +190,7 @@ Wahai Yang Mahahidup, wahai Yang Maha Menegakkan, segerakanlah pemenuhan kebutuh
 
 > (762) «صدى الدهر والأيام يا نور» terbaca sebagai seruan kepada “Cahaya”; penutup menyerupai «جللت», sehingga dicatat sebagai bacaan tentatif.
 
-> (763) Larik dimulai dengan «فيا», kemudian nama-nama bertaut. Hanya pola nida yang jelas; isi nama tidak diterjemahkan.
+> (763) Baris dimulai dengan «فيا», kemudian nama-nama bertaut. Hanya pola nida yang jelas; isi nama tidak diterjemahkan.
 
 > (764) «غوث الرياح» tampak setelah seruan «ويا»; gelar itu dapat dipahami sebagai “penolong angin”, sedangkan nama dan penutupnya belum jelas.
 

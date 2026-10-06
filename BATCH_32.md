@@ -1,14 +1,14 @@
-# BATCH 32 — Kajian teks: 20 larik (PDF 90–91)
+# BATCH 32 — Kajian teks: 20 Baris (PDF 90–91)
 
 > **الأسرار السليمانية في العلوم الروحانية** — Dr. Abdullah al-Jundi · al-Mathba'ah ats-Tsaqafiyyah, Bairut<br>
 > Sumber: `hasil/gambar/halaman_090.jpg` dan `hasil/gambar/halaman_091.jpg` (pindaian halaman penuh).<br>
-> Cakupan: PDF 90 larik 11–18 dan PDF 91 larik 1–12; nomor nazham 788–807. Beberapa istilah terkait bentuk talisman/rajah dan nama khusus dibiarkan sesuai cetakan dengan catatan deskriptif.
+> Cakupan: PDF 90 Baris 11–18 dan PDF 91 Baris 1–12; nomor nazham 788–807. Beberapa istilah terkait bentuk talisman/rajah dan nama khusus dibiarkan sesuai cetakan dengan catatan deskriptif.
 
 ---
 
 ## Halaman PDF 90 (= cetak 89)
 
-### Bagian 1 — Rajah, huruf, dan permohonan (larik 788–795)
+### Bagian 1 — Rajah, huruf, dan permohonan (Baris 788–795)
 
 **[Teks Arab Asli]**
 
@@ -82,7 +82,7 @@ Hā’, Shīn, kemudian Wāw yang melengkung. [Nama huruf dan deskripsi bentuk d
 
 > (793) «وأربعة مثل الأنامل صففت» menggambarkan empat unsur yang disusun seperti ruas/jari; «صففت» verba pasif feminin.
 
-> (794) «تشير إلى الخيرات والرزق» menyatakan petunjuk menuju kebaikan dan rezeki; kata «جُمعت» terbaca sebagai verba pasif di ujung larik.
+> (794) «تشير إلى الخيرات والرزق» menyatakan petunjuk menuju kebaikan dan rezeki; kata «جُمعت» terbaca sebagai verba pasif di ujung Baris.
 
 > (795) «هاء، شين، واو» adalah nama huruf; «مقوس» menjadi sifat bagi Wāw atau bentuknya. Tanda vokal akhir tidak ditambahkan melebihi yang ditopang cetakan.
 
@@ -90,7 +90,7 @@ Hā’, Shīn, kemudian Wāw yang melengkung. [Nama huruf dan deskripsi bentuk d
 
 ## Halaman PDF 91 (= cetak 90)
 
-### Bagian 1 — Penutup bentuk dan doa dengan nama-nama Allah (larik 796–807)
+### Bagian 1 — Penutup bentuk dan doa dengan nama-nama Allah (Baris 796–807)
 
 **[Teks Arab Asli]**
 
@@ -166,7 +166,7 @@ Dengan nama-nama-Mu yang indah, apabila semuanya dihimpunkan.
 
 Dengan kemuliaan Rasulullah, aku senantiasa memohon.
 
-Dengan para rasul, falak-falak, dan bintang, [mereka] hadir. [Struktur larik dipertahankan; hubungan subjek tidak dinyatakan jelas.]
+Dengan para rasul, falak-falak, dan bintang, [mereka] hadir. [Struktur Baris dipertahankan; hubungan subjek tidak dinyatakan jelas.]
 
 Terimalah doaku melalui al-‘Ajīb Muḥammad. [Susunan nama dipertahankan sesuai cetakan.]
 
@@ -194,7 +194,7 @@ Dan dengan seluruh keluarga yang mulia, wahai Tuhanku.
 
 > (804) «بالرسل والأفلاك والنجم حضرت» mengikuti bentuk cetak; verba feminin tunggal dapat mencocokkan subjek jamak tak berakal/kelompok yang disebut.
 
-> (805) «تقبل دعائي» adalah permohonan amr. «بالعجيب محمد» dicatat apa adanya karena apakah «العجيب» gelar atau sifat tidak dapat dipastikan dari larik ini saja.
+> (805) «تقبل دعائي» adalah permohonan amr. «بالعجيب محمد» dicatat apa adanya karena apakah «العجيب» gelar atau sifat tidak dapat dipastikan dari Baris ini saja.
 
 > (806) «وبالحسن الأعظمين ومن حوت» memuat bentuk ganda/jamak yang tidak sepenuhnya jelas. Bacaan cetak dipertahankan tanpa menormalkan «الأعظمين».
 
